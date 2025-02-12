@@ -1,0 +1,1752 @@
+osram gri g4 report 2015
+
+
+
+
+osram gri g4 report 2015
+as an international company osram is responsible for its activities throughout the world and not simply its
+portfolio this includes our business operations our dealings with customers and suppliers but also our own
+production activities in relation to the environment and resources as well as occupational health and safety in
+all of these areas we help to reduce negative impacts and strengthen positive effects using appropriate
+management systems and organizational measures
+
+economy environment and society
+as a solution provider for products and systems we base our strategic decisions on a holistic and integrated
+concept considering all three pillars of sustainability  economy environment society  which is setting the
+framework for all our thoughts and actions
+
+sustainability at osram  excerpt of facts  figures
+un global compact                           member since 2005
+
+dow jones sustainability index world        member since 2014
+ftse4good index                             constituent since 2013
+stoxx global esg leaders index              constituent since 2015
+oekom corporate rating                      prime status since 2013
+robecosam bronze class award                received in 2015 and 2016
+robecosam sustainability yearbook           included in 2015 and 2016
+
+economic aspects
+as of september 30 2015
+sales                                       56 billion
+compliance                                  64 reports of potential compliance violations
+                                            11 investigations concluded
+                                            19 disciplinary action against employees
+                                            60 existing matters were closed following detailed assessment
+                                            5558 classroom trainings
+research and development patents           25 thousand employees in rd
+                                             3449 million rd expenses
+                                            75 share of rd expenses for led technologies
+                                            about 17500 patents and patent applications
+                                            about 6300 patent families
+procurement                                 about 29 billion purchasing volume goods and services acquired from
+                                            third parties
+                                            about 2900 signed code of conducts which covered 90 of our
+                                            purchasing volume
+customer relationships and marketing        42 thousand sales fte
+                                            44 share of revenue of single biggest customer
+                                            45 share of revenue of top 50 customers
+certification                               iso 9001 matrix certificate for all production and development locations
+                                            iso ts 16949 for locations which supply automotive customers
+
+
+
+
+                                                          1
+
+osram gri g4 report 2015
+
+
+
+ecological aspects
+as of september 30 2015
+energy balance                              primary energy consumption 3649000 gj scope 1
+                                            electricity use 2588867 gj scope 2
+co2emissions                               primary energy 203559 t scope 1
+                                            electricity 369019 t scope 2
+water usage                                 3288299 m³
+waste balance                               waste for recycling 30665 t
+                                            waste for disposal 11396 t
+certification                               iso 14001 matrix certificate for all production locations
+                                            iso 50001 for all production sites in germany and for molsheim in france
+
+social aspects
+as of september 30 2015
+total employees                             331
+in thousand fulltime equivalents  fte
+
+employees by region                         apac 132
+in thousand fte                           europemea 138
+                                            americas 60
+employees by segment                        specialty lighting 61
+in thousand fte                           opto semiconductor 92
+                                            lighting solutions  systems 48
+                                            lamps 101
+                                            corporate 29 group management employees and employees of other global corporate
+                                            functions
+
+certification                               for details regarding our sa8000 certificate please see our website
+                                            wwwosramcomataglance
+
+
+
+
+                                                          2
+
+osram gri g4 report 2015
+
+
+
+table of contents
+our gri content index is based on version g4 core of the international guidelines published by the global
+reporting initiative and can be found at the end of this document it shall enable to get a quick overview of the
+report and ensure easy navigation
+the table of contents below provides an overview of the reported categories
+unless stated otherwise the information and numbers in this document refer to fiscal 2015 the
+osram licht groups fiscal year began on october 1 2014 and ended on september 30 2015
+
+
+i general standard disclosure                                                                                      04
+strategy and analysis                                                                                               04
+organizational profile                                                                                              04
+identified material aspects and boundaries                                                                          10
+stakeholder engagement                                                                                              13
+report profile                                                                                                      14
+governance                                                                                                          15
+ethics and integrity                                                                                                15
+
+
+ii specific standard disclosure                                                                                    16
+category economic                                                                                                  16
+category environment                                                                                               17
+category social                                                                                                    23
+   subcategory labor practices and decent work                                                                    23
+   subcategory human rights                                                                                       27
+   subcategory society                                                                                            27
+   subcategory product responsibility                                                                             29
+
+
+iii gri content index 2015                                                                                         30
+
+
+
+
+                                                         3
+
+osram gri g4 report 2015
+
+
+
+i general standard disclosure
+strategy and analysis
+g41
+provide a statement from the most senior decisionmaker of the organization such as ceo chair or equivalent
+senior position about the relevance of sustainability to the organization and the organizations strategy for
+addressing sustainability
+for a senior management statement please see our  communication on progress cop 2015
+
+
+organizational profile
+g43
+report the name of the organization
+osram licht ag
+
+g44
+report the primary brands products and services
+osram is a globally leading lighting manufacturer our portfolio ranges from hightech applications based on
+semiconductor technology such as infrared or laser lighting to smart and connected lighting solutions in buildings
+and cities
+in fiscal 2015 our main osram brand and the osram logo were registered as trademarks in every country
+where trademarks can be protected our products were primarily marketed under this brand products are also
+sold under the sylvania brand in north america we sell opto semiconductors under the special osram opto
+semiconductors brand traxon and siteco are special brands in the markets for professional luminaires and light
+management systems we market these as part of the osram brand portfolio with the addition an osram
+business
+see our  annual report 2015 section customer relationship and marketing p 7374
+
+g45
+report the location of the organizations headquarters
+osram licht ag
+represented by dr olaf berlien ceo and dr klaus patzak cfo
+
+marcelbreuerstraße 6
+80807 munich
+germany
+
+phone 49 89 62130
+fax   49 89 62132020
+
+ osram company profile
+
+
+
+
+                                                          4
+
+osram gri g4 report 2015
+
+
+
+g46
+report the number of countries where the organization operates and names of countries where either the
+organization has significant operations or that are specifically relevant to the sustainability topics covered in the
+report
+our business is structured by region osrams global activities in over 120 countries and with 35 production
+sites are divided into three reporting regions emea europe russia the middle east and africa apac asia
+australia and the pacific region and the americas the usa canada mexico and south america the
+breakdown of the key sites is listed below
+
+
+
+
+see our  annual report 2015 p 41
+
+g47
+report the nature of ownership and legal form
+the osram licht group comprises the parent company osram licht ag an aktiengesellschaft stock
+corporation in accordance with german law and over 90 subsidiaries and investees including minority interests
+see our  annual report 2015 organization and reporting structure p 40 et seq
+
+
+
+
+                                                         5
+
+osram gri g4 report 2015
+
+
+
+g48
+report the markets served including geographic breakdown sectors served and types of customers and
+beneficiaries
+as a globally active company we serve markets worldwide
+
+
+
+
+see details in our  annual report 2015 p 55 and section expertise along the entire value chain p 95
+
+g49
+report the scale of the organization including
+ total number of employees
+ total number of operations
+ net sales for private sector organizations or net revenues for public sector organizations
+ total capitalization broken down in terms of debt and equity for private sector organizations
+ quantity of products or services provided
+
+   total number of employees            331 in thousand fulltime equivalents
+                                           annual report 2015 p 76 and p 168
+
+   total number of operations           global activities in over 120 countries and 35 production sites
+                                           annual report 2015 p 41
+
+   net sales and total capitalization   revenues  55742 million
+                                           annual report 2015 p 4
+
+   total capitalization broken down
+    in terms of debt and equity          see our  annual report 2015 consolidated statement of financial
+                                          position p 113 et seq
+
+   quantity of products or services
+    provided                             see our  annual report 2015 results of operations p 53 et seq
+
+g410
+a report the total number of employees by employment contract and gender
+b report the total number of permanent employees by employment type and gender
+c report the total workforce by employees and supervised workers and by gender
+d report the total workforce by region and gender
+e report whether a substantial portion of the organizations work is performed by workers who are legally
+   recognized as selfemployed or by individuals other than employees or supervised workers including
+   employees and supervised employees of contractors
+f report any significant variations in employment numbers such as seasonal variations in employment in the
+   tourism or agricultural industries
+
+
+
+                                                         6
+
+osram gri g4 report 2015
+
+
+
+for g410 we can provide the share of employees by segments region and function significant variations in
+employment numbers such as seasonal variations do not exist for fiscal year 2015
+
+
+
+
+ annual report 2015 table employees by segments and employees by regions p 76
+
+
+
+
+ annual report 2015 table employees by function fte average p 168
+
+g411
+report the percentage of total employees covered by collective bargaining agreements
+the framework of our sustainability actions consists  beside the osram identity  of our osram business
+conduct guidelines  bcgs this corporate code of conduct defines group wide rules covering the areas of
+human rights labour environment and anticorruption it combines important international standards eg
+universal declaration of human rights ilo declaration on fundamental principles and rights at work agenda
+21 on sustainable development un convention against corruption and clearly summarizes our basic values
+percentage of employees covered by collective bargaining agreements varies widely between regions
+in germany all of our employees are covered by either works agreements with works council bodies with local
+and countrywide responsibility or agreements with speakers committee for executive management
+osram has a group works council for osram licht ag for osram gmbh is a general works council in
+place in other countries own employee representatives are established
+
+
+
+                                                      7
+
+osram gri g4 report 2015
+
+
+
+g412
+describe the organizations supply chain
+osram purchases a broad range of products from partners worldwide in general our suppliers are separated
+into direct material suppliers for raw semifinished and packaging material finished product suppliers and
+indirect material and service suppliers our procurement function is organized regionally according to raw
+materials groups and managed globally it is responsible for the complete purchasing volume
+around twothirds of our purchasing volume is attributable to direct materials and finished products sourcing is to
+a large extent directly impacted by market conditions for commodities such as nickel copper tin or derivatives
+eg plastic resins or paper products in glass and lamp production energy is also an important part of sourcing
+the main finished products manufactured by third parties include certain compact fluorescent lamps led lamps
+luminaires and conventional as well as electronic control gears which are acquired as part of different business
+models such as contract manufacturing or as merchandise depending on the strategy for the product in question
+we also source services such as transportation of all kinds via suppliers with their own operating networks
+in fiscal 2015 the purchasing volume ie the goods and services acquired from third parties amounted to around
+29 billion the most significant countries in terms of purchasing volumes in fiscal year 2015 were germany
+china malaysia and the united states of america approximately one third of the total purchasing volume is
+sourced in emerging markets
+additionally our own manufacturing activities are a mainstay of our business activity our production expertise is
+based on longstanding experience and consistent development of our footprint important locations and additional
+procurement information can be found in our  annual report 2015 p 41 and section procurement p 7273
+as well as wwwosramcomsupplier
+
+g413
+report any significant changes during the reporting period regarding the organizations size structure ownership
+or its supply chain including
+ changes in the location of or changes in operations including facility openings closings and expansions
+ changes in the share capital structure and other capital formation maintenance and alteration operations for
+    private sector organizations
+ changes in the location of suppliers the structure of the supply chain or in relationships with suppliers
+    including selection and termination
+the shift towards semiconductor technology continued to radically alter our business environment and we
+continued to counter this in fiscal 2015 primarily using the measures forming part of our osram push
+improvement program beyond the technologyrelated shifts changes are increasingly becoming apparent in the
+business models pursued by companies active in the lighting market the past fiscal year saw osram react to
+the transformation of the lighting market which is proceeding at different speeds and posing a variety of
+challenges by departing from its previous strategy in which it positioned itself as a provider of diversified product
+portfolios along the entire value chain
+osrams basic shareholder structure changed only slightly compared with the previous year as of september
+30 2015 around 68 of the shares were held by institutional investors an increase of around five percentage
+points compared with the 2014 closing rate retail investors held around 14 of the companys shares and
+siemens continued to hold around 17
+for information regarding the size structure and ownership please see our  annual report 2015
+   chapter business activities and structure of osram licht group p 38 et seq
+   section osram push program p 52 et seq
+   section shareholder structure p 16
+
+
+
+
+                                                          8
+
+osram gri g4 report 2015
+
+
+
+g414
+report whether and how the precautionary approach or principle is addressed by the organization
+osram uses systematic risk and opportunity management hereinafter risk management to identify assess
+and manage risks and opportunities we use a coordinated set of risk management and control systems which
+support us in the early recognition of risks jeopardizing the continuity of osrams business or the achievement
+of our strategic operating financial and compliance goals and targets and in implementing the necessary
+measures this also applies conversely to opportunities
+
+the supervisory boards audit committee is responsible for monitoring the effectiveness of this system group
+internal audit also reviews compliance with the corporate policies regarding risk management in its regular audits
+of selected entities the findings of these audits are taken into account in the continuous improvement process
+for our risk management system this ensures that we have an appropriate and effective risk management system
+that keeps the managing board and supervisory board fully and promptly informed of material risks and
+opportunities
+
+our risk and opportunity management system is based on a comprehensive interactive and management
+oriented enterprise risk management erm approach and builds on the worldwide accepted enterprise risk
+management  integrated framework developed by the committee of sponsoring organizations of the treadway
+commission coso
+
+for details please see our  annual report 2015 report on risks and opportunities p 87 et seq
+general information regarding our risk management can be found on our group website httpwwwosram
+groupdeenourmanagementcorporategovernance
+
+our corporate responsibility for sustainable development is an integral part of our strategy organizationally the
+interdisciplinary topic of sustainability is directly anchored with managing board via the chief sustainability officer
+the tasks to be performed and the focus issues are developed and prepared by the relevant department  the
+sustainability office  together with the responsible specialists and presented and discussed on the sustainability
+council the latter approves the proposed resolutions on sustainability to be submitted to the managing board
+details can be found within wwwosramcomsustainabilitymanagement
+g415
+list externally developed economic environmental and social charters principles or other initiatives to which the
+organization subscribes or which it endorses
+   osram joined the  un global compact in 2005
+   as described in our  business conduct guidelines we support the requirements of and therefore expect our
+    employees suppliers and business partners around the globe to recognize and apply particularly the
+    standards of the
+       universal declaration of human rights 1948 and european convention for the protection of human
+        rights and fundamental freedoms 1950
+       ilo international labor organization tripartite declaration of principles concerning multinational
+        enterprises and social policy 1977 and ilo declaration on fundamental principles and rights at work
+        1998 specially with following issues elimination of child labor abolition of forced labor prohibition of
+        discrimination freedom of association and right to collective bargaining
+       oecd guidelines for multinational enterprises 2000
+       agenda 21 on sustainable development final document of the basic un conference on environment
+        and development rio de janeiro 1992
+       un convention against corruption 2005
+   we work with uneps publicprivate partnership initiative  enlighten to promote more efficient lighting
+   osram joined 2012 the  global lighting and energy access partnership global leap sharing knowledge
+    and best practices under principles that encourage selfsustaining commercial markets for energy access
+    solutions with focus on energyefficient offgrid lighting
+
+
+                                                           9
+
+osram gri g4 report 2015
+
+
+
+   osram is member of the european school of management and technology esmt and participates in its
+    sustainable business roundtable sbrt
+   osram is signatory of the  charta der vielfalt diversity charter
+
+g416
+list memberships of associations such as industry associations and national or international advocacy
+organizations in which the organization
+holds a position on the governance body
+participates in projects or committees
+provides substantive funding beyond routine membership dues
+views membership as strategic
+this refers primarily to memberships maintained at the organizational level
+at the organizational level osram participates in the below listed initiatives on regional level there are additional
+initiatives
+ zentralverband elektrotechnik und elektronikindustrie ev zvei germany
+ middle east lighting association mela dubai
+ national electrical manufacturers association nema arlington virginia usa
+ lightingeurope brussels europe
+ china association of lighting industry cali china
+ electric lamp and component manufacturers association of india elcoma
+nema mela cali and elcoma are also members of the global lighting association gla and osram
+supports the establishment of new associations such as for the asean region
+additionally osram is applying its expertise in the offgrid sector to help expand the  global offgrid lighting
+association gogla
+
+
+
+identified material aspects and boundaries
+g417
+a list all entities included in the organizations consolidated financial statements or equivalent documents
+b report whether any entity included in the organizations consolidated financial statements or equivalent
+   documents is not covered by the report
+a osrams consolidated financial statements include osram licht ag and its direct and indirect subsidiaries
+subsidiaries are entities which osram controls control is assumed when osram has exposure or rights to
+variable returns from its involvement with the investee and the ability to use its power over the investee to affect
+the amount of those returns power exists when osram has existing rights that enable it to direct the relevant
+activities these are activities that significantly affect the investees returns control is generally conveyed by
+ownership of the majority of voting rights if osram holds less than the majority of the voting rights other facts
+and circumstances including contractual arrangements that give osram power over the investee may mean
+that osram controls the investee
+associates are included using the equity method of accounting companies in which osram has joint control are
+also included using the equity method
+see our  annual report 2015 section basis of consolidation p 119 et seq
+
+b all entities included in the organizations consolidated financial statements are also covered by this report if
+data are only available for certain entities this will be stated
+g418
+explain the process for defining the report content and the aspect boundaries
+explain how the organization has implemented the reporting principles for defining report content
+this osram gri g4 report 2015 shows the conclusion we have reached as a result of our deliberations and
+gives an overview of our activities and successes in 2015 reporting basis for this years report are the
+sustainability related material aspects as provided in our annual report 2015
+
+                                                          10
+
+osram gri g4 report 2015
+
+
+
+organizationally the interdisciplinary and companywide topic of sustainability is directly anchored at senior
+management level via the chief sustainability officer the tasks to be performed and focus issues are developed
+and prepared by the corporate sustainability office together with the content owners concerned they are then
+presented and discussed at the sustainability council which is made up of representatives of the regions and
+business units as well as the heads of the corporate functions relevant to sustainability the council approves
+the proposed resolutions on sustainability to be submitted to the managing board the corporate sustainability
+office is responsible for preparing sustainability council meetings and manages the process of implementing
+decisions the sustainability council meets twice per fiscal year the focus in the last fiscal year was on the
+materiality analysis and the resulting consequences for the corresponding business areas
+the corporate sustainability office used stakeholder engagement to expand the materiality analysis identification
+and assessment of key sustainability topics during fiscal 2015 after the council had taken osrams and
+stakeholders viewpoints into account and assessed sustainability topics from both an internal and external
+perspective we incorporated external stakeholders in the materiality analysis for the first time particularly in
+relation to the perspective from outside the company representative members of each stakeholder group
+assessed preselected sustainability topics and the results were discussed and confirmed by the sustainability
+council in the economic dimension the key topics are operational  brand excellence innovation management
+corporate governance and in the environmental dimension the key topics are product responsibility operational
+ecoefficiency and climate strategy from the social perspective they are labor practices occupational health
+and safety and human capital management
+information can be found within our  annual report 2015 p 70 and on our website wwwosramcommateriality
+
+g419 g420 g421
+list all the material aspects identified in the process for defining report content
+for each material aspect report the aspect boundary within the organization as follows
+ report whether the aspect is material within the organization
+ if the aspect is not material for all entities within the organization as described in g417 select one of the
+    following two approaches and report either
+     the list of entities or groups of entities included in g417 for which the aspect is not material or
+     the list of entities or groups of entities included in g417 for which the aspects is material
+report any specific limitation regarding the aspect boundary within the organization
+for each material aspect report the aspect boundary outside the organization as follows
+ report whether the aspect is material outside of the organization
+ if the aspect is material outside of the organization identify the entities groups of entities or elements for
+     which the aspect is material in addition describe the geographical location where the aspect is material for
+     the entities identified
+ report any specific limitation regarding the aspect boundary outside the organization
+
+the following table shows which material aspects and indicators are covered in this report
+
+
+material aspects and indicators
+category economic
+economic                  g4ec1 direct economic value generated and distributed
+performance
+                          g4ec2 financial implications and other risks and opportunities for the
+                          organizations activities due to climate change
+
+category environmental
+materials             g4en2 percentage of materials used that are recycled input materials
+
+energy                    g4en3 energy consumption within the organization
+                          g4en6 reduction of energy consumption
+water                     g4en10 percentage and total volume of water recycled and reused
+
+
+
+
+                                                        11
+
+osram gri g4 report 2015
+
+
+
+emissions                g4en15 direct greenhouse gas ghg emissions scope 1
+                         g4en16 energy indirect greenhouse gas ghg emissions scope 2
+                         g4en19 reduction of greenhouse gas ghg emissions
+effluents and waste      g4en23 total weight of waste by type and disposal method
+products and             g4en27 extent of impact mitigation of environmental impacts of products and
+services                 services
+                         g4en28 percentage of products sold and their packaging materials that are
+                         reclaimed by category
+supplier environmental   g4en32 percentage of new suppliers that were screened using environmental
+assessment               criteria
+
+
+category social
+subcategory labor practices and decent work
+
+employment               g4la1 total number and rates of new employee hires and employee turnover by
+                         age group gender and region
+
+occupational health      g4la6 type of injury and rates of injury occupational diseases lost days and
+and safety               absenteeism and total number of workrelated fatalities by region and by gender
+
+trainings and education g4la10 programs for skills management and lifelong learning that support the
+                        continued employability of employees and assist them in managing career endings
+
+supplier assessment      g4la14 percentage of new suppliers that were screened using labor practices
+for labor practices      criteria
+
+subcategory human rights
+supplier human       g4hr10 percentage of new suppliers that were screened using human rights
+rights assessment    criteria
+
+                         g4hr11 significant actual and potential negative human rights impacts in the
+                         supply chain and actions taken
+subcategory society
+anticorruption       g4so3 total number and percentage of operations assessed for risks related to
+                      corruption and the significant risks identified
+
+                         g4so4 communication and training on anticorruption policies and procedures
+
+compliance               g4so5 confirmed incidents of corruption and actions taken
+
+subcategory product responsibility
+customer health          g4pr1 percentage of significant product and service categories for which health
+and safety               and safety impacts are assessed for improvement
+
+product and              g4pr5 results of surveys measuring customer satisfaction
+service labeling
+
+additional material aspects which are crucial for osram are innovation management and quality they are
+key driver in safeguarding osrams medium and longterm economic environmental and social sustainability
+
+
+
+
+                                                      12
+
+osram gri g4 report 2015
+
+
+
+g422
+report the effect of any restatements of information provided in previous reports and the reasons for such
+restatements
+there are no restatements of information provided in the previous report
+
+g423
+report significant changes from previous reporting periods in the scope and aspect boundaries
+no significant changes from previous reporting periods in the scope and aspect boundaries
+
+
+stakeholder engagement
+g424
+provide a list of stakeholder groups engaged by the organization
+our most important stakeholder groups are
+ employees
+ customers and consumers
+ shareholders and capital market
+ suppliers
+ politics and society
+
+please see additional information           regarding    stakeholder    dialogue    on    our   company     website
+wwwosramcomstakeholder
+
+g425
+report the basis for identification and selection of stakeholders with whom to engage
+acting sustainably as an international company requires the constant engagement with all different internal and
+external stakeholders such behavior is essential to establish mutual trust contribute to spreading sustainable
+concepts and receive feedback about our own actions
+
+g426
+report the organizations approach to stakeholder engagement including frequency of engagement by type and
+by stakeholder group and an indication of whether any of the engagement was undertaken specifically as part of
+the report preparation process
+our stakeholders have diverse interests in and concerns with regard to us topics such as employee satisfaction
+environmental protection social aspects also in our supply chain and economic performance are only some
+examples we want to understand and respond to our stakeholders interests by engaging in issuespecific
+dialogues and activities
+
+employees           we conduct eg global employee surveys 360degree feedback sessions townhall meetings
+customers           beside direct contact via different channels we carry out annual surveys of a representative
+                     group of customers for calculating eg the net promoter score nps
+shareholders        our investor relations team and the executive board eg conduct onetoone meetings
+                     investor road shows quarterly earnings calls and our annual general meeting the investor
+                     relations team also engages in collaboration with the corporate sustainability office with the
+                     sustainable investment community
+suppliers           we have eg supplier days to create and ensure a common understanding
+politics society   we are in dialogue with politics and society eg by individual meetings or participation in
+                     conferences one concrete example is our membership of the united nations environment
+                     programmes enlighten initiative a publicprivate partnership to promote more efficient
+                     lighting
+
+we also applied stakeholder feedback to expand the materiality analysis during fiscal 2015 after the council had
+taken osrams and stakeholders viewpoints into account and assessed sustainability topics from both an internal
+and external perspective we incorporated external stakeholders in the materiality analysis particularly in relation
+
+                                                         13
+
+osram gri g4 report 2015
+
+
+
+to the perspective from outside the company representative members of each stakeholder group assessed
+preselected sustainability topics and the results were discussed and confirmed by the sustainability council
+
+g427
+report key topics and concerns that have been raised through stakeholder engagement and how the organization
+has responded to those key topics and concerns including through its reporting report the stakeholder groups
+that raised each of the key topics and concerns
+there are various topics that we discuss with stakeholders in different ways so as to respond to their concerns
+examples are the risks and opportunities of the transformation of the lighting market towards semiconductor
+based lighting technology we are systematically addressing this eg through osram push our companywide
+comprehensive continuous improvement program to adapt business processes see also our  annual report
+2015 osram push program p 52 et seq
+
+report profile
+g428
+reporting period such as fiscal or calendar year for information provided
+unless stated otherwise the information and numbers in this document refer to fiscal 2015 the osram licht
+groups fiscal year began on october 1 2014 and ended on september 30 2015
+
+g429
+date of most recent previous report if any
+our last gri g4 report was published in 2015
+osrams annual report 2015 including sustainability information and financial statements was published in
+december 2015 our most recent ungc communication on progress 2015 in january 2016
+
+g430
+reporting cycle such as annual biennial
+osram has an annual reporting cycle
+
+g431
+provide the contact point for questions regarding the report or its contents
+sustainabilityosramcom
+
+g432
+a report the in accordance option the organization has chosen
+b report the gri content index for the chosen option
+c report the reference to the external assurance report if the report has been externally assured gri
+   recommends the use of external assurance but it is not a requirement to be in accordance with the guidelines
+a we have chosen the g4 core option
+b the gri content index can be found at the end of this document
+c our annual report is externally assured partially data and information of our annual report are used in this
+   report the osram gri g4 report 2015 is not externally assured
+
+g433
+a report the organizations policy and current practice with regard to seeking external assurance for the report
+b if not included in the assurance report accompanying the sustainability report report the scope and basis of
+   any external assurance provided
+c report the relationship between the organization and the assurance providers
+d report whether the highest governance body or senior executives are involved in seeking assurance for the
+   organizations sustainability report
+
+a  d external assurance of our gri g4 report is currently not in scope
+
+                                                         14
+
+osram gri g4 report 2015
+
+
+
+governance
+g434
+report the governance structure of the organization including committees of the highest governance body
+identify any committees responsible for decisionmaking on economic environmental and social impacts
+osram licht ag is governed by the aktiengesetz aktg  german stock corporation act and thus has a dual
+board system comprising a managing board and a supervisory board the supervisory board has formed the
+executive committee nomination committee strategy and technology committee mediation committee audit
+committee the audit committee reviews issues relating to sustainability for details please see our  annual
+report 2015 corporate governance report p 20 and the section corporate governance on our investors
+relation website wwwosramlichtcom
+
+organizationally the interdisciplinary topic of sustainability is directly anchored with managing board via the chief
+sustainability officer details can be found here wwwosramcomsustainabilitymanagement
+
+ethics and integrity
+g456
+describe the organizations values principles standards and norms of behavior such as codes of conduct and
+codes of ethics
+along with our brand and strategy corporate culture is an integral part of the osram identity the innovative 
+respectful  entrepreneurial corporate values define our understanding of how we should interact with each
+other and with others they are reflected in our daily behavior and in facts and figures that define osram as a
+business for us being innovative means to contribute to social responsibility by making our products more
+energyefficient our value respectful stands inter aliafor our careful use of resources and which governs our
+dealings with colleagues customers suppliers investors and the public we promote the ability to think as
+entrepreneurs among all our employees and managers which motivates us to always give our best to create
+added value for all stakeholders
+
+the framework of our sustainability actions consists  beside the osram identity  of our osram business
+conduct guidelines  bcgs this corporate code of conduct defines group wide rules covering the areas of
+human rights labour environment and anticorruption it combines important international standards eg
+universal declaration of human rights ilo declaration on fundamental principles and rights at work agenda
+21 on sustainable development un convention against corruption and clearly summarizes our basic values
+our concise  code of conduct for suppliers forms the foundation along with our own business conduct
+guidelines it combines the most important international standards and conditions and clearly summarizes our
+basic values
+
+
+
+
+                                                         15
+
+osram gri g4 report 2015
+
+
+
+ii specific standard disclosure
+category economic ec
+g4dma ec
+disclosures on management approach dma for economic
+the economic component of osrams sustainability approach comprises aspects such as responsible and legally
+compliant management risk innovation customer relationship and supplier management as osram is
+synonymous with innovative tailormade products and solutions that are extremely high quality and reliable
+quality management is also crucial for osrams sustainable economic performance we aim to consistently make
+the most of the business opportunities that arise while managing risks our strong position in the lighting market
+and our profound knowledge of and many years experience in electrical lighting are the strengths on which we
+want to build our longterm success in the lighting business details regarding the economic aspect of sustainability
+at osram can be found on our corporate website wwwosramcomeconomic
+osram addressed the technology shift toward semiconductor technology which is radically altering our business
+environment with its enterprisewide comprehensive endtoend continuous improvement program osram
+push it is driving forward the culture change enabling the necessary cost improvements and restructuring
+measures and paving the way for new business growth overall it aims to make osrams offerings more
+sustainable the programs focus areas are corporate culture optimization of the operational business structural
+adjustments process improvements and profitable growth osram push is a continuing improvement program
+that in light of recent market developments and the accelerating pace of transition will enter a second phase
+2015  2017 see also our  annual report 2014 osram push p 48 et seq 111 et seq in whole pdf and
+our  annual report 2015 p 47 et seq
+
+for osram licht ag the fiscal year 2015 was a very successful year  in terms of both our business performance
+and our realignment this is a remarkable result given that we are in the midst of the transformation of the lighting
+market 2015 was a year of transformation we continued to reduce our costs simplify structures and optimize
+our portfolio in the past months a detailed strategic review of all our activities led to the decision to transfer the
+lamps business into an independent legal entity following the successful realignment and focus on profitability
+and flexibility osram launched an innovation and growth initiative  diamond in fiscal 2016 november 2015
+the actions we have resolved include a significant increase in research and development expenditure as well as
+investments in the new chip plant for our opto semiconductor business in the expansion of system expertise in
+the specialty lighting business and in the area of networked lighting in our luminaire business details can be
+found in the press release here and in our  annual report 2015
+
+an additional important part of the economic aspect is our risk and opportunity management for additional
+information please refer to our  annual report 2015 risk and opportunity management system p 87 and
+also our corporate  investor relation website
+
+aspect economic performance
+g4ec1
+direct economic value generated and distributed
+for our economic value generated and distributed please refer to our  annual report 2015
+ revenue and operating costs table consolidated statement of income p 111
+ personnel costs note 34 personnel costs p 168
+ payments to providers of capital dividend payout ratio p 49
+
+g4ec2
+financial implications and other risks and opportunities for the organizations activities due to climate change
+the technology shift towards led lighting in which osram is an active player is helping to bring about a
+transition to energyefficient lighting that offers one of the most rapidly implementable ways to lower co2
+emissions osram aligned with the ambitious eu 202020 targets for its global operations which means a 20 
+absolute reduction of co2 emissions water consumption and waste generation by 2020 based on the 1990 values
+osram base year is 2006 the target for co2 is a 075 reduction of co2 emissions per year
+please see additional information on our corporate website wwwosramcomclimatestrategy
+
+                                                          16
+
+osram gri g4 report 2015
+
+
+
+indicators added by osram
+as mentioned before innovation management and quality are key drivers in safeguarding osrams economic
+sustainability our brand promise for fiscal 2015 was innovation  quality we believe that the ability to innovate
+is an opportunity and that our combined knowhow in the areas of traditional and led technology together with
+our deep understanding of lighting applications will be important success factors in our transition to led products
+
+innovation management research and development rd
+osrams innovative strength is a core foundation for its medium and longterm economic sustainability as a
+leading provider in the global lighting industry we occupy a strong position in research and development rd
+particularly in the fastgrowing led business the shift in the lighting market means that this business is constantly
+growing in significance we responded to this by further increasing the proportion of rd expenditure for led
+related topics in the past fiscal year this moderate increase is only apparent on an adjusted basis since rd
+transformation costs had an increased effect in the traditional business in fiscal 2015 on a reported basis the
+ratio of rd expenditure for led products to total rd expenditure remained stable please find the related
+numbers and information in our  annual report 2015 table on p 69 and section research and development
+patents on p 7172
+following the successful realignment and focus on profitability and flexibility osram launched an innovation and
+growth initiative  diamond in november 2015 we aim to ensure future sustainable growth with this diamond
+initiative for technology innovation and growth details can be found in the press release here and in our  annual
+report 2015
+
+quality
+in line with our brand promise innovation  quality we aim to ensure that our products meet the highest quality
+standards and perform reliably at osram a series of quality first measures accompany products across their
+whole life cycles irrespective of whether the value is created in our own production facilities or beforehand at our
+suppliers internationally recognized quality management systems are used to monitor every stage efficiently and
+to make any necessary adjustments consistently and transparently we are only able to ensure very high constant
+product quality by systematically implementing our own requirements in this way
+
+all manufacturing sites have iso 9001 certification underlining our efforts towards achieving high standards
+in addition those sites that supply automotive customers meet the strict requirements of the iso ts 16949 quality
+management standard for the automotive industry
+
+please see our  annual report 2015 table on p 69 section production and quality management on p 73 as
+well as wwwosramcomquality
+
+category environmental en
+g4dma en
+disclosures on management approach for environmental
+for osram environmental protection includes a sustainable approach to energy saving water conservation
+waste disposal and chemicals as well as monitoring emissions in addition great importance is placed on
+environmentally friendly design and product recycling these objectives are anchored in our ehs environmental
+protection health management and safety policy which is binding on all operating sites worldwide it defines our
+environmental policy guidelines and targets for the company in order to monitor ongoing compliance with our
+environmental targets we have introduced clear areas of responsibility with corresponding management powers
+in line with the international iso 14001 standard we regularly receive a matrix certificate for this for all of our
+global production sites from an external body
+
+you can find our corporate environmental health and safety ehs policy and further details on our company
+website wwwosramcomenvironmental as well as additional information in our  annual report 2015 ecological
+aspects p 74
+
+
+
+
+                                                         17
+
+osram gri g4 report 2015
+
+
+
+aspect materials
+aspectspecific dma guidance for materials
+as a producing company we use materials for our products for packaging and to facilitate processes we assume
+product responsibility and develop manufacture and market our products in accordance with principles that ensure
+customer safety and do not endanger the environment
+
+we avoid waste wherever possible our lamps only contain a minimum amount of environmentally damaging
+substances and we do not use unnecessary packaging materials we continuously work on improving our products
+to make them as recyclable as possible when developing new products we reduce the amount of harmful
+substances or if possible completely replace them with harmless substances
+
+we aim to reduce the mercury content in all our products to the lowest amount technically possible therefore we
+are constantly improving our product and production technology and we are continually upgrading our existing
+production facilities to implement such technologies we are actively championing the introduction of globally
+harmonized substance restrictions for example we are supporting the goal of uniformly introducing the stricter
+mandatory european mercury limits continued in the restriction of hazardous substances rohs directive in
+lighting industry products worldwide including via the minimata convention on mercury please find details in our
+ annual report 2015 product responsibility p 75
+
+we use environmental product declaration as a transparent method to communicate our committment to
+sustainability for business customers understanding the environmental impact of sourced inputs enables the
+overall environmental footprint of products or processes to be measured and for a thorough lifecycle assessment
+to be conducted
+
+please see our  annual report 2015 section packaging product responsibility recycling on p 7576 as
+well as wwwosramcomsustainabilitycriteria wwwosramcompackaging wwwosramcomrecycling
+
+g4en2
+percentage of materials used that are recycled input materials
+the design process which includes packaging makes a significant contribution to waste prevention early on
+osram has clear guidelines for the design and procurement of packaging packaging should be made from
+environmentally sustainable materials that can be easily recycled or disposed of in addition its volume and weight
+should be limited to the amount required to protect the contents this means that for the majority of our products
+folding boxes are used for primary packaging and corrugated cardboard boxes for shipment packaging the
+cardboard and paper used to produce these packaging components currently have a recycled content of more
+than 80
+
+we implemented a packondemand process in the past fiscal year initially at the molsheim site this is aimed at
+meeting specific customer requirements achieving higher packing densities and as a result reducing costs and
+the number of transports it means that the majority of lamps are only packed and stamped with the customer or
+osram brand once a corresponding order has been received
+
+the aim of product recycling is to recover as many sorted materials as possible in order to conserve limited
+resources and to protect the environment through the professional disposal of hazardous substances anticipating
+the concept of recycling at an early product development stage means that a large proportion of osrams lamp
+components are recyclable as a result osram ensures that over 90 of its lamp components can be recycled
+osram meets its obligation as a manufacturer to take back products eg under the european weee waste
+electrical and electronic equipment directive by participating in organizations companies and foundations that
+were specially set up for this purpose fluorescent lamps and discharge lamps contain small amounts of mercury
+and valuable raw materials led lamps and luminaires also contain valuable raw materials along with electronic
+components this is why it is important that the products are collected and recycled or disposed of safely
+
+information are provided in our  annual report 2015 section packaging p 75 section recycling p 76 as
+well as on our corporate website wwwosramcompackaging and wwwosramcomrecycling
+
+
+
+
+                                                        18
+
+osram gri g4 report 2015
+
+
+
+aspect energy
+aspectspecific dma guidance for energy
+within our production processes primary energy use still plays a significant role that again leads to direct co 2
+emissions in order to comprehensively address the issue of energy consumption and greenhouse gas ghg
+emissions in our own production facilities we use our ehs policy set internal targets and monitor the
+achievements by our environmental management system
+
+within the osram group energy efficiency is how we measure both our products and lighting solutions and our
+production facilities on a daytoday basis one example is our energy efficiency project under which a global
+active team has been devoted to implementing energysaving and efficiency measures at all plants since 2013
+the team continued to devote itself to energysaving measures with the same high level of commitment in fiscal
+2015 enabling a roughly 3 increase in global energy productivity at the end of the fiscal year this relates to
+both primary and secondary energy consumption further reducing the companys worldwide co 2 emissions
+
+at the beginning of 2015 we commissioned a further combined heat and power chp plant in eichstätt which in
+january 2016 has been granted as bhkw of the year by the german association of cogeneration of heat and
+power it joins the existing chp plants in regensburg herbrechtingen and schwabmünchen this enables us to
+achieve sizeable savings that are not only welcome from an environmental perspective but also cut costs these
+chp plants not only use directly produced waste heat for heating and providing process heat  they also use
+absorption refrigeration systems to transform this thermal energy into process cooling further chp plants are
+currently being planned for example for schwabmünchen to support our plants with electricity heat and process
+cooling generated onsite
+
+iso 50001 matrix certification was issued to all plants in germany in the past fiscal year it was resolved to
+introduce iso 50001 energy management at all other european plants in order to achieve further increases in
+energy efficiency through systematic management
+
+please see also our  annual report 2015 table on p 69 and section energy and climate p 74
+
+g4en3 g4en6
+energy consumption within the organization
+reduction of energy consumption
+actual primary energy consumption fell significantly to 3649000 gj compared with 4226300 gj in the prior
+year similarly total electricity consumption saw a moderate reduction to 2588867 gj previous year 2887563
+gj this directly impacted co2 emissions which amounted to 203559 tons previous year 233891 tons for
+primary energy consumption and 369019 tons previous year 386271 tons for electricity
+
+beside our annual report please see our corporate website wwwosramcomenvironmentalmanagement
+within the link environmental data you can find actual numbers
+
+aspect water
+aspectspecific dma guidance for water
+in the production of lighting products water is mainly needed for cooling processes and thus hardly polluted but
+for osram it is still of great importance to use water responsibly we commit ourselves to manage water and
+other precious resources sustainably in our guidelines thus we make sure to either clean polluted water ourselves
+or redirect it to local sewage plants furthermore we consider the scarcity of this precious resource in all our
+production processes and monitor our water usage
+
+we keep an extra eye on those production sites that are located in areas of water stress or scarcity there we
+place a special focus on continuously monitoring and improving our production processes to make them ever more
+waterefficient and thus more economical as well as ecological many osram production sites have taken steps
+to use the most environmentally advanced production techniques that reduce the usage of water to a minimum
+you can find examples on our website wwwosramcomfactories
+
+
+
+
+                                                       19
+
+osram gri g4 report 2015
+
+
+
+please see our corporate website wwwosramcomwater and our  annual report 2015 table on p 69 and
+section water p 75
+
+g4en10
+percentage and total volume of water recycled and reused
+we again recorded a significant reduction in absolute water consumption in fiscal 2015 water consumption was
+3288299 m3 in the past fiscal year previous year 3816694 m3 a yearonyear reduction of 528395 m 3 14
+
+beside the above mentioned references please also see our corporate website wwwosramcomenvironmental
+management within the link environmental data you can find actual numbers
+
+aspect emissions
+aspectspecific dma guidance for emissions
+please see aspectspecific dma guidance for energy and aspectspecific dma guidance for materials as well
+as wwwosramcomclimatestrategy
+
+g4en15 g4en16 g4en19
+direct greenhouse gas ghg emissions scope 1
+energy indirect greenhouse gas ghg emissions scope 2
+reduction of greenhouse gas ghg emissions
+actual primary energy consumption fell significantly to 3649000 gj compared with 4226300 gj in the prior
+year similarly total electricity consumption saw a moderate reduction to 2588867 gj previous year 2887563
+gj this directly impacted co2 emissions which amounted to 203559 tons previous year 233891 tons for
+primary energy consumption and 369019 tons previous year 386271 tons for electricity
+
+beside our  annual report 2015 p 69 and p 74 please see our corporate website
+wwwosramcomenvironmentalmanagement within the link environmental data you can find actual numbers
+
+aspect effluents and waste
+aspectspecific dma guidance for effluents and waste
+please refer to aspectspecific dma guidance for materials
+
+g4en23
+total weight of waste by type and disposal method
+in the past fiscal year osram produced 30665 tons of recyclable waste worldwide previous year 35689 tons
+and 11396 tons previous year 13195 tons of waste for disposal the absolute reduction in both types of waste
+is attributable among other things to past plant closures and relocations that have already been performed
+
+please see our  annual report 2015 table on p 69 and section waste p 75
+
+
+
+
+                                                       20
+
+osram gri g4 report 2015
+
+
+
+aspect products and services
+aspectspecific dma guidance for products and services
+our products affect the environment in a variety of ways obviously they are made in factories that have an
+environmental footprint and they significantly impact on the environment during their use however in order to
+evaluate lighting products and services and how they actually deal with energy and resources it is not enough
+just to consider single stages of their life cycle in order to assess the environmental performance of osram
+products life cycle analyses of several specific products were conducted representing different lighting
+technologies
+we work to reduce the use of critical substances wherever technically and economically viable a process that
+also goes beyond the legal requirements we are actively championing the introduction of globally harmonized
+substance restrictions for example we are supporting the goal of uniformly introducing the stricter mandatory
+european mercury limits continued in the restriction of hazardous substances rohs directive in lighting
+industry products worldwide including via the minimata convention on mercury osram fully complies with these
+limits
+osram meets its obligation as a manufacturer to take back products eg under the european weee waste
+electrical and electronic equipment directive by participating in organizations companies and foundations that
+were specially set up for this purpose fluorescent lamps and discharge lamps contain small amounts of mercury
+and valuable raw materials led lamps and luminaires also contain valuable raw materials along with electronic
+components this is why it is important that the products are collected and recycled or disposed of safely
+
+g4en27
+extent of impact mitigation of environmental impacts of products and services
+the rohs directive which also imposes mercury limits for lamps serves as a model for comparable legislation
+in other countries and regions four further phthalates plasticizers used in plastics were added to the list of
+restricted substances in june 2015 they must be withdrawn from use by mid2019 at the latest we do not use
+phthalates in our own production processes but are also required to ensure that this is the case throughout our
+supply chain we have developed and implemented a dedicated sap tool that enables us to monitor the use of
+critical substances at the component level and to ensure longterm legal compliance given the constantly
+increasing requirements
+in the past we conducted life cycle analyses for certain typical products in order to evaluate the overall impact of
+osram products on the environment the methodology used for these analyses was based on the international
+iso 14040 and iso 14044 standards
+
+please see our corporate website wwwosramcomlca and our  annual report 2015 product responsibility
+p 75
+
+g4en28
+percentage of products sold and their packaging materials that are reclaimed by category
+the aim of product recycling is to recover as many sorted materials as possible in order to conserve limited
+resources and to protect the environment through the professional disposal of hazardous substances anticipating
+the concept of recycling at an early product development stage means that a large proportion of osrams lamp
+components are recyclable as a result osram ensures that over 90 of its lamp components can be recycled
+please see our corporate website wwwosramcomrecycling and our  annual report 2015 section recycling
+p 76
+
+
+
+
+                                                         21
+
+osram gri g4 report 2015
+
+
+
+aspect supplier environmental assessment
+aspectspecific dma guidance for supplier environmental assessment
+the supply chain plays a key role for us in sustainability it requires a high degree of flexibility particularly in view
+of the technology shift our procurement function is managed globally but is organized regionally with regard to
+certain raw materials groups on the one hand this type of organization enables us to optimally supply the
+production and sales units and to stay in close contact with suppliers across all of the business units on the
+other global pooling enables us to achieve economies of scale that make a substantial contribution to the
+companys productivity
+for us sustainability in the supply chain means implementing our high environmental social and ethical
+standards in our business relationships with our suppliers a key part of this is our code of conduct for suppliers
+like our own business conduct guidelines it incorporates the most important international standards and
+conventions and addresses significant topics such as compliance the environment human rights and conflict
+minerals it covers areas such human rights labour environment anticorruption combines important
+international standards eg universal declaration of human rights ilo declaration on fundamental principles
+and rights at work agenda 21 on sustainable development un convention against corruption and clearly
+summarizes our basic values in addition to their acceptance of our code of conduct we require our suppliers to
+provide relevant selfdisclosures and compliance audits are performed to check these in addition we hold supplier
+days in various regions to exchange information with our suppliers another cornerstone of our supplier
+management is the expertise of our employees which we expand by providing specialized training
+one of the aspects of a sustainable supply chain that has recently gained special relevance is the issue of conflict
+minerals we addressed this by introducing a corresponding policy and expanding our code of conduct for
+suppliers to include this issue in 2013 we ensure the necessary transparency in our supply chain through
+appropriate systems and processes which we constantly adapt and expand our policy on conflict minerals can
+be found here wwwosramcomconflictminerals
+please find additional information regarding procurement in  annual report 2015 table on p 69 and section
+procurement on p 73 as well as on our website wwwosramcomsupplier
+g4en32
+percentage of new suppliers that were screened using environmental criteria
+about 2900 suppliers have accepted our code of conduct this total covers 90 of our purchasing volume goods
+and services acquired from third parties in addition suppliers are required to provide relevant information about
+themselves including data relating to specific criteria
+information and numbers can be found in our  annual report 2015 table on p 69 and section procurement on
+p 73 as well as on our website wwwosramcomsupplier
+
+
+
+
+                                                           22
+
+osram gri g4 report 2015
+
+
+
+category social
+subcategory labor practices and decent work la
+
+g4dma la
+disclosures on management approach for labor practices and decent work
+strict management and the orderly documentation and monitoring of processes equipment methods and
+procedures together with appropriate training programs are essential to implementing osrams commitment to
+providing a safe healthy working environment for all employees and to minimizing the risk of accidents at work or
+of employment related illnesses all osram employees have an obligation and responsibility to be mindful of
+safety at all times wherever they are in order to monitor ongoing compliance with our occupational safety targets
+we have introduced a management system that meets the requirements of the internationally recognized ohsas
+18001 standard
+
+risk assessment has to be carried out for all areas of operation by the responsible line managers supported by
+trained safety representatives they assess the potential risks that may arise in each activity and propose
+countermeasures to reduce them the measures are systematically announced and implemented and regularly
+monitored in addition we have established occupational health and safety committees at all relevant sites in
+accordance with local legal requirements or on a voluntary basis
+
+additionally to the health and safety of our employees diversity is an important factor for osram for us diversity
+is creating the opportunity for employees from different cultures and with different backgrounds religions
+genders in addition we are convinced that diversity is a prerequisite for generating competitive advantage in a
+competitive global environment we use and offer a range of channels to ensure that the benefits brought by this
+diversity are developed in a sustainable manner for example different employee groups can exchange
+information and ideas in various groupwide networks in fiscal 2015 we invited undergraduate and postgraduate
+students to light spectrum an event providing information on new technical developments and attractive career
+opportunities at workshops in munich shenzhen and hillsboro
+
+please see additional information in our  annual report 2015 p 7677 as well as on our website
+wwwosramcomsocial
+
+competition for qualified employees among companies that rely heavily on engineering and technology is intense
+the loss of qualified employees or an inability to attract retain and motivate highly skilled employees required for
+the operation transition and expansion of our business could limit our ability to conduct research successfully
+and to develop and sell marketable products competition for qualified personnel is particularly intense in the
+areas of rd engineering and the project business qualified led sales people we could also lose senior
+managers who are important to our business and for the structural changes required we see challenges in
+retaining key employees in asia and the usa in particular
+succession planning identifying and developing talent and dedicated employee development programs are
+therefore a global focus among other things we have a concept for developing talent and our open mentoring
+program we have also expanded our social media presence and are using these channels to recruit new
+employees in order to sustainably secure our position as an attractive employer failure to implement these
+measures may have a clear adverse effect on our business and on our net assets financial position and results
+of operations
+
+highly qualified specialists and managers are crucial to osrams success among other things we use 360
+degree feedback to develop these employees we also aim to foster a sense of loyalty to osram and do so by
+conducting global employee surveys for example based on the results specific action plans and measures have
+been or are being developed to shape and take forward the change process within the company we want the
+surveys to tell us how successful we have been so far at the same time it is important for us to identify subjects
+and areas where we still need to make adjustments or improvements this feedback helps us to manage the
+current change process sustainably and in a focused manner our corporate human resources department
+analyzes the results and keeps close track of the progress made in implementing the measures if this opportunity
+materializes it may have a positive impact on our business activities as well as on our net assets financial position
+and results of operations
+
+
+
+                                                          23
+
+osram gri g4 report 2015
+
+
+
+additional information can be found in our  annual report 2015 table on p 69 section employees on p 76
+77 shortage of qualified employees on p 92 section personnel opportunities on p 97 and on our website
+wwwosramcomsocial
+
+
+aspect employment
+g4la1
+total number and rates of new employee hires and employee turnover by age group gender and region
+a report the total number and rate of new employee hires during the reporting period by age group gender and
+   region
+b report the total number and rate of employee turnover during the reporting period by age group gender and
+   region
+
+highly motivated performancedriven employees are crucial to the successful development of our business
+particularly against the background of the abovementioned fundamental technology shift in the lighting market
+our employees are one of our key resources market changes made redundancies necessary in fiscal 2015
+particularly in traditional general lighting
+
+we are continuing to manage the realignment of the osram licht group to reflect the technology shift using
+osram push our comprehensive enterprisewide continuous improvement program we started the second
+phase of the osram push program osram push at the beginning of fiscal year 2015 in response to the
+ongoing changes in market conditions and are implementing further process improvements and structural
+adjustments the measures affect not only production capacity for traditional general lighting products but also
+sales administration and other indirect functions throughout the company
+
+
+
+
+1
+     the information shown here reflects the projects cumulative progress
+
+see  annual report 2015 p 48 and 52
+
+additionally we provide the number of employees by segment region and function for fiscal 2014 and 2015 in
+our  annual report 2015 p 7677 and p 168
+
+aspect occupational health and safety
+g4la6
+type of injury and rates of injury occupational diseases lost days and absenteeism and total number of work
+related fatalities by region and by gender
+the effectiveness of our health and safety programs can be measured by the following relevant statistics in
+comparison to previous years the numbers of occupational accidents are relatively constant within osram gmbh
+with less than eight accidents per 1000 employees in 2015 we are way below the industry average not only can
+this be explained by the intensive training that has been conducted by superiors and health and safety officers
+but also by an increasing awareness of the importance of safety throughout the workforce improved machine
+safety already during the planning and construction phase of machines also helped to decrease incidents over
+the last years
+accidents like stumbling falling or tripping as well as commuting accidents accidents related to transportation on
+the way to work or on the way back home make up nearly half of all occupational accidents our aim is being
+accidentfree  to this end the accident prevention measures are constantly being improved in our plants above
+that the osram health and safety committee committed itself to intensify trainings to further reduce the frequency
+
+
+                                                                              24
+
+osram gri g4 report 2015
+
+
+
+and severity of occupational accidents the numbers below can also be found on our corporate website
+wwwosramcomhsstatistics
+occupational accidents
+year            osram gmbh          osram europe
+2013            10                   8
+2014            8                    7
+2015            8                    6
+occupational accidents per 1000 employees resulting in more than three lost workdays excluding the day of accident offsite
+accidents are not included in this statistic
+
+absenteeism
+year            osram gmbh
+
+2013            44 
+2014            46 
+2015            51 
+
+the development of absenteeism due to illness over the last twelve years the total absence is shown as a percentage of the
+entire ordinary working hours
+ osram gmbh encompasses all sites in germany excluding affiliated companies osram europe comprises all sites in
+europe including affiliated companies and osram gmbh
+
+aspect trainings and education
+g4la10
+programs for skills management and lifelong learning that support the continued employability of employees and
+assist them in managing career endings
+a report on the type and scope of programs implemented and assistance provided to upgrade employee skills
+b report on the transition assistance programs provided to facilitate continued employability and the
+   management of career endings resulting from retirement or termination of employment
+sustainable business success at a global level is only possible if we systematically encourage and develop the
+right employees facilitate their continuing professional development motivate them and ensure they remain
+with osram in order to maintain our leading position in the lighting market we offer our employees at all levels
+in the company a wide range of programs and training opportunities to further their personal and professional
+development we use classroom formats elearning modules and blended learning for this depending on the
+content and focus of the training and we use 360degree feedback to develop our employees
+we draw on a wide variety of tools to select and develop managers these range from companyspecific internal
+group programs through individual measures such as coaching or team development down to external
+professional development opportunities one example is our essentials of leadership program which optimally
+prepares firsttime managers for their future roles over the course of six months they are familiarized with the
+basics of successful people management the program comprises virtual elements and locally held events
+we have relaunched our talent management  osram program to develop our high potentials and top
+performers both at global and local level high potentials are initially nominated as part of our performance
+management process our talent management activities revolve around development plans focusing on
+concrete target functions as well as regular support from experienced mentors in addition we offer our high
+potentials a wide range of development opportunities that enable them to grow into the jointly defined target
+function during their threeyear membership of the talent pool
+in order to position the company as an even more attractive employer for technology specialists we provide
+highly qualified technology staff with a key expert career program this is an alternative to the traditional
+management career path and provides the opportunity to focus on technical challenges and to contribute expert
+knowledge to the companys strategic orientation in fiscal 2015 a further six experts previous year 20
+
+
+                                                             25
+
+osram gri g4 report 2015
+
+
+
+experts were nominated these are assigned to twelve defined core technology areas such as semiconductors
+electronics and lighting modules
+please see our  annual report 2015 employees on p 7677 section personnel opportunities on p 97
+and our website wwwosramcomsocial
+
+aspect supplier assessment for labor practices
+g4la14
+percentage of new suppliers that were screened using labor practices criteria
+with our systematic riskbased management approach we ensure that suppliers meet our standards as part of
+this all applicable new suppliers must inter alia provide information on quality product safety and environmental
+aspects we expect our suppliers to comply with our code of conduct for suppliers it covers areas such human
+rights labour environment anticorruption combines important international standards eg universal
+declaration of human rights ilo declaration on fundamental principles and rights at work agenda 21 on
+sustainable development un convention against corruption and clearly summarizes our basic values
+about 2900 suppliers have accepted our code of conduct this total covers 90 of our purchasing volume goods
+and services acquired from third parties in addition suppliers are required to provide relevant information about
+themselves including data relating to specific criteria
+information and numbers can be found in our  annual report 2015 table on p 69 and section procurement on
+p 73 as well as on our website wwwosramcomsupplier
+
+
+
+
+                                                        26
+
+osram gri g4 report 2015
+
+
+
+subcategory human rights hr
+g4dma hr
+disclosures on management approach for human rights
+as a global manufacturing company with businesses worldwide and a variety of suppliers it is important for us to
+address and support human rights and labor practices within our company as well as in our supply chain
+human rights and labor principles are covered by our  bcgs and the osram code of conduct for suppliers 
+coc additionally a clause in the purchase and order conditions states the contractors obligation to respect the
+basic rights of its employees and to procure a safe work environment they shall observe the prohibition of child
+labor according to the declaration of the international labour organization on basic labor principles
+adherence is evaluated in our supplier qualification process by several tools and requested to our suppliers
+supplier selfdisclosures in which relevant data on corporate responsibility criteria is queried and supplier audits
+are carried out by an impartial external auditor on the basis of the selfdisclosures and other specific riskbased
+criteria
+please see our   annual report 2015 section procurement p 73 as well as wwwosramcomsupplier
+
+aspect supplier human rights assessment
+g4hr10
+percentage of new suppliers that were screened using labor practices criteria
+with our systematic riskbased management approach we ensure that suppliers meet our standards as part of
+this all applicable new suppliers must inter alia provide information on quality product safety and environmental
+aspects we expect our suppliers to comply with our code of conduct for suppliers it covers areas such human
+rights labour environment anticorruption combines important international standards eg universal
+declaration of human rights ilo declaration on fundamental principles and rights at work agenda 21 on
+sustainable development un convention against corruption and clearly summarizes our basic values
+over 2900 suppliers have accepted our code of conduct this total covers 90 of our purchasing volume goods
+and services acquired from third parties in addition suppliers are required to provide relevant information about
+themselves including data relating to specific criteria
+information and numbers can be found in our  annual report 2015 table on p 69 and section procurement on
+p 73 as well as on our website wwwosramcomsupplier
+
+g4hr11
+significant actual and potential negative human rights impacts in the supply chain and actions taken
+one of the aspects of a sustainable supply chain that has gained special relevance lately is the issue of conflict
+minerals osram has a long tradition of operating business in a way that is socially and environmentally
+responsible our code of conduct for suppliers has always required our suppliers to respect the basic human
+rights of employees and others and prohibited our suppliers and their respective suppliers from being complicit in
+illegal and unethical conduct however the issue of conflict minerals requires a more stringent approach covering
+the entire supply chain down to the very origin of these materials for that reason osram has developed this
+policy to supplement our code of conduct for suppliers we have systems and processes in place to ensure
+accountability in our supply chain and we will improve these systems as necessary to meet new requirements
+please find our conflict minerals policy on our website wwwosramcomconflictminerals
+
+
+subcategory society so
+g4dma so
+disclosures on management approach for society
+for information regarding our enterprise risk management system please refer to our  annual report 2015
+risk and opportunity management system p 87 general information can be found on our company website
+wwwosramgroupcomenourcompanyourmanagementcorporategovernance
+
+
+
+                                                        27
+
+osram gri g4 report 2015
+
+
+
+basically our compliance system is designed to prevent detect and respond to potential violations of existing
+anticorruption and antitrust provisions we address fighting corruption and the proper conduct when engaging in
+competition through our company wide policies in particular our business conduct guidelines and our
+compliance guideline in addition we made use of various it tools to assess compliancerelated risks for
+example we classify our business partners based on certain risk indicators such as the level of corruption in the
+country transparency international ticpi in which the relevant business partner operates the business partner
+tool supports our employees how a compliance due diligence on a business partner has to be performed we
+have also introduced countryspecific tools addressing issues relating to giving and receiving gifts and
+hospitalities sponsorships donations and memberships spodomtool to ensure the implementation of our
+compliance guidelines processes and tools multiple facetoface and webbased trainings have been conducted
+including at top management level we keep all of our employees informed about compliance measures and new
+developments through information material our intranet and via email
+for reporting possible compliance violations we rely on an anonymous and secure whistleblower hotline tell
+osram third parties can access tell osram via our company website wwwosramcomcompliance in several
+languages any information will be treated confidentially tell osram offers a secure communication platform
+using latest privacy technologies furthermore all employees have the option to report violations to our
+compliance organization
+we follow up on any indication of a compliance violation investigation upon completion of an investigation we
+propose remedies for the identified deficits and supervise their implementation we also respond to detected
+misconduct with employmentlaw disciplinary sanctions osram has established a process regulating the
+handling of compliance violations to ensure appropriate disciplinary consequences an essential part of this
+process is the foundation of the corporate disciplinary committee subsequently cdc by using defined
+standards and uniform criteria for decisionmaking the cdc ensures the right to a fair procedure treating all
+employees equally
+please see our our  annual report 2015 p 71 our  annual report 2014 compliance p 87 et seq 150 et
+seq in whole pdf and wwwosramcomcompliance
+
+aspect compliance
+g4so3
+total number and percentage of operations assessed for risks related to corruption and the significant risks
+identified
+all our entities are covered by our compliance risk assessment cra based on a risk classification of our
+entities several onsite cras are conducted throughout the year the regular compliance risk assessment cra
+exists of three elements compliance system antitrust exposure assessment anticorruption exposure
+assessment additionally ad hoc risk assessments are run for specific business topics all findings during such
+assessments will be addressed and remediated immediately the compliance framework is also part of the regular
+audit approach audits are performed regularly by our corporate auditricteam ric  risk and internal
+controls please see our our  annual report 2015 p 71
+
+g4so4
+communication and training on anticorruption policies and procedures
+our bcgs are available to all employees and interested public in the internet wwwosramcombcg
+a total of 5558 employees around the world received personal compliance training in the past fiscal year we also
+introduced mandatory webbased training for sensitive functions please see our our  annual report 2015 p
+71
+
+g4so5
+confirmed incidents of corruption and actions taken
+in fiscal year 2015 the compliance organization received a total of 64 notifications of potential compliance
+violations 11 compliance investigations were finalized as a result of which disciplinary steps were taken against
+19 employees an additional 60 existing matters were closed following detailed assessment information can be
+found in our  annual report 2015 p 69 and within wwwosramcomcompliance
+
+
+                                                        28
+
+osram gri g4 report 2015
+
+
+
+subcategory product responsibility pr
+g4dma pr
+disclosures on management approach for product responsibility
+please refer to the dma guidance for the aspect materials
+
+aspect customer health and safety
+g4pr1
+percentage of significant product and service categories for which health and safety impacts are assessed for
+improvement
+we conducted life cycle analyses for certain typical products in order to evaluate the impact of osram products
+the methodology used for these analyses was based on the international iso 14040 and iso 14044 standards
+please see our corporate website wwwosramcomlca and our  annual report 2015 product responsibility
+p 75
+
+aspect product and service labeling
+aspectspecific dma guidance for product and service labeling
+osrams success is closely linked to the satisfaction of our customers our sales function represents osrams
+face to the customer global sales management is centralized whereas implementation takes place at local
+level this positioning allows us to meet our customers varied demands leverage the full potential of our
+brands and react flexibly to market developments
+we use numerous measures to improve sales efficiency for example we have a digital crm customer
+relationship management system which optimizes the customer service provided to oems and project
+business customers in particular in addition we held numerous training sessions for our employees and
+customers to inform them about the shift in the lighting market familiarize them with our products and thus
+foster their longterm loyalty to osram
+we have also established a global key account management team for our customer relations in addition
+members of the managing board are in direct twoway contact with our customers to understand their
+requirements even better
+please see wwwosramcomcrm
+
+g4pr5
+results of surveys measuring customer satisfaction
+our our relationships with many of our customers go back many years and we use our key account management
+system to systematically and continuously maintain them osram uses the net promoter score nps to
+measure customer satisfaction with our sales performance based on an annual survey of a representative group
+of customers this reveals how likely customers are to recommend osram as a supplier to other companies in
+the past fiscal year we successfully maintained our nps results at a high level compared with our competitors
+please see our  annual report 2015 customer relationships and marketing p 73
+
+
+
+
+                                                        29
+
+osram gri g4 report 2015
+
+
+
+iii gri content index 2015
+our gri index is based on version g4 core of the international guidelines published by the global reporting
+initiative the table of contents below provides an overview of the reported categories
+unless stated otherwise the information and numbers in this document refer to fiscal 2015 the osram
+licht groups fiscal year began on october 1 2014 and ended on september 30 2015
+
+
+general standard disclosures
+indicator      description                                                                            page
+                                                                                                      number
+strategy and analysis
+g41           statement from the most senior decisionmaker                                            04
+
+organizational profile
+g43             name of the organization                                                               04
+g44             primary brands products and services                                                 04
+g45             location of the organizations headquarters                                            04
+g46             number and names of countries with significant operations                              05
+g47             nature of ownership and legal form                                                     05
+g48             markets served                                                                         06
+g49             scale of the organization                                                              06
+g410            employee breakdown                                                                     06
+g411            percentage of total employees covered by collective bargaining agreements              07
+g412            organizations supply chain                                                            08
+g413            significant changes during the reporting period regarding the organizations size     08
+                 structure ownership or its supply chain
+g414            precautionary approach or principle                                                    09
+g415            externally developed economic environmental and social charters principles or       09
+                 other initiatives to which the organization subscribes or which it endorses
+g416            list memberships of associations such as industry associations and national or       10
+                 international advocacy
+
+identified material aspects and boundaries
+g417            list of entities included in the organizations consolidated financial statements      10
+g418            process for defining the report content and the aspect boundaries and how the          10
+                 organization has implemented the reporting principles for defining report content
+g419            material aspects identified in the process for defining report content                 11
+g420            aspect boundary within the organization for each material aspect                       11
+g421            aspect boundary outside the organization for each material aspect                      11
+g422            restatements of information provided in previous reports                               13
+g423            significant changes from previous reporting periods in the scope and aspect            13
+                 boundaries
+
+
+
+                                                       30
+
+osram gri g4 report 2015
+
+
+
+stakeholder engagement
+g424          list of stakeholder groups engaged by the organization                                13
+g425            basis for identification and selection of stakeholders with whom to engage          13
+g426            organizations approach to stakeholder engagement                                   13
+g427            key topics and concerns that have been raised through stakeholder engagement        14
+
+
+report profile
+g428            reporting period such as fiscal or calendar year for information provided         14
+g429            date of most recent previous report                                                 14
+g430            reporting cycle                                                                     14
+g431            contact point for questions regarding the report or its contents                    14
+g432            in accordance option                                                              14
+g433            external assurance for the report                                                   14
+
+
+governance
+g434            governance structure of the organization                                            15
+
+ethics and integrity
+g456            organizations values principles standards and norms of behavior                  15
+
+
+
+specific standard disclosure
+disclosures on description                                                                         page
+management                                                                                         number
+approach dma
+and indicators
+
+category economic ec
+g4dma ec      disclosures on management approach for economic                                       16
+material aspect economic performance
+g4ec1           direct economic value generated and distributed                                     16
+g4ec2           financial implications and other risks and opportunities for the organizations     16
+                 activities due to climate change
+indicators added innovation management quality                                                      17
+by osram
+
+category environmental en
+g4dma en       disclosures on management approach for environmental                                 17
+material aspect materials
+g4dma           aspectspecific dma guidance for materials                                          18
+g4en2           percentage of materials used that are recycled input materials                      18
+
+
+
+
+                                                       31
+
+osram gri g4 report 2015
+
+
+
+material aspect energy
+g4dma        aspectspecific dma guidance for energy                                                  19
+g4en3          energy consumption within the organization                                             19
+g4en6          reduction of energy consumption                                                        19
+
+material aspect water
+g4dma        aspectspecific dma guidance for water                                                   19
+g4en10         percentage and total volume of water recycled and reused                               20
+
+material aspect emissions
+g4dma        aspectspecific dma guidance for emissions                                               20
+g4en15         direct greenhouse gas ghg emissions scope 1                                        20
+g4en16         energy indirect greenhouse gas ghg emissions scope 2                               20
+g4en19         reduction of greenhouse gas ghg emissions                                            20
+
+material aspect effluents and waste
+g4dma        aspectspecific dma guidance for effluents and waste                                     20
+g4en23         total weight of waste by type and disposal method                                      20
+
+material aspect products and services
+g4dma        aspectspecific dma guidance for products and services                                   21
+g4en27         extent of impact mitigation of environmental impacts of products and services          21
+
+g4en28         percentage of products sold and their packaging materials that are reclaimed by        21
+                category
+material aspect supplier environmental assessment
+g4dma        aspectspecific dma guidance for supplier environmental assessment                       21
+
+g4en32         percentage of new suppliers that were screened using environmental criteria            21
+
+category social
+subcategory labor practices and decent work la
+g4dma la     disclosures on management approach for labor practices and decent work la              23
+
+material aspect employment
+g4la1        total number and rates of new employee hires and employee turnover by age group         24
+              gender and region
+material aspect occupational health and safety
+g4la6        type of injury and rates of injury occupational diseases lost days and absenteeism   24
+              and total number of workrelated fatalities by region and by gender
+
+material aspect trainings and education
+g4la10         programs for skills management and lifelong learning that support the continued        25
+                employability of employees and assist them in managing career endings
+
+material aspect supplier assessment for labor practices
+g4la14       percentage of new suppliers that were screened using labor practices criteria            26
+
+
+
+                                                      32
+
+osram gri g4 report 2015
+
+
+
+subcategory human rights hr
+g4dma hr     disclosures on management approach for human rights hr                               27
+
+material aspect supplier human rights assessment
+g4hr10       percentage of new suppliers that were screened using labor practices criteria          27
+
+g4hr11        significant actual and potential negative human rights impacts in the supply chain    27
+               and actions taken
+
+subcategory society so
+g4dma so     disclosures on management approach for society                                         27
+material aspect compliance
+g4so3        total number and percentage of operations assessed for risks related to corruption     28
+              and the significant risks identified
+g4so4         communication and training on anticorruption policies and procedures                 28
+
+g4so5         confirmed incidents of corruption and actions taken                                   28
+
+
+subcategory product responsibility pr
+g4dma pr     disclosures on management approach for product responsibility pr                     29
+material aspect customer health and safety
+g4pr1        percentage of significant product and service categories for which health and safety   29
+              impacts are assessed for improvement
+
+material aspect product and service labeling
+g4dma        aspectspecific dma guidance for product and service labeling                          29
+g4pr5         results of surveys measuring customer satisfaction                                    29
+
+
+
+
+                                                      33
+
+osram gri g4 report 2015
+
+
+
+
+date february 2016
+
+contact sustainability                     osram licht ag
+osram licht ag                             germany supervisory board chairman peter bauer
+marcelbreuerstraße 6                     chairman of the managing directors dr olaf berlien
+80807 munich
+germany                                    responsible acc to german interstate broadcasting
+                                           agreement  55 para 2 janpeter schwartz
+mail       sustainabilityosramcom        head offices munich
+internet   wwwosramcomsustainability    commercial register munich registration court
+                                           hrb 201526
+                                           tax id number de 811148275
+
+
+
+
+                                          34

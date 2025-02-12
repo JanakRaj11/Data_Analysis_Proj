@@ -1,0 +1,1 @@
+BASE_DIRECTORY = "csr_data"

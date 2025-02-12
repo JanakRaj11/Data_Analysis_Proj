@@ -1,0 +1,925 @@
+2015
+environmental
+health and safety
+
+
+
+
+                    annual report
+
+                                                                                           table of contents
+review                                                            page                        economic performance
+                                                                                                                            coverage of uscs defined
+forward from the chief executive officer                1                                                           benefit pension plan                                                   10
+
+commitment to sustainability                                      2                                      employee safety                                                   11 12
+
+parameters of this report                                              3                             food safety                                                       13
+
+organization                                                                     4        environment                                                                 14
+
+organizational structure and markets served          5                                                                            energy consumption                                 14
+
+legal form and governance                                       6                                                   greenhouse gas emissions                        15
+
+            board                                                          6                              renewable energy                               16 17
+
+            internal audit  committees                       7                                                             water consumptiondischarge                  18
+
+workforce information                                                   8                                     waste oil reduction                                 19
+
+new employee hires and employee turnover        9                                                                       appendix a and b                                                 2021
+
+
+
+
+performance indicators                                      page
+la1    total workforce by employment type
+       broken down by gender                                    8
+la2    total number of employee turnover              9
+ec3    coverage of the uscs defined
+       benefit pension plan                                        10
+la7    recordable injury rates
+       lost time rates dart injury rates            11 12
+la8    education employee safety and
+       food safety programs                                       13
+en3 energy consumption                                         14
+en6 renewable energy initiative and
+       performance                                               16 17
+en16 greenhouse gas emissions                              15
+en8 total water withdrawal by source                 18
+en21 total water discharge by quality
+       and destination                                                  18
+en22 waste by type and disposal method            19
+                                                                                                                                                                                          for questions regarding
+                                                                                                                                                                                          this report contact
+                                                                                                                                                                                          daniel salvatore
+                                                                                                                                                                                          project engineer
+                                                                                                                                                                                          o 8563548189
+                                                                                                                                                                                          c 6103221892
+
+
+                                                                                                                       ii
+
+                   forward from the chief executive officer
+
+                                          united states cold storage inc referred to as uscs or
+                                          in some cases the company in this report is committed
+                                          to the safety of our employees and the sustainable
+                                          development of our business we are also committed
+                                          to the transparent reporting of our record in these
+                                          areas this is the third report that uscs has prepared in
+                                          accordance with the global reporting initiative and
+                                          i hope that all our stakeholders will find the information
+                                          provided here helpful
+
+                                           uscss lost time injury rate for 2015 was again well
+                                           below industry levels a number of new safety initiatives
+                                           were introduced during the year including measures
+to improve pedestrian safety in our warehouses and to reinforce the need for safe handling of
+forklifts uscs is investing in a program to retrofit its fleet of forklifts with blue warning lights
+uscs also takes food safety very seriously six warehouses received brc certification in 2015
+bringing the total number of uscs certified warehouses to 20
+
+2015 saw a number of milestones in uscss efforts to reduce our impact on the environment in
+october 2015 the official opening of uscss new warehouse in covington tennessee took place
+this nine million cubic feet facility is the first uscs warehouse to receive leed gold certification
+in november 2015 uscs completed the installation of a 268 mw solar array at our lumberton
+north carolina facility the lumberton solar array was partly funded by a grant from the swire
+group sustainable development fund during the year uscss team of engineers also began a
+review of energy usage across all our warehouses with the goal of reducing energy consumption
+by 5 in 2016
+
+i am proud to lead a team of professionals who are dedicated to providing a bestinclass service
+to our customers without compromising the safety of our workforce or the longterm sustainability
+of our company i am confident that in 2016 uscs will bring more improvements to the way we
+operate for the benefit of all our stakeholders
+
+
+
+
+david m harlan
+president  chief executive officer
+
+
+
+
+                                                   1
+
+                           commitment to sustainability
+united states cold storage inc is a subsidiary of ukbased john swire  sons ltd the parent company
+of the swire group the swire groups holding include swire pacific limited swire properties limited
+cathay pacific airways limited and hong kong aircraft engineering company limited which are all
+public companies listed in hong kong as well as a number of significant privately owned companies
+swire has made a commitment to sustainable business development by minimizing the groups impact
+on the environment through reducing waste generation and investing in the communities in which they
+operate uscs shares the sentiment of our parent company and has taken several steps and initiatives
+to reduce the carbon footprint of our operation while providing a safe and healthy atmosphere for
+our workforce and surrounding communities the information contained in this report will serve as a
+benchmark for the progress made by these initiatives
+
+
+
+
+covington tn proud recipient of leed gold status in the us green building councils usgbc leadership
+                          in energy and environmental design leed program
+
+
+
+
+                                                 2
+
+                               parameters of this report
+the 2015 environmental health and safety report covers the 2015 calendar year for the activities of
+all facilities within united states cold storage the previous report was issued for the 2014 calendar
+year in 2015 however uscs is also required to issue a monthly ehs update to swire that focuses
+on many of the same topics this report focuses on the uscs workforce and their protection both
+financially and on the job the impact that our operation has on the environment and how we are
+planning to improve in the future this is the third iteration of this report to follow the gri level c
+template for sustainability reporting the previous annual reports had been issued to swire without
+such a template because of this there are portions of some metrics that are not fully reported on due
+to limited data recording the infrastructure has been put into place to record all data that has been
+omitted from this report in 2015 and to include this information in subsequent issues of this report
+
+
+
+
+                              bill gentis chief engineer tracy california
+
+
+
+
+                                                     3
+
+                                                          organization
+
+uscs network
+
+
+
+
+                                        2011                2012                2013          2014          2015
+
+           no of facilities
+                                          34                  34                  35            35            35
+           at year end
+           storage capacity
+                                     190 million         198 million          215 million   224 million   240 million
+           cubic feet1
+
+
+
+
+1
+    cubic feet of cold storage capacity figures represent yearend totals
+
+
+
+
+                                                                     4
+
+                organizational structure and markets served
+this report covers the operational activities of uscs together with those of its subsidiary companies
+collectively uscs uscs operates exclusively in the united states and is managed by geographical
+region as of december 31 2015 the company operated 36 facilities located in 12 states california
+delaware florida illinois indiana nebraska north carolina pennsylvania tennessee texas utah
+and virginia uscs headquarters is located in voorhees new jersey
+
+the uscs network of facilities services a customer base with requirements ranging from primary
+storage to fully integrated thirdparty logistics solutions uscs offers more than 240 million cubic
+feet of temperaturecontrolled warehouse and distribution space and has nearly 2800 employees
+nationwide due to its wide range of refrigerated storage and logistics services uscs customers include
+many of the top american and international food companies uscs is among the top five largest public
+refrigerated warehouse prw companies in the united states of america
+
+over the past year there were no major operational changes for the company other than warehouse
+commissioning decommissioning and warehouse expansions in 2015 a new facility was opened in
+covington tn with a rail expansion in quakertown pa and a blast freezer expansion in lumberton nc
+
+
+
+
+                                            tracy california
+
+
+
+                                                   5
+
+                                legal form and governance
+                                                    board
+the board which is tasked with organizational oversight and setting strategy comprises three executive
+directors responsible for various aspects of the business nonexecutive directors representing the
+shareholder john swire  sons limited and two independent nonexecutive directors
+
+
+
+
+                 james hugheshallett          david m harlan                andrew m clarke
+                nonexecutive chairman        executive director            executive director 
+                                                   president             vice president finance 
+                                             chief executive officer       chief financial officer
+
+
+
+
+      j larry alderfer           j b raesmith                 jack pelo                   paul henson
+    executive director        nonexecutive director       nonexecutive director        nonexecutive director
+ vice president corporate
+ development  logistics
+
+
+
+
+                                   craig owens                william r dalton
+                             independent nonexecutive           independent
+                                     director                nonexecutive director
+                                                        6
+
+legal form and governance continued
+internal audit
+uscs has an inhouse internal audit function               reviewing the effectiveness of the uscs
+which is monitored by the audit committee the              systems for monitoring addressing and
+internal audit function carries out audits of the           reporting on compliance with laws and
+companys facilities across the united states as            regulations
+well as at head office                                    reviewing the uscs financial statements
+                                                            and judgmental areas contained therein
+audit committee
+the audit committee is chaired by an inde              other committees
+pendent nonexecutive director the other two           a number of committees are in place at the head
+members of the audit committee are com                 office which cover a range of issues including risk
+prised of one representative of john swire  sons       management pensions and it each facility has a
+limited and the president and chief executive           health  safety committee
+officer in addition the chief financial officer
+attends the audit committee meetings together           policies and procedures
+with members of the internal audit function and         a corporate code of conduct has been
+a representative of our external auditors grant        developed with the aim of making all employees
+thornton                                               fully aware of their responsibility for ensuring that
+                                                        uscs conducts its business in accordance with
+the audit committees remit as set out in              applicable laws and regulations all new employees
+its terms of reference involves                       are given a copy of the code of conduct as part
+   evaluating the adequacy of the mechanisms           of their induction process during 2014 a video
+    for the assessment and management of risk          highlighting key parts of the code of conduct was
+   reviewing risk management processes                 produced this has been shown to all employees
+    including policies around health and safety
+    fraud and competition compliance                   employee communication
+   reviewing the external auditors                    uscs encourages dialogue between employees
+    independence proposed audit scope and              and head office management this is achieved
+    annual performance as well as the co               through regular visits by head office management
+    operation between internal and external             to the local facilities inhouse training programs
+    audit                                              employee surveys magazines and newsletters
+   monitoring the timeliness of managements
+    response to recommendations made by the
+    internal and external auditors
+   reviewing planned internal audit activities
+    and considering their adequacy as a basis for
+    an independent and objective opinion on
+    risk management control and governance
+
+
+
+
+                                                    7
+
+                                    workforce information
+uscs offers a wide range of employment opportunities across the country however the vast majority
+of those employed are warehouse forklift operators uscs is committed to the safety and wellbeing
+of its entire workforce providing extensive benefit plans for fulltime employees the tables below
+provide details of uscss workforce
+
+   total workforce by employment type employment contract and region broken down by
+   gender la1
+
+     type                         male      female             type                         male      female
+     total employees             2814            490         full time                    2797            482
+     supervised workers          2795            488         part time                       14              8
+     executives                     19              2         casual laborers                  3              0
+   chart 1 the total workforce broken down by               chart 2 the total number of employees broken
+   employees supervised workers                             down by type of employment
+
+
+
+
+                               type                             male      female
+                               full time                        2797            482
+                               part time                           14              8
+                               casual laborers                      3              0
+                             chart 3 the total number of permanent employees
+                             broken down by employment
+
+
+
+
+                   region                  male              female      total          
+                   corporate                  55                43          98          3
+                   pennsylvania              604               105         709         21
+                   midatlantic              146                29         175          5
+                   midwest                  769                93         862         26
+                   south                     636                76         712         22
+                   laredo                    100                25         125          4
+                   west                      504               119         623         19
+                   total                   2814               490       3304
+                 chart 4 the total workforce broken down by region and gender
+
+
+
+
+                                                         8
+
+             new employee hires and employee turnover
+total workforce by employment type employment contract and region broken down by
+gender and region la2
+
+                           entering employment                           leaving employment
+      type              male      female     total                     male    female    total
+  fulltime                   765            94           859           623           83   706
+  parttime                     7             2             9             4            4     8
+  casual laborer                0             0             0             6            0     6
+  total                       772            96           868           633           87   720
+                       chart 5 turnover of employment during this reporting period
+
+
+
+                     entering employment                   leaving employment
+                   age group        total               age group        total
+                   under 20                 27       under 20                  9
+                   2024                   194       2024                   152
+                   2529                   190       2529                   158
+                   3034                   140       3034                   110
+                   3539                   105       3539                    81
+                   4044                    80       4044                    61
+                   4549                    65       4549                    47
+                   5054                    47       5054                    49
+                   5559                    16       5559                    27
+                   6064                     4       6064                    12
+                                                     6569                    14
+              chart 6 total number of employees entering and leaving employment
+              during the reporting period broken down by age group
+
+
+
+                       entering employment               leaving employment
+                      region         total              region        total
+                      corporate             19          corporate            6
+                      pennsylvania         195          pennsylvania       175
+                      midatlantic          32          midatlantic        38
+                      midwest             239          midwest           323
+                      south                237          south               84
+                      laredo                42          laredo              33
+                      west                 104          west                61
+
+                      chart 7 total number of employees entering and leaving
+                      employment during the reporting period by region
+
+
+
+
+                                                    9
+
+                       economic performance
+      coverage of the uscs defined benefit pension plan ec3
+uscs operates both a defined benefit and a 401k pension plan there are no longer any employees
+that are members of multiemployer union pension schemes employees are eligible to join the uscs
+defined benefit pension plan at age 21 and after one year of service as shown in the table below as
+of december 31st 2015 68 of us colds employees were members of the defined benefit plan
+
+                     membership of uscs defined benefit pension plan
+                               as of december 31st 2015
+
+
+                     members of uscs defined benefit plan       1897      6787
+
+                     members of union pension plan                  0       000
+
+                     ineligible employed less than 1 year      862       3084
+
+                     ineligible not yet 21 years of age          27       097
+
+                     ineligible parttime  casual                9       032
+
+                     total uscs employees                       2795
+
+                     chart 8 breakdown of pension plan memberships this employment
+                                   total in bold is as of december 31 2015
+
+
+uscs funds the defined benefit pension plan and no contributions are made by employees as of
+december 31st 2015 the value of the defined benefit pension plan assets was 512 million and
+the value of the benefit obligation was 531 million the value of the pension plan obligation was
+calculated by independent actuaries as of december 31st 2015
+
+
+
+
+                                                       10
+
+employee safety la7 la8
+
+uscs employees achieved a record breaking year for safety performance in 2015 we measured the
+lowest total recordable and dart injury rates in our record keeping history since 2006 in 2015 the
+uscs total recordable injury rate met our 10 reduction goal from the previous year we are truly best
+in class with a total recordable injury rate and lost time rate 33 and 49 below published industry
+average rates respectively
+
+the company had 21 locations with zero losttime injuries in addition there were seven locations
+with zero recordable injuries those locations were harrisonburg va fresno ca milford de
+warsaw nc lebanon in syracuse ut as well as the companys voorhees nj headquarters
+
+the fresno location and the midatlantic region were presented with a safety milestone award for
+working one million hours without a lost time injury
+
+
+                                                    recordable injury rates
+
+                                  75
+                                              64                                      67
+                                                       60         59
+                                                                            55                       56
+
+
+                                                                                             42
+                                                                                                             37
+
+
+
+
+                                       2011                 2012                2013               2014     2015
+
+                                                                         uscs     bls
+
+
+          chart 9 uscs company wide fiveyear recordable injury rate compared to labor statistics average
+
+
+
+
+                                                     lost time injury rate
+
+                                                                                   29
+                                          26
+                                                               23
+                                                                                                      21
+
+                                 12                  11                   13
+                                                                                             09            10
+
+
+                                   2011                 2012                    2013           2014         2015
+
+
+
+                                                                          uscs     bls
+
+
+
+                                              chart 10 fiveyear uscs lost time injury rate
+
+
+ 2015 bureau of labor standards statistics are not available
+                                                                            11
+
+employee safety continued
+
+                                                       dart injury rate
+                               70
+
+
+                                                                              55
+                                                 51
+                                                                   48
+                                     46                 46
+                                                                                             41
+                                                                                    33             32
+
+
+
+
+                                 2011             2012                 2013           2014         2015
+
+
+                                                                 uscs    bls
+
+
+                         chart 11 uscs fiveyear days away restricted and transferred rate
+                                                      dart
+
+
+listed below are examples of safety initiatives implemented in 2015
+     issued and conducted training on the updated crisis management programs
+     conducted a crisis management drill
+     completed the roll out of hazard identification tracking and training hitt application
+        the hitt system is a software application used to enter and track all incidentsnear misses
+        and record and conduct training
+     issued safety encouragement signs to all locations to help promote a positive safety culture
+     conducted a biannual executive review of all the incidents for each region
+     conducted analysis of worker compensation cost by type of incident and executed a plan to
+        reduce powered industrial truck pit incidents the plan included issuing two new safety
+        directives for pedestrian requirements implementing pit speed limit requirements and
+        conducting a test installation of blue safety warning lights for the pits
+     finalized 12 job safety analysis jsa reports for covington
+     conducted safety supervisor employee engagement classes for the midwest region
+
+our theme for 2016 will be building a team of safety leaders in order to continue improving on
+our safety performance more than ever we need everyones help
+
+in 2016 we will focus on establishing realistic goals based on published industry averages having
+injury rates well below industry average has always been the best in class way and now we will set
+goals to support this belief the goals for 2016 are listed below
+     recordable rate 35 below industry average
+     dart rate 25 below industry average
+     lost time rate 55 below industry average
+
+
+ 2015 bureau of labor standards statistics are not available
+                                                                  12
+
+employee safety continued
+
+in 2016 we are planning to
+     issue a beginning of year safety award and message from leadership
+     fully utilize the hitt system including noninjury incident and near miss reporting
+     update 3 process safety management psm programs and 2 safety directives
+     issue biannual motivational poster
+     conduct mock osha audits one location per region
+     create a corporate driven monthly safety topic program
+     conduct a recognized and generally accepted good engineering practices ragagep
+      evaluation report for each location
+     conduct supervisor safety leadership training on
+      o employee engagement
+      o incident prevention and response
+
+food safety
+six additional facilities received their initial brc certifications in 2015 which brought our corporate
+total to 20 certified facilities the facilities currently certified include fresno tracy tulare north
+tulare south lake city minooka wilmington lebanon warsaw hazleton arlington dallas south
+ft worth laredo iii bethlehem lavergne smyrna syracuse bakersfield and turlock we plan on
+securing brc certification at five more facilities in 2016 locations scheduled for 2016 certification
+include quakertown medley lumberton omaha and covington and early in 2017 milford
+
+
+
+
+                                          top robert garza  bakersfield california
+                                          left justin lopez  tulare california
+                                          right johanka grullon  hazleton pennsylvania
+
+                                                    13
+
+                                                environment
+uscs warehouses require significant quantities of electricity water and refrigeration oil during their
+normal operations this section summarizes the performance indicators that impact the environment
+in which we do business the company continues to implement energy efficiency measures improve
+warehouse design and optimize operational practices to minimize environmental impact the critical
+performance indicators that were identified by uscs include
+
+    energy consumption
+    green house gas emissions
+    water consumption
+    sewage generation
+    waste oil generation
+    renewable energy generation solar
+
+the performance indicators utilized were based on yearly statistics compiled from every uscs facility
+a full breakdown of these statistics is provided in the appendix
+
+energy consumption en3
+
+in 2015 uscs consumed 272460078 kwh 980186 gj of power across all facilities an increase
+over last years total of 243871808 kwh 877959 gj the average cubic storage capacity of the
+company increased from 213185000 cubic feet 6036717 cubic meters to 239612000 cubic
+feet 6785045 cubic meters in order to account for the changing amount of cold storage space
+uscs internally uses power consumption per cubic food to measure the efficiency performance of the
+company as a whole
+
+
+
+                                        uscs kwh per cubic feet
+
+                                                iarw 2014 average  124 kwh per cubic feet
+            kwh per cubic feet
+
+
+
+
+                                 125
+                                         124
+
+                                                        119
+
+                                                                       114             113
+
+
+
+                                 2011    2012           2013           2014             2015
+
+
+              chart 12 fiveyear average uscs kwh per cubic foot compared to the international
+           association of refrigerated warehouses iarw industry fiveyear average as reported in the
+             2014 iarw production and benchmarking report report is published every two years
+
+                                                       14
+
+environment continued
+
+over the past 5 years uscs has taken several measures to reduce power consumption such as investing
+in energysaving led lighting projects for warehouses bringing in third party energy specialists to
+perform studies at select locations and investing in renewable energy resources such as solar panel
+arrays as expected there is a downward trend in kwh per cubic foot for the company uscs goal is
+to provide yearoveryear kwh per cubic foot reduction by 15 this goal was not realized in 2015
+due to projects that increased power consumption at certain warehouses without significantly increasing
+storage capacity the warehouse in lumberton nc added a new blast freezer addition and a rail dock
+was added to the quakertown east facility both of these projects increased profitability as well as
+energy consumption but did not add to the total cubic capacity
+
+greenhouse gas emissions en16
+over 99 of uscs greenhouse gas emissions in 2015 were generated from the purchase of electricity
+while the remainder was generated from the usage of company owned vehicles
+
+
+                                             uscs 000 lbs co2 per cubic feet
+                                             138
+                                                        135
+              000 lbs co2 per cubic feet
+
+
+
+
+                                                                        133
+
+
+
+                                                                                        121
+
+                                                                                                   115
+
+
+
+
+                                             2011        2012           2013            2014       2015
+
+                                                    chart 13 fiveyear greenhouse gas emissions
+
+uscs has quantified the amount of carbon dioxide it either directly scope 1 activity or indirectly
+scope 2 activity generates as a result of conducting normal business operations the methodology
+for the calculation of these quantities for years 2014 and 2015 are represented in the appendix in
+2015 uscs generated the equivalent of 275880539 lbs 124998 tonnes of carbon dioxide when
+measured relative to storage capacity there is a slight increase over 2014 but still an overall downward
+five year trend which can be attributed to increased energy efficiency companywide this is the result
+of the following factors
+        1 uscs continued investment in energy efficient technologies such as variable frequency
+            drives and led freezer lighting
+        2 continuous improvement philosophy applied to efficient warehouse design and
+            operation
+        3 energy audits at wilmington and minooka
+                                                                        15
+
+environment continued
+
+renewable energy en6
+in 2015 uscs built and commissioned a 268 mw ground based photovoltaic array adjacent to the
+lumberton north carolina refrigerated warehouse facility this system was brought online in mid
+november of 2015 and produced 186270 kwh through the balance of the year the lumberton solar
+array is projected to generate 3595917 kwh of energy over its first twenty years of operation which
+will offset approximately 250000 of power cost per year together with the roof mounted solar array
+in tulare uscs generated 921078 kwh of renewable energy in 2015
+
+the panels require cleaning multiple times per year since system commissioning 4541318 kwh
+of renewable energy has been generated which is approximately 03 of uscss annual energy
+requirement
+
+
+
+
+                                lumberton north carolina solar array
+
+                                                 16
+
+environment  renewable energy continued
+
+                                            uscs solar arrays
+                                        total uscs                   of total usage
+                                                      solar array
+                                       consumption                   produced by
+                                                      output kwh
+                                           kwh                        solar array
+                           2011        243827414        736414       030
+                           2012        242384949        743949       031
+                           2013        248585560        740560       030
+                           2014        243871808        734808       030
+                           2015        272460078        921078       034
+                                  chart 14 solar kwh production comparison
+
+
+
+
+                                            tracy california
+       left to right lorenzo terriquez brenton meeks bill gentis vincent cao johnnie brunet
+                                                     17
+
+environment  renewable energy continued
+water consumptiondischarge en8 en21
+
+water is an essential natural resource that is utilized in all of our warehouses for refrigeration personnel
+hygiene and landscape irrigation
+
+
+
+
+                                               uscs gallons per cubic foot
+               gallons per cubic foot
+
+
+
+
+                                                     105
+                                        094                          096
+                                                                                      091
+                                                                                               073
+
+
+
+
+                                        2011         2012             2013            2014     2015
+
+                                                  chart 15 fiveyear uscs water utilization
+
+the figure in the chart above represents fiveyear water utilization per cubic foot in 2015 uscs
+utilized 174510518 gallons 660592113 litres of water all from municipal water sources 2015
+saw a 16 drop in water usage per cubic foot uscss goal is to reliably measure both water and
+sewer utilization and to reduce consumption on a yearly basis reducing water consumption can be
+achieved by increasing the cycle of concentration on evaporative condensers as well as using rain
+harvesting technologies the amount of wastewater disposed for uscs in 2015 was 93387238 gallons
+353508051 litres all to municipal sewers approximately 60 of the water used by cold storage
+facilities is evaporated into the air or used for landscaping and not sent into sewers
+
+
+
+
+                                                                    18
+
+environment  renewable energy continued
+
+waste oil reduction en22
+
+approximately 4393 gallons 16629 litres of waste oil was recycled in 2015 oil consumption per
+cubic foot has been consistent over the past five years
+
+
+
+
+                                              uscs
+                                           uscs      oil gallons
+                                                oil gallons      per 000
+                                                            per 000 cubic foot
+                                                       cubic foot
+                                           0024
+             gallons per 1000 cubic feet
+
+
+
+
+                                                    0023
+                                                                   0021            0021
+                                                    0024
+                                                                                            0018
+                                                                   0023
+
+                                                                                            0022
+                                           0021
+                                                                                    0020
+
+
+                                            2011
+                                            2010    2012
+                                                    2011            2012
+                                                                    2013            2014
+                                                                                    2013    2015
+                                                                                            2014
+
+                                                   chart 16 fiveyear uscs recycled oil
+
+uscs continues the practice of replacing mineralbased refrigeration oil with synthetic refrigeration
+oil when new oil is to be purchased synthetic oil has proven to provide a longer cycle between oil
+changes due to synthetic oils higher thermal viscosity chart 16 above represents recycled oil per
+1000 cubic feet thus far recycled oil has been the only waste product monitored by uscs going
+forward the company has made plans to record all other forms of waste from our facilities such as
+used stretch wrap and damaged pallets it is our goal as a company to become zerolandfill with
+regards to solid waste
+
+
+
+
+                                                                    19
+
+     appendix a  environmental statistics us
+
+
+     united states cold storage                                        report                                       quantity for the year                                                       quantity per unit of output
+     environmental statistics                                        reference          unit          2015          2014          2013          2012          2011            unit         2015          2014          2013      2012       2011
+     business volume indicators
+     revenue                                                                           usm                                                                                                                                       
+     average amount of cold storage space for the year               page 4 10         cu ft      239612000   213185000   208020000   195277000   193776000                                                                  
+     average headcount                                                                  no           2795         2379         1900         2007         1761                                                                     
+
+
+     electricity consumed actual                                                      kwh        272460078   243871808   248585560   242384949   243827414     kwhcu ft       114          114          120      124       126
+     less electricity generated                                       page 14           kwh          921078       734808       740560       743949       736414
+     electricity purchased                                                              kwh        271539000   243137000   247845000   241641000    243091000    kwhcu ft       113          114          119      124       125
+
+     greenhouse gas ghg
+     co2 equivalent emissions by type
+
+
+
+
+20
+       scope 1 co2 from industrial diesel  town gas                                                1051826      722675      1380976     1321089     1363098                                                                    
+       scope 1 from hfc                                                                                 0             0             0             0             0                                                                        
+                                                                      page 15            lb
+       scope 2 electricity                                                                        274828713   257550771   275579175   262651629   264861402                                                                   
+       total                                                                                       275880539   258273447   276960151   263972718   266224500                                                                   
+     water
+     water consumed
+         potable                                                      page 18            gal       174510518   194202575   199845029   204364050   182674560    gal000 cu ft    72830         91096       96070   104653    94271
+
+     process wastewater disposed                                       page 18           gal        93387238       04             03           02            01         gal000 cu ft                                                 
+
+     solid waste produced
+     waste oil                                                         page 19           gal         4393         4445          4362        4539          4585       gal000 cu ft     0018             0021     0021     0023      0024
+
+
+
+     health and safety statistics
+     lost time injury rate ltir                                      page 11      200000 hrs      104          094           127         113          121                                                                      
+     total recordable injury rate trir                               page 11      200000 hrs      374          420           548         600          749                                                                      
+
+
+
+     1
+       2011 sewer volumes are omitted as the information from some facilities is not available
+     2
+       2012 sewer volumes are omitted as the information from some facilities is not available
+     3
+       2013 sewer volumes are omitted as the information from some facilities is not available
+
+          appendix b  environmental statistics si
+
+     united states cold storage                                           report                                         quantity for the year                                                                quantity per unit of output
+     environmental statistics                                            reference          unit          2015          2014           2013          2012          2011                 unit            2015            2014          2013          2012          2011
+     business volume indicators
+     revenue                                                                               usm                                                                                                                                                         
+     average amount of cold storage space for the year                   page 4 10         m3          6785045     6036717      5890461     5529620     5487116                                                                                    
+     average headcount                                                                      no           2795         2379          1900         2007         1761                                                                                      
+
+     energy and fuel use
+     electricity consumed                                                                    gj         980186       877959         894920      872559       877769               gjm3            014            015          015          016          016
+     less electricity generated                                           page 14            gj          2645         2666           2678        2651         2641                                                                                          
+     electricity purchased                                                                   gj         977540       875293         892242      869908       875128               gjm3            014            014          015          016          016
+
+     greenhouse gas ghg
+     co2 equivalent emissions by type
+
+
+
+
+21
+       scope 1 co2 from industrial diesel  town gas                                                     32780        62640         42140       43480        64400                                                                                        
+       scope 1 from hfc                                                                                    0             0               0            0             0                                                                                          
+                                                                          page 15           tonne                                                                                 tusm of turnover
+       scope 2 electricity                                                                             124660       116823         125001      119137       120139                                                                                       
+       total                                                                                            124988       117449         125422      119572       120783                                                                                       
+     water
+     water consumed
+         potable                                                          page 18           litres     660592113   756988747    755007614   693238815   631470017              lm3           9736          12540           12817       12537        11508
+                                                                                                                                                                                              3
+     process wastewater disposed                                          page 18           litres     353508051       04              03           02            01                   lm                                                                   
+
+     solid waste produced
+     waste oil                                                            page 19           litres       16629        16826          16512       17182        17356             l 1000 m3                 245           279          280          311        316
+
+
+
+     health and safety statistics
+     number of incidents resulting in days away from work                 page 11       200000 hrs      104          094            127         113          121                                                                                       
+     total recordable injury rate trir                                  page 11       200000 hrs      374          420            548         600          749                                                                                       
+
+     1
+       2011 sewer volumes are omitted as the information from some facilities is not available
+     2
+       2012 sewer volumes are omitted as the information from some facilities is not available
+     3
+       2013 sewer volumes are omitted as the information from some facilities is not available
+     4
+       2014 sewer volumes are omitted as the information from some facilities is not available
+
+
+
+
+                                                                                                                                                                             11
+
+       united states cold storage
+             headquarters
+               four echelon plaza
+201 laurel road suite 400  voorhees nj 08043
+    tel 8563548181  fax 8567721876
+
+             wwwuscoldcom

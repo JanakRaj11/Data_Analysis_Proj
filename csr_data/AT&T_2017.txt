@@ -1,0 +1,752 @@
+2016 annual sustainability update
+
+
+
+
+           connecting
+           people     opportunity
+
+                          table of contents
+
+
+none of this would be
+ possible without our
+ employees who are
+ as dedicated to their        letter from our chairman and ceo                 3
+ communities as they
+                              letter from our chief sustainability officer   45
+ are to their jobs
+                              sustainability perspectives
+ randall stephenson          connecting our cities to be cleaner
+chairman and                  safer  stronger                                6
+chief executive officer       connecting students to their dreams              7
+                              connecting employees to their communities       8
+
+                              sustainability by the numbers                    9
+
+                              progress toward goals
+                              our network  customers                         13
+                              our supply chain                                16
+                              our communities                                 20
+
+                              citizenship  sustainability                    22
+                              steering committee
+
+                          letter from our chairman and ceo
+                          since our start att has been about one thing harnessing the power of our network to change
+                          lives and improve the world and just as our network technology has gotten better over the
+                          years so has our ability to address some of societys toughest challenges
+
+
+                          a great example is education       to better ways to conserve          leveraging technology to build
+                          where technology is radically       fuel through smart traffic          a better tomorrow is something
+                          changing how students learn         management our 2025 goal          we take very seriously i invite
+                          and teachers teach in the us    to enable carbon savings for        you to learn more about our
+                          att aspire our 400 million       our customers that are 10x the      efforts in the following pages
+                          education initiative is helping    footprint of our operations
+                          prepare more young people
+                                                              finally as one of the worlds
+and just as our          to succeed in school on the                                            randall stephenson
+                          job and in life were working      largest telecommunications
+ network technology                                                                               chairman and chief
+                          with external organizations        companies we want people to
+ has gotten better                                            use our technology responsibly     executive officer
+                          like udacity coursera and
+ over the years so has   numerous universities  to          over almost 8 years our it can
+ our ability to address   create opportunities for            wait program has signed up
+ some of societys        specialized online degrees          millions of us drivers who have
+                                                              pledged to keep their eyes on
+ toughest challenges    or certifications and in latin
+                          america our escuela initiative    the road not on their phones
+                          has connected teachers and          and now were expanding our
+                          students in more than 7500         initiative to mexico
+                          schools across 8 countries to a     none of this would be possible
+                          world of educational discovery     without our employees who
+                          were even using these same         are as dedicated to their
+                          tools to help our employees gain    communities as they are to their
+                          the hightech skills they need as   jobs in 2016 att employees
+                          we become a more software          and retirees volunteered more
+                          centric company                    than 54 million hours to make
+                                                              their communities better places
+                          technology can also speed           to live and work
+                          the transition to a lowcarbon
+                          economy  from networks
+                          that use less energy and water
+
+3
+
+                            letter from our chief sustainability officer
+                            we are living in a time of extraordinary global change amidst the ongoing digital revolution
+                            rapid urbanization and the impacts of climate change our world is a different place than it
+                            was even a year ago thats why we focus on one central question how can we harness
+                            connectivity and the power of our network to create meaningful lasting benefits in a world
+                            thats evolving so quickly
+
+
+                            we see great opportunity              268 and 857 million higher     to hiring 100 nanodegree
+                            for connectivity to affect            than for those who did not       graduates as interns in
+                            positive change for individuals      graduate high school this is    our workforce
+                            communities and environments          important work
+                            that need it most and we                                              were also developing solutions
+our dedicated smart        are working to realize this           since 2008 we have committed    to improve the way cities use
+ cities business            opportunity through a variety         400 million to atts aspire    resources and take care of their
+ unit looks at ways         of initiatives                       programs and its not just      citizens our dedicated
+                                                                  about funding we get deeply     smart cities business unit looks
+ connectivity can help
+                            for example through att             involved and work closely        at ways connectivity can help
+ the environment and        aspire we connect students           with other organizations to      the environment and society
+ society through carbon     to resources that help them           help prepare the future talent    through carbon emissions
+ emissions reduction       stay on track to graduate and         of our country as well as our   reduction improved public
+ improved public safety    succeed in this report well tell   own employees with the skills   safety efficient transportation
+ efficient transportation   you about fidel a high school        they need for years to come     and more in 2016 we began
+ and more                 senior who made great strides         for instance weve teamed       deploying technological
+                            through our virtual mentoring         up with education institutions   solutions in 8 pilot cities and
+                            program stories like his and        to develop new pathways to       communities and launched
+                            data collected from aspire           learning and with technology    a smart cities framework to
+                            funded programs show that            leader udacity we developed a   support municipalities in their
+                            were making progress in              nanodegree program being used    efforts to be cleaner safer
+                            addressing the high school drop      by employees and thousands of    and stronger
+                            out crisis in fact thirdparty      other people around the world
+                            research of 30 evidencebased         to build upon the opportunity    as a leader in this technological
+                            programs funded through aspire        of learning were committed     revolution our company is
+                            finds that the lifelong return       to providing 1200 nanodegree    passionate about keeping people
+                            on investment for participating       credential scholarships to       safe through the responsible
+                            students moving or staying on         underserved students through     use of new access and devices
+                            track to graduate is between          our nonprofit partners and      weve long advocated against
+
+   4
+
+    letter from our cso continued
+
+
+    distracted driving and are adding resources to address our concern
+    about the growing reality of online hate in 2016 we launched
+    laterhaters a campaign aimed at empowering young people to
+    stand up to online abuse and im encouraged by the campaigns
+    progress so far
+
+    these are just a few of the ways in which att technology and
+    the dedication of our employees is helping connect people to new
+    solutions and opportunities i hope youll follow along on our website
+    and connecttogood as we embrace the opportunities ahead in
+    the meantime please enjoy this annual update and take a look at the
+    strides weve made so far
+
+
+
+    charlene lake
+    svp corporate social responsibility and
+    chief sustainability officer
+
+
+
+
+5
+
+                               connecting                                    be cleaner safer
+the things we can do          our cities                                     stronger
+ with todays technology
+ our ability to connect        cities never sleep on a simple stroll down the sidewalk your senses are inundated  sirens
+                               car horns people talking children playing buildings humming yet for all we can hear and see
+ everything its amazing
+                               in cities some of the biggest urban challenges  traffic congestion resource use and carbon
+ sensors on water pipes        emissions  stem from an inability to see and coordinate these moving pieces
+ are detecting leaks in a
+ timely manner to save
+ water street lights will     this is where we can use            chandana vangapalli an mba         full picture of how technology
+ have video cameras on         technology in revolutionary         student from the university         benefits the environment
+                               ways att is teaming up with       of north carolina  chapel hill
+ them which can make          companies to deploy innovative      worked closely with atts          with the increased visibility that
+ streets safer all of the     solutions throughout cities        smart cities team to help build a   smart technology provides
+ smart city technology         making them smarter were        new measurement framework          we can help cities address
+                               also developing connected                                               widespread challenges so they
+ combined can help                                                 the work we started with            can become cleaner safer
+                               solutions to help cities
+ citizens and city officials   improve the way they use            chandana through the edf            and stronger
+ make better decisions        resources and take care of          program is helping us reach
+                                                                   our 10x goal by 2025 we seek    read more about our efforts at
+ every small step adds up      their citizens but what if we                                          wwwattcomcsr
+                                                                   to enable carbon emissions
+ to make a big impact in       could use the efficiencies
+                                                                   reductions for our customers
+                               created by this technological
+ our world                                                       that are 10x the amount
+                               revolution to understand a citys
+                               environmental impact  and          produced by atts operations
+ chandana vangapalli                                              this goal includes reducing our
+former edf climate corps       improve it
+                                                                   own emissions while helping
+fellow                         last summer we teamed up            our customers leverage our
+                               with the environmental defense      technology to do the same we
+                               funds edf climate corps          are collaborating with experts
+                               program to host one of their        from carbon trust and bsr
+                               research fellows who helped         to expand upon chandanas
+                               us calculate the potential          research and develop a
+                               environmental savings of            consistent and repeatable
+                               technology in smart cities       methodology so we can get the
+
+
+
+
+   6
+
+                            connecting                                         their
+                            students                                           dreams
+                            presence sometimes it is all we need an ear to listen and a voice to reassure us and offer a
+                            few words of advice for students struggling in school the absence of an involved adult often
+                            exacerbates the problem thats why mentoring programs can be so powerful
+
+
+
+                            through atts aspire               he connected virtually with        angela is just one of our many
+                            mentoring program weve            angela hawksjohnson an att      employees who have mentored
+                            connected more than 260000         network specialist in houston     students online and in person
+                            students with employees face       despite being more than            through att aspire
+                            toface this past year however   1500 miles apart they formed a
+                            we took our program to a new        strong bond                       all young people deserve to have
+                            level  collaborating with online                                      a role model in their lives to help
+                            mentoring groups icouldbe          she is like a member of my        them succeed our network
+                            imentor nepris and we teach         family says fidel angela       connects mentors like angela
+                            science to connect even more         became fidels goto person      with students like fidel and can
+                            students to this opportunity        they talked about school and      bring this opportunity to more
+                                                                 time organization but their      students  helping to bridge
+                            fidel is one young man who           real connection came through      the gap between dreams
+                            experienced the power of a           sharing about everyday life      and reality
+                            virtual connection in his life      when fidel logged online he
+                                                                 knew someone was there
+15 million                 a high school senior from
+                            westminster calif fidel was
+                                                                 wanting to hear about how he
+                                                                 was doing and help
+                            struggling in school and had
+hours of                    difficulties managing time          now in his senior year fidel is
+mentoring                   between academics sports and       making great strides in school
+                            a job so he entered the att      running for student office
+by employees provided to
+                            supported icouldbe program         and making progress toward
+260000 students through
+                            which brings mentors and            his dream of becoming a
+att aspire
+                            students together online           neurologist or audiologist
+
+
+
+
+7
+
+                                                                         their
+    rita figueroa
+    with student    connecting
+                    employees                                            communities
+                    meet rita figueroa rita is a retired professional boxer from chicago and is currently a service
+                    manager in att customer relations but what makes rita so extraordinary is the more than
+                    500 hours she spent last year volunteering her time to coach atrisk youth
+
+
+
+                    ritas contributions include helping young men and women        once boxing is a
+                    find their way off the streets and back on track to a better    part of you its in
+                    life through boxing she goes to the gym multiple times a
+                                                                                    you i was forced into
+                    week  from early in the morning to late into the night and
+                    on weekends  encouraging and inspiring her students          retirement due to an
+                    to get their cardio sparring pad and bagwork done right    injury but i knew i
+                                                                                    still had contributions
+                    rita also teaches a womenonly class focused on self
+                                                                                    to make
+                    defense i think any time women feel empowered and
+                    strong theyre better able to do anything rita said          rita figueroa
+                    in the us and across the globe dedicated att employees      service manager
+                    like rita volunteered more than 54 million hours of their      att customer
+                    time to important causes in 2016 we are grateful for their     relations
+                    contribution and are proud to support their efforts
+
+
+
+
+                     54m
+                    hours volunteered through
+                    employee and retiree volunteer
+8
+                    programs in 2016 across the world
+
+sustainability
+by the numbers
+
+9
+
+by the numbers
+
+           15m                                                             4m
+                                 hours of                                                       locations
+                                 mentoring                                                      reached
+          by employees provided to 260000                                  in 2016 against a goal to expand allfiber
+          students through att aspire since 2012                            internet access capability to at least 125m
+                                                                             customer locations by mid2019
+
+                                                        10
+
+
+
+          7500                 schools                                     40m inpledges
+                                                                                       employee
+
+          in 8 latin american countries                                      through our employee giving campaign in 2016
+          impacted by escuela in 2016
+
+
+
+
+          101m realized                                                      54m                   hours
+                                                                                                      volunteered
+          in annualized energy savings from                                  through employee and retiree volunteer
+          25000 energy projects in 2016                                     programs in 2016 across the world
+
+
+
+
+                                                    142b
+                                                    spent with minority women servicedisabled
+                                                    veteran and lgbt business enterprises in 2016
+     10
+10
+
+                                         15m pledges
+                                         since 2010 to keep eyes on the road and not on
+                                         the phone through the it can wait campaign
+
+
+
+
+     803                               average
+                                         score                                             25000 enrolled
+     for top suppliers on the balanced                                                    since 2014 in udacity nanodegree courses that
+     cs scorecard in 201611                                                              prepare learners for highdemand tech careers
+
+
+
+
+      50                                                                                 120m recycled
+                                    spend of                                                                      refurbished or
+                                    suppliers
+     who track ghg emissions and have ghg                                                 directv uverse and att mobility devices
+     goals as of 2016                                                                     since 2007
+
+
+
+
+      600 organizations
+     are collaborating with att to promote the
+     access from att home internet program
+     for lowincome households
+
+
+
+11   1
+         this does not include video content and entertainment companies
+
+progress toward
+our 20202025 goals
+
+
+
+
+12
+
+                            our network  customers
+
+                                     progress toward our network
+                                      customers 2020 goal
+
+     2020 goal                      reduce our scope 1 emissions by 20 by 2020 using a 2008 scope 1 baseline of
+                                     1172476 mtons co2e
+     we will continue to             in 2016 we emitted 1140631 mtons co2e scope 1 this represents a 272 decrease
+     drive reductions in             compared to our 2008 baseline although it is a slight uptick from 2015 due to
+     emissions and increases         changes in the business two challenges were experiencing with this scope 1 goal
+                                     are growth in our ground fleet and our expanded fuel cell capacity
+     in resource efficiency
+     and alternative energy          our us ground fleet emissions were up from 2015 as a result of the directv
+     deployment we will             acquisition and inclusion of its fleet
+     enable att customers           emissions from natural gas were up from 2015 driven in part by additional fuel cells
+     to lead more sustainable        fuel cells are a key component to our resiliency and efficiency and have the added
+     lives by expanding              benefit of reduced emissions because fuel cells are counted as scope 1 emissions
+     access to technology           rather than scope 2 our usage of them will put pressure on our ability to meet our
+     further integrating             scope 1 goal
+     sustainability solutions
+     into products and
+                                     reduce the electricity consumption of our company relative to data growth on
+     measuring the impacts
+                                     our network by 60 by 2020 baseline of 2013
+                                     relative to our 2020 target for energy intensity 93mwh electricitypetabyte of
+                                     network traffic att has achieved a 43 reduction compared to the 2013 baseline
+                                     of 233 mwhpetabyte2 atts electricity consumption in megawatt hours per
+                                                                      21
+
+
+
+
+                                     petabyte of data carried on its network atts energy intensity metric for 2016 is
+                                     139 mwhpetabyte
+                                     2
+                                       portions of the traffic data volume are measured and others must be estimated uverse estimation methodologies
+                                     and data sources have evolved from providing varied and coarse estimates since inception and through 2015 to the use
+                                     of the ip analytics portal in 2016 as of january 2016 uverse data is now more accurate than it has ever been though it
+                                     is actually much lower than previously anticipated the improved uverse tv traffic data methodology has been applied
+13                                   retroactively to recalculate the energy intensity that would have been reported from january 2014 to present
+
+our network  customers continued
+
+
+        develop and deploy robust methodology to                    for a fouryear period beginning in 2016 att will offer
+        understand atts network impacts to society               discounted wireline broadband service where technically
+        in 2016 att engaged with leading ngos industry           available within atts 21state wireline footprint to
+        groups and peer companies to develop a credible             lowincome households that qualify for the governments
+                                                                    supplemental nutrition assistance program in locations
+        methodology to measure the greenhouse gas impacts of
+                                                                    where its available we will offer service with download
+        customers use of atts technology in an effort to track
+                                                                    speeds of at least 10 mbps for 10 per month elsewhere
+        progress against our 10x goal
+                                                                    we will offer 5mbps service for 10 per month or 3mbps
+                                                                    for 5 per month where such services are available 3
+                                                                    on april 22 2016 att launched access from att the
+        by midyear 2019 att will have expanded its all
+                                                                    discounted broadband services program throughout its
+        fiber internet access service to reach at least 125        21state wireline footprint since that time access from att
+        million mass market customer locations such as             has helped to shrink the digital divide by connecting low
+        residences home offices and very small businesses         income americans to the internet as part of our access from
+        combined with atts existing highspeed broadband          att outreach efforts weve connected with more than 600
+        network at least 257 million customer locations will      national state and local groups that work with lowincome
+        have access to broadband speeds of 45mbps
+                                                                    individuals and families to help make sure qualified individuals
+        or higher 3
+                                                                    and households are informed about and have access to the
+        by the end of 2016 we deployed fiber internet access       program these organizations include social service groups
+        service to nearly 4 million locations well exceeding the   and groups representing veterans seniors nonenglish
+        yearend milestone for 2016                                speakers and others we also began a collaboration with the
+                                                                    us department of housing and urban development to hold
+                                                                    a series of local events to help increase awareness of our
+        for a fouryear period beginning in 2015 att will         program among hud residents additionally weve reached
+        offer up to 1 gbps service to any eligible school or        out to local school districts across our footprint asking them
+        library requesting erate supported services where         to include information about the program in communications
+        we have deployed fiberbased broadband internet
+                                                                    to families
+        access services 31
+        att offered 1 gbps service in response to any eligible
+        schools and libraries that submit bids for 1 gbps speeds
+        for the 2017 erate funding year in areas where att has
+        deployed fiberbased internet access service
+
+
+
+        3
+            conditions of fcc dtv merger order
+
+
+14
+
+our network  customers continued
+
+
+         reduce the emissions of our fleet by 30 by 2020 from           provide sustainability information for all attbranded
+         our 2008 baseline includes directvs fleet                   networkconnected consumer wireless devices
+         by the end of 2016 att reduced fleet emissions by 99000      a comprehensive consumer strategy will provide a
+         metric tons of co2e or 12 from our 2008 baseline 100 of     roadmap for providing ecorating andor responsible
+         passenger sedans procured in 2016 were hybrid vehicles in      recyclingreuse information to consumers for most
+         addition att reduced the size of its domestic fleet by        wireless devices sold by att
+         1800 vehicles                                                 since early 2016 att has been collaborating with bsr to
+                                                                         develop a roadmap across the enterprise that will provide
+                                                                         consumers with information regarding environmental
+         collect more than 200 million devices for reuse                attributes and responsible recycling information for all
+         refurbishment or recycling by endofyear 2020                 attbranded network connected wireless devices
+         at the end of 2016 approximately 120 million devices have
+         been refurbished or recycled this includes 58 million
+         directv refurbished devices 20072016 169 million           demonstrate the environmental and social enablement
+         directv recycled devices 20112016 97 million uverse       power of consumer devices and solutions to live
+         recycled devices 20122016 and 371 million att mobility    smarter healthier and more independent lives
+         devices 20092016                                            collaborate both internally and externally to help
+                                                                         quantify the environmental and social sustainability
+                                                                         enablement impacts of att consumer devices and
+         expand our onsite alternative energy capacity to at            solutions eg internet of things digital life eco
+         least 45 mw  more than double our 2014 capacity               ratings connected car education accessibility
+         by the end of 2017 and intensify our pursuit of offsite        as att builds an overarching measurement methodology
+         renewables with competitive financials                         to reach our 2025 goal of enabling carbon reductions 10
+         in 2016 att expanded its fleet of natural gas fuel cells by   times the footprint of our operations we consider the
+         1332 mw with 21 sites commissioned in california and one in   relevant consumerfacing products and services that will
+         new jersey this growth brings our total onsite alternative    help us reach our goal working with our internal business
+         energy capacity to 399 mw in just 2016 we made a 29         units we continue to identify the environmental and social
+         increase toward our alternative energy goal the estimated      benefits associated with specific devices and solutions as
+         combined energy production from these new facilities is         well as their power to enable smarter healthier and more
+         almost 111 million kwh annually and the estimated energy       independent lives
+         production of the entire renewable energy portfolio is over
+         298 million kwh annually by the end of 2017 we fully expect
+         to have exceeded our alternative energy capacity goal and
+         by a fair margin
+
+15
+
+     2025 goal               progress toward our network
+                               customers 2025 goal
+     by 2025 att will
+     enable carbon savings
+     10x the footprint        deliver customer solutions to achieve net positive ratio
+     of our operations        att joined bsrs net positive project in 2016 a crosssector
+     by enhancing             coalition that aims to develop practices and tools companies
+     the efficiency of        can use to quantify assess communicate and enhance their
+                              positive impacts on society and the environment
+     our network and
+     delivering sustainable
+     customer solutions
+                              enhance network efficiency to enable the achievement of
+                              the net positive ratio
+                              were working to reduce our operational carbon footprint
+                              please see our greenhouse gas emissions and energy
+                              management issue briefs for more information
+
+
+
+
+16
+
+                                           our supply chain
+                                                        progress toward our supply chain 2020 goal
+
+
+                                                     by the end of 2017 achieve an average score of 80 or higher for top
+                                                     suppliers on the supplier sustainability scorecard which covers four
+     2020 goal                                      key categories including policy breadth rigorous goals reporting
+                                                     transparency and supply chain governance
+                                                     at the close of 2016 att global supply chain is pleased to report that it has
+     we will lead our                                achieved its 80 by 2017 goal with a score of 80351the goal was established
+     supply chain to                                 in 2012 to measure the supplier base focused on our network consumer
+     improve its social                              equipment and corporate services going forward we are working toward
+     and environmental                               our new 2020 and 2025 goals that include shared industry approaches in
+     impacts by integrating                          measuring sustainability
+     sustainability
+     performance metrics
+     into our sourcing                               by the end of 2018 incorporate sustainabilityoriented standards or
+                                                     analysis into our sourcing decisions with strategic suppliers
+     decisions for 80 of
+     our spend41                                    our global supply chain organization held its third supplier conference in
+                                                     june 2016 where we presented the importance of our sustainability program
+                                                     to over 325 supplier representatives this included a special emphasis on our
+                                                     goals which require suppliers to adhere to our principles for conduct and
+                                                     participate in assessments and audits att continues to make progress
+                                                     with efforts including incorporating sustainability clauses into agreements
+     4
+       this goal is focused on network              and rfps training our sourcing managers on the principles of sustainability
+     consumer equipment and corporate                and providing updates to sourcing managers on supplier sustainability
+     services spend and does not include
+     video content and entertainment                 performance att will continue to expand incorporation of sustainability
+     companies                                      oriented standards and analysis into sourcing decisions
+
+
+
+
+                                                     5
+                                                      the 803 does not include video content and entertainment companies looking ahead we are focusing on an
+                                                     industrywide measurement for assessing our suppliers
+
+17
+
+                              progress toward our supply
+                              chain 2025 goal
+
+     2025 goal               establish clear agreedupon industry sustainability metrics
+                              in 2016 working with tl9000 industry group quest forum www
+     we will work with        questforumorg we helped to develop and publish an industry
+     our industry peers       sustainability measurement tool the quest sustainability assessor
+     to develop and           this tool provides actionable best practices for organizations that help
+     promote adoption of      accelerate their sustainability programs in 2017 we plan to pivot from
+     sustainability metrics   our att supplier assessment to this thirdparty industry tool visit
+     that will transform      wwwquestforumorgsustainability for information and updates
+     the environmental        att working with cdp supply chain annually reaches out to about 500
+     and social impact of     of its suppliers  representing approximately 80 of its spend  to
+     technology supply        report on greenhouse gas emissions using industryaccepted methods
+     chains                  we gather and analyze data on these suppliers emissions reduction
+                              goals and progress as a result in 2016 we were able to report our
+                              thirdannual estimate of our supplier emissions
+
+                              also in 2016 att joined the joint audit cooperation jac which
+                              facilitates collaboration among peer telecom companies and
+                              information communication technology suppliers to verify and audit
+                              supply chains on areas such as labor practices human rights health and
+                              safety ethics and the environment jac corporate social responsibility
+                              csr audits are conducted by recognized independent thirdparty
+                              auditors at suppliers manufacturing facilities using a common
+                              audit framework
+
+
+
+
+18
+
+our supply chain continued
+
+
+
+
+                               promote the use of these metrics in industry sourcing
+                               att suppliers are currently using cdp supply chain metrics to measure and
+                               report their greenhouse gas emissions this is providing our company and the
+                               other participating companies the necessary means to benchmark supplier
+                               emissions and work with suppliers on making improvements
+
+                               see wwwquestforumorgsustainability for information and updates
+
+
+
+                               develop and follow an industry roadmap toward truly
+                               sustainable performance
+                               att is moving its suppliers along an industry roadmap with cdp supply chain
+                               and quest forum to continuously improve measurements benchmarking and
+                               results in sustainable supplier performance
+
+
+
+
+19
+
+                                                                                                19
+
+                          our communities
+
+                                progress toward our
+                                communities 2020 goal
+
+     2020 goal                                                                       2020 goal
+                                plan to contribute an additional 250 million by 2017 to drive innovation in
+                                education support effective local programs and create collective impact
+     we will invest
+     resources develop         we completed this goal and increased our total commitment through att
+                                aspire to 400 million by the end of 2017 program highlights included
+     initiatives and
+     collaborate with            working with udacity to expand the nanodegree program which offers new educational
+     stakeholders                 online pathways to industryrelevant skills to prepare more people with the skills needed
+                                  for highdemand tech jobs requiring technological expertise there are now more than
+     with the goal of
+                                  25000 learners taking nanodegree courses
+     increasing the
+     us high school            supporting a number of organizations that help underserved students develop computer
+                                  science and coding skills including girls who code black girls code and codeorg
+     graduation rate to
+     90 by 2020                contributing to innovative organizations such as icouldbe imentor and we teach science
+                                  to help even more students explore their potential through online mentoring
+
+
+
+
+20
+
+our communities continued
+
+
+
+
+                                                                             2020 goal
+                              encourage technology application to solve vexing education challenges
+                              through the att aspire accelerator for nonprofits and forprofits
+                              in 2016 att selected 6 organizations for the second att aspire accelerator class
+                              to support with a customized program that includes financial investment access
+                              to expert services and mentorship the 11 participants from the first 2 classes have
+                              thrived in the program and together have reached more than 4 million students
+
+
+
+                              offer 100 million of free mobile broadband access through 2017 in
+                              collaboration with the white house connected initiative
+                              in 2014 att committed  as part of the white houses connected initiative  to
+                              provide 100 million of free mobile broadband connectivity for mobile learning
+                              to students and teachers in title i schools across the country over the next few
+                              years starting in 2016 although the connected initiative is no longer an active
+                              program att has committed to provide connectivity to approximately 30000
+                              devices made available by a thirdparty manufacturer that also is a connected
+                              participating company connected devices are being provided to students and
+                              teachers based on the deployment decisions and readiness of the participating
+                              schools and we consider this goal to be completed
+
+
+
+
+21
+
+                           progress toward our
+                           communities 2025 goal
+                           by the end of 2017 promote stem training by codeveloping and
+     2025 goal            attracting 10000 students to the georgia tech online masters degree
+                           in computer science program and 23000 students to the udacity
+                           nanodegree program
+     we will invest
+     resources develop    as of eoy 2016 more than 25000 learners have enrolled in nanodegree
+                           programs sponsored by att nearly 2000 of whom are att employees
+     initiatives and
+                           these learners are earning credentials that propel them to the next stage
+     collaborate with      in their careers worldwide more than 19 million learners have benefitted
+     stakeholders to       from nanodegree curriculum gaining new industryaligned knowledge
+     close the skills
+                           additionally the georgia tech online computer science project has
+     gap by increasing
+                           attracted more than 10000 students through applications and enrollments
+     the number of         and more than 400 att employees are actively enrolled in the program as
+     americans with        of end of 2016
+     highquality post
+     secondary degrees
+     or credentials to
+     60 by 2025
+
+
+
+
+22
+
+citizenship  sustainability steering committee
+our citizenship  sustainability steering committee comprises officers with responsibility for the business areas most
+linked to current citizenship and sustainability priorities each member represents herhis entire organization to reach a
+broad range of issues and perspectives
+
+
+corey anthony                                     susan johnson                                      mark schleyer
+senior vice president  human resources           senior vice president  global supply chain       senior vice president  corporate real
+and chief diversity officer att services inc   att services inc                                 estate att services inc
+
+jeff bradley                                      charlene lake                                      scott smith
+senior vice president  device and network        senior vice president  corporate social           senior vice president  human resources
+services marketing att mobility                 responsibility and chief sustainability officer   operations att services inc
+                                                  att services inc
+len cali                                                                                             larry solomon
+senior vice president  global public policy     david lawson                                       senior vice president  corporate
+att services inc                                senior vice president and assistant general        communications att services inc
+                                                  counsel att services inc
+andre fuetsch                                                                                        steve stine
+president  att labs and chief technology        jeffrey lewis                                      senior vice president  operations
+officer att services inc                       senior vice president  compliance and             planning  optimization
+                                                  chief accessibility officer att services inc    att technology operations
+tony goncalves
+senior vice president  strategy and              roman pacewicz                                     mike viola
+business development                             senior vice president  offer management           senior vice president  investor relations
+att entertainment group                          and service integration att services inc        att services inc
+
+
+
+
+23
+
+
+
+
+23
+
+go further
+aboutattcomcsrreporting
+
+     issue brief library
+     gri table
+     kpi table
+     value chain map
+     cs steering committee
+
+connect to good
+     connecttogood
+     attimpact
+
+     connecttogood

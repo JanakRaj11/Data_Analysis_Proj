@@ -1,0 +1,1428 @@
+2014 automotive sustainability report
+15th edition  2013 data
+
+
+
+
+                                       the society of
+                               motor manufacturers
+                                 and traders limited
+                              smmt the s symbol and the driving the motor
+                            industry brandline are trademarks of smmt ltd
+
+ in summary
+                                                                                                                              15 years               1 year  
+                                                                                     1999              2012          2013     change 2013             change 2013
+                                                                                                                                on 1999                 on 2012
+  as     number of signatories                                                               11              19            23    1091 é                 211   é
+  economic performance
+        automotive manufacturing sector turnover   billion                         441               581          641          454 é               103      é
+         expenditure on business rd                               billion         09                17            19       1209 é                  97     é
+  wi
+         total number of cars and cvs produced                      million                20            16            16       193 ê                  13     é
+         total new car and cv registrations                         million                22            23            26         185 é               108      é
+         signatories combined turnover                              billion         201               622          693        2450 é                115      é
+ as
+         total number of vehicles produced                          million          144               151          153           64 é                 16     é
+ environmental performance
+ production inputs
+ as    total combined energy use                                    gwh              6110             4976         4936         192 ê                 08     ê
+ vms     energy used per vehicle produced                           mwhunit          310               222          229         263 ê                 30     é
+  as     total combined water use                                   000m3           9620             5951         6254         350 ê                  51     é
+  vms    water use per vehicle produced                             m3unit           53                29            30       432 ê                  39     é
+  material outputs
+  as    total combined co2 equivalents               tonnes                      1821586 1510783 1449651                      204 ê                40     ê
+                                                     tonnes
+         co2 equivalents per vehicle produced        unit                              110               064          064         415 ê                 01     ê
+  vms    volatile organic compounds emissions cars gm2                                  55            353          371         325 ê                 52     é
+         volatile organic compounds emissions vans gm2                              59               605          545          76 ê                99     ê
+  as     total combined waste to landfill                           tonnes          54954            13801         9286         831 ê                327     ê
+  vms    waste to landfill per vehicle produced                     kgunit         4030               587          349        913 ê                406     ê
+  vehicle use
+  ac     average new car co2 emissions                              gkm             1850             1331         1283         306 ê                 36     ê
+  social performance
+  wi     number of jobs dependent on the sector  000                                929                728           772        169 ê                  60     é
+         combined number of employees                                                 95214            95738        96848            17 é                 12     é
+  as     number of losttime incidents                                                  669                248           243        638 ê                 22     ê
+         number of training days per employees                                       38                28            22       408 ê                207     ê
+
+ wi whole industry data ac all car registrations in the uk as all signatories vms uk vehicle manufacturer signatories
+ cv commercial vehicles co2 carbon dioxide
+ the report has 23 signatories which represent 959 of vehicle production in the uk new signatories include bosch ceva
+ logistics optare and schaeffler however the report covers fewer sites from ford southampton closed toyota salford
+ technical site closed and gm millbrook sold
+ the 2012 and 2013 data have been adjusted to take into account new signatories and enable yearonyear comparison the
+ absolute values for 1999 are not directly comparable to the 2013 data as the number of signatories has changed over the years
+ when the 1999 value is unknown the first available figure is given sector turnover rd and jobs dependent on the sector are
+ compiled from several official sources using expert smmt analysis the 2012 and 2013 figures are based on projections
+150
+                                                                  15 years  change
+        signatories
+100
+
+
+  50                                               productivity
+                                                                  registrations
+                                                                                                                                    voc
+                         jobs       production                                     car co2           energy         water          cars      waste         training
+   0
+        number of                                    vehicles       new car
+        signatories                                 produced         and cv
+                        number       number of         per        registrations                    energy used
+                          of jobs   cars and cvs    employee                       new car                                         volatile
+ 50                   dependent     produced                                        co2
+                                                                                                    per vehicle
+                                                                                                                                   organic
+                                                                                                                                                               number
+                                                                                                    produced      water use
+                      on the sector                                                                                                                           of training
+                                                                                                                  per vehicle    compounds
+                                                                                                                                                              days per
+                                                                                                                   produced      emissions
+                                                                                                                                                              employee
+                                                                                                                                   cars
+100                                                                                                                                            waste
+                                                                                                                                              to landfill
+                                                                                                                                              per vehicle
+                                                                                                                                              produced
+150
+  the way training is conducted has changed and a growing proportion falls beyond what is recorded see page 15
+ smmt will review the available data for the next report perhaps to focus on training outcomes like qualifications
+
+
+ page 2  sustainability report                                                   the society of motor manufacturers and traders
+
+foreword
+                      2013 was a huge year for        production of 25 more cars using the same
+                      the uk automotive industry     energy as 15 years ago demonstrates the progress
+                      manufacturing output            made by industry in this respect smmt continues
+                      increased billionpound        to provide its members with support in reducing
+                      investments were made          energy use and some of the results can be found
+                      and thousands of jobs were      in this report
+                      created
+                                                      the automotive sector strategy launched in
+                       in this 15th report we look    july 2013 sets out government and industrys
+                       at the progress made in        joint plan to invest more than 1 billion into the
+2013 and also over the 15 year history of smmts      uk automotive sector over the next decade the
+sustainability reporting see the summary graph       strategy aims to grow the industry through four
+below left as the scope of the industry expands     distinct pillars building a competitive business
+so does that of the smmt sustainability report       environment growing the supply chain building
+and we are very pleased to welcome four new           the skills base and developing the uks low
+signatories to this 15th edition bosch ceva         carbon rd capabilities see page 5
+logistics optare and schaeffler
+                                                      the conclusion to be drawn from the 15th
+uk car                 smmt welcomes                  sustainability report is clear the current success
+production                                            of the uk automotive industry places it at the
+continued its
+                       four new signatories          forefront of the uks economic recovery but
+upward trend in        bosch ceva                    it also brings certain challenges industry has
+2013 with more        logistics optare              already made great strides to address these
+than 15 million       and schaeffler                 and must continue to work towards a
+cars built  an                                       sustainable future
+increase of 31 over 2012 volumes with heavy
+                                                      further data and analysis is available at
+investments yet to be fully realised industry        wwwsmmtcouksustainability
+analysts are forecasting output to top the two
+million mark by 2017 surpassing the 1972 record      mike hawes
+volume of 192 million units in the process          smmt chief executive
+there are currently more than 772000 people
+employed across the automotive sector a number
+that is rising thanks to the aforementioned                      the uk is home to
+investments in uk facilities getting the next
+generation of engineers on board is crucial if the
+industry is to continue to expand and initiatives
+such as see inside manufacturing are proving                     commercial    7
+instrumental in addressing this challenge                          vehicle
+                                                              manufacturers
+                                                                                             number of worlds 20
+                                                                                        18   biggest automotive
+crucial too is the support for a domestic supply                                           suppliers
+
+chain that has a 3 billion opportunity to fill oem
+component demand currently sourced from
+abroad smmt meet the buyer is a key event in                       9    bus and coach            7   mainstream car
+                                                                                                      manufacturers
+                                                                         manufacturers
+the calendar and will complement other industry
+wide schemes in the drive to reduce this shortfall
+                                                                                             8
+over the coming months and years                              major premium and sports
+                                                                      car manufacturers
+                                                                                                      811
+one of the biggest challenges facing the sector                                     formula 1 teams
+                                                                                                                    13
+is the transition to a lowcarbon future and the
+                                                                                                          rd centres
+reduction of average co2 emissions from new                      specialist and niche   100
+                                                                      manufacturers
+passenger cars by around a quarter in the last
+decade to 1283gkm in 2013 is an achievement                                                              6
+which the industry is right to be proud of                                              design centres
+
+
+
+clearly a significant part of a low carbon future
+also lies in manufacturing processes and the
+
+
+
+the society of motor manufacturers and traders                                          sustainability report  page 3
+
+business performance and investment
+
+                 uk vehicle registrations and production 19992013
+                                                                          four in five uk produced
+                                                                          cars are exported at 125m
+           25                                                            vehicles exported thats more
+                                                                          than 15 years ago
+           20
+millions
+
+
+
+
+           15                                                   uk car manufacturing grew further in
+                                                                 2013 surpassing 15 million units for the
+    10                                                          first time since the recession as some
+                                                                 manufacturers improved their output
+    05                                                          the biggest net change came for one
+                                                                 manufacturer that had seen disruptions
+    00 99     01     03      05     07     09    11    13       in 2012 and the arrival of new models
+                   registrations      production                 and new investment in the uk auto
+                                                                 sector also supported growth the
+upturn in the domestic market and ongoing european market challenges saw a slight change in the
+output mix but four in five cars produced in the uk are still destined for export
+
+
+      nissan sunderland plant sets latest production milestone
+      a second year of 500000 production units meant nissan has built
+      over one million cars in the last two years in the uk its sunderland
+      plant was the uks biggest car producer for a 16th consecutive year
+      with one in every three cars built in the uk last year coming out
+      of sunderland
+      in 2013 the plant successfully launched the 100 electric leaf the
+      new nissan note and the second generation qashqai the companys
+      flagship model in europe and the highest volume car made in the uk
+      a ceremony in october marked the beginning of an extension to sunderland plant for facilities to
+      build premium vehicles under the infiniti brand
+      the year ended with a record employee headcount of over 7000
+
+engine production in the uk also improved in 2013 rising back above 25 million units after a decline
+in 2012 the closure of the ford transit plant in southampton was a key contributory factor to the
+drop in cv production in 2013 if additional investment potential is realised then car production is set
+to rise further and potentially exceed two million units by 2017 the increased vehicle output together
+with the automotive council work on developing the uk supply chain is expected to support growth in
+domestically sourced components
+
+      a record breaking year for jaguar land rover
+                                          jaguar land rover delivered its strongest ever full year global
+                                          sales performance thanks to the introduction of a series of multi
+                                          awardwinning new vehicles in 2013 full year retail sales stood at
+                                          425006 up 19 with strong growth in all major regions and new
+                                          records set in 38 markets including brazil canada korea and
+                                          russia regional performance for the full year was  asia pacific and
+                                          the china region up 30 europe up 6 north america up 21 the
+                                          uk up 14 and other overseas markets up 23
+
+
+since 1999 there has been considerable restructuring in the automotive manufacturing sector with the
+closing of some sites offset by the success of others notably jaguar land rover and mini
+plant oxfords thriving uk operations access to the european marketplace remains key but exports
+to markets further afield are on the increase thanks to the uks developing reputation for globally
+competitive premium products
+
+
+page 4  sustainability report                              the society of motor manufacturers and traders
+
+business performance and investment
+
+  automotive sector strategy drives uk business
+  the automotive sector strategy published in july 2013 provided a shared
+  vision between industry and government for a globally competitive and
+  growing uk automotive manufacturing industry with automotive council
+  leadership the priorities set out are
+   technology  including 1bn joint investment in the advanced propulsion
+    centre apc to develop commercialise and manufacture advanced
+    propulsion technologies in the uk technology roadmaps
+   supply chain  including establishing an automotive investment
+    organisation aio to improve the image of the uk as a place for
+    automotive suppliers to invest access to finance cooperation framework agreed with the banks
+   skills  high level roadmap for skills to create talent pipeline
+   business environment  establishment of new automotive council group to address and
+    cement the uk as a globally competitive place to do automotive business
+   kickstarting the ultralow emission vehicle ulev market 500m government investment
+    20152020 building on 400m current investment ulev strategy published in september 2013
+  the strategy is longterm some actions are well advanced eg apc aio for others workplans
+  are still in their infancy httpswwwgovukgovernmentpoliciesusingindustrialstrategyto
+  helptheukeconomyandbusinesscompeteandgrow
+
+
+new vehicle registrations
+                                                         registrations up 11 and vehicle
+the new car market rose 108 in 2013 to its
+                                                         production up 13 as access to the
+highest volume since 2007 the market remained
+some 6 off the 2007 level and 11 short of the          eu market remains key
+alltime high but growth has been sustained
+over the past two years weak demand in europe
+encouraged manufacturers to channel products                                                      ch  ch
+                                                              000        1999     2012    2013 13 v 99 13 v 12
+to the uk while attractive finance and mobility
+solutions coupled with growing consumer                car output        1799 1465 1510 161         31
+confidence also drove the sales up with               cv output           186      112      88 527 217
+continued economic recovery the expectations
+                                                        export of uk
+are for further growth in 2014 albeit at a slower                        1225 1275 1249        20 21
+                                                        built vehicles
+pace than last year
+                                                        engine output       na 2495 2553          na   23
+while 2013 volumes remained below the                   new car
+24258 million units typically seen prerecession                      2198 2045 2265        30 108
+                                                        registrations
+the market now appears more robust and self            new cv              288      289     331 150 145
+sustaining after the recession and scrappage            registrations
+scheme that followed there is debate whether the
+market will return to prerecession levels given      commercial vehicle cv volumes grew almost
+population trends longer replacement cycles and       15 in 2013 as the light commercial vehicle
+the interest in and affordability of car ownership    lcv market continued to recover from a
+there has been a shift in recent years towards         disappointing 2012 and benefited from the
+dieselpowered cars and more recently                wider economic growth and recovery in the
+alternativelyfuelled vehicles both of which took     construction sector registrations of heavy
+record volumes in 2013 however petrol cars           goods vehicles surged as euro v compliant
+took an improved market share as demand for            vehicles were registered ahead of the new
+mini and supermini segment cars from private           euro vi regulations which came into effect
+motorists led the growth the dual purpose             on 1 january 2014
+segment overtook the upper medium segment in           for uk automotive announcements please see
+2013 to become the third largest segment              httpwwwsmmtcoukinvestment
+
+
+the society of motor manufacturers and traders                                    sustainability report  page 5
+
+energy and resource efficiency
+the sectors dynamic nature is not only visible in its economic performance but also in its approach to
+addressing all environmental impacts of the vehicles life cycle starting from the production process
+through the use phase and finally their endoflife
+the majority of co2 emissions is associated with the vehicles use phase but progress is being made on
+all fronts
+
+manufacturing performance
+                                                                     co2 and energy usage fell by 42 and
+the industry is a leader in technology and
+innovation which has helped significantly to
+                                                                     26 respectively over 15 years and
+reduce its environmental impact over the last 15                     4 and 1 on 2012
+years as well as minimise costs and the use of
+resources enabling it to succeed even in tough
+economic times                                                                              energy usage vs production
+                                                                     8000                                                                                         2000000
+
+energy and co2                                                       7000                                                                                         1800000
+                                                                                                                                                                  1600000
+                                                                     6000
+reducing energy usage is pivotal to industrys                                                                                                                    1400000
+                                                        energy use
+
+
+
+
+                                                                                                                                                                            production
+resource efficiency strategy and also crucial to                     5000                                                                                         1200000
+maintaining competitiveness by reducing cost                        4000                                                                                         1000000
+over the last 15 years the signatories have made                                                                                                                  800000
+                                                                     3000
+great strides in terms of absolute and relative                                                                                                                   600000
+energy usage in 2013 vehicle manufacturers                         2000
+                                                                                                                                                                  400000
+signatories produced almost 25 more cars                            1000                                                                                         200000
+using the same amount of energy as in 1999                             0                                                                                         0
+                                                                            1999     2001        2003          2005        2007        2009    2011        2013
+
+in 2013 total energy usage dropped by 08                                        total energy use as gwh          kwh per vehicle vm    production
+
+however energy used per vehicle manufactured
+increased 3 this was largely due to a signatory
+opening a new building to produce a new model
+while still transitioning from an old production
+                                                                      ceva logistics explored
+line both running at reduced volumes                                the power of the sun
+the carbon intensity of automotive production has                     inspired by the success of a recent managed
+been improving due to increased energy efficiency                     lighting project saving 685 tonnes of carbon
+and the energy mix used the overall co2                              ceva team at volkswagens parts logistic
+produced by signatories has dropped 42 since                         centre wanted to do more to reduce the
+1999 and 4 since 2012 co2 output per vehicle                        sites environmental impact the team
+produced has almost halved in the last 15 years                      investigated the merits of solar energy
+and has remained stable over the last two years                      looking to achieve key benefits in terms
+                                                                      of reduced
+renewable energy                                                      electricity cost
+                                                                      carbon footprint
+the amount of renewable energy produced by                            reduction
+signatories has been steadily increasing over                         enhanced
+recent years and now totals almost 40gwh                            corporate identity
+more than double the 2009 tally this is enough                       and rental
+renewable electricity to power 9400 homes                           income from a 25
+11 signatories are now producing renewable                            year roof lease
+energy onsite up from only two in 2009
+                                                                      the installed system consists of 399
+to decarbonise production further signatories                        photovoltaic solar panels the size of three
+have been switching to green electricity                            tennis courts  mounted on the south
+produced from certified sustainable sources up                       facing part of the 65000m2 warehouse roof 
+threefold since 2010 to 334gwh in 2013 green                        and in 2013 produced around 95000 kwh of
+electricity now accounts for 20 of electricity and                   renewable electricity that was used directly
+7 of all energy used by signatories enough to                       by the site
+power almost 80000 homes
+
+
+page 6  sustainability report                        the society of motor manufacturers and traders
+
+energy and resource efficiency
+waste                                                  water
+                                97 of waste
+over the last 15 years         is recycled or         mainly due to a boost in production water use
+continuous improvement                                 rose 51 in 2013 with water use per vehicle
+                                recovered
+of production processes                                also increasing 39 other contributory factors
+and an holistic approach                               included a number of incidents at production
+has helped reduce waste                                plants for example water leaks and issues with
+to landfill by 83 and waste to landfill per          a water tank supplying a sprinkler system
+vehicle by 91 signatories recorded an equally        resulting in a large tank being drained as an
+impressive performance in 2013 with a 41 drop         emergency measure
+in waste to landfill per vehicle
+                                                       however water use in production has dropped
+an increasing number of sites have managed to          dramatically since records began largely due to
+divert all their waste from landfill to reach a zero   improvements in painting processes and through
+landfill target now only 3 of waste generated        creating closedloop systems these measures
+by signatories ends up in landfill compared to        have almost halved the amount of water required
+26 in 2004 at the same time the amount of           per car from just under 6m3 in 2000 to 3m3 in
+waste recycled and recovered increased from            2013 the overall water footprint of signatories
+74 to 97 over the same time period                  has also improved by 35
+
+
+
+  mini plant oxford continues                            toyotas ecominded employees
+  to improve its environmental                           made further steps towards
+  performance                                            sustainable manufacturing
+
+
+
+
+                                                         in 2013 as part of a continuous process
+  bmw group is currently operating 730
+                                                         improvement toyota identified re
+  programmes designed to reduce the carbon
+                                                         using waste machining coolant from
+  footprint and waste generated by all its
+  manufacturing operations in the uk one                the aluminium swarf as a way to reduce
+  particularly innovative initiative was a new           environmental impact this was achieved by
+  electrocoating facility which replaced               introducing an additional filtration system
+  the threestage bath system bringing                  to recover and return waste coolant directly
+  savings in both materials and energy while             to the engine block and head machining
+  maintaining excellent corrosion protection            lines as a result the coolant consumption
+  other measures implemented at plant oxford             was reduced by 38 lowering the coolant
+  include the installation of a new bodyshop
+                                                         make up water by 55 and the waste water
+  building insulation energy saving sleep mode
+                                                         treatment volume by 11 it also achieved
+  for robots heat wheels in the roof to regulate
+  heating and cooling and water harvesting             a cost reduction in raw materials and
+  during 2013 the combined impact of 175                processing costs of 15 the maintenance
+  energy saving initiatives at plant oxford              teams achievement and other similar
+  and plant swindon yielded almost 478gwh               initiatives are being recognised by toyotas
+  equivalent to the energy consumed by 2400             ecokaizen awards and showcased to peers
+  average uk homes in a year                            and company directors
+
+
+
+
+the society of motor manufacturers and traders                                sustainability report  page 7
+
+energy and resource efficiency
+vocs                                                  100                                     voc emissions
+
+volatile organic compound voc emissions                 80                                        68                                      10
+from vehicle painting operations are considered
+one of the key environmental impacts of vehicle           60
+
+
+
+
+                                                   gm2
+                                                                                                     324
+manufacturing                                                                                                                                 52
+                                                          40
+heavy investment in painting operations helped
+signatories reduce voc emissions from car                 20
+painting by 29 since 2000 the 2013 performance
+is almost 40 lower than the legal limit of 60g             0
+m2 for cars and 90gm2 for vans                                     2000         2002       2004        2006         2008        2010        2012
+
+                                                                            cars voc gm2              years                      vans voc gm2
+
+
+
+  vauxhalls ellesmere port wins 2013 eef sustainable manufacturing award
+  the plant won the award after changing from solventborne to water
+  borne paint which reduced volatile organic compound voc emissions
+  by almost 90 in each paint booth the new technology increased
+  transfer efficiency of the paint to the car by 85 reducing the amount
+  of paint used by over one litre per car and resulted in an increase in
+  finish quality for the customer
+
+
+reuse recycling and recovery                                below the 21m per year average between 2003
+                                                              and 2009 affected by lower new car registration
+of endoflife vehicles                                       volumes since the recession between 2001 and
+the passenger car industry has successfully                   2007 new car registrations were higher averaging
+taken on producer responsibility for endoflife              25 million per year as these vehicles reach their
+vehicles elvs and has established two vehicle               endoflife this could have repercussions for the
+collection networks autogreen and cartakeback               size and structure of the vehicle fleet
+they ensure that endoflife vehicles can be handed
+over to an authorised treatment facility atf               end of life vehicles age profile
+that will dispose of the car in an environmentally            vehicles are now six months older on average
+responsible way and without any costs to the                  at scrappage than they were five years ago the
+last owner consequently vehicles have become                average age of an elv is now similar to where it
+one of the most recycled retail products on the               was 15 years ago this highlights a recent trend
+market since 2006 85 by weight of vehicles                 for consumers keeping cars for longer and
+processed by manufacturers recycling networks                therefore the rising age of cars on the road and
+has been recycled and recovered                              age at scrappage see also age of vehicles on the
+in the last few years the automotive industrys               road  page 10
+partners have made significant investments
+to meet the challenge of the higher 2015 elv                                                 average car age at scrappage
+directive targets which require 95 by weight                       34000000                                                                                150
+of elvs to be recycled and recovered key                                                                                                                      145
+developments include                                                32000000
+
+                                                                                                                                                               140
+                                                          car parc
+
+
+
+
+ a 150m gasification facility in oldbury near                     30000000
+                                                                                                                                                                  age
+
+
+
+
+                                                                                                                                                               135
+  birmingham which will generate 40mw of                             28000000
+  green electricity and divert over 500000t                                                                                                                   130
+
+  shredder residue per annum from landfill                          26000000
+                                                                                                                                                               125
+
+ a shredder waste advanced processing plant                         24000000                                                                                120
+                                                                                  1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+  swapp to separate the nonmetallic fractions                                                     car parc             average age
+  from the equivalent of about 800000 cars a year
+
+the scrappage rate over the past four years has               all data and graphs are available online for 2013 performance
+fallen to around 185m vehicles per year well                in energy co2 water voc and waste to landfill and recycling
+
+
+
+
+page 8  sustainability report                     the society of motor manufacturers and traders
+
+energy and resource efficiency
+vehicle performance                                                                                          delivering
+industry is committed to improving further the efficiency of its products and                               low carbon
+invested heavily in technology to deliver a reduction in co2 and other emissions                            vehicles
+however there are areas where sharing efforts are required as technology alone
+                                                                                                             through an
+does not hold all the answers an integrated approach is needed to enable all
+stakeholders  different industries government regulators consumers and                                   integrated
+others  to work together and in parallel drive the agenda to introduce low carbon                           approach
+vehicles and ultimately sustainable mobility in a common direction
+
+                                              low carbon product introduction
+
+           industry                             government                consumers                                other
+ eg developing delivering                eg setting regulations        eg buying a new                    eg media and other key
+ and marketing lower co2                  and standards taxes        car accepting new                 stakeholders influencing
+      emitting cars                      public information and     technologies embracing                  industry consumer
+                                        fleet procurement policy      need for change and                     choice and policy
+                                                                          affordability                            makers
+
+
+
+
+   choice of lower co2                       regulation 4432009      consumers primarily
+    emitting vehicles                          sets an eu sales         look at cost and
+                                            weighted average new       functionality when
+  co2       1999      2013
+                                              car co2 emissions       deciding which car to
+                                             target of 130gkm by      purchase running
+ 75gkm       0        27
+                                             2015 and 95gkm by      costs are an important
+ 130g                                          2020  the latter         consideration
+             25       3183                                         especially as a result of
+  km                                         representing a 40
+ 200g                                                              the recessions squeeze
+            2091     7406                 reduction since 2007
+  km                                                                    on incomes and
+                                            post 2020 targets are     increased fuel costs
+  total     2116     7989                   yet to be agreed
+
+
+
+
+average uk new car co2 emissions                                    reducing co2 emissions
+                                 2007                               similarly the reduction of co2 emissions
+                                 2013
+                                                                    from vehicle use require coordinated actions
+                                 2020
+                                eu target
+                                                                    in various areas see schematic an holistic
+                               95gkm                               approach that includes better infrastructure
+                                                                    congestion reduction measures the supply of
+                               1283 gkm                           and sufficient infrastructure for sustainable
+                               1649 gkm
+                                                                    alternative fuels and other energy sources
+                                                                    as well as
+                                                                    taxation                     vehicle
+          1649gkm                             1283gkm
+            in 2007
+                              22                in 2013
+                                                                    based on                   technology
+                                                                    use will
+                                                                    deliver          driver                   infra
+                                                                    progress       behaviour                structure
+
+alternativelyfuelled vehicles                                      in reducing                    co2
+                                                                                                reduction
+                                                                    co2
+the number of alternativelyfuelled vehicles                        emissions
+afvs has grown from zero to account for more                                                                       co2
+                                                                                            alternative
+than 14 of the market in the last 15 years afv                                              fuels
+                                                                                                                   related
+                                                                                                                  taxation
+registrations rose 175 on 2012 volumes to one
+in 69 cars registered in 2013
+
+
+the society of motor manufacturers and traders                                                  sustainability report  page 9
+
+energy and resource efficiency
+
+low carbon buses                                                   spectrum with zero local emissions if the battery
+                                                                   has sufficient capacity by contrast parallel
+the number of                                                      hybrids use powersharing between the engine
+alternatively       1500 low carbon                              and an electric motor to propel the bus this
+fuelled buses on     buses currently on                            means a smaller motor can be specified
+the road reached                                                   for instance on less intensive urban routes
+                     the road saving 26
+1500 in 2013                                                     where there is lighter traffic and less
+making the uk        tonnes co2year each                          benefit from shutting the engine down
+the european
+                                                                   the bus technology roadmap is available at
+leader in                                                          wwwlowcvporguklceb
+reducing co2 emissions from buses
+growth of the market has been rapid
+since 2007 see graph and each
+low carbon bus in london saves an                                        low carbon bus registrations
+                                         700                                                                                     1600
+average 26 tonnes of co2 per year
+source olev                          600                                                                                     1400
+
+
+
+
+                                                                                                                                        cumulative parc
+                                                                                                                                 1200
+                                            registrations
+
+
+hybrid buses dominate the market                           500
+but hybrid technologies are not all the                                                                                          1000
+                                                            400
+same series electric hybrids where                                                                                             800
+the wheels are powered by an electric                       300
+                                                                                                                                 600
+motor offer flexibility for engineers
+                                                            200
+to manage energy for optimum fuel                                                                                                400
+economy and low emissions the                              100                                                                  200
+use of fullpowercapable traction
+                                                             0                                                                   0
+motors also gives them the ability to                             2007      2008   2009     2010      2011     2012      2013
+run in pureelectric mode making                             alkohol       cng     dieselelectric     electric      cumulative parc
+them capable of a full performance
+
+
+
+  alexander dennis leads the                                             optare versa electric bus
+  way with low emission buses                                            recognised at national transport
+                                                                         awards 2013
+  alexander
+  dennis is                                                              optare won the
+  developing                                                             excellence in
+  a range of                                                             technology
+  powertrain                                                             category at the
+  technologies                                                           2013 national
+  to suit the                                                            transport
+  diverse                                                                awards with its
+  needs of                                                               versa ev electric
+  different                                                              bus incorporating fast charging technology
+  bus routes the alexander dennis enviro                                it was the only bus manufacturer among the
+  400h series hybrid has captured 43 of the                             winners this is the third time that optare
+  hybrid market the firms virtual electric                           has won an award for its ev technology
+  concept a series hybrid with gpscontrolled                           having previously been awarded the highly
+  zeroemissions capability and inductive                                prestigious smmt award for automotive
+  charging offers huge potential for air quality                        innovation and a chartered institute of
+  improvement in critical areas of cities                               logistics and transport environmental
+  as well as greater co2 savings a virtual                              improvement award optare is leading the
+  electric bus will commence trials in glasgow                           way in the development of fullsize battery
+  later this year                                                       powered buses in the uk and was the first
+                                                                         company with electric buses in service
+
+
+
+
+page 10  sustainability report                               the society of motor manufacturers and traders
+
+energy and resource efficiency
+
+a growing and ageing fleet                                                                                   an ageing fleet  the
+                                                                                                             average car in use is
+the uk fleet grew 15 in 2013 to 363 million vehicles in use having
+increased 18 or some 55 million vehicles over the past 15 years
+                                                                                                             a full year older than
+cars represented 80 of the additional vehicles in use with the                                             a decade ago
+2013 car parc showing the strongest growth rate in a decade
+
+the average age of a car on the road in 2013 was a full                                   cars remaining in the 2013 parc
+year older than a decade ago at 77 years enhanced                                      by year of registration and euro standard
+                                                                             2500000
+reliability means cars are lasting longer while impacts of
+the recession and low wage growth may be resulting in                        2000000
+
+some cars left in use for longer than normal
+the average age of a vehicle at scrappage has risen by                       1500000
+
+six months in the last five years see page 8
+                                                                             1000000
+
+renewal of the fleet would ensure that the parc is made
+                                                                               500000
+up of more efficient and safer vehicles with the latest
+euro standard and lower carbon technologies                                        0
+                                                                                         1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+further information on vehicle environmental performance alternative                                     unknown        euro 2      euro 4     euro 6
+fuels petrol diesel alternative powertrains can be found in smmts                                    euro 1         euro 3      euro 5
+new car co2 report 2014 wwwsmmtcoukco2report
+
+
+
+   psa peugeot citroën launches the efficient modular platform
+   in 2013 psa peugeot citroën brought its newgeneration
+   efficient modular platform emp2 to the market featuring a
+   wealth of advantages including advanced modularity weight
+   saving of 70kg and highperformance technologies it has
+   enabled a 22 reduction in co2 emissions and new possibilities
+   for a diverse range of body styles it also provides increased
+   safety driving pleasure and comfort the new emp2 platform is
+   expected to cover 50 of total production in the long term
+
+
+
+air quality
+                                                   it takes 100 modern cars to
+industry is committed to                           emit as much pollution as a
+tackling all emissions not
+just co2 modern vehicles                          single car from the 1970s
+emit only a fraction of the
+pollutants compared to 15
+                                                                         euro standards passenger cars
+years ago thanks to                               900
+investments in engine
+                                                  800
+technology and the after
+treatment of exhaust gases                       700
+
+emissions from cars and                           600
+commercial vehicles are strictly
+                                             mg
+
+
+
+
+                                                  500
+regulated by euro standards
+introduced from 199192                          400
+
+euro5 standards have been                        300
+implemented for cars and
+                                                  200
+eurovi is imminent for heavy
+duty vehicles car emissions of                   100
+
+particulate matter pm have                        0
+been cut by 95 nox by                                 1992euro 1   1997euro 2   2001euro 3         2006euro 4         2011euro 5       2015euro 6
+
+around 75                                                           petrol nox                 diesel nox                   diesel pm
+
+
+
+
+the society of motor manufacturers and traders                                                               sustainability report  page 11
+
+energy and resource efficiency
+
+air quality continued                                                                                                                                               nox 99 85 fold reduction from euro vi bus
+
+as these new vehicle euro standards replace                                                                                                                   25
+the older standard vehicles in the uk fleet                                                                                                                                                                           tfl all euro
+department for transport statistics show total                                                                                                                                                                         vi buses
+                                                                                                                                                              20
+particulate matter emissions from all cars in use                                                                                                                                                                      deliver huge
+                                                                                                                                                                                                                       nox saving
+have fallen 358 and nitrogen oxides nox by
+
+
+
+
+                                                                                                                                                   nox gkm
+                                                                                                                                                              15
+619 between 2000 and 2011 some cars on the
+market are already euro 6compliant and all new                                                                                                              10
+cars and vans will comply from september 2015
+                                                                                                                                                               5
+the latest eurovi standard was required of
+new heavy duty vehicles from january 2014                                                                                                                     0
+the graph illustrates the 85fold nox reduction
+demonstrated on the london bus test cycle
+between eurov and eurovi the challenge here                                                                                                                     pre euro   euro ii   euro iii   euro iv   euro v   hybrid
+                                                                                                                                                                                                                      euro v
+                                                                                                                                                                                                                               euro vi   hybrid
+                                                                                                                                                                                                                                         euro vi
+
+is to ensure that this successful new technology is                                                                                                                source independent test data for double decker bus on
+taken up into the market as quickly as possible                                                                                                                   london 159 test route
+
+
+                 350000                   reduction in road casualties                                                      1200
+
+
+                 300000
+                                                                                                                            1000
+                                                                                                                                                          vehicle safety
+                 250000                                                                                                                                   improvements in road and vehicle safety are
+                                                                                                                            800
+                                                                                                                                                          among the motor industrys key priorities thanks
+                                                                                                                                  casualty rate
+all casualties
+
+
+
+
+                 200000
+                                                                                                                                                          to technological advancements implemented
+                                                                                                                            600
+                 150000
+                                                                                                                                                          by manufacturers and suppliers as well as
+                                                                                                                                                          coordinated work with other stakeholders
+                                                                                                                            400
+                 100000                                                                                                                                   significant progress has been made over the last
+                                                                                                                            200
+                                                                                                                                                          15 years between 1999 and 2012 the annual
+                  50000
+                                                                                                                                                          number of road casualties fell almost 40 while
+                      0                                                                                                     0
+                                                                                                                                                          at the same time the distance travelled rose 6
+                          1999   2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2010   2011   2012
+
+                                   all casualties              casualty rate per billion vehicle miles
+
+
+
+
+                 volvo cars launches worldfirst cyclist detection with full auto brake
+                 in 2013 volvo introduced a groundbreaking safety technology that detects
+                 and automatically brakes for cyclists swerving out in front of the car
+                 the new functionality is an enhancement of the present detection and
+                 auto brake technology and the package will be called pedestrian and
+                 cyclist detection with full auto brake it claimed best car safety system
+                 award in the 2013 techies and was commended for offering a unique
+                 and innovative response to the growing number of cyclist deaths on uk
+                 roads sales of volvo cars equipped with automatic braking have now passed the one million mark
+
+
+
+                 ford tourneo connect gains maximum fivestar euro ncap safety rating
+                 the allnew ford tourneo connect is the first compact people mover
+                 to be awarded the maximum fivestar safety rating by independent
+                 crash test authority euro ncap the versatile tourneo connect achieved
+                 a score of 94 for adult occupant protection 85 for child occupant
+                 protection and 83 overall the maximum rating achieved by the
+                 tourneo connect follows the firstinclass fivestar safety rating for the
+                 tourneo custom large people mover
+
+
+
+
+page 12  sustainability report                                                                                                                   the society of motor manufacturers and traders
+
+ automotive supply chain
+ the uk automotive supply chain is broad and diverse it includes companies across seven tiers
+ involved in the manufacture of components subassembly and full assembly supplied into vehicle
+ manufacturers in addition there is a multitude of companies that provide product development
+ inbound and outbound logistics and other support services
+
+ the graphic shows that the uk supply chain has the capability to cater for the majority of automotive
+                                                                                                                 uk automotive at a glance
+    automotive
+uksupply needs supply chain
+                                                                                                     people employed in
+  number of the worlds 20                                     added value typically
+                                                                                                    the uk supply chain
+       biggest automotive                               generated by uk automotive
+  suppliers with a uk base                                      suppliers each year
+
+                                                                                                                             82000
+                                  18                                                      48bn
+
+
+                                                                80
+     3bn
+                                                                                                            2350
+                         unfulfilled supply                                                                                       automotive
+                         opportunities for domestic                         components of a
+                                                                            vehicle that can be                                   suppliers
+                         tier 1 suppliers                                                                                         in the uk
+                                                                            made in the uk
+
+
+
+
+ supply chain key performance indicators
+ this is the second year of separately reporting kpis for the supply chain smmt welcomes the growing
+ number of supplier signatories with bosch ceva logistics and schaeffler all joining this year their
+ automotive activities varied and include the production of electronics and aftermarket products
+ automotive system solutions engine transmission diesel chassis and emobility systems and supply
+ chain management freight forwarding contract logistics transportation management and distribution
+ managementthe new signatories in this report join caterpillar gkn driveline michelin and unipart
+ raising the number of supply chain signatories to seven
+
+                                                                                 percentage
+  supply chain kpis                                   2012         2013         change 2013
+                                                                                  on 2012          production fell slightly in the
+  weight of product                                                                                 supply chain along with water
+                                     tonnes         335008       327770       22     ê
+  producedshipped                                                                                  use and waste to landfill
+  production inputs
+  total combined energy                                                                            the relative kpis rose with
+                                     mwh      637641193 653729531            25     é
+                                                                                                    declining production except
+  use
+  energy used per weight of mwh                                                                   waste to landfill which was
+                                                      19034        19945       48     é
+                                                                                                    reduced by 24
+  product producedshipped tonne
+  total combined water use m3                       956770       948538       09     ê
+                                                                                                   the production of renewable
+  water use per weight of  m3                                                                     energy has doubled since
+                                                         286            289      13     é
+  product producedshipped tonne
+                                                                                                    2011 from 63mwh to
+  material outputs
+                                                                                                    137mwh enough to power
+  total combined co2                                                                                3250 homes
+                                     tonnes         208395       212926        22     é
+  equivalents
+  co2 per weight of product tonnes                     062            065      44     é
+  producedshipped
+  total combined waste to                                                                           note given that smmt first collected
+                                     kg               1588          1185 254         ê
+  landfill                                                                                          and published the supply chain
+  waste to landfill per                                                                             kpis in last years report we cannot
+                                     kg
+  weight of product                                     0005          0004 237         ê        compare with 1999 performance
+                                     tonne
+  producedshipped                                                                                  see wwwsmmtcouksupplychain
+
+
+
+ the society of motor manufacturers and traders                                                        sustainability report  page 13
+
+automotive supply chain
+capitalising on opportunity for the                     supply chain competitiveness
+uk supply chain                                         a challenge remains for uk supply chain
+in recent years the automotive industry has            companies to be globally competitive while
+invested heavily in the uk helping secure the          uk companies benefit from factors such as a
+long term future of uk automotive companies            relatively stable domestic currency flexible labour
+including bentley jlr and nissan have all             force and a strong domestic market competition
+committed to the uk with new investment                from overseas remains strong to address these
+helping drive growth and create new jobs and            issues industry is investing heavily to improve on
+opportunities for supply chain companies               factors such as quality cost and delivery
+the underlying supply chain has responded in            in 2013 smmt submitted a bid for 13 million
+turn helping to keep industrys annual inward          government funding through the advanced
+investment figure around 25bn1                      manufacturing supply chain initiative amsci
+                                                        which has since been secured for the long term
+there are numerous
+                                                        automotive supply chain competiveness ltasc
+challenges the supply
+chain must overcome          annual inward              programme ltasc will support 38 suppliers from
+                             investment                 four oem networks as they invest 455m into
+if it is to capitalise on
+                                                        capex rd and skills development creating
+these opportunities         reached 25bn
+                                                        nearly 1000 jobs and securing a further 1600
+as explained in the
+automotive sector
+strategy driving                                       access to finance
+success published in july 2013 see page 5           access to finance remains a key issue for some
+a number of industry and government groups              in the supply chain especially smes industry
+including the automotive council supply chain           has been working to improve the situation
+group and similarly focussed groups within smmt         in collaboration with the banking sector in
+have been working collaboratively to address            november 2013 smmt organised the latest in its
+these challenges to the benefit of the wider           series of meet the funder events to support the
+industry                                               supply chain with its access to finance needs
+
+uk sourcing                                             technology
+with the uk supply chain capable of providing           uk government and industry share an ambition
+80 of vehicle components and successive               to make the uk a global leader in the research
+announcements of upcoming oem product lines             development commercialisation and manufacture
+being placed in the uk the opportunity for the uk      of lowcarbon automotive technologies to do this
+suppliers is both clear and substantial in 2012        industry and government have committed 1bn
+3 billion of sourcing opportunities from oems          investment into the new advanced propulsion
+were highlighted by the automotive council 2          centre apc an initiative that represents a key
+gaps in the uk supply chain do exist and work           opportunity for the uk supply chain
+is now being done by smmt and the automotive
+investment organisation aio an organisation set      business environment
+up in 2013 with 3m government funding to help
+drive investment into the uk supply chain from          the competitiveness of the uks business
+overseas as part of the industrial strategy see        environment plays a key role in attracting
+page 5 httpbitlyinvestukauto                     investment into the uk key concerns for industry
+                                                        include energy costs corporation tax business
+through initiatives such as meet the buyer 2013        rates and free trade relations with key automotive
+smmt has been leading the way in supporting the         regions with 80 of ukmanufactured vehicles
+drive for increased local content                      exported the uks relationships with the eu and
+                                                        other strategic markets remain vitally important
+in addition smmt and the automotive council            to the supply chain
+have been working to understand the sourcing
+opportunities below the tier 1 level of the supply      skills
+chain through capturing demand at tier 1 and
+mapping capabilities through tier n all tiers          the uk automotive supply chain recognises the
+below tier 1 the initiative will aim to match up      importance of a talent pipeline that can provide
+uk demand with uk supply capabilities                  for its ongoing skills needs
+
+
+page 14  sustainability report                      the society of motor manufacturers and traders
+
+                             people and communities
+
+                             employees
+                                                                                         6 increase in                                                     gkns thinksafe
+                             the automotive                                                                                                                 safety campaign
+                             industry continues        jobs dependent
+                             its road to recovery     on the automotive
+                             which is reflected in     sector to 772000
+                             the growing number
+                             of jobs dependent on
+                             the sector up 6 to 772000 direct employment
+                             in automotive manufacturing also increased 95
+                             to 161000
+
+                             the average number of training days has
+                             remained relatively steady between 29 and 38
+                             days per person which illustrates signatories
+                             continued commitment to upskilling their
+                             employees
+                                                                                                                                                            during 2013 gkn driveline birmingham
+                             the way training is conducted has changed and a
+                                                                                                                                                            installed a new improved safety corner
+                             growing proportion falls beyond what is recorded
+                                                                                                                                                            where safety briefings and training take
+                             falling from 28 days per employee in 2012 to 22
+                                                                                                                                                            place for all employees different health and
+                             days this coincides with the rise of alternative
+                                                                                                                                                            safety topics are cascaded each quarter
+                             forms of training including talent development
+                                                                                                                                                            thinksafe was expanded in 2013 to include
+                             mentoring coaching and leadership programmes
+                                                                                                                                                            dont walk by an awareness programme
+                             professional development sponsorship elearning
+                                                                                                                                                            developed to encourage employees to identify
+                             platforms job rotation or secondment business
+                                                                                                                                                            and resolve safety and environmental
+                             school programmes and onthejob training
+                                                                                                                                                            concerns as gkn strives for even
+                             smmt will review the available data for the next
+                                                                                                                                                            greater improvements
+                             report perhaps to focus on training outcomes
+                             like qualifications
+
+                             the signatories also invested in training their                                                                              promoting automotive careers to
+                             future employees by taking on 1500 new
+                             apprentices in 2013 with the aim of upskilling
+                                                                                                                                                          young people
+                             them to take on positions within the company                                                                                see inside manufacturing
+                                                                                                                                                          the automotive industry participated in the see
+                                                                                                                                                          inside manufacturing initiative for the third time
+                                                   number of lost time incidents
+                                                                                                                                                          in 2013 automotive organisations ranging from
+                            800                                                                                                16
+                                                                                                                                                          volume vehicle manufacturers to those in the
+total losttime incidents
+
+
+
+
+                            700                                                                                                14
+                                                                                                                                    per 000 employees
+                                                                                                                                    losttime incidents
+
+
+
+
+                                                                                                                                                          supply chain hosted over 50 days of activities
+                            600                                                                                                12
+                                                                                                                               10
+                                                                                                                                                          across the breadth of the uk in the october focus
+                            500
+                                                                                                                               8
+                                                                                                                                                          period they opened their doors to interact with
+                            400
+                                                                                                                                                          students teachers and career advisors their
+                            300                                                                                22           6
+                                                                                                                               4
+                                                                                                                                                          perceptions of manufacturing
+                            200
+                            100                                                                                                2
+
+                              0
+                                  2002      2003    2004    2005    2006   2007   2008   2009   2010   2011    2012   2013
+                                                                                                                               0
+                                                                                                                                                          apprenticeship trailblazers
+                                         total of losttime incidents       number of losttime incidents per 000 employees
+
+                                                                                                                                                          the automotive industry has helped to pilot
+                                                                                                                                                          governments reforms to apprenticeships by
+                             the industry takes the safety of its employees                                                                               participating in the trailblazers initiative the
+                             very seriously and has worked intensively over                                                                               sector developed a new apprenticeship standard
+                             many years to embed safe procedures in its                                                                                   for mechatronics maintenance technician in
+                             operations this has resulted in a significant                                                                               2013 which is high quality employerled and
+                             reduction in the number of lost time incidents                                                                               easy to understand government aims to deliver
+                             per 1000 employees from 134 in 2002 when                                                                                   all apprenticeship frameworks under the new
+                             records began to 25 in 2013                                                                                               standards by 201718
+
+
+
+                             the society of motor manufacturers and traders                                                                                                     sustainability report  page 15
+
+people and communities
+
+uk automotive                                           bentley supports girls engineering
+careers showcased                                       the future
+national                                                supported by bentley
+apprenticeship                                          and the government
+week 2013                                               girls engineering the
+celebrated                                              future has been carefully
+apprenticeships                                         designed to inspire talented
+and the                                                 young women to build a career they can
+positive impact                                         be passionate about through the bentley
+they have on                                            apprenticeship scheme they can play their
+individuals                                            part in developing the bentleys of the future
+businesses and                                          wwwgirlsengineeringthefutureorguk
+the economy smmt and semta jointly hosted
+two events firstly a seminar on the reforms
+planned arising by the governmentcommissioned
+                                                      developing skills in young people
+richard review of apprenticeships secondly the      the automotive foyer federation working assets
+business secretary dr vince cable mp spoke at        programme piloted in 2012 was continued in
+an event that showcased the depth breadth and        2013 with bmw ford toyota and unipart the
+diversity of apprenticeships in the automotive        programme supported by the smmt charitable
+sector see wwwapprenticeshipsorguk                trust focused on developing the skills of
+                                                      young people from challenging backgrounds
+                                                      enhancing their employability and helping them
+  new bosch technology                                in the journey to becoming independent adults
+  centre to support the uk                            in total 52 young people were engaged in the
+                                                      2013 programme with an average age of 20 and
+  automotive industry                                 an equal gender split following completion of
+  2013 saw                                            the programme 72 of participants moved into
+  bosch open                                          employment or education and 28 were in other
+  an automotive                                       positive activities as a result of working assets
+  technology
+  centre on
+  the new
+                                                        unipart nuffield bursaries
+  campus of                                             for the past six years unipart
+  the university of warwick science park 30            manufacturing has successfully
+  bosch automotive engineers will focus on              sponsored students through the
+  providing engineering support to vehicle              nuffield bursary scheme which encourages
+  manufacturers to optimise existing bosch              young people post16 to study mathsbased
+  technologies and new functionalities                 subjects and to apply them in the working
+                                                        environment young people are placed within
+                                                        unipart group for a sixweek period of
+                                                        training on creative problem solving which
+more skilled and female engineers                       equips them with the skills to work on reallife
+                                                        mathematical problems within the company
+highlyskilled engineers play a crucial role in the
+success of the uk automotive sector ensuring its
+capacity to compete and to innovate
+                                                        volkswagen group charity challenge
+the industry is also focusing on encouraging            group services staff teamed together to
+more women into engineering and manufacturing           cycle 941 miles in a coasttocoast relay
+roles by offering a wide range of education             from aberdeenshire to cornwall along with
+programmes and crucially encouraging them to          other events the charity challenge raised
+make the right subject choices at gcselevel and        15000 for charities such as the alzheimers
+beyond signatories run various projects such as        society bhf and macmillan and local to
+young women in the know developed by jaguar          vwg willen hospice and the milton keynes
+land rover and girls engineering the future         community foundation
+supported by bentley
+
+
+page 16  sustainability report                   the society of motor manufacturers and traders
+
+people and communities
+
+                                                    in 2013 signatories and their employees donated
+  mercedesbenz invests in training                 almost 15000 hours of their time other forms
+                                                    of contributions include engagement with
+                                                    emergency services on the safe drive stay alive
+                                                    and the junior good citizen campaign raffles
+                                                    with company branded merchandise community
+                                                    foundation annual car raffle careers support and
+                                                    work experience placements for students from
+                                                    local schools workshops on language skills and
+                                                    stem subjects science technology engineering
+                                                    and mathematics
+  in 2013 mercedesbenz uk saw a record
+  200 apprentice vacancies a 65 growth in         the industry is actively engaged with the motor
+  two years                                        industry and allied trades benevolent fund ben
+                                                    which provides care and support for employees and
+  the apprentice programme also recently
+                                                    their dependants in times of need in the last three
+  achieved governments matrix standard
+                                                    years charity donations to ben have exceeded 7m
+   a fantastic achievement on its first
+                                                    in direct and inkind donations
+  assessment in total 1320 apprentices
+  have graduated from the programme since
+  it began in 1995 and 65 of those who               bmw uk give 300 staff hours to ben
+  graduate are still with the mercedesbenz
+  brand 10 years on with many progressing to         as part of bmws ongoing support for
+  senior positions                                   ben the whole of the aftersales team
+                                                      spent the day at bens headquarters in
+                                                      ascot undertaking maintenance and other
+                                                      essential tasks to improve surroundings
+  the honda challenge                                 for ben care home residents they helped
+                                                      the charity prepare for the queens visit
+  hondas dealer                                      and for a property sales event to raise
+  apprenticeship                                      funds for further developing bens care
+  programme has trained                               facilities for sick and elderly automotive
+  over 1100 apprentices                              industry employees
+  in 13 years dealership
+  apprentices attend block
+  training at the honda
+  institute to achieve city and guilds diploma        michelins commitment to
+  in light vehicle maintenance and repair             local community
+  level three hondas programme consistently
+  scores above the national average for               michelin is committed
+  completion rates most recently more than           to the economic
+  20 higher than the national average               regeneration and long
+                                                      term prosperity of the
+                                                      areas local to its sites
+community engagement and                              ballymena dundee and
+                                                      stokeontrent
+charitable donations
+                                                      the michelin
+the automotive                                        development initiative
+industry has a strong
+                             signatories and          offers financial support
+tradition of engaging        their employees          as well as business
+with communities             donated 15000           expertise and advice to
+by supporting local          hours in 2013            small and medium sized enterprises smes
+environmental                                         that can create or safeguard sustainable
+and educational projects and employment               jobs since it started in 2003 the scheme
+opportunities this is made up of direct and          has helped over 200 companies with 55
+indirect donations encouraging their employees to     million in loans helping to create 2300
+volunteer their time to the charitable causes and     potential jobs
+local community projects of their choice
+
+
+the society of motor manufacturers and traders                            sustainability report  page 17
+
+future vehicles and technology
+olev strategy and 500m ulev funding from 2015 to 2020
+in july 2013 government allocated 500m              investment in infrastructure and increased
+funding for ultralow emission vehicles ulev        leverage of rd support
+from 2015 to 2020 a strategy was then published
+                                                      the olev package announced on 29 april 2014
+by the office for low emission vehicles olev
+                                                      includes the following funding streams consumer
+to outline governments longterm vision for
+                                                      incentives through the continuation of the plug
+ulevs the principles include a focus on inward      in car grant and assistance for purchase of
+investment and the supply chain technological        other vehicle types further support for rd taxi
+neutrality working with the eu on ambitious          infrastructure support and incentives support
+but realistic regulation addressing market           for low emission buses a new city scheme
+failure and consistent communications a call        infrastructure support including funding for a
+for evidence has helped olev develop priorities       rapid charging network for electric vehicles and
+for the 500 million funding in which smmt           gas refuelling network for hcvs
+called for continuation of a balanced approach
+                                                      wwwgovukgovernmentpublicationsultralowemission
+to government funding for ulevs incorporating        vehiclesintheukmeasurestosupportuseand
+elements on consumer incentives strategic            development2015to2020
+
+
+
+goultralow consumer campaign                          post2020 co2 targets
+the deputy prime                                      having agreed the details of the 2020 co2 targets
+minister joined bmw                                  for cars and vans the european commission has
+nissan renault toyota                               now begun work on the car and van co2 regime
+and vauxhall to launch                                for the post2020 period the key issues to be
+wwwgoultralowcom                                   considered are whether to change from the
+a 2014 print digital and                             tailpipe co2 gkm metric to an energy efficiency
+radio campaign to help                                metric such as mjkm whether a vehicle should
+motorists understand                                  be measured by the size of its footprint or its
+the benefits cost savings                            mass when the next target should apply and how
+and capabilities of the                               ambitious it should be
+raft of new ultralow emission vehicles on the
+market the website provides a onestopshop
+for information about owning and running an
+ultra low emission vehicle the makes and models
+available and the locations of the thousands of
+publicly available chargepoints
+
+
+
+                                                      co2 from heavy duty vehicles
+                                                      developed by the eu vehicle energy consumption
+                                                      simulation tool vecto and the certified co2
+                                                      information it provides will help operators choose
+                                                      the best vehicle and technologies for their duty
+                                                      cycle a commission proposal is expected in
+                                                      2015 and could be in force by 2017 it is likely to
+                                                      focus on the most important segments for fuel
+                                                      consumption like long distance regional delivery
+                                                      and coaches in the first instance with others to
+                                                      follow vecto is undergoing proof of concept by
+                                                      road testing and will then need to be developed
+                                                      from an engineering tool into a certification tool
+                                                      with user guide for wider use
+                                                      httpeceuropaeuclimapoliciestransportvehiclesheavy
+                                                      index_enhtm
+
+
+
+
+page 18  sustainability report                    the society of motor manufacturers and traders
+
+future vehicles and technology
+
+developing a gas strategy for trucks                  and transport for london tfl to influence
+                                                      behaviour and tackle the air quality hotspots in
+the joint governmentindustry task force on           the capital from 2020 proposals aim to reduce
+low emission trucks which includes smmt and          air pollutants from road transport contribute to
+truck operators has focused on a strategy of         achieving compliance with eu ambient air quality
+improving the uptake of methane gas trucks           limit values and support the mayors strategy in
+which offer significant co2 and fuel cost savings    reducing co2 emissions and increasing the uptake
+httpswwwgovukgovernmentpublications           of ultralow emission vehicles in london
+lowemissionhgvtaskforcerecommendations
+onuseofmethaneandbiomethaneinhgvs             connectivity
+the governments commitment to a fuel duty
+differential between gas and diesel until 2024        direct communication between vehicles and
+brings certainty for the business case of operators   infrastructure will enable safer and more
+and infrastructure providers to invest the 135     efficient traffic flows with great benefits for
+million lowcarbon truck trial and has 175 trucks     drivers pedestrians the environment and the
+on the road which will rise to 354 vehicles most    economy in an everbusier world technologies
+of which are dualfuel gas trucks eighteen           include realtime traffic avoidance routing crash
+aerodynamic and lightweight trailers are also        avoidance adaptive cruise control geofencing
+in operation along with four refuelling stations     to ensure vehicles switch to electriconly mode in
+forming part of a planned network of 26 refuelling    the city centre and differentiated road tolls fleet
+stations this will leave an infrastructure legacy    telematics are already well proven in achieving
+for the gas truck market to build on                 higher utilisation factors for vehicles and location
+                                                      reports for individual items of freight with low
+                                                      cost and highly reliable technology highways
+closing the gap between real                         engineers can also use the technology to control
+world and test cycle performance                      speed and provide variable traffic signs
+
+the original purpose of the current test cycle        governments 2013 autumn statement announced
+ nedc for cars and vans was to provide               support for the development of driverless cars
+comparable co2 and emissions data between             including a prize fund of 10 million awarded to a
+vehicles to help inform consumer purchasing           town or city as a testing ground the automotive
+decisions even if vehicles are tested in a           council has also developed a technology roadmap
+comparable way motorists know that their             for intelligent mobility the roadmaps focus
+performance depends on a range of factors             rd funding in the uk on the consensus areas
+including driving style the route taken             where it is needed and are collated at httpwww
+maintenance standards climatic conditions and        automotivecouncilcoukwpcontentuploads
+load carried the new worldwide harmonised            201309automotivecouncilroadmapspdf
+light vehicles test procedure wltp
+is designed to better represent real
+world driving the technical detail
+of wltp was agreed in march 2014
+and it is to be embedded into eu law
+over the coming years
+
+an important aspect of the switch to
+wltp is that the 2020 co2 targets for
+cars and vans were set on the basis
+of the nedc a correlation exercise
+is therefore ongoing to ensure that
+through introducing wltp the level
+of ambition is not artificially changed
+overall for any vehicle segment or
+manufacturer
+
+the london ultralow emission
+zone ulez is a significant
+proposal from the mayors office
+
+
+
+the society of motor manufacturers and traders                               sustainability report  page 19
+
+signatories to this report                                                                    brands
+alexander dennis                                                                              alexander dennis
+bentley motors ltd                                                                            bentley
+bmw group uk including rollsroyce motor cars ltd                                             bmw mini rollsroyce
+bosch                                                                                         bosch
+caterpillar                                                                                   caterpillar perkins
+ceva logistics                                                                                ceva logistics
+ford motor company ltd                                                                        ford
+general motors uk ltd                                                                         chevrolet vauxhall
+gkn driveline ltd                                                                             gkn
+honda uk and honda of the uk manufacturing hum ltd                                        honda
+                                                                                              nissan commercial vehicles renault
+ibc vehicles ltd                                                                              vauxhall
+jaguar land rover ltd                                                                         jaguar cars land rover
+leyland trucks                                                                                daf trucks
+mercedesbenz uk ltd                                                                          mercedesbenz smart
+michelin tyre plc                                                                             michelin
+nissan motor manufacturing uk ltd and                                                       infiniti nissan
+nissan technical centre group
+optare                                                                                        optare
+psa peugeot citroën automobiles uk ltd                                                        citroën peugeot
+schaeffler                                                                                    schaeffler
+toyota gb plc
+toyota motor manufacturing uk ltd                                                           lexus toyota
+unipart                                                                                       unipart logistics
+                                                                                              audi seat škoda volkswagen passenger
+volkswagen group uk ltd                                                                     cars volkswagen commercial vehicles
+volvo cars uk ltd                                                                             volvo
+
+
+             references and online content
+             references and detailed data on the automotive industry performance can be found at
+             wwwsmmtcouksustainability
+
+             the webpage also contains links to signatories sustainability websites
+             1
+                 smmt uk automotive announcements httpwwwsmmtcoukinvestment
+             2
+              	capturing opportunity an assessment of supply chain opportunities in the uk automotive
+                sector september 2012 httpwwwsmmtcoukwpcontentuploadssites2smmtcapturing
+                opportunityreportkpmg3mbpdf
+
+
+
+
+                       disclaimer
+                       this publication contains general information and although smmt endeavours to ensure that the content is accurate and uptodate at
+                       the date of publication no representation or warranty express or implied is made as to its accuracy or completeness and therefore the
+                       information in this publication should not be relied upon readers should always seek appropriate advice from a suitably qualified expert
+                       before taking or refraining from taking any action the contents of this publication should not be construed as advice or guidance and smmt
+                       disclaims liability for any loss howsoever caused arising directly or indirectly from reliance on the information in this publication

@@ -1,0 +1,2504 @@
+thk csr report
+ 20152016
+
+         introduction
+
+         from the very start the thk group usually referred to in
+         these pages simply as thk has been mindful of the im
+         portance of conducting its business operations in a manner
+         that yields beneﬁts for society as a whole
+            this years csr report includes a threepart feature sec
+         tion examining thks efforts to honor its corporate social
+         responsibilities in a number of key areas the ﬁrst part looks
+         at ways in which thk technology is used to protect proper
+         ty and vital assets as japan marks the twentieth anniversary
+         of the great hanshinawaji earthquake the second part
+         focuses on an experiment in hydroelectric power genera
+         tion using irrigation canals intended as a contribution to
+         regional revitalization the third part examines efforts by
+         thk rhythm to help combat global warming an initiative
+         that won the ﬁrm a commendation from japans minister of
+         the environment
+            the section entitled management system includes a
+         discussion of risk management efforts while involvement
+         in society focuses on thks relationships with its various
+         stakeholders harmony with the environment offers a look
+         at thks environmental initiatives in ﬁscal 2014 including
+         some quantitative results
+            the thk csr report is an essential tool for communi
+         cating with everyone who is connected in any way to thk
+         and its activities please take the time to ﬁll out the enclosed
+         questionnaireyour comments and feedback will be great
+         ly appreciated
+
+
+
+
+2   thk csr report 20152016
+
+    thk csr report 20152016
+
+    contents
+introduction                                                   2
+contents                                                       3
+message from the top                                           4
+the thk group                                                  6
+
+ feature section creating value
+thk seismic isolation systems the optimal system to protect   8
+valuable property
+waterpowered generating system carving out a new future      12
+with technology and imagination
+thk rhythm tireless efforts to reduce environmental impact    14
+                                                                     reporting period
+ management system                                                   this report focuses mainly on the period from april 1 2014
+                                                                     through march 31 2015 although developments occurring
+corporate governance                                           17    shortly before and after this period are also discussed for
+                                                                     the most part years cited in this report are fiscal years
+compliance                                                     18
+risk management and information security                       19
+                                                                     scope
+                                                                     this report is based on information provided by thk co ltd and
+ involvement in society                                              its consolidated subsidiaries and affiliates the full scope of the
+                                                                     data reported in the section entitled harmony with the
+together with our customers                                    20    environment apart from that presented in the subsections
+together with our shareholders and investors                   23    environmental impact the big picture and environmental
+                                                                     preservation costs encompasses thks five manufacturing
+together with our employees                                    24    plants in japan in yamagata kofu gifu mie and
+                                                                     yamaguchi thk niigata co ltd and two manufacturing
+ harmony with the environment                                        plants owned by thk intechs co ltd in sendai and
+                                                                     mishima
+environmental management                                       30
+environmental management system                                31    target readership
+environmental impact the big picture                          32    this report is addressed to a broad range of stakeholders
+                                                                     including thks customers shareholders investors partner
+environmentally friendly from the start                        33    businesses including subcontractors and suppliers and
+conserving energy and combating global warming                 34    employees as well as government administrators and
+                                                                     community residents
+conserving resources pursuing zero emissions                 36
+and managing hazardous substances
+green distribution                                             37    reference
+                                                                     reference information used in the preparation of this report
+                                                                     has been drawn from the global reporting initiative g4
+thirdparty opinion                                            38    sustainability reporting guidelines 2013 and the ministry
+                                                                     of the environments environmental reporting guidelines
+postscript                                                     39    2012
+
+
+                                                                    please direct inquiries to
+                                                                    thk risk management division
+                                                                    phone 81354340569
+                                                                    fax 81366915250
+
+
+
+
+                                                                                                     thk csr report 20152016              3
+
+    message from the top
+
+
+
+
+    twoway communication
+    between thk and its customers
+                                                                      vices to develop more suitable components including a low
+       economic climate                                               torque shaft unit for windpowered generators which is now
+                                                                      in production we have conducted tests with hydroelectric
+                                                                      generators overseas and have now begun testing such de
+    in 2014 the global economy supported a favorable busi
+                                                                      vices in agricultural irrigation canals here in japan
+    ness climate driven by continued lowinterest policies in the
+    united states and sustained the ongoing gentle recovery
+    in japan popular opposition to another increase in the con
+    sumption tax rate resulted in the postponement of a second
+    increase by eighteen months in addition the bank of japan
+    conducted a largescale buyback of government bonds
+                                                                         the importance
+    leading to the easing of credit and we have finally begun to
+                                                                         of twoway communication
+    see signs of a recovery in the domestic economy in europe
+                                                                      the midterm business plan issued last year called for an
+    the perception of a letup in the financial crisis in greece of
+                                                                      emphasis on strategies aimed at achieving growth the
+    fered a glimpse of recovery in china however amid a cur
+                                                                      aforementioned global expansion effort and effort to enter
+    rency glut and a deflationary spiral resulting from excess
+                                                                      into new areas of business are our two fundamental growth
+    production capacity a sluggish business climate has set in
+                                                                      strategies for these efforts to succeed it is essential that
+      meanwhile thk has continued to pursue a growth strat
+                                                                      the concerns of customers all over the world are accurately
+    egy aimed at augmenting its markets though global expan
+                                                                      communicated to thk and that communications from thk
+    sion and entry into new business areas
+                                                                      are faithfully and correctly conveyed to all our customers to
+      manufacturers who have opened factories in developing
+                                                                      that end we have beefed up our sales staff to ensure more
+    countries are now seeking ways to further automate those
+                                                                      facetoface interaction with customers and have worked
+    operations as part of its global expansion effort thk is
+                                                                      to enhance communications by improving distribution net
+    working to expand its sales networks in order to gain better
+                                                                      works collecting and using relevant data and reaching
+    access to the factoryautomation market in the developing
+                                                                      people via the internet newspapers and magazines local
+    world on the sales side we have initiated japaneselan
+                                                                      exhibitions and direct mail
+    guagebased asean customer support services to assist
+                                                                        thks corporate philosophy sets forth the challenge of
+    japanese firms who have set up operations in southeast
+                                                                      providing innovative products to the world and generating
+    asia and are striving to providing onsite support wherever
+                                                                      new trends to contribute to creation of an affluent society
+    possible we have also established three new sales branch
+                                                                      to embrace this vision we strive to identify and fully under
+    es in india on the production side we have built a new plant
+                                                                      stand our customers problems and needs and gather all
+    in china to increase productivity at dalian thk and have
+                                                                      the relevant information available including complaints we
+    successfully moved some of our operations there
+                                                                      also present information and ideas to our customers rec
+      the effort to enter into new business areas is an initiative
+                                                                      ommend original applications and qualityrelated proposals
+    aimed at expanding sales and developing markets in areas
+                                                                      and offer products and innovations to ensure that the clients
+    such as renewable energy aeronautics robotics construc
+                                                                      machinery and equipment will provide high added value
+    tion equipment and caregiving and rehabilitation services
+                                                                        to be able to rapidly comply with the need for the right
+    in the field of renewable energy thk is utilizing operational
+                                                                      product at the right price in the right quantity and at the right
+    data from windpowered and hydroelectric generating de
+
+
+
+
+4   thk csr report 20152016
+
+time and place thk has established a unified production
+and sales system covering our four principal territories ja
+pan the americas europe and the rest of asia in this way
+we can create productdelivery systems tailored to customer
+needs and designed to dramatically enhance the compet
+itivity of the customers equipment and manufacturing op
+erations
+
+
+
+
+  in closing
+
+thk has established a basic policy devoted to the pursuit of
+business activities that create value and contribute to soci
+ety that are customeroriented and that adhere to all rele
+vant laws and regulations
+  as a creative innovative enterprise thk strives to in
+crease its corporate value by developing original products
+and manufacturing technology we conduct our business
+operations in a safe and fair manner foster positive relation
+ships with our partner businesses and other stakeholders
+support sustainable environmental conservation disclose
+information in a timely and appropriate manner and make
+every effort to fulfill our responsibilities as a good corporate
+citizen we thank all thk customers for their loyal patron
+age we will continue to refine our creativity and provide
+highquality products and highlevel services
+  this years edition of the thk csr report presents illus
+trations of ways in which thk contributes to society through
+its principal business pursuits in accordance with our basic      akihiro teramachi
+policy and also offers examples of efforts to expand into new          president and ceo
+areas of business i hope you find this report enlightening
+                                                                            thk co ltd
+
+
+
+
+                                                                      thk csr report 20152016   5
+
+    the thk group
+
+    thk the pioneering firm that developed the worlds first linear motion                               speed and precision as such they have contributed to advances in many
+    guide is the worlds foremost manufacturer of machine elements and com                              industries the constantly expanding applications for thk products now
+    ponents as a creative developmentoriented enterprise thk has intro                               include ct scanners mri machines and other devices used in advanced
+    duced a broad range of products since its establishment in 1971 guided                               medical care more durable and environmentally compatible automobiles
+    by a corporate philosophy devoted to providing innovative products to the                             and railway cars and seismic isolation and damping devices that protect
+    world and generating new trends to contribute to the creation of an affluent                          lives and safeguard valuable property
+    society in a host of mechanical systems including machine tools industrial                              as a milestone for longterm growth thk has set a goal of achieving
+    robots and semiconductor production equipment thks lm guides and                                   consolidated sales of 300 billion to attain this goal thk has embraced a
+    other products serve as essential laborsaving components enabling greater                            twopronged strategy aimed at fullscale globalization and the development
+
+
+
+       thks global network                                                        china
+                                                                                   sales offices                              36
+                                                                                   production sites                            5
+                                                                                   development facilities                      1
+
+                                                                                   thk group companies
+                                                                                   thk china co ltd
+                                                                                   thk shanghai co ltd
+                                                                                   dalian thk co ltd
+                                                                                   thk manufacturing of china wuxi co ltd
+                                                                                   thk manufacturing of china liaoning co ltd
+                                                                                   thk manufacturing of china changzhou co ltd
+                                                                                   thk rhythm guangzhou co ltd
+                                                                                   thk rhythm changzhou co ltd
+
+
+
+
+       europe
+       sales offices
+       germany                        2   france               1
+       britain                        1   netherlands          1
+       italy                          1   turkey               1
+       sweden                         1   russia               1
+       austria                        1   czech republic       1
+       spain                          1
+       production sites
+                                                                                      elsewhere in asia
+       france                         1   ireland              1                      sales offices                                              thk group companies
+                                                                                      taiwan          3     india                       4        thk taiwan co ltd
+       thk group companies                                                            singapore       1     south korea                13        thk lm system pte ltd
+       thk europe bv                                                                thailand        1                                          thk rhythm thailand  co ltd
+       thk gmbh                                                                       production sites                                           thk manufacturing of vietnam co ltd
+       thk france s a s                                                            south korea     4 vietnam                        1         thk rhythm malaysia sdn bhd
+       thk manufacturing of europe s a s                                           thailand        1 malaysia                       1         thk india private limited
+       thk manufacturing of ireland ltd                                                                                                         samick thk co ltd            affiliate
+
+
+
+
+           net sales consolidated                                                    million                       operating income consolidated                                 million
+                                            japan    the americas       europe      asia other                     30000                                                       28388
+       250000
+                                                                                 217678                            25000
+       200000                 190661     196866                                                                                      21844
+                                                                    185466
+                                                     168366                                                        20000                          19745
+                                                                                                                                                                        17370
+       150000
+                                                                                                                    15000
+                                                                                                                                                              11692
+       100000
+                                                                                                                    10000
+
+        50000                                                                                                       5000
+
+                  0                                                                                                       0
+               fiscal year   2010        2011         2012        2013         2014                                  fiscal year    2010        2011      2012      2013      2014
+
+
+
+
+6   thk csr report 20152016
+
+of new areas of business in order to both increase its geographical pres                        corporate name                    thk co ltd
+ence and expand the range of applications for thk products the globaliza                        date established                  april 10 1971
+tion initiative based on the idea that the site of demand is the optimal site                    address                           3116 nishigotanda shinagawaku
+                                                                                                                                    tokyo japan 1418503
+for production is devoted to establishing and improving a unified production
+                                                                                                  capital                           34606 million
+and sales system in thks four principal territories japan the americas                        end of ﬁscal year                 march
+europe and the rest of asia the development of new areas of business is                         employees consolidated           9494
+an effort to aggressively expand the range of product applications into areas                     employees nonconsolidated       3353
+of direct interest to consumers including automobiles and housing                               consolidated subsidiaries         6 in japan 24 overseas
+
+                                                                                                                                    as of march 31 2015
+
+
+
+
+                                                                                                                                the americas
+                                                                                                                                sales offices
+                                                                                                                                usa                    7    brazil                1
+                                                                                                                                canada                 1
+                                                                                                                                production sites
+                                                                                                                                usa                    2    mexico                1
+
+                                                                                                                                thk group companies
+                                                                                                                                thk holdings of america llc
+                                                                                                                                thk america inc
+                                                                                                                                thk manufacturing of america inc
+                                                                                                                                thk rhythm north america co ltd
+                                                                                                                                thk rhythm mexicana sa de cv
+                                                                                                                                thk brasil industria e comercio ltda
+
+
+
+
+   japan                                                            sales offices            47
+                                                                    production sites         12
+                                                                    development facilities    1
+                                                                    distribution sites        3
+
+
+
+
+                                                                    thk group companies
+                                                                    thk intechs co ltd
+                                                                    talk system corporation
+                                                                    thk niigata co ltd
+                                  thk group headquarters
+                                  thk co ltd                     thk rhythm co ltd
+                                                                    l trading co ltd
+                                                                    nippon slide co ltd
+                                                                                                                                                 sales office         production site
+
+
+
+
+      employees consolidated                                                                         thk personnel as of march 31 2015
+                               japan       the americas        europe        asia other                       region                      male             female           total
+   10000                                                                 9494
+                                           8958            9177
+                              8628
+                      8025                                                                                     japan                      4125                659          4784
+    8000
+                                                                                                           the americas                         595             261            856
+    6000
+                                                                                                               europe                           404             194            598
+    4000
+                                                                                                             asia other                   2394                862          3256
+    2000
+                                                                                                                total                      7518            1976            9494
+         0
+      fiscal year   2010    2011         2012             2013         2014
+
+
+
+
+                                                                                                                                                      thk csr report 20152016          7
+
+    feature section
+    thk seismic isolation systems
+
+
+
+    providing the optimal system to
+    protect valuable property
+    as japan marks the twentieth year since the great hanshinawaji earthquake amid lingering apprehension about the ability to withstand such
+    vast destruction there is renewed interest in earthquake preparedness in the interest of safeguarding lives and valuable property as well as to
+    ensure business continuity increasing attention is being paid to seismic isolation systems that protect ofﬁce buildings hospitals dormitories
+    government buildings public facilities and private homes as well as to seismic isolation devices that provide local protection for server comput
+    er artwork and measuring instruments and other highprecision devices thk determined to offer the most suitable and reliable product for each
+    situation is proud to help provide protection from menacing earthquakes below we offer a look at these types of thk products and their uses
+
+
+
+       seismic isolation and vibration control for buildings
+
+
+                             seismic                                                                                   vibration
+                             isolation                                                                                  control
+
+
+
+
+              rdt viscous damping system                                 clb linear guide system                       rdt viscous damping system used for vibration control
+
+
+
+
+                                                                                    this system supports the          this device which can be installed on the inside or
+    deployed in combination with roller bearings                                   building and dissipates seismic   outside of a building absorbs seismic energy and
+    this device absorbs seismic energy                                             vibrations from any direction    suppresses building vibrations
+
+
+
+
+                         seismic isolation for devices
+
+
+
+
+                                                                                                                                   tsd seismic isolation table
+
+
+
+
+                                                    the modules can be freely combined to accommodate a diverse       the seismic isolation table can simply be placed on the
+             tsg seismic isolation modules          range of loads and can also be used to isolate the ﬂoor itself   ﬂoor and requires no special installation
+
+
+
+
+8   thk csr report 20152016
+
+                                                                                         feature section creating value
+
+
+
+
+meiwa hospital
+nishinomiya hyogo prefecture
+
+
+
+
+attracted by reliable performance
+backed up by actual testing
+
+information technology has spread throughout the society
+we live in in recent years the medical industry has rapid
+ly incorporated electronic information systems we now
+have electronic health records and other kinds of medical
+information systems that contain all sorts of information
+from ct and mri images and treatment plans for incoming
+patients to explanatory documents and consent forms for
+surgeries and the enormous volumes of data collected are
+stored on server computers if the servers were destroyed
+in a big earthquake or some other disaster its no exagger
+ation to say that virtually all medical activity would come to
+a halt not only that the data in an electronic health record
+is important private information belonging to the patient
+and we have a responsibility to properly protect it another                akinobu kitagawa assistant manager information service division
+point is that test results and images have to be provided to
+enable a patient to give informed consent for an operation
+and if something were to go wrong the hospital could be
+ordered by a court to produce them as a medical institution     is needed to protect our servers for our patients sake and
+providing healthcare for this area we have to do whatever       to ensure sound management of the hospitals own oper
+                                                                 ations
+                                                                 here in nishinomiya we still have painful memories of the
+                                                                 great hanshinawaji earthquake which occurred two years
+                                                                 ago given the fact that a series of major earthquakes have
+                                                                 followed including the chuetsu earthquake and the great
+                                                                 east japan earthquake we really have to come to terms
+                                                                 with the fact that major earthquakes are unavoidable
+                                                                    we selected thks seismic isolation system to protect
+                                                                 our servers because they showed us the results of tests
+                                                                 performed using the same seismic waves as those record
+                                                                 ed during the great east japan earthquake in which server
+                                                                 computers were clearly protected it took very little time
+                                                                 from the signing of the contract to delivery and the installa
+                                                                 tion was done quite skillfully everything went smoothly from
+                                                                 the protective measures taken at the time of delivery and
+                                                                 the preinstallation preparations to the installation work itself
+                                                                 and the cleanup we really appreciated the fact the work
+                                                                 was done so well in the limited time available
+                                                                    i used to jump every time the ground shook a little and
+                                                                 ask everyone how big the tremor was now that ive seen
+                                                                 the data proving that thks seismic isolation system can
+                                                                 protect against a quake as powerful as the great east ja
+                                                                 pan earthquake i feel relieved
+
+
+
+
+                                                                                                            thk csr report 20152016             9
+
+     kyoudou densan center
+     hachinohe aomori prefecture
+
+
+
+
+     strong protection simple setup
+
+
+     our company develops logistics systems and manages
+     operations for hardware stores and supermarkets in logis
+     tics systems rapid response is extremely important when
+     products are sorted for instance splitsecond timing is
+     required cloudcomputing is all the rage nowadays but its
+     very hard to achieve a rapid response with cloudcomputing
+     alone server computers the mainstay of our business are
+     therefore absolutely crucial
+        during the 1994 offshore sanriku earthquake a major
+     seismic event our servers survived but had to endure con
+     siderable displacement and we were worried about lan
+     cables being severed and power cords being unplugged
+     that earthquake motivated us to start considering seismic
+     isolation and when we upgraded our servers we decided                                             tsuyoshi matsumura manager
+     to incorporate itnot the thk seismic isolation system
+     another companys products
+        after the great east japan earthquake struck we brought
+     in backup servers and this time we decided to use thks       who was familiar with thk and sang their praises assuring
+     seismic isolation devices at that time we had an employee     us that their products were unquestionably reliable he had
+                                                                    attended an exhibition where he observed the thk device
+                                                                    in action and saw for himself that it was effective even
+                                                                    against severe temblors of the type that occurred during
+                                                                    the great east japan earthquake there was nothing but a
+                                                                    bowl on ﬁrst seismic isolation device we used which didnt
+                                                                    look as though it would stand up to strong shaking in ad
+                                                                    dition thks device came in a variety of sizes and could
+                                                                    be freely combined the fact that we could easily set it up
+                                                                    ourselves was a big reason for adopting the thk system
+                                                                       in midfebruary there was a levelfour earthquake off
+                                                                    the coast of northeastern japan that registered 69 at its
+                                                                    epicenter but it caused no problems for us whatsoever ive
+                                                                    never experienced an earthquake more powerful than that
+                                                                    one but im not worried at all in midmay after a strong
+                                                                    earlymorning earthquake we got a call from thk asking
+                                                                    if we had experienced any problems with our servers i ap
+                                                                    preciated that we have no plans to install more servers any
+                                                                    time soon but when the time comes ill get in touch with
+                                                                    thk because i know we can count on them
+
+
+
+
+10   thk csr report 20152016
+
+                                                                                           feature section creating value
+
+
+
+
+fujitsu numazu plant
+numazu shizuoka prefecture
+
+
+
+
+inspired by a compelling presentation
+
+
+the numazu plant a key production facility that also plays
+a major role in the development of software for fujitsus
+largescale computers and server products has a comput
+er center where development data and other information is
+stored precious intellectual assets belonging to the fujitsu
+group are there including some from overseas we have
+to maintain conditions there to ensure secure reliable and
+stable daily operations                                         from left toru takahashi team leader and naoki gunji manager
+   the suruga bay area where the numazu plant is located       both of the software development cloud service department software
+                                                                 development technologies division software technologies unit
+is part of the region that has been at risk from a major tokai
+earthquake or tonankai earthquake since long before the
+great east japan earthquake based on the realization that        visitors to the fujitsu numazu plants cloud service department can
+it would be extremely difﬁcult to recover if our development      see thks seismic isolation system at work by moving the rack and
+assets and data were lost we installed seismic isolation         observing the way the system responds reservation required
+systems at group companies in 2008 to help ensure busi
+ness continuity and a higher level of reliability
+   the cloud services department has customer service
+engineers available at all times at the center to rapidly re    equipment would not be adequate if an unexpectedly in
+spond to the various needs that arise one of them told          tense inland earthquake were to strike we were convinced
+us about thks unprecedented seismic isolation technol          because we could see it and even feel it which doesnt
+ogy this happened at a time when the topic of business          happen very often
+continuity was getting a lot of attention and we were also        at the time it didnt feel at all as though thk was trying to
+engaged in facility planning so we invited people from thk      sell us something although we still deal with the same peo
+to come to the plant and explain their products                 ple they simply explained the technology that thk used
+   the presentation was very convincing they didnt put the     for seismic isolation with no mention of any rival products
+focus on paperwork after a brief introduction they asked        they just said that if we accepted their proposal they would
+about our situation and after watching a video they deter      take care of us we had high hopes for their system and
+mined the actual motion that would occur using a miniature      really wanted to try it
+model made of clear plastic we could see that our existing        of course after that our bosses had to be convinced
+                                                                 we explained that thks system would perform better and
+                                                                 be more reliable that our existing seismic isolation arrange
+                                                                 ment the miniature model that thk had loaned us was
+                                                                 very persuasive
+                                                                   if our servers were damaged or destroyed in a disaster it
+                                                                 would still be possible to restore conditions using backup
+                                                                 computers but in the worst case if our development data
+                                                                 were lost all such efforts would be in vain for the sake of
+                                                                 business continuity we have a comprehensive system in
+                                                                 place including backup computers at separate locations
+                                                                 even so by installing thks seismic isolation devices i
+                                                                 would like to think we have taken sufﬁcient action to safe
+                                                                 guard a very important facility
+
+
+
+
+                                                                                                            thk csr report 20152016    11
+
+     feature section
+     thks waterpowered generating system
+
+
+
+     carving out a new future with technology and imagination
+     light heat and motion from flowing water
+
+     thk entered the ﬁeld of windpowered generation in 2009 when it launched an internal project aimed at developing key compo
+     nents for wind turbines exploring new uses for the technology developed in that initiative thk has now applied it to waterpow
+     ered generation following an initial test in taiwan in 2012 thk tested its new system at the kanagawa prefecture sagami river
+     left bank land improvement district in 2014 continuing its campaign to help unleash the vast potential of renewable energy
+
+
+
+
+     thk technology stands out
+     the use of irrigation canals for waterpowered generation is relatively new there are strict limitations on the extent to which
+     irrigation canals can be modiﬁed since any obstruction of the water ﬂow would have a major negative impact on the crop
+     being watered for conventional waterpowered generation falling water must be devised which enables large volumes of
+     power to be generated but requires major construction work that often costs at least ten times as much as the generating
+     equipment itself
+         thks system which generates electricity by means of a water wheel alone costs relatively little and neither damages nor
+     obstructs irrigation canals since it doesnt require damming the ﬂow to create falling water theres little likelihood of ﬂooding
+     and refuse and other ﬂoating matter can easily be cleared to permit stable operation
+
+
+
+     imaginative technology contributes to revitalization
+     with a waterpowered generating system that does not                        trial use of waterpowered generator in agricultural
+     rely on falling water power is generated most efﬁciently in                irrigation canal
+     a stable environment a constant volume of water ﬂowing
+     at a constant speed thats why thk decided to focus on                     system in place august 21 to october 3 2014
+     irrigation canals                                                          system in operation august 26 to september 24 2014
+                                                                                 location near iriya 2chome zama kanagawa prefecture
+         farming is dependent on rain droughts and poor har
+     vests take their toll and the incomes of people who work                    water intake area m2                         03
+     in agriculture are dependant on climatic conditions thk is                  blade length m                               05
+     both pursuing growth in the ﬁeld of renewable energy and
+                                                                                  blade rotation diameter m                    06
+     trying to help people involved in agriculture achieve more
+     stable incomes thereby contributing to the regional revital               flow rate ms                   10          15           20
+     ization movement with the cooperation of the kanagawa                      output kw                       003         01          024
+     prefecture sagami river left bank land improvement
+                                                                                  monthly output kwhmo          22           73           173
+     district a twomonth experiment was carried out in 2014                     during 720 hours of operation
+     to verify the functions of thks waterpowered generating
+                                                                                 trial unit specifications                      overall efficiency  02
+     system and reveal any challenges posed by agricultural
+     irrigation canals in japan the results demonstrated that no                                                    average output 197 w
+     modiﬁcations to existing irrigation canals are required that
+     the system will not obstruct
+     water ﬂow and that irrigation
+     canals in japan are capable
+     of generating a stable supply
+     of electric power
+
+
+
+                                            testing a waterpowered generator
+
+
+
+
+12   thk csr report 20152016
+
+                                                                                        feature section creating value
+
+
+
+
+kanagawa prefecture sagami river
+left bank land improvement district
+ebina kanagawa prefecture
+
+
+
+
+the great potential of renewable
+energy is worth the cost
+
+as someone who works with irrigation ive always thought
+people should be more aware of the importance of irrigation
+canals and not just because they carry water which is a
+source of life im glad to have had the chance to help ex
+plore their potential through thks project because i think
+it will help the public better understand the ways in which
+canals can help improve living conditions
+   when i got my ﬁrst look at thks waterpowered gen
+erator i saw right away that it wouldnt damage the canal
+or anything else since the water wheel is the only thing
+that goes into the water i knew this would be a valuable
+experiment ordinarily hydroelectric projects require major
+construction work so the simple design of thks system                                                    kazuhiro shiowaki engineer
+was very appealing
+   i work in agriculture so i have a basic interest in protect
+ing the environment for the sake of the future i feel we
+should be working hard to utilize renewable energy as a            theyre similar i hope thk will put its industrial insights to
+countermeasure against global warming even if its a little       good use in relation to agriculture and come up with some
+costly at present unlike solar and wind power waterpow         imaginative new ideas and technology i really hope the
+ered generation can be available 24 hours a day provided          system that was tested in 2015 will be perfected and put
+you have a steady ﬂow so it has great potential as a source       on the market id like to see thk continue to develop ways
+of renewable energy if we put it to practical use it could be    to take advantage of the latent beneﬁts of irrigation canals
+used to run the systems that control automatic sluice gates       and i hope people will learn about its efforts so far
+which we already have so the power generated wouldnt
+necessarily just be sold off but could actually serve as an
+energy source on its own
+   agriculture and industry are two separate ﬁelds of course
+but both are devoted to producing things so in that sense
+
+
+
+
+  kanagawa prefecture sagami river left
+  bank land improvement district
+  in 1930 the sagami river left bank water
+  users association was established for the
+  purpose of providing canals and waste water
+  treatment facilities to irrigate more than 2000
+  hectares of paddies located in what is now the
+  southern part of the city of sagamihara and the
+  cities of zama ebina fujisawa and chigasaki
+  as well as the town of samukawa in 1949 a
+  new law was enacted reestablishing the orga
+  nization as the kanagawa prefecture sagami
+  river left bank land improvement district
+
+
+
+
+                                                                                                       thk csr report 20152016           13
+
+     feature section
+     thk rhythm hamamatsu plant honored for efforts to combat global warming
+
+
+
+     tireless efforts to reduce
+     environmental impact
+     japanese manufacturers are considered to be among the worlds best at reducing
+     environmental impact confronting the task with passionate effort and advanced tech
+     nology in the workplace this goal is relentlessly pursued at a very high level this type
+     of tireless dedication to environmental protection earned thk rhythms hamamatsu
+     plant a commendation from japans minister of the environment for efforts to counter
+     act global warming in 2014
+
+
+
+
+     reducing environmental impact and raising employee awareness
+     thk rhythms energyconservation efforts which include the use of easytoremember slogans help ensure that employ
+     ees faithfully turn off lights and machines when they are not needed this has been accomplished not through verbal orders
+     but by relocating power switches and incorporating measures that enable employees to see exactly how much power is
+     being used at any given time which helps reduce waste throughout the plant
+
+
+
+        raising awareness 1 turn off power to equipment when not in use
+                                      2 turn off air compressors when not in use                               constant awareness ensures energy savings
+                                      3 turn off lights when not in use
+
+        measures taken to reduce wasted energy                               for employees and equipment
+
+
+
+
+     relocated switches make it easier to turn off   led lights on the production line are   switches that should remain on are clearly   employees can see how much air and power
+     power to machinery                             equipped with motion sensors           marked with signs                           are being used
+
+
+        results
+                                                                                                saturdays                                                             sundays
+          a 24 energy savings on
+                                                                                                62 less                                                           64 less
+          weekdays and a bigger                                                                 power used                                                           power used
+          reduction in power usage
+          on weekends
+
+
+
+
+                 objective of energysaving efforts
+
+             attitudes and conditions conducive to commonsense energy conservation
+
+
+
+14   thk csr report 20152016
+
+                                                                                                      feature section creating value
+
+
+
+
+production line checkup                                                       promoting energy conservation in the community
+as part of energyconservation efforts every year one                        the hamamatsu plant contributes articles to industry
+production line undergoes an energy checkup over the                         publications and makes other information available to
+course of four days highprecision measuring equipment                       apprise the community and local businesses about its
+is used to provide a complete assessment of the lines                        efforts to reduce environmental impact
+energy consumption the resulting data is used to iden
+tify focal points for further energysaving efforts leading                     informational activities in fiscal 2014
+to greater efﬁciency and reduced environmental impact                                      presentation on rationalizing energy usage attended by
+                                                                                october
+                                                                                            about 50 people representing businesses in the
+                                                                                 2014
+                                                                                            hamamatsu area and western shizuoka prefecture
+                                                                                        seminar on combating global warming attended by about
+                                                                               december
+                                                                                        50 people representing businesses in hamamatsu and
+                                                                                 2014
+                                                                                        western shizuoka prefecture
+                                                                                january     conducted a tour of its energysaving production facilities
+                                                                                 2015       for six visitors from the univance corporation
+                                                                                            conducted a presentation on energyconservation efforts
+                                                                                 march      at a meti briefing on revised energyconservation laws
+                                    an image used to assess heat loss           2015       attended by about 500 people representing firms in the
+                                                                                            kanto district
+
+
+
+
+                                             notable achievement in 2014
+
+
+
+    commendation for efforts to combat global warming
+    since 1998 as part of efforts by japans ministry of the
+    environment to encourage countermeasures against global
+    warming the minister of the environment has presented an
+    nual commendations to honor individuals and organizations
+    for notable achievements in the campaign to confront global
+    warming having been nominated last year by the city of ham
+    amatsu thk rhythm became the recipient of such a com
+    mendation for practical measures and consciousnessraising
+    activities in 2014
+      thk rhythm which has conducted a variety of ener
+    gyconservation initiatives at its production facilities won
+    praise for introducing highefﬁciency equipment and being a
+    green energy producer as well as for activities designed to
+    keep the community informed about environmental efforts                   the december 2014 award ceremony attended by president hitoshi muramoto
+
+
+
+
+                in their own words honored to be recognized
+                                                   masayoshi murakami manager manufacturing engineering section thk rhythm hamamatsu plant
+
+
+    we consider a commendation for energy conservation to be a very high honor it will
+    motivate the employees at the hamamatsu plant to work even harder in the future
+    this is an afﬁrmation of our positive efforts to reduce the plants environmental impact
+    and it should be beneﬁcial for public relations too were going to continue our efforts
+    and set our sights on another award
+
+
+
+
+                                                                                                                         thk csr report 20152016          15
+
+      3 major areas of endeavor
+
+
+             1
+                                                                                   the concept of corporate social responsi
+                                                                                   bility has become widely established and
+                                management system                                  businesses are encountering increasingly
+                                                                                   demanding expectations from society as a
+                                                                                   whole at thk we feel that as an enterprise
+                                                                         page 17   engaged in monozukuri our most important
+                                                                                   mission is to maintain transparency in our
+                                                                                   operations and foster a corporate culture
+                                                                                   that is thoroughly responsive to societal ex
+                                            in focus in 2014                       pectations to this end we have taken steps
+                                                                                   to ensure thorough awareness of our corpo
+                                 compliance training in singapore
+                                                                                   rate social responsibilities and established
+                                 quality assurance system
+                                                                                   a highly effective management system to
+                                                                                   ensure they are fulfilled
+
+
+
+
+             2
+                                                                                   in light of the continuing need for recovery
+                                                                                   efforts in the aftermath of the great east
+                                involvement in society                             japan earthquake and the need to rebuild
+                                                                                   japans longstruggling economy thk and
+                                                                                   other firms engaged in monozukuri have
+                                                                         page 20   more opportunities to contribute to society
+                                                                                   than ever before as we continue to cultivate
+                                                                                   mutually beneficial relationships with our
+                                                                                   many stakeholders we will also continue to
+                                            in focus in 2014                       demonstrate the vital importance of mono
+                                                                                   zukuri in daily life
+                                 fourth straight victory at abilympics
+                                 scholarship fund
+                                 improved childcare leave system
+
+
+
+
+             3
+                                                                                   dramatic improvements in energy efficiency
+                                                                                   increased product longevity and other tech
+                                harmony with the environment                       nological advances have contributed greatly
+                                                                                   to reducing energy consumption in daily life
+                                                                                   thks efforts are propelling further advanc
+                                                                         page 30   es in japans environmental technology
+                                                                                   already regarded as the best in the world
+                                                                                   we continue to pursue a variety of initiatives
+                                                                                   in this field secure in the conviction that in
+                                            in focus in 2014                       passing these advances on to future gener
+                                                                                   ations we are helping to preserve the global
+                                 environmentally friendly from the start           environment
+                                 award for energy conservation
+                                 improvements at the mie plant
+
+
+
+
+16   thk csr report 20152016
+
+                                                                                                                                                                                                management system
+
+
+
+
+corporate governance
+
+
+                                                                                                                                    tains expert guidance from lawyers accountants and oth
+governance system
+                                                                                                                                    er third parties the members of the board including the
+fundamentally thk views corporate governance as a                                                                                  independent outside directors hold discussions based on
+means of making management transparent to shareholders                                                                              information acquired and make decisions on issues critical
+and ensuring appropriate and efficient operations in order to                                                                      to corporate management thk is striving to improve mana
+maximize shareholder returns                                                                                                       gerial oversight by ensuring that the guidance from lawyers
+  thks management structure is founded on two essential                                                                            accountants and other thirdparty experts is reflected in the
+bodies the board of directors which includes outside direc                                                                       boards decisionmaking process and by ensuring that the
+tors and board of auditors which includes outside auditors                                                                       views of knowledgeable and wellexperienced outside direc
+as of june 21 2014 thk has reduced the membership                                                                                 tors are reflected in the management of business operations
+of the board of directors and introduced a new system of
+executive officers in order to improve the boards oversight
+capabilities clarify executive roles and responsibilities and
+enable more rapid decisionmaking and executive action
+                                                                                                                                    securityrelated trade controls
+  the board of directors has nine members including two
+outside directors the board consisting of the president                                                                           in keeping with its policy of increasing overseas sales and
+and other executives outside directors and directors who                                                                          sales in new areas of business thk provides training con
+concurrently serve in other positions makes decisions on                                                                           cerning securityrelated trade controls on both goods and
+important management matters and oversees the directors                                                                             technology for its engineering and sales divisions in japan
+and executives in the performance of their duties the inclu                                                                       as well as for overseas subsidiaries to help ensure that no
+sion of two independent outside directors reflects a determi                                                                       violations of the foreign exchange and foreign trade con
+nation to improve managerial oversight and ensure that the                                                                          trol law occur in dealings with overseas customers or the
+management of thks operations remains impartial appro                                                                            nations from which exports are dispatched if a transaction
+priate and legally sound                                                                                                          raises particular concerns thk conducts a careful inquiry
+  to help ensure timely and appropriate decisionmaking                                                                            in cooperation with japans ministry of economy trade and
+the board of directors contacts the relevant executives and                                                                         industry
+departments to obtain the information it needs in order to                                                                               thk will continue to improve customer service and con
+hold informed discussions and whenever necessary ob                                                                              duct its operations in compliance with all legal obligations
+
+
+
+
+              governance system
+                                                                                             general meeting of shareholders
+                           election dismissal                        election dismissal                                                                       election dismissal
+                                report                                                                                                                                                                                      cooperation
+                                                     board of auditors
+                               cooperation       2 internal and 2 outside auditors                 audits
+                                                                                                                                            board of directors
+                                report                                                                                president 2 vice presidents 4 executive officer directors 2 outside directors
+    independent auditors
+
+
+
+
+                                                                                                                                                                                                                                               compliance committee
+
+
+
+
+                                               cooperation     report                                                                                           selection dismissal supervision
+                                report                                                                                                                                                                                         advice
+                                                                                                                                              president and ceo
+                               cooperation                                                          report                                                                               report                             cooperation
+                                             internal audit division
+                                                             audits      audits selection dismissal supervision     report                      report           instruction supervision                selection dismissal supervision
+
+                                                                                                  global management strategy meeting
+                                                                          executive board                                                          other divisions and departments                                             audits
+                                audits                                                                                     cooperation
+                                                      divisions and            cooperation           affiliated                                                                 cooperation
+                                                      departments                                   companies              cooperation
+                                                                                                                                                        other affiliated companies
+
+
+                                                                                                             audits                  audits
+                                                                                                     group audit  supervisory board
+
+
+
+
+                                                                                                                                                                                                     thk csr report 20152016                                         17
+
+     management system
+
+
+
+
+     compliance
+
+
+     compliance system                                                        education and training
+     compliance committee thk has had a permanent com                        compliancerelated training in december 2014 compli
+     pliance committee since 2005 chaired by its president and               ance panel members attended a periodic training session
+     ceo the compliance committee sets policy in relation to                 conducted by a visiting legal expert to improve their knowl
+     thks compliance system deliberates and reports on any                  edge of legal matters and reinforce efforts to address com
+     legal infractions that occur and oversees the internal re              pliancerelated issues the participants reviewed case stud
+     sponse the committee consults with legal advisers who at               ies concerned with liability and traffic accidents excessive
+     tend its meetings as observers to ensure that the response              work hours and corporate responsibility and laws governing
+     is appropriate and legally sound                                        subcontracting and product liability to attain a better under
+                                                                              standing of the issues involved
+     compliance panels each business division has its own
+     compliance panel all of which report to the compliance
+     committee panel members from every region and location
+     help ensure observance of the compliance system at the lo
+     cations they represent they organize voluntary workshops
+     act as liaisons and offer guidance to help resolve any com
+     pliancerelated problems that may arise
+
+
+
+          compliance system                                                                                            compliance panel training session
+
+                       compliance committee
+                         chaired by the ceo
+                                                                              training in singapore in december 2014 eleven employ
+                                                                              ees of thk lm system pte ltd located in singapore
+                                                                              took part in a workshop on achieving growth by earning the
+                  observers                         committee secretariat
+            auditors legal advisers               risk management division   trust of thks stakeholders the participants both locally
+                                                                              hired employees and employees from japan also reviewed
+                                  compliance panels                           case studies involving illegal actions occurring in everyday
+                  headquarters sales technical production affiliate       situations a number of participants commented that the
+                                                                              presentation effectively conveyed the importance of corpo
+                                                                              rate social responsibility especially as regards the proper
+                                                                              handling of sensitive information and the harm that can result
+     thk helpline thk also operates the thk helpline an in                  from compliance failures
+     ternal notification system designed to deter potential com
+     pliancerelated violations by executives or employees and
+     ensure that prompt and appropriate action is taken in the
+     event that a violation occurs infractions can be reported by
+     telephone or email or by contacting the companys legal
+     advisers who provide an external channel for such notifica
+     tions in 2014 seven reports were received via the helpline                     training session in singapore
+     all of which were addressed in cooperation with the depart
+     ments involved                                                          elearning materials to help employees better understand
+                                                                              the laws governing everyday conduct in the workplace
+                                                                              compliancerelated study materials have been made avail
+                                                                              able via thks inhouse elearning program in march 2015
+                                                                              14 new study problems testing basic knowledge about an
+                                                                              titrust law were added bringing the total to 131 employees
+                                                                              can also review 30 compliancerelated case studies via the
+                                                                              elearning program
+
+
+
+
+18   thk csr report 20152016
+
+                                                                                                               management system
+
+
+
+
+risk management and information security
+
+
+business continuity planning                                        information security
+to ensure that its prepared for a major earthquake or oth         the information security committee established in 2006
+er disaster thk has been formulating business continuity           and chaired by the ceo determines thk policies related to
+plans and taking a variety of other actions to reduce the           information security and the disposition of informationsecu
+scale of potential damage and help ensure rapid resumption          rity matters
+of operations                                                        in 2014 the information security committee office con
+                                                                    ducted internal audits of informationsecurity arrangements
+securing servers to protect server computers and other              at four business sites in japan to help ensure that effective
+critical computer systems thk keeps its frontline servers         systems are in place training sessions were conducted at
+and backup servers at separate data centers thereby reduc         thk plants and affiliates to educate employees about the
+ing the risk of disruption in the event of a disaster thk also     importance of information security thk also conducts sur
+trains its personnel in procedures for switching to a backup        veys using its internal computer network to ascertain the
+server when a frontline server goes down to ensure that it        status of information security throughout the group when
+can mount a rapid recovery if disaster should strike and is        problems are identified improvements are carried out
+working to identify potential problems and make any needed            by consolidating organizational control over its information
+improvements                                                       systems thk has improved information security throughout
+                                                                    the thk group and implemented effective measures to pro
+securing office supplies and equipment at thk offices              tect confidential information the groups antivirus software
+fixtures designed to prevent objects from being displaced or        has been upgraded to prevent unauthorized access to its
+toppled by seismic tremors have been affixed to copiers and         computer networks fend off computer viruses and other
+other office machines and installed on storage shelves hold        malevolent incursions and prevent illicit disclosure of sen
+ing spare parts tools and office supplies in addition some      sitive information to defend against attacks on the system
+threedimensional measuring instruments and toolstorage            employing targeted email messages originating outside the
+shelves are protected by thks own seismic isolation de            system are screened for viruses before they are admitted
+vices                                                              which keeps potentially harmful email from entering the net
+                                                                    work
+stockpiling emergency supplies to provide for the needs
+of those who may be unable to reach their homes in the
+event of a major earthquake or other disaster all thk offices
+have been equipped with food drinking water blankets por
+table toilets and other emergency supplies at thk plants
+with especially large numbers of employees stretchers and
+other rescue supplies have been procured along with emer
+gency generators and other equipment needed for the re
+sumption of operations
+                                                                         information security
+training for a disaster every thk location conducts evac                        information security committee
+uation drills firefighting exercises and training in transport                      chaired by the ceo
+ing the injured all employees receive training in safetycon
+firmation procedures and every location provides training in                                                                     advise
+                                                                                   committee secretariat
+the use of satellite phones                                                      risk management division
+                                                                                                                            observers
+countermeasures against infectious diseases thk con                             information security panel                  auditors
+                                                                                  headquarters departments                lawyers others
+tinually monitors the status of infectious diseases overseas
+including avian flu and the middle east respiratory syndrome               instruct oversee
+
+and relays precautions and other relevant information to em                information security supervisors    appoint
+                                                                                 heads of divisions and                   information security
+ployees of overseas affiliates and employees who are trav                        business locations                         administrators
+eling or posted overseas when deemed prudent thk also                                departments and business locations
+provides items such as breathing masks and disinfectant
+
+
+
+
+                                                                                                                thk csr report 20152016         19
+
+     involvement in society
+
+
+
+
+     together with our customers
+     product quality customer satisfaction collaboration with partner businesses
+
+
+
+     quality assurance system                                                     jsem award
+     thk constantly strives to provide all its customers with safe                in april 2014 the japan society of
+     and reliable products that meet the worlds highest stan                    mechanical engineers named thks
+     dards for quality as thk applies increasingly demanding                     model rw doublerow angular
+     quality controls some tailored to specific industries this is              contact roller rings as the recipi
+     reflected in the acquisition of official certifications                     ent of its excellent product award
+                                                                                  the award is intended to recognize
+                                                                                  products of high merit that improve
+         iso 9001 certification has been acquired for the                        on existing technology and are de
+          quality management system employed at all thk                           veloped at the grassrootslevel
+                                                                                  thk was recognized for capitalizing                              award plaque
+          production sites in japan elsewhere in asia the
+          united states and europe                                              on its expertise with the crossroller
+         isots16949 certification has been acquired for the                     ring an existing product and developing a more compact
+          quality management system employed at thk pro                          doublerow component that provides both high rigidity and
+          duction sites that supply products to the automobile                    high rotational speed
+          industry
+         jis q 9100 certification has been acquired for the
+          quality management system employed at thk pro
+          duction sites that supply products to the aerospace
+          industry                                                               training for engineers overseas
+
+
+
+       thks comprehensive quality assurance system includes
+     periodic productquality audits of suppliers and subcontrac
+     tors conducted as part of the quality management system
+     thk has also updated its productquality information system
+     by establishing a unified global information network enabling
+     thk to collect analyze and disseminate information on
+     product quality including comments from customers and
+     quickly provide whatever service is needed
+       thk will keep striving to satisfy its customers and incor
+     porate their viewpoints into its quality assurance system in
+     order to meet the needs of the market and the customer
+                                                                                                  engineers from overseas locations outside the technology center
+
+
+                                                                                  in november 2014 ten thk engineers from china europe
+                                                                                  south korea taiwan and the united states gathered in
+                                                                                  japan for the sixth global engineers meeting over the
+                                                                                  course of five days they attended study sessions on critical
+                                                                                  speed and the ball screw at the technology center acquired
+                                                                                  handson experience in assembling crossroller rings at the
+                                                                                  mie plant and studied technical issues likely to arise in deal
+                                                                                  ings with customers
+                                                                                    since its inception more than 50 thk engineers from
+                                                                                  overseas locations have participated in the program which
+                                                                                  is designed to provide a better understanding of thk prod
+                                                                                  ucts thk will continue to provide training in japan for inter
+                                                                                  ested engineers in the future
+                                                thks quality assurance system
+
+
+
+
+20   thk csr report 20152016
+
+                                                                                                                    involvement in society
+
+
+
+
+                                                                                   for improvements in the areas of quality cost environmental
+together with suppliers                                                            factors or safety submitted by association members the
+                                                                                   number of proposals submitted increases every year pro
+cooperative arrangement ideal procurement thk re
+                                                                                   viding new ways to provide customers with better products
+gards its suppliers as indispensable partners with whom it
+                                                                                   and reinforcing the strong bond between thk and the thk
+works together in an effort to achieve mutual growth thk
+                                                                                   association
+has established a cooperative system that encourages the
+sharing of information about new technologies processing
+techniques and materials in pursuit of the common goal of
+providing products that satisfy the customer and continual
+ly improving those products thks system enables timely
+confirmation of exchange rates customs duties and import                         technology exchange
+requirements pertaining to components supplied to each
+production facility in its four principal territories and will help
+ensure optimal procurement conditions in the future
+
+
+fair and equitable trade thk selects its partner busi
+nesses based on annual evaluations on product quality and
+timely delivery as well as safety and environmental factors
+consideration is also given to honoring social responsibilities
+by excluding antisocial forces from the entire supply chain
+and to promoting green purchasing practices to support
+fair and equitable dealings with all parties covered by the
+laws governing subcontracting thks fair trade committee
+conducts study sessions for all personnel involved in pro
+curement to provide them with accurate knowledge of legal                                               tour participants at the entrance to the yamaguchi plant
+requirements and ensure compliance
+                                                                                   in november 2014 the japan society for precision engineer
+the thk association the thk association made up of                                ings ultra precision positioning committee hosted the sixth
+thks principal suppliers and other partner businesses con                       international conference on positioning technology held
+venes at one general session and three branch meetings ev                         in fukuoka prefecture the event included a tour of thks
+ery year for discussions of business and purchasing policies                      yamaguchi plant which was attended by 17 guests from
+in november 2014 association members heard thk outside                             china taiwan south korea and various parts of japan
+director masakatsu hioki speak on the topic of global team                        they observed grinding highfrequency hardening carburiz
+work and many also attended a workshop on cutting tools                           ing leveling and other processes involved in the production
+and energy conservation at the general meeting awards                             of the lm guide which is an indispensable aid to precision
+were presented for value analysis proposals suggestions                           positioning and the yamaguchi plants principal product
+                                                                                     after the tour a briefing on thk products was held in the
+                                                                                   factorys showroom where questions were answered about
+                                                                                   specialized lm guides and other topics the guests also
+                                                                                   had a chance to experience the effectiveness of thks seis
+                                                                                   mic isolation devices which utilize its innovative circulararc
+                                                                                   groove design based on the feedback received those par
+                                                                                   ticipated in the tour were highly impressed with the scale
+                                                                                   of production operations at the yamaguchi plant and de
+                                                                                   lighted to get a firsthand look at its vast array of automated
+                                                                                   machinery
+
+
+
+
+                 outside director masakatsu hioki speaks to association members
+
+
+
+
+                                                                                                                          thk csr report 20152016                  21
+
+     in their own words together with our customers
+     furuno electric co ltd
+
+
+
+
+     furuno electric was founded in 1938 in 1948 the company successfully
+     developed the worlds first fish finder for practical use and it is now the            from left kazuki inobe engineer mechanical engineering section research  development
+     worlds foremost maker of electronic devices for marine vessels relying on             department marine electronic products division hisataka yamagami assistant chief planning
+                                                                                             section 1 engineering  procurement planning center and hiroshi nobayashi planning section 1
+     its three core technologiessensing processing and communication                     engineering  procurement planning department
+     furuno electric provides its customers with devices that reveal things that are
+     otherwise invisible and equipment that provides highly accurate information
+
+
+
+
+     thks strength a deep product lineup and the ability to meet high standards
+
+            why did furuno electric start using
+                                                                                                               what convinced you to go with thk
+            thk products
+
+     our relationship with thk began about 10 years ago when                                           the development target was faster upanddown motion for
+     we were still using sliding mechanisms on drive shafts for                                        our new product even if only slightly faster to get there we
+     our products for the electronic devices on marine vessels                                       realized that we needed a mechanism that uses rolling mo
+     sensors have to be lowered into the water from the bottom                                         tion not sliding motion and it was thk who had the best
+     of the vessel for the sonar which probes the area in every                                       selection of that type of product with other manufacturers
+     direction and we decided to use thk products in the drive                                        for largediameter specifications the product would have to
+     shaft that raises and lowers the sensors for research and                                        be specially ordered but thk had standard products readily
+     development purposes it was important to be able to speed                                        available so we went with thk
+     up the raising and lowering of sonar devices by using a                                             in the past it took time for the sonar equipment to be low
+     thk rolling mecha                                                                                ered and raised and the fishermen who are our customers
+     nism in a new sonar                                                                               would be forced to stop and wait our new product goes up
+     product we were able                                                                             and down very quickly so now when they locate a school of
+     to achieve unprece                                                                               fish they can use the sonar immediately and beat the other
+     dented       acceleration                                                                        ships to the fishing ground which is greatly appreciated
+     enabling a major re
+     duction of the time
+     required to raise and                                                                                     what are you hoping for from thk
+     lower sonar devices                                                                                      in the future
+     compared to previous
+     products                                                                                         to ensure that were making products we can confidently recom
+                                                                                                       mend to our customers were very strict about product quality
+                                                                                                       and we raise our standards every year we look to thk to con
+                                                                                                       tinue to help us meet our high standards for quality
+
+
+
+
+                                        rolling mechanism used in internal verticalmotion
+                                        component the red portions are the sensors
+
+
+
+
+22   thk csr report 20152016
+
+                                                                                                        involvement in society
+
+
+
+
+together with our shareholders and investors
+
+
+events for investors                                                   general shareholders meeting
+twice a year thk holds a financial briefing for investors where       in the interest of openness since 1998 thk has held its an
+thks ceo discusses the groups business performance and               nual general shareholders meeting on a saturday in mid
+business strategies ample time is provided for questions from         june avoiding the dates when most corporate shareholders
+those in attendance to ensure that investors have a chance to          meetings are scheduled to enable more thk shareholders
+candidly communicate their views to thk management thk                to attend seating for observers is provided to enable rep
+has also expanded the dialogue to include more investors              resentatives of partner businesses and other stakeholders
+through smallscale meetings and individual interviews mean          to learn more about thks operations and many have at
+while thk provides opportunities for interaction with institutional   tended
+investors overseas including teleconferences and annual visits          the 45th ordinary general shareholders meeting was
+with investors in the united states and europe in an effort to        held on june 20 2015 with approximately 400 sharehold
+engage in more extensive communication with all investors             ers in attendance as in previous years after the meeting an
+                                                                       exhibition was held to provide an opportunity to view thk
+                                                                       products firsthand this years exhibition featured machine
+       shareholdings by investor type as of march 31 2015           tools industrial robots and other industrial machinery es
+                                                                       sential to the pursuit of monozukuri also on exhibit were
+             other businesses
+                        38                                           thk products employed in new areas of business such as
+                                       securities firms
+      treasury stock                  22                            seismic isolation transportation equipment and threedi
+                54
+                                                                       mensional printers as well thk products that help generate
+                                                                       and utilize renewable energy in the form of wind power and
+        individuals                                overseas           hydroelectric power
+        other                                      corporations
+             122                                  and investors
+                                                    502
+          financial
+          institutions
+                262
+
+
+
+
+tools for investors
+thk discloses information useful to investors in a fair and
+appropriate manner to all parties regardless of affiliation or
+geographical location statutory disclosure documents re
+cent press releases and annual reports and a fact book for
+investors are available in both japanese and english ver                                           the 45th ordinary general shareholders meeting
+sions in the investor relations section of the thk website
+video coverage of financial briefings is also provided
+
+
+
+
+                                                                                          the annual shareholders meeting exhibition of thk products
+
+the annual report
+
+
+
+
+                                                                                                              thk csr report 20152016                  23
+
+     involvement in society
+
+
+
+
+     together with our employees
+     health and safety
+
+
+
+     occupational safety and health management system                                              fireﬁghting training
+     to help eliminate accidents in the workplace and promote                                      in november 2014 employ
+     health and safety in a systematic and sustainable matter                                     ees of the mie plant under
+     thk has established an occupational safety and health man                                    went firefighting training
+     agement system for which it obtained occupational health                                     assisted by four members
+     and safety assessment series ohsas 18001 certification                                      of the matsusaka fire de
+     in 2010                                                                                      partment due to heavy
+       each plant has its own safety and health committee which                                   rain the employees were
+     discusses and makes decisions about issues and policy re                                     unable to actually practice
+     lated to safety and health keeps employees informed via de                                  putting out fires but the
+     partmental meetings and the factory bulletin board and takes                                 training they received was
+     concrete action to ensure safe and healthy conditions at the                                  described by the firefighters
+     plant to help provide a systematic and sustainable safety reg                               as highly suitable for deal                                  certiﬁcate of recognition
+     imen twice a year each plant undergoes a safety inspection                                   ing with emergencies six
+     conducted by a team from a different plant this type of inter                               plant employees have become members of the local volun
+     action leads to more effective monitoring and oversight                                      teer firefighting team each of whom has been called into
+                                                                                                   action to help respond to a fire or flooding at the request of
+                                                                                                   the matsusaka fire department in light of its contributions to
+                                                                                                   firefighting the team was officially recognized as a volunteer
+           occupational safety and health management system                                        firefighting company in february 2015
+                                      general manager production division
+
+                                              factory manager
+                                       safety and health manager
+                                                                                                   accidents in the workplace
+        safety and health committee                                           safety manager
+                                                                              health manager            frequency and severity of accidents at 5 thk plants in japan
+                                                 managers                     company doctor            frequency                                                            severity
+                                                                                                        015                                                                   250
+                                           occupational safety                 sanitation and
+                                          and health managers                 health manager
+                                                                                                        012                                                                   200
+
+
+                 managers at various levels           iso liaison                                       009                                                                   150
+
+                                                                             internal audit team
+                                                                                                        006                                                                   100
+
+                                                 employees
+                                                                                                        003                                                                   050
+
+
+       at thks kofu plant maps and informative posters fo                                              000                                                                 000
+                                                                                                      fiscal year 2010      2011         2012         2013        2014
+     cusing on the five most dangerous intersections in the vi                                                             frequency      national average frequency
+                                                                                                                            severity       national average severity
+     cinity of the plant have been created to explain the situation                                             frequency frequency of occurrence of industrial accidents
+     at each intersection and the reasons why accidents occur                                                              accidentsworking hours  1000000
+                                                                                                                severity  degree of severity of industrial accidents
+     there displayed at the entrance to the plants dining hall                                                          lost working daysworking hours  1000
+
+     these items are frequently viewed by employees
+                                                                                                   promoting good health among employees and providing a
+                                                                                                   proper work environment are crucial for securing and main
+                                                                                                   taining sound operations awareness of this fact led thk to
+                                                                                                   establish its occupational safety and health management
+                                                                                                   system which is based on policies set forth by the produc
+                                                                                                   tion division in 2010 thk will continue to make every effort
+                                                                                                   to ensure safe and appropriate working conditions for its
+                                                                                                   employees
+
+
+
+
+24   thk csr report 20152016
+
+                                                                                                     involvement in society
+
+
+
+
+together with our employees
+support for employee development
+
+
+                                                                     the plants machine assembly section periodically pro
+proposals for improvements                                         vides onsite instruction for younger employees in four types
+                                                                   of processing techniques scraping a finishing process in
+thk has a system for eliciting proposals to improve prod
+                                                                   which minute depressions are created on a rolling metal sur
+ucts efficiency quality safety productivity and technology
+                                                                   face such as a machine tool bed to reduce frictional drag
+reflecting the value thk places on its employees insights
+                                                                   turning milling and surface grinding
+and ingenuity every proposal is evaluated and commenda
+                                                                     by arranging for the transfer of knowledge that its skilled
+tions are awarded for proposals that satisfy certain criteria
+                                                                   employees have cultivated over long years of conscientious
+cash prizes are awarded as well employees receive points
+                                                                   service thk helps ensure that its customers will continue to
+based on the results of the evaluations and accumulate
+                                                                   be provided with products of the highest quality
+more points for successive proposals when an employees
+point total surpasses a certain level he or she receives a
+secondlevel commendation
+  in 2014 7213 proposals were received including ideas
+for new markets for thk products and proposals for improv
+ing product quality by continuing to solicit such proposals
+from its employees thk not only finds new ways to improve
+its operations but also encourages employees to show initia
+tive and develop stronger powers of observation
+
+
+
+
+  secondlevel commendations for improvement proposals
+                        proposals           commendations
+
+      2011               11840                   352                                 skilled employee yoichi kanari center leads a study session
+
+      2012               11871                   331
+
+      2013               11065                   278
+                                                                   elearning
+      2014                7213                   192
+                                                                   as part of its efforts to support personal development thk
+                                                                   offers an elearning system that enables employees to pur
+                                                                   sue personal development whenever they have access to
+                                                                   the internet the system includes courses in business skills
+training in sendai
+                                                                   product knowledge and compliance the latter a topic of
+at the thk intechs sendai plant skilled employees from            particular interest in recent years includes a newly expand
+each department have been passing on their knowledge and           ed section on antitrust law as of march 2015 a total of 53
+skills to younger employees in every area from the design of      elearning courses were available including eight courses
+machine tools to the shipping of finished goods                   that were added during the past year
+  since november 2014 the plants mechanics design sec
+tion has been holding weekly miniseminars just 15 to 20
+minutes long on the basics of machine tools and machine             educating employees via elearning
+design providing younger employees with access to a type                                         enrollment                       completion
+of knowledge cultivated over many years of actual experi
+                                                                                                        percentage  percentage
+ence that no textbook can offer most employees attending                           eligible employees of eligible of enrolled
+                                                                                    employees enrolled employees who completed
+the sessions had already attained a gutlevel understanding                                                           course
+of the techniques involved but the miniseminars provide
+                                                                   september 2012     2049         1192           582               732
+a grasp of the basics backed by considerable experience
+                                                                   september 2013     1951         1181           605               740
+they have learned for example that an exaggerated em
+phasis on safety factors in the selection of a single screw        september 2014     2012         1260           666               770
+was the key to making larger types of machines this is
+knowledge that can be applied in their own work
+
+
+
+
+                                                                                                            thk csr report 20152016                   25
+
+     involvement in society
+
+
+
+
+     together with our employees
+     embracing diversity
+
+
+                                                                                      disabled employees in the thk workforce                            
+     hiring people with disabilities
+                                                                                    april 2011    april 2012    april 2013    april 2014       april 2015
+     thk continues to hire people with disabilities to work at its
+                                                                                       180          189          201          224             223
+     plants and offices as of april 1 2015 people with disabili
+     ties constituted 223 of thks overall workforce exceed
+     ing the legally prescribed minimum percentage which is
+     200 among other efforts to facilitate the employment of
+     people with disabilities thk has employees who visit each
+     thk business location once a year to monitor working con                    a gold and a bronze at the abilympics
+     ditions inquire about health and interview disabled employ                in november 2014 the 35th national skills competition for
+     ees and their supervisors to help sustain a hospitable work                 people with disabilities known as the abilympics was held
+     environment                                                                 in nagoya tetsuya yamada of thks yamaguchi plant
+        to ensure that disabled employees can discuss and ob                     won the gold medal in the productpacking event marking
+     tain guidance on various aspects of working life thk has                    the fourth consecutive firstplace finish by a thk employee
+     deployed counselors at its headquarters and main plants                      hayate kaga of the kofu plant won the bronze medal in the
+     who specialize in the concerns of disabled employees in                     same event
+     june 2014 thk headquarters appointed a specially trained
+     certified job coach to provide support both on and off the
+     job facilitate working life and foster a positive work environ
+     ment for disabled employees and the kofu plant acquired
+     a job coach in march 2015 the newcomers join two other
+     job coaches who serve at the yamaguchi plant and gifu
+     plant                                                                                                                       from left gold medalist
+        thk will keep working to create a hospitable work envi                                                                   tetsuya yamada
+                                                                                                                                  and bronze medalist
+     ronment for its disabled employees                                                                                          hayate kaga
+
+
+
+
+                       in their own words concentration pays off for yamaguchi plants yamada
+                                                           tetsuya yamada order management section manufacturing promotion department yamaguchi plant
+
+
+                                                             my coworkers at the yamaguchi plant had taken first place in the product
+                                                             packing event at the abilympics three years in a row so i felt a lot of pressure
+                                                             to make it four still the people at work were as kind as always and that helped
+                                                             calm my nerves i managed to keep my cool at the prefectural and national
+                                                             competition and brought home our fourth consecutive win
+                                                               i started working at thk as an apprentice when i was in my second and
+                                                             third year in high school before starting the apprenticeship i had heard about
+                                                             the atmosphere at thk from older students who had gone to work there but
+                                                             people were even nicer than i expected the kindness i encountered back then
+                                                             has continued to this day in my job which is inspecting incoming and outgoing
+                                                             goods and assembling boxes i try to apply the same level of concentration i
+                                                             learned to use when i was competing in the abilympics
+                                                               thk encourages us to embrace challenges that will enable use to discover
+                                                             what were capable of to expand my professional horizons in the future im
+                                                             aiming to acquire level 2 certification in machine inspection under the national
+                                                             trade skill testing system and i also intend to become a licensed forklift operator
+
+
+
+
+     yamada celebrates thks fourth straight victory
+
+
+
+
+26   thk csr report 20152016
+
+                                                                                                              involvement in society
+
+
+
+
+             in their own words hayate kaga seeks a ﬁfth straight gold medal
+                                                             hayate kaga order management section manufacturing promotion department kofu plant
+
+
+as a student at yamanashi prefectures kaede school of special support i
+attended seven onsite training sessions at the kofu plant i never forgot how
+nice everyone was so when it came time to find a job i chose thk in the
+morning i work in the office scanning the order slips and drawings that get sent
+to the factory and in the afternoon i do packing work this is only my first year
+as an employee but i was able to use my packing experience and ended up
+representing yamanashi in the abilympics coming into this years competition
+thk employees had won the gold medal in the productpacking event three
+years in a row i had my sights set on winning a medal too so i worked hard
+to get better and ended up winning the bronze a fellow thk employee from
+the yamaguchi plant won the gold medal so now thk has taken four in a
+row which is really great to show my appreciation to all the people who have
+supported and encouraged me i hope to win and make it five in a row next year
+  thk doesnt hold backthey give us their full support to tackle new challeng
+es so far ive only been involved in packing and processing orders but id like
+to try my hand at other kinds of work in the future
+                                                                                                              kaga competing in the productpacking event
+
+
+
+
+             in their own words kodai suzuki pursues his goals
+                                                                     kodai suzuki manufacturing section  manufacturing department yamagata plant
+
+
+i learned about thk from older students in high school and i decided i wanted
+to work there when i joined the company i found my fellow employees to be
+very considerate and i felt the work environment would encourage my own
+personal development although i have a hearing disability i participate in track
+and field events in november 2014 i represented yamagata prefecture in the
+100meter and 200meter race at a national sports competition for people with
+disabilities held in nagasaki my goal now is to compete in a tournament called
+the deaflympics in 2020 i practice with a club for disabled people in yamagata
+  ever since i was in high school ive worked on improving my wordprocessing
+skills in september 2014 i competed in the wordprocessing division of the
+regional abilympics i didnt make it into the national tournament but im still
+acquiring more skills i have levelfour certification now and im aiming for level
+three
+  at work im in charge of preassembly processing i realize that the way i do
+my job affects the next process and job performance down the line in the future
+id like to expand my horizons and do assembly processing work at other plants
+even overseas
+
+
+
+
+                                                                  verifying the paperwork                            suzuki trains for his next tournament
+
+
+
+
+                                                                                                                    thk csr report 20152016                   27
+
+     involvement in society
+
+
+
+
+     together with our employees
+     embracing diversity
+
+
+
+     scholarship fund                                                            lengthofservice awards
+     thk has created a scholarship fund for the benefit of sur                  while many businesses honor employees at the end of each
+     viving children in need of assistance the newly established                decade of service thk presents lengthofservice awards to
+     system is designed to defray the cost of tuition and fees for               its employees after every five years of continuous service in
+     the children of deceased thk employees scholarships are                    2015 624 employees were presented with commendations
+     available to dependent children under the age of 21 who are                 and commemorative gifts to honor their longterm service
+     legal survivors of a deceased executive or employee whose                   at thk locations in europe and the united states the hon
+     death occurred during employment with thk                                  ors and gifts were presented at the annual christmas party
+       the new fund enables surviving children to continue their
+     education without interruption from the onset of benefits un
+                                                                                    lengthofservice awards
+     til they reach the age of 21
+                                                                                  continuous       2011      2012   2013       2014      2015
+                                                                                  service
+                                                                                   40 years             0       0       1         4         9
+                                                                                   35 years            11      14     17         16        23
+                                                                                   30 years            23      69    120         85       131
+                                                                                   25 years          129       54     85        101       132
+                                                                                   20 years          163      128     96         41       142
+     improved childcare leave system
+                                                                                   15 years          177       92    167         70        68
+     the declining birthrate has become an urgent problem in
+                                                                                   10 years          113       68     81         91        77
+     japan thk provides support for employees who are rais
+     ing children and is working to improve the worklife balance                   5 years          167      161    177        171        42
+     by improving its childcare and familycare systems and en                      total           783      586    744        579       624
+     suring a hospitable environment for employees with young
+     children in 2014 based on a newly enacted plan of action
+     aimed at providing a higher level of support thk issued a
+     new handbook designed to help employees better under
+                                                                                 recognition for meritorious service
+     stand their various childcare and familycare alternatives and              akira kawaoka an employee in the manufacturing depart
+     the procedures involved the effort to improve and expand                   ment at the yamaguchi plant has received an award from
+     the childcare and familycare leave system is an ongoing en                the japan organization for employment of the elderly per
+     deavor that will continue in the future                                    sons with disabilities and job seekers in recognition of 20
+                                                                                 years of meritorious service in addition to becoming a certi
+                                                                                 fied crane hoist operator and obtaining clevel skill certifica
+                                                                                 tion under thks certification system kawaoka has demon
+                                                                                 strated a very positive attitude on the job and has devoted
+                                                                                 spare time to performing volunteer service on behalf of the
+                                                                                 hearingimpaired
+                                                                                   working life inevitably entails some hardships but kawa
+                                                                                 oka believes that personal growth results from overcoming
+                                                                                 such challenges his current goal it to become a licensed
+                                                                                 forklift operator
+
+
+
+
+                                                                                  akira kawaoka at right
+                                                                                       with an unidentiﬁed
+                                         the new handbooks table of contents     fellow award recipient
+
+
+
+
+28   thk csr report 20152016
+
+                                                                                                                         involvement in society
+
+
+
+
+together with our employees
+in the community
+
+
+
+charitable contributions                                                                   cleaning up mount fuji
+as part of its contributions to society thk provides mone
+tary assistance when disasters strike and donates money to
+organizations devoted to the advancement of science and
+the future development of monozukuri in japan in addition
+thk sponsors a variety of events in communities where it
+has business locations
+
+   disaster relief donations
+            disaster relief in nagiso nagano prefecture japanese red cross society
+            following typhoon neoguri                     nagano branch
+            disaster relief in tokushima following           japanese red cross society
+september typhoon halong and typhoon nakri                   tokushima branch
+2014      disaster relief in kyoto and tamba hyogo          japanese red cross society
+            prefecture following torrential rains           kyoto and hyogo branch
+            diesaster relief in hiroshima following          japanese red cross society
+            torrential rains and landslides                  hiroshima branch              in august 2014 volunteers from the thk intechs mishima
+
+june 2015   disaster relief in nepal following a major       japanese red cross society
+                                                                                           plant took part in a campaign to clean up mount fuji spon
+            earthquake
+                                                                                           sored by a nonprofit organization their efforts were focused
+   other donations                                                                         on a fifthstation parking area as well as a climbing path
+                                                                                           the volunteers collected around 10 kilograms of refuse in a
+november community chest of tokyo                        community chest of tokyo fund     single day most of which was litter they realized that it will
+2014
+                                                                                           take a long time to thoroughly restore the mountain to its
+january                                                                                    pristine beauty even so it would help a great deal if climbers
+            japan science foundation                     japan science foundation fund
+2015                                                                                       and other visitors would simply mind their manners along
+                                                                                           the way
+
+kazuo suzuki coaching childrens rugby
+i started playing rugby in high school after seeing a show
+about it on tv after i graduated from university i declined an
+invitation to join a company team and didnt play for a few                                technology students visit liaoning
+years i was drawn back to rugby though and these days
+                                                                                           in september 2014 students in an international exchange
+i play for a local team one of my teammates asked if id
+                                                                                           program at the national institute of technology at kure col
+be interested in coaching at a rugby school that had been
+                                                                                           lege toured the thk plant in liaoning china this was the
+set up for local kids so now i coach childrens rugby every
+                                                                                           second such visit the first having taken place in septem
+weekend
+                                                                                           ber 2013 according to the instructors who escorted them
+  rugby is a sport in which individual players have to make
+                                                                                           these students and future engineers found it very stimulat
+sacrifices to help their team win my hope is that by playing
+                                                                                           ing to get a firsthand look at monozukuri in action some
+rugby our kids will develop greater awareness of and con
+                                                                                           students commented on the friendly attitude of the plants
+cern for other people were going to do our best to produce
+                                                                                           employees and the cleanliness of the facilities
+players who can compete in the 2019 rugby world cup
+which will be held here in japan
+
+
+
+
+  childrens rugby coach
+and thk employee kazuo
+suzuki who works in the                                                                      a brieﬁng for visiting
+ sales department at the                                                                       students at the thk
+           kofu branch                                                                           plant in liaoning
+
+
+
+
+                                                                                                                              thk csr report 20152016        29
+
+     harmony with the environment
+
+
+
+
+     environmental management
+
+
+     basic environmental policy
+     thk has contributed to social and economic progress through its pioneering role as a manufacturer of linear motion systems and
+     machine components thk recognizes that businesses have a vital responsibility to help maintain a healthy global environment for
+     the benefit of future generations accordingly thk has undertaken a broad range of initiatives to steadily reduce its environmental
+     impact and preserve and improve the natural environment
+
+
+
+
+                                  the thk groups basic environmental policy revised june 3 2013
+               1 preserving the environment is one of our most important tasks we will strive to accurately determine the en
+                  vironmental impact of our products services and overall business activities and to ensure that every unit
+                  within the group establishes and observes appropriate environmental targets
+               2 we will abide by all laws and regulations concerning environmental matters and establish and observe volun
+                  tary environmental standards reviewing these whenever necessary in pursuit of more efﬁcient and effective
+                  environmental management
+               3 we will continually strive to develop products that help reduce environmental burdens
+               4 we will continually strive to reduce our overall energy usage as well as speciﬁc energy consumption and re
+                  duce our greenhousegas emissions
+               5 we will continually conserve and recycle resources primarily by reducing and recycling waste from our man
+                  ufacturing divisions and strive to prevent environmental pollution
+               6 to extend our environmental efforts throughout the entire group we will assist and help guide efforts by afﬁl
+                  iates and partner businesses and cooperate and collaborate with the communities where thk conducts busi
+                  ness
+               7 this basic environmental policy will be communicated to every division in the thk group through education
+                  training and other means of raising environmental awareness we will disclose relevant environmental data
+                  to parties both within and outside the group in a timely manner
+
+
+
+
+          environmental initiatives and objectives
+
+                 initiative                       objectives                                     principal efforts
+
+             conserving energy                      reduce                     1 energy diagnostics
+               and inhibiting                   greenhousegas                 2 energy conservation
+               global warning                      emissions                   3 clean energy
+
+
+           conserving resources                     reduce                     1 input controls on materials parts and supplies
+              and achieving                  environmental impact             2 controls on emissions and waste
+              zero emissions                 achieve zero emissions            3 reuse and recycling of resources
+
+
+                                                                               1 replacement of prtrdesignated substances
+                controlling                    eliminate or restrict           2 identification and replacement of substances subject to
+           hazardous substances               hazardous substances                 the reach regulation
+                                          in production and distribution       3 green purchasing
+
+                 providing                                                     1 expansion of caged ball product line
+                                             develop products and
+              environmentally                                                  2 efforts to extend service life and maintenancefree
+                                                services based on
+              benign products                                                      periods
+                                             lifecycle assessments
+                and services
+
+
+
+
+30   thk csr report 20152016
+
+                                                                                                                               harmony with the environment
+
+
+
+
+environmental management system
+
+
+overview
+thk production sites in japan and overseas continue to                                              iso 14001 certified facilities
+acquire iso 14001 certification for environmental manage
+                                                                                                                           facility                     date certified certifying body
+ment the plandocheckact cycle is carefully applied in or
+der to continually improve environmental management the                                          yamagata plant
+
+thk affiliate trrc located in the chinese city of chang                                         kofu plant
+                                                                                                                                                          renewed
+zhou acquired iso 14001 certification in 2014                                                   yamaguchi plant                                         dec 17 2010
+                                                                                                                                                                                     jqa
+
+  because environmental management is an endeavor ex                                             mie plant
+
+tending throughout the thk group the risk management                                             gifu plant
+
+divisions environmental management department located                                           thk rhythm north america                              jun 13 2001                sqa
+
+at thk headquarters coordinates efforts by thk plants                                           thk rhythm headquarters                              dec 20 2001                 jia
+                                                                                                  hamamatsu plant
+offices and distribution facilities to reduce environmental                                      thk rhythm kyushu                                     dec 20 2002                 jia
+burdens the department monitors the progress of thks                                            tma usa                                             jul 14 2003                qmi
+environmental efforts and helps ensure that effective mea                                        tme europe                                          feb 3 2004                 afaq
+sures are put in place                                                                           thk niigata                                           oct 21 2005                jqa
+  in 2014 thk achieved two of its three primary environ                                          thk rhythm inasa plant                                dec 20 2006                 jia
+mental objectives for the year meeting numerical targets for                                     thk wuxi china                                      jan 7 2008                 cqc
+energy conservation and reducing co2 emissions as well as                                         dalian thk china                                    dec 18 2008                tuv
+for conserving resources and progressing toward zero emis                                        thk liaoning china                                  jan 12 2010                tuv
+sions reducing the volume of end waste the 2014 target                                         trtc thailand                                       jul 9 2010                 urs
+for reducing the use of prtrdesignated hazardous sub                                            trgc china guangzhou                               dec 9 2010                 sgs
+stances however was not achieved                                                               trms malaysia                                       oct 25 2011             dqs gmbh
+                                                                                                  thk intechs mishima  sendai plants                   mar 21 2013              class nk
+                                                                                                  trcc china changzhou                               mar 17 2015            bureau veritas
+  thks environmental targets
+ no             task                   fiscal 2014 results  fiscal 2015 targets                                              targets to be achieved by 2017
+
+                                                                                                   reduce basicunit co2 emissions by 1 baseline 092 tons per 1 million
+                                   reducing basicunit co2 emissions tons per 1000000                   tons per 1 million                                        target     actual
+                                   2014 target 103 092 achieved target met                     120
+                                   2015 target 091 1 lower than in 2014                                       111
+                                                                                                                                 108
+                                   major efforts in 2015                                              110
+       conserving energy and                                                                                                              103
+                                                                                                                    109
+  1                                1 switch to more energyefficient heating and cooling
+                                                                                                      100                       104
+       inhibiting global warning       systems                                                                                                         091      090
+                                   2 switch to energyefficient led lighting                                                                                                     089
+                                                                                                      090
+                                   3 switch to more energyefficient powerreceiving                                                    092
+                                       equipment                                                      080
+                                                                                                   fiscal year 2012           2013     2014         2015      2016              2017
+
+                                                                                                   maintain zero emissionsless than 05 of waste undergoes final disposal
+                                                                                                                                                                       target     actual
+                                   maintaining a minimal emissions rate                                07
+                                   2014 target rate under 050 045 achieved target met
+       conserving resources        2015 target rate under 050                                      06          054         055
+  2    and achieving zero          major efforts in 2015                                                                                  050         050      050              050
+                                                                                                       05
+       emissions                   1 recycling of grinding materials                                              050         050
+                                   2 recycling of plastic waste                                      04                                045
+                                   3 reduced use of packing materials
+                                                                                                       03
+                                                                                                   fiscal year 2012           2013     2014         2015      2016              2017
+
+                                                                                                   reduce annual volume of prtrdesignated substances by 3 baseline 62862 kg
+                                                                                                             kg                                                       target       actual
+                                   reducing the use of prtrdesignated substances                   80000
+                                   2014 target 50645 kilograms 62862 kilograms achieved
+                                                                                                                                               62862 60976    59146
+                                   target not met                                                60000     56305                                                            57372
+                                                                                                                               52755 50645
+       controlling hazardous       2015 target 60976 kilograms or less                                             54386
+  3                                major efforts in 2015                                            40000
+                                                                                                                                   52212
+       substances
+                                   1 controlled usage of fueloilpowered equipment
+                                   2 promotion of green purchasing practices                      20000
+                                   3 reduced use of solvents use of nonsolvent alternatives
+                                                                                                         0
+                                                                                                   fiscal year 2012           2013     2014         2015      2016              2017
+
+
+
+
+                                                                                                                                                      thk csr report 20152016                    31
+
+     harmony with the environment
+
+
+
+
+     environmental impact the big picture
+
+
+
+
+          notes 1 the figures above are based on data from thks five main plants in japan yamagata kofu gifu mie and yamaguchi other thk group plants
+                    in japan thk niigata two thk intechs plants nippon slide and three thk rhythm plants and five thk plants outside japan tma usa tme
+                    france dalian thk china thk wuxi china and thk liaoning china
+                 2 figures on nitrogen oxide and sulfur oxide emissions apply only to thks five plants in japan
+
+
+
+        environmental conservation costs                                                                                                               million per year
+
+                       type                    investment    cost                                               principal efforts
+       1 business costs
+           pollution controls                       5         45       monitoring air and water quality maintaining scrubbers and septic tanks
+           global environmental conservation      156         25       installation of energyefficient fixtures and incidental equipment
+           recycling                                1       109        disposal of waste materials reducing recycling costs
+       2 upstream and downstream costs             0         16       green purchasing
+       3 management                                0       178        acquisition of iso certification reduction of energy usage management of chemical substances
+       4 research and development                 77       301
+       5 community activities                      0          7       planting and beautification informational initiatives
+       6 repairing environmental damage            0          0
+       total                                      239       681
+
+
+
+
+32   thk csr report 20152016
+
+                                                                                                                             harmony with the environment
+
+
+
+
+environmentally friendly from the start
+
+
+                 in their own words maintaining high quality and protecting the environment
+                                                                                     kazushige ohno president dalian thk co ltd
+
+
+dalian thk became thks first production facility in china                                            to conserve resources the
+when it began operations in 1996 its business has expand                                        plant roof has been insulated
+ed over time and a new plant went into operation in febru                                       to reduce the amount of ener
+ary 2015 dalian thks main product is the ball screw a key                                      gy required for air condition
+component in machine tools semiconductormanufacturing                                           ing the heating system uses
+equipment and many other types of machines the new plant                                        an      inverterequipped          turbo
+was designed not only to improve productivity but also to be                                      refrigerator as a heat source
+environmentally friendly everything about the plant from the                                    and all interior units can be
+buildings the heating and cooling systems the lighting and                                     controlled by inverters for effective temperature control amid
+the production equipment to the roads running through the                                        dalians intense summer heat and winter cold led lighting is
+grounds the production processes and management tech                                            used virtually everywhere in the plant offices and dormitories
+niques the work environment for employees and the impact                                        and bathrooms and seldomused corridors are equipped with
+on the surrounding area was conceived with an emphasis on                                        sensors to prevent unnecessary lighting dalian thk uses a
+environmental considerations                                                                     great deal of cutting and grinding machinery but semiintensive
+                                                                                                  temperature management separate from coolant equipment
+                                                                                                  of the coolants used in these machines keeps the workplace
+                                                                                                  clean and also reduces power consumption
+                                                                                                      i dont have adequate space here to describe them all but
+                                                                                                  many other devices have been incorporated in the effort to
+                                                                                                  address the full range of environmental concerns we have a
+                                                                                                  central monitoring system that keeps track of the equipment
+                                                                                                  operating all over the plant which enables efficient usage of
+                                                                                                  electric power water gas and other resources
+                                                                                                      dalian thk is a highly advanced production facility and the
+                                                                                                  use of advanced machinery makes a big difference in the prod
+                                                                                                  ucts we turn out in addition to incorporating all this sophisticat
+                                                                                                  ed equipment we have also made the greatest possible effort
+   to protect the environment the plant is equipped with                                         to incorporate and utilize information technology in our produc
+largescale mist collectors and waterpurification equipment                                     tion processes we intend to use the resulting data to identify
+an lpgfueled steam boiler and chipprocessing equipment                                        the most effective ways of protecting the natural environment
+which greatly reduces the environmental impact on the air and
+land around us this kind of equipment also keeps the work en
+vironment clean providing pleasant conditions for our employ
+ees its also intended to reduce waste and improve recycling
+and resourcerecovery rates
+
+
+
+
+a massive waterpuriﬁcation tank some of the puriﬁed   solar power is collected to heat the plants water some of the   led lights in a grinding facility led lighting consumes only
+water is used to feed nearby vegetation                water is used for the plants showers and heating system         onethird of the electricity required for mercury lights
+
+
+
+
+                                                                                                                                                     thk csr report 20152016             33
+
+     harmony with the environment
+
+
+
+
+     conserving energy and combating global warming
+
+
+                                                                                              the need to save energy employees were provided with por
+     co2 emissions                                                                            table energyconservation checklists the plant held periodic
+                                                                                              energyefficiency workshops as well as general meetings on
+     thks targets for reducing co2 emissions are expressed in
+                                                                                              energy strategy attended by all employees where success
+     basic units co2 emissions divided by the value of goods
+                                                                                              ful efforts at other plants were introduced all these actions
+     produced the 2014 target was 103 and the actual result
+                                                                                              helped make the kofu plant an energysmart operation
+     was 092 an impressive 107 improvement thus the tar
+     get was achieved in terms of absolute quantities however
+     increased production resulted in a rise in co2 emissions from
+     64012 tons in 2013 to 72234 tons in 2014 an increase of
+     128
+       in 2014 thk upgraded its powerreceiving equipment
+     installed energyefficient heating and cooling equipment re
+     placed fluorescent and mercury lights with led lights metal
+     halide lamps and motion sensors installed solar panels up
+     graded and used fewer air compressors had thermal paint
+     applied to factory walls and installed inverters on coolant
+     equipment despite all these efforts no reduction in abso
+     lutequantity co2 emissions was achieved thk will continue
+     to upgrade its facilities in 2015 with the expectation of reduc                         yamanashi lieutenant governor wataru hiraide left congratulates then plant manager
+                                                                                              masanobu mori at the award ceremony on january 19 2015
+     ing such emissions
+
+
+            trends in co2 emissions                                                           installing led lighting
+                                            emission volume     basicunit emissions
+        emission tons                                          tons million of output   the office at the yamagata plant was formerly lit by 161
+        100000                                                                       250
+                         90343                                                               fluorescent light fixtures which have been replaced with led
+                                  81524
+         80000
+                                                                        72234
+                                                                                      200    fixtures lowering power consumption by around 13000 kilo
+                                           63207      64012                                 watthours per year further energy savings were achieved
+         60000                                                                       150
+                          113     110     111                                              by converting incandescent emergency lights to led future
+                                                         104
+                                                                         092
+         40000                                                                       100
+                                                                                              plans call for replacing the many mercury lights currently in
+         20000                                                                       050    stalled on the plants high ceiling with led lights
+                0                                                                     000
+                                                                                                      led lights in the office                  an led emergency light
+         fiscal year   2010     2011     2012         2013            2014
+
+
+
+
+     award for energy conservation
+     the kofu plant was honored by yamanashi prefecture in
+     2014 for its energysaving efforts each year a business or
+     public institution within the prefecture is selected to receive                             at the thk intechs mishima plant 39 sets of mercury
+     its energysmart award in recognition of dedicated efforts                             lights in the production area have been replaced with led
+     to conserve energy and achieve greater energy efficiency                                lights reducing power consumption by approximately two
+       the kofu plant has upgraded its heating and cooling                                    thirds led fixtures have also replaced 244 fluorescent lights
+     equipment installed inverters replaced fluorescent with led                            in the plants office reduc
+     lights and established a system for monitoring tempera                                 ing energy use by about
+     ture and humidity as well as heating and cooling equipment                               half thanks to these mea
+     around the clock these efforts resulted in a 218 reduction                            sures the mishima plant
+     in basicunit energy consumption energy usage divided by                                has reduced its annual
+     the value of goods produced compared to the previous year                              power       consumption            by
+     in addition to help them maintain a heightened awareness of                             43000 kilowatthours
+
+
+
+
+34   thk csr report 20152016
+
+                                                                                                 harmony with the environment
+
+
+
+
+   at thk manufacturing of europe 260 mercury lights in
+side factory 1 have been replaced with led lights reduc                  efﬁcient use of air compressors
+ing annual energy use by 40000 kilowatthours this has
+                                                                           at the yamaguchi plant the addition of a second and third
+also improved visibility by increasing the average brightness
+                                                                           factory has been accompanied by changes in production
+measured at 45 locations within the factory from 231 to 368
+                                                                           and production equipment in some cases production ar
+lumens the lights in fac
+                                                                           eas were located far from the plants air compressors which
+tory 2 are scheduled to be
+                                                                           made it difficult to supply adequate pressure and resulted in
+converted to led in 2015
+                                                                           excessive power consumption to resolve these problems
+                                                                           air compressors have been relocated and their numbers
+                                                                           have been adjusted to accommodate the new arrangement
+                                                                           more efficiently in addition valves have been installed on air
+                                                                           pipes and narrower piping has been installed all the com
+                                                                           pressors are run by a control system that was already in use
+                                                                           ensuring optimal operation the aforesaid improvements
+rooftop insulation                                                         have resulted in a 14 reduction in aircompressor power
+                                                                           consumption
+at thk niigata improvements have been made to the roof
+to enhance the efficiency of the plants air conditioning and
+thereby reduce power consumption a layer of insulation has
+been installed on the 2800 squaremeter roof of factory 1
+in the plants old wing which occupies about 20 of the
+entire plant this has lowered the summertime temperature
+on the roofs inner surface by as much as 17c resulting
+in a 20 reduction in energy use compared to 2013 and
+decreasing peak powerconsumption which is especially
+important in summer when demand is high other sections
+of the roof are expected to
+undergo similar improve
+ments which will result in
+further energy savings
+
+
+                                              newly insulated section
+the niigata plant where rooftop insulation                                                               relocated air compressors at the yamaguchi plant
+has reduced energy consumption
+
+
+
+                  in their own words improvements at the mie plant
+                                                                                             masami fujita manager general affairs section mie plant
+
+
+the mie plant acquired iso 14001 certification for environmental         mechanism which allows that
+management in september 2002 and ohsas 18000 certifica                  powerful air stream to be recy
+tion for occupational health and safety in december 2010 we             cled improving the overall effi
+run a safe environmentally conscious operation we practice             ciency of the system any mist
+energy conservation pursue zero emissions and control envi            that gets generated is dispelled
+ronmentally burdensome substances to conserve energy we                by roof fans so there has been
+have switched to led lighting and electricpowered forklifts and        a tremendous improvement in
+weve also upgraded the air conditioning in one of our grinding          the work environment as well
+facilities which was a longstanding concern                              to contribute to the local community we send employees to
+   the airconditioning project which began in december 2014            matsusaka technical high school to lead special classes there
+and finished in january 2015 yielded a 20 reduction in electric       and we also hold energyconservation workshops for local busi
+ity consumption and a 40 decrease in the volume of liquidpe           nesses we try to help people better understand the environ
+troleum gas used the new system has an exhaustair treatment            mental situation
+
+
+
+
+                                                                                                                      thk csr report 20152016                35
+
+     harmony with the environment
+
+
+
+
+     conserving resources pursuing zero emissions and managing hazardous substances
+
+
+     status of current efforts                                                                                    prtrdesignated substances
+     not content to merely manage waste thk has established                                                      in order to reduce the use of hazardous substancessub
+     comprehensive production systems designed to comply                                                          stances that can adversely affect human health and damage
+     with societal expectations concerning recycling in addition                                                 ecosystemsthk continues to decrease its use of chem
+     to improving its extraction rate for components and mate                                                    ical substances subject to the prtr law formally known
+     rials and greatly reducing the volume of waste generated                                                    as the act on the evaluation of chemical substances and
+     thk promotes conservation and pursues zero emissions by                                                      regulation of their manufacture with the goal of lowering
+     thoroughly sorting waste materials and recycling those that                                                  the volume of these substances by 3 annually thks use
+     are reusable as shown in the graph below a variety of waste                                                of such substances in 2014 greatly exceeded that for 2013
+     materials are generated but most are recycled in the form of                                                 however total volume for the year was 62862 kilograms
+     raw materials for metals paving materials and fuel                                                        which was 10650 kilograms more than the 2013 total of
+       thk sets wastereduction targets based on its emission                                                     52212 kilograms for an increase of 204 the increase
+     ratethe volume of waste undergoing final disposal ex                                                      is attributable to an unavoidable return to cogeneration as
+     pressed as a percentage of the total volume of waste gen                                                    a means of balancing power consumption in the cold and
+     erated the 2014 target was a rate below 050 and thk                                                      hot seasons which led to much greater reliance on fuel oil
+     recorded an emission rate of 045 for the year meeting the
+     target the emissions target was achieved largely because
+                                                                                                                    substances subject to the prtr law                             kg
+     discarded grinding materials some of which could not be
+     recycled and had to be buried or incinerated the previous                                                             substance        amount used       airborne emissions
+     year were successfully recycled in 2014 with the assistance                                                 xylene                            3393                     1129
+     of an outside contractor                                                                                    toluene                           7307                     3854
+                                                                                                                  ethyl benzene                     1221                          15
+                                                                                                                  benzene                             212                          32
+             trends in waste generation
+                                                                                                                  methyl naphthalene               46788                          205
+          tons                             final disposal    total waste      emission rate     emissions 
+        10000                                                                                           300     other                             3941                           
+                             7683                                                              7941
+         8000                            7482                                                          250     total                            62862                     5235
+                                                           6670             6881
+         6000                                                                                           200
+
+         4000                                                                                           150
+
+
+                        058
+                                                                                                         100     purifying waste water from compressors
+                                     048               054            055
+                                                                                           045
+           100                                                                                           050
+                        44           36               36               38                 36                      as part of an ongoing effort
+               0                                                                                         0
+                                                                                                                  to address water pollution
+        fiscal year   2010         2011              2012            2013               2014
+                                                                                                                  officials at thk manufactur
+             waste by type                                                                                        ing of america are using a
+                                                                                                                  filtering mechanism to pre
+                                 plastic
+                                   28                              other                                       vent oil mixed in with waste
+                packing materials                                    26
+                            58                                                                                  water produced by air com
+                                                                                                                  pressors from reaching the
+                                                                                                                  outside to protect the en
+          grinding sludge                                                             scrap metal               vironment the waste water
+                     155                                                             496
+                                                                                                                  is run through the filtering
+                                                                                                                  device before being intro
+         oil and other ﬂuids
+                      237                                                                                       duced into the municipal
+                                                                                                                  sewer system from which it emerges at a watertreatment
+                                                                                                                  facility where it is purified and then routed into a nearby riv
+                                                                                                                  er the waste water is tested every quarter to monitor the
+                                                                                                                  content and ensure compliance with municipal standards for
+                                                                                                                  waterborne emissions
+
+
+
+
+36   thk csr report 20152016
+
+                                                                                              harmony with the environment
+
+
+
+
+green distribution
+
+
+                                                                            transportrelated co2 emissions and
+overview
+                                                                            basicunit energy consumption thk only
+thks distribution center which operates facilities in various                                        co2 emissions      energy consumption
+locations continues to practice green distribution in an effort       co2 emissions tons                        kilolitersfreight tonkilometer
+                                                                      6000                                                                      100
+to reduce environmental impact throughout the distribution
+                                                                      5000          4720     4893                                               90
+process thk is implementing modal shifts consolidating
+                                                                                                                                    4178
+truck shipments improving packing methods and pursu                4000                            3842           3689                       80
+                                                                                     709
+ing other initiatives in accordance with three key principles                                  671
+                                                                      3000                                                                        70
+of green distribution reducing transportrelated co2 emis                                            616            607
+                                                                      2000                                                          577          60
+sions making transport operations more efficient and re
+ducing waste                                                         1000                                                                        50
+
+                                                                            0                                                                      40
+revised distribution scheme in the past products man               fiscal year   2010      2011    2012            2013         2014
+ufactured at the liaoning plant and wuxi plant that were
+destined for japan were transported by ship to the port of
+nagoya and then by truck to the chubu distribution cen
+ter following a revision of overall distribution arrangements    reduction in packing materials
+those products are now transported by truck from the port of
+kita kyushu to the yamaguchi distribution center reduc           thk rhythm has reduced the volume of items sent to thk
+ing the distance from the port to the distribution center and      plants in the united states by packing more products inside
+cutting co2 emissions by 1232 tons                               small boxes thereby reducing packing materials and reduc
+                                                                   ing the number of shipping containers required redesigned
+reducing waste the yamaguchi distribution center used              packing arrangements enabled 20unit trays to replace 10
+to use polypropylene bands and plastic wrap to pack prod          unit trays increasing box capacity as a result boxes that
+ucts stacked on pallets to prevent load shifting by using        used to fit five 50unit tray configurations can now fit three
+the right packing tools to ensure that there are no spaces         60unit configurations for a 20 increase in smallbox ca
+between the products it has become possible to conserve           pacity this has led to a major reduction in packing materials
+on packing materials and reduce waste in addition when           transport hours and overall work hours
+shipping units that incorporate multiple products thk has           these developments have been accomplished with no
+complied with customer requests to reduce packing materi          decline in quality or function thanks to the reduction of ma
+als by using carefully designed cushioning material to protect     terials required it has been possible to conduct repeated
+products from damage during shipping and by effectively            trials involving thk production lines in japan and the unit
+using fabric belts thus thk is applying its accumulated ex      ed states and cooperative efforts have enabled further im
+pertise to reduce the volume of packing materials                 provements in packing and transport methods as a result
+                                                                   thk has attained a safevolume maximum capacity of 15
+                                                                   kilograms for small boxes
+                                                                     thk rhythm will keep working to protect the environ
+                                                                   ment not only in product packing but throughout the pro
+                                                                   duction process
+transportrelated co2 emissions
+co2 emissions generated by the shipping of products
+and parts jumped from 3689 tons in 2013 to 4178 tons
+in 2014 a major increase of 489 tons or approximately
+133 basicunit energy consumption the volume of ener
+gy consumed divided by tonkilometers of freight declined                   old 10unit tray                          new 20unit tray
+by roughly 49 however from 607 to 577 despite a
+modal shift toward greater reliance on ships and railways
+improved load ratios for trucks and more consolidated ship
+ments thk did not succeed in reducing transportrelated
+co2 emissions in 2014
+
+
+
+
+                                                                                                               thk csr report 20152016                 37
+
+                                                                 thirdparty opinion
+
+                                                                                                   these have been difficult obstacles for me accustomed as i
+     boundless expectations for thk
+                                                                                               was to working in the academic world most production engi
+         pursuing further advances for japanese craftsmanship
+                                                                                               neers in developing countries are mainly involved in procuring
+     ive been involved in research and development in the area of                             commercially available production equipment and dont un
+     monozukuri for nearly 50 years i was professor at the university                         derstand how hard it is to develop new technology but were
+     of tokyos institute of industrial science for 30 years and after                        located in japan which has a favorable environment made up
+     retiring from that position in 2000 i started a technology de                            of small development companies like ours we have small firms
+     velopment company with financial backing from the taiwanese                               that design mechanical systems and others that handle electri
+     firm hon hai precision industry                                                          cal components and software and these kinds of companies
+       since my time at the university i have pursued my interests                             can produce custom specifications for everything from molding
+     and studied a broad range of mechanical processes from                                   machines to machine tools
+     molding to machining when a university researcher takes on a                                 after i became involved in developing production equipment
+     broader field of study there tends to be less depth in terms of                          i was once again impressed with japans wealth of infrastruc
+     specialized expertise in my case however the most innovative                           ture for developing and producing machinery and equipment
+     discoveries happened when i became involved in new areas                                 in the past whenever ive been consulted by a research insti
+       in the 15 years since founding the company which like                                 tution in a developing country however wonderful the technol
+     many other small businesses is located in tokyos ota ward                              ogydevelopment plan they have virtually always had to import
+     i have come to know the difficulty of researching and develop                            the equipment from japan this may be why japan still has
+     ing manufacturing technology as a company personally and on                               the best environment of any country in the world for creating
+     a daily basis in university research the results generally take                         new products and technology i can understand why apple is
+     the form of a paper that includes some recommendations for                                opening a research facility in yokohama
+     actual monozukuri and if it brings about improvements or re                                 when i was at the university i was sometimes asked about
+     forms thats good enough furthermore the audience consists                             thks craftsmanship and im now in a position to be very
+     of manufacturers in general or even the world as a whole and                            grateful for the lm guide and many other thk devices in the
+     its understandable if your results arent put into practice until                        effort to develop sophisticated durable and reliable equip
+     some point in the future by contrast developing manufactur                             ment you cant create a truly superior device unless you use
+     ing technology for hon hai precision a giant manufacturer in                             firstclass components i hope the performance of those es
+     china is no easy task they already have access to the worlds                           sential components will continue to be improved thks bed
+     most advanced production machinery so we have to come up                                 rock achievement was its founders invention of the lm guide
+     with something even better in addition they are a known entity                          that was followed by the development of many other devices
+     with an established record in mass production so applicability                           for use in mechanical systems which together make up a major
+     to mass production is a given whats more the end customers                             contribution to the success of japans machine industry ask
+     are topranked companies so there are very strict topclass                             what customers want and the answers never end some might
+     requirements for precision and product quality for this reason                          say but i would ask that thk understand its future social re
+     its useless to simply propose a new processing method we                                sponsibilities and continue to lead the way in further improving
+     have to actually develop the production equipment and try it                              japans manufacturing technology
+     out if the results are satisfactory it may be adopted
+
+
+
+
+                                   takeo nakagawa
+                                   professor emeritus the university of tokyo chairman  ceo finetech corporation
+
+
+                                   curriculum vitae
+                                   born in 1938 graduate of the department of precision engineering the university of tokyo appointed professor of the institute of industrial science
+                                   the university of tokyo in 1979 appointed professor emeritus the university of tokyo and researcher emeritus at the institute of physical and
+                                   chemical research in 1999 recipient of the okochi memorial prize and the asmesme m eugene merchant manufacturing medal among other
+                                   honors founded the company finetech in 2000 and currently serves as its president serves as an outside director of the fanuc corporation
+                                   tsugami corporation osg corporation and the nippon pillar packing company special adviser to the foxconn technology group and adviser to
+                                   the nidec corporation
+
+
+
+
+38   thk csr report 20152016
+
+postscript
+it has been our pleasure to present this the ninth annual         as in other years the report examines thks corporate
+thk csr report                                                  governance and compliance system support for personal
+  this years csr report includes a threepart feature           and career development among employees positive rela
+section examining thks efforts to honor its corporate so       tionships with local communities and efforts to alleviate
+cial responsibilities in a number of key areas the first part   global warming
+looks at ways in which thk technology is used to protect           the entire thk group will continue to take positive ac
+property and vital assets as japan marks the twentieth           tion to honor its corporate social responsibilities and takes
+anniversary of the great hanshinawaji earthquake the           pride in presenting the results to you the reader were in
+second part focuses on an experiment in hydroelectric            terested in your views and impressions of this report your
+power generation using irrigation canals intended as a          comments will provide valuable feedback to guide our fu
+contribution to regional revitalization the third part ex      ture csr efforts and help us in preparing our next report
+amines efforts by thk rhythm to help combat global               please take the time to fill out the enclosed questionnaire
+warming an initiative that won the firm a commendation            thank you
+from japans minister of the environment                                               csr report project secretariat
+                                                                   ps our next report is scheduled for september 2016
+
+
+
+
+                                                                                                     thk csr report 20152016    39
+
+                                                                  thk csr report 20152016
+                                                                                             thk csr report
+
+3116 nishigotanda shinagawaku
+                                                                                              20152016
+tokyo japan 1418503
+phone 81354340300 fax 81354340305
+wwwthkcom
+
+
+
+
+                                            catalog no 42  8e

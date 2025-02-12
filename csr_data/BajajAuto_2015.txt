@@ -1,0 +1,491 @@
+business
+responsibility report
+section a   general information about the company
+
+
+
+   1        corporate identification number                    l65993pn2007plc130076
+   2        name of the company                                bajaj auto ltd
+   3        registered address                                 mumbaipune road akurdi pune 411035
+   4        website                                            wwwbajajautocom
+   5        email address                                      brrresponsebajajautocoin
+   6        financial year reported                            1 april 2014  31 march 2015
+   7        sectors that the company is engagement in        automobile
+            3 key productsservices manufactured              motorcycles and threewheeler commercial
+   8        provided by the company                            vehicles
+            total number of locations where business           akurdi chakan and waluj maharashtra
+   9        activity is undertaken by the company              and pantnagar uttarakhand
+   10       markets served by the company                      india and 62 countries across the world
+
+
+section b   financial details of the company
+
+
+
+   1        paid up capital inr                              28937 crore
+   2        total turnover inr                               2219443 crore
+   3        total profit after tax inr                       281374 crore
+   4        total spending on csr as percentage                refer annual report on csr activities
+            of pat 
+   5        list of the activities in which expenditure in 4   refer annual report on csr activities
+            above has been incurred
+
+
+section c   other details
+
+
+
+   1        other information                                  refer main report
+
+
+section d   br information
+
+
+
+   1        details of directors responsible for br           mr madhur bajaj vice chairman
+   2        principlewise br policypolicies                  refer main report
+   3        governance related to br                           refer main report
+
+
+section e
+
+
+
+   1        principle wise performance                        refer main report
+
+
+
+
+                                                                                                          1
+
+    preface
+    as mandated by securities and exchange board of india sebi indias top 100 listed entities based
+    on market capitalisation on the bse and nse are required to submit a business responsibility report
+    brr alongwith their annual report this report is required to be in line with national voluntary
+    guidelines on social environmental and economic responsibilities of business nvgs as released by
+    the ministry of corporate affairs in july 2011
+
+    bajaj auto ltd bal presents its third brr in line with the nvgs and the brr requirement of sebi
+    this brr presents key initiatives undertaken by the company driven on the triple bottom line aspects
+    the br performance of the company is assessed annually by bals board of directors
+
+    bal has a market presence in the sports and commuter motorcycle segments as well as the
+    commercial vehicle segment bal manufactures its products in india at three plants located in
+    maharashtra and one in uttarakhand while bal serves the indian market through key product
+    lines such as boxer platina ct 100 discover pulsar and re it also exports its products
+    internationally across 62 countries the company has an extensive network of dealers and distributors
+    through which it carries out its business operations
+
+    principlewise performance
+    principle 1 businesses should conduct and govern themselves with
+    ethics transparency and accountability
+    central to bals company philosophy is the adherence to ethics transparency and accountability
+    in all aspects of the business bal considers trust integrity and credibility as key elements in creating
+    value for their stakeholders in order to translate this principle into practice bal adopted a
+    companywide code of conduct coc in 2009 all business operations are carried out in line
+    with the coc all employees are provided a hard and ecopy of the coc and are trained on its
+    requirements during induction further all bal employees are required to adhere to the cocs
+    requisites the coc details integrity cultural and good working norms as well as the process to
+    address violations for each
+
+    a separate coc specifically pertains to the companys directors and senior management it states that
+    directors and senior managers shall observe the highest standards of ethical conduct and integrity
+    and shall work to the best of their ability and judgment a declaration of the directors and senior
+    management affirmation to the coc is communicated to all stakeholders by the managing director
+    through the annual report
+
+    the coc contains a grievance redressal policy and a whistle blower policy which enable employees
+    to raise concerns to the companys management an enforcement committee consisting of senior
+    management personnel is deployed to investigate complaints received through the
+    whistle blowers channel
+
+    l   grievance redressal policy pertains to personal grievances which are not addressed through
+        counselling feedback etc
+
+    l   whistle blower policy employees can report instances of unethical behaviour or suspected fraud
+        or violation of coc or ethics policy to the management there are adequate measures taken to
+        ensure safeguards against victimisation of employees who avail of the mechanism there is also a
+        provision for direct access to the chairman of the audit committee in exceptional cases
+
+    as of the year 201415 no complaints were received with respect to the above two policies
+
+    additionally bal is an industry partner of the world economic forums initiative partnership against
+    corruption initiative paci and has undertaken a zerotolerance policy towards bribery
+
+
+
+
+2
+
+principle 2 businesses should provide goods and services that are
+safe and contribute to sustainability throughout their life cycle
+bal recognises the impacts to and dependencies on natural resources in its business operations
+therefore bal is working towards aligning its sustainability actions across the entire value chain
+including product development plant operations and supply chain management this also provides
+bal with an opportunity to ensure safety and resource efficiency and provides a platform for product
+innovation and stakeholder engagement
+
+
+product sustainability
+all products designed by bal are compliant with environmental standards in the indian central motor
+vehicle rules cmvr this includes regulating tailpipe emissions of air pollutants such as carbon
+monoxide co hydrocarbons hc nitrogen oxides nox gases as well as particulate matter
+
+further bals models are certified by the automotive research association of india arai bal also ensures
+compliance with the bs iii norms and the mandatory cop conformity of production requirements
+all models exported to advanced markets are made in compliance with euro 3 emission norms
+
+bal is constantly improving drivability driver ergonomics fuel efficiency and durability of its
+threewheeler models recently bal bolstered its highly successful and reliable platina line to launch
+the platina 100 es and platina 100 with a fuel efficient dtsi engine which gives a fuel efficiency of
+969 kmpl on the indian driving cycle idc
+
+
+sustainable sourcing
+bals green purchasing policy outlines guidelines for energy water and natural resource conservation
+for the entire supply chain
+
+all major vendors are being certified for iso14001 ohsas an update is provided in the table below
+
+                              iso 14001ohsas
+vendor cluster             certified upto march 15
+
+
+chakan                                31
+waluj                                 42
+pantnagar                             15
+total                                 88
+
+
+in order to enhance interface and enable value chain efficiency bal engages with its vendors through
+bajaj auto vendor association bava currently 137 out of 384 vendors are a part of bava
+bava provides training programmes to vendors on company policies pertaining to quality
+enhancement work management logistics efficiency health and safety and environmental
+conservation
+vendor clusters convene on a monthly basis with bal plants and purchase department to share
+updates through bava
+
+bal provides an impetus to vendors through the cluster kaizen competition on a half yearly basis
+which evaluates them based on new initiativesgood practices adopted by the vendors
+
+from various energy saving initiatives adopted by bal vendors 426 lakh units kwh was saved in
+201415 by forging category vendor groups
+
+another supply chain wide sustainability initiative is bals total productive maintenance tpm
+policy practiced by tier i and ii vendors which has enabled equipment operational human and cost
+efficiencies as on date 141 tier i vendors and 78 tier ii vendors are practicing tpm bal assesses
+vendor performance on tpm through improvement targets provided on a yearly basis in order to
+
+
+
+
+                                                                                                               3
+
+    provide an incentive to enhance tpm bal awards its vendors based on various productivity initiatives
+    adopted by them 94 vendors were awarded tpm and 47 vendors were awarded the tpm excellence
+    up to 201415
+
+    for supply chain cost efficiency a focus was given to vendor vave yield improvement
+    alternate ecofriendly process and localisation of rm suppliers for conversion cost reduction focus
+    was given on electricity cost reduction consumable cost reduction optimisation of man machine and
+    fixture resources in logistic cost reduction focus was given on bill to ship to b2s2 initiative and
+    supply chain rationalisation among others ultimately enhancing efficiency and optimising processes
+    to reduce environmental impact also have a positive effect on cost efficiency
+
+    a b2s2 initiative was started by four waluj and chakan cluster vendors prior to this initiative
+    child part vendors of subassemblies were routed through bal now child part vendors are supplying
+    parts directly to sub assembly vendors on behalf of bal
+
+    this has led to the following benefits
+
+                                                                          all clusters
+    sr no   activity                                        before b2s2       after b2s2       reduction
+
+
+
+       1      truck turnaround time                                5 hrs             3 hrs                
+       2      total distance travelled kmsmonth                 1290                 610              
+       3      total fuel consumed diesel ltrsmonth               215                  113         50
+       4      documentation paper work documents mth             542                   0               
+       5      carbon emission tonskl                              3                   14         50
+
+    bal encourages local procurement of goods for its manufacturing operations as of this year
+    over 70 of the procurement is carried out locally this has a dual benefit as it creates a significant
+    positive impact on the local economy as well as reduces the companys carbon footprint
+
+    the purchase department has adopted an inputprocessoutput ipo methodology to ensure zero
+    rejection at bal and vendor end this results in the reduction of scrap generation across the supply
+    chain for effective implementation of ipo training is being provided to vendor ceos plant heads and
+    staff ipo is currently being undertaken by a majority of bals critical vendors
+
+
+    waste reduction
+    all four plants are working towards reducing the waste generated in their operations through a
+    variety of innovative solutions at the pantnagar plant during the pretreatment line the
+    phosphating process was replaced by the tectalis process which enabled zero hazardous waste
+    generation further the paint shop effluents were 100 treated and used for gardening at the
+    chakan plant waste paint was being sent to mepl ranjangaon a hazardous waste disposal site
+    however through an initiative launched at the chakan plant the waste paint is now incinerated in the
+    premise the heat recovered from this is utilised for paint shop chemical heating this has resulted in
+    fuel savings of up to 40 additionally ro treated industrial effluent upto 40 kilo litres per day
+    was used in paint shop processes
+
+
+    principle 3 businesses should promote the wellbeing of all
+    bal believes that employees are one of its greatest assets thus it is dedicated to create a safe
+    inclusive and positive workplace for all its employees
+
+    in 201415 bal hired 1562 employees this raised its total employee count to 9183 including
+    trainees all four plants have registered trade unions and 53 of employees are party to company
+    recognised employee associations the count on permanent employees with disabilities stands at
+    25 as on 31 march 2015
+
+
+
+
+4
+
+bal encourages employment of women in all its departments as of this year there are 67 permanent
+women employees in 201415 the number of total women employees went up by 22 from 198 to
+242 further bal has a policy on prevention of sexual harassment at workplace in place to ensure
+their safety and security during the international womens day celebration sessions on womens
+health and selfhelp were organised
+
+bal believes that constant sharpening of competencies is essential to further enhance our productivity
+quality and engagement therefore several skill and competency development opportunities are provided
+to all employees training is imparted through a variety of programmes such as classroom onthe job
+outbound and online programmes in 201415 3000 of its total workforce was trained through
+300 training programmes covering 8000 mandays corporate trainings in particular covered about
+1700 permanent employees including 51 women employees the number of programmes has seen an
+increase of nearly 31 over the last year over a 60 increase in number of training mandays has
+been achieved through these programmes emphasis on ensuring effectiveness of training programmes
+has yielded encouraging results with 96 of programmes achieving a feedback score of 80 or
+more in 201415
+
+bal assesses its employees for their potential as future leaders against its leadership competency
+framework which defines leadership attributes and demonstrable behavior of a bal leader it gives
+data points for each employee on his strengths and areas of development and hence aids in making
+individual specific development plans in november 2014 bal cocreated with iim  ahmedabad
+a unique leadership training program for employees transitioning from individual contribution role
+to managers manager role
+
+there were no complaints relating to child labour forced labour involuntary labour or sexual
+harassment in the last financial year and pending as on the end of 201415
+
+the corporate hospitalisation benefit scheme covering bals staff and hospitalisation welfare
+scheme covering bals workers provides healthcare benefit to a large number of employees
+a total of 1351 employees have received the benefit of these schemes over the last two years
+
+in order to boost employee morale and promote the culture of continuous improvement bal gives
+kaizen awards to deserving employees 293 shining kaizens were awarded last year this award
+is provided to best kaizens in terms of innovative ideas or kaizens resulting in improvement in
+productivity quality and cost the number of kaizens per person per annum went up from 55 to 63
+
+a variety of employee engagement initiatives addressed the interest of different employees
+bal also provides recreational facilities on campus for its employees the gym facility at akurdi which
+was inaugurated last year has more than 100 members a significant initiative started this year was
+weekly yoga classes to promote good health other initiatives such as trekking club photography
+club interdepartmental cricket tournament cricket quiz womens day celebration poetry
+competition etc were held
+
+thanks to our holistic employee development and engagement initiatives we could contain attrition
+within single digit levels
+
+
+principle 4 businesses should respect the interests of and be
+responsive towards all stakeholders especially those who are
+disadvantaged vulnerable and marginalised
+
+bal has always been an equal opportunity employer in order to sustain this practice bal launched
+a code of conduct for affirmative action back in 2006 this code ensures preference is given
+to business vendors from socially disadvantageous sections of the society provided other business
+considerations are equal further bal ensures there is no discrimination of any type for socially
+disadvantaged sections in the work place
+
+in line with affirmative action in 201415 bal recruited 1562 new employees of which 125 80
+belong to socially weaker sections of the society such as scheduled castes and scheduled tribes
+at present employees from scheduled castes and scheduled tribes constitutes 67 of the workforce
+
+
+
+                                                                                                          5
+
+    principle 5 businesses should respect and promote human rights
+    bal is dedicated to preserve the human rights of all its internal and external stakeholders
+    and therefore ensures compliance with all applicable laws pertaining to human rights in this regard
+    a legal compliance report is submitted to the companys board of directors on a quarterly basis there
+    were no complaints on violation of human rights for 201415
+
+
+    principle 6 business should respect protect and make efforts to
+    restore the environment
+    bal is committed to creating and preserving a cleaner environment and is continually striving to reduce
+    the environmental impact of operations through sustainable practices and responsible use of resources
+
+    bals safety health and environment she policy guides all company operations and activities
+    she is an important pillar of tpm safety includes reducing accident probabilities through safe
+    working practices health covers worker training on hygiene and health practices noise reduction
+    access to safe drinking water provision of individual health checkups etc environment
+    activities focus on reducing air water and land pollution and management of hazardous waste
+    and resource conservation
+
+    plantwise highlights of key environmental initiatives are provided below
+
+    waluj plant                                             chakan plant
+
+
+    certified for iso 14001 environment management         certified for iso 9001 qms certification
+    systems and iso 18001 occupational health and         reverse osmosis plant of 100 cu meters 01 million
+    safety assessment series ohsas                         litres per day installed
+    resource consumption reduced in 201415 compared        resource consumption reduced in 201415
+    to last year 16 reduction in power kwh vehicle   compared to last year 179 reduction in power
+    05 reduction in fuel kgvehicle and 111           kwh vehicle 44 reduction in fuel kgvehicle
+    reduction in water cubic metervehicle                and 27 reduction in water cubic metervehicle
+    water positive plant                                    water positive plant
+    zero discharge plant                                    zero discharge plant
+    excellent energy efficient unit award national level use of 5 star equipment
+    for 2014 by confederation of indian industry cii       reduction in packaging material
+    gold award apex level in indian green               challenger award in green manufacturing
+    manufacturing challenge instituted by international    excellence instituted by frost and sullivan
+    research institute for manufacturing chennai
+
+
+    pantnagar plant                                         akurdi plant
+
+
+
+    certified for iso 14001 environment management         use of drip irrigationsprinkler systems for
+    systems and iso 18001 occupational health and         horticulture
+    safety assessment series ohsas
+    installation of energy saving devices such as energy    2 reduction in energy consumption compared to
+    efficient pumps and led streetlights                    last year through energy efficiency measures such
+                                                            as installing motion sensors solar water heater for
+                                                            canteen  dish washing and provision of daylight in
+                                                            roof sheets
+    zero discharge plant                                    zero discharge plant
+    water consumption reduced by 20 compared to            water conservation initiatives such as reuse of
+    last year treated water use for gardening has been     treated water for toilet flushing and replacing water
+    increased                                              cooled with air cooled systems
+    installation of an organic waste convertor is being     canteen waste generated is utilised for biogas
+    planned for 201516 which will convert 100kg of        generation
+    canteen waste to manure on a daily basis
+
+
+
+6
+
+all four plants of bal operate as per the consenttooperate provided by the state pollution control
+board spcb and are within limits with regards to the emissions and waste generated no show cause
+noticelegal notice was received from central pollution control board or spcb
+
+
+principle 7 businesses when engaged in influencing public and
+regulatory policy should do so in a responsible manner
+bal is a member of various national as well as international associations through which it actively
+engages in policy advocacy bal puts forward its views on the setting of new industry standards or
+regulatory developments pertaining to the automotive manufacturing industry broadly in areas like
+governance and administration economic reforms inclusive development policies among others
+
+some of the key associations of which bal is member are
+
+l   confederation of indian industry cii
+l   society of indian automobile manufacturers
+l   association of indian automobile manufacturers
+l   world economic forum
+l   federation of indian export organisations
+l   business and community foundation
+l   indian federation of green energy
+l   international road federation  india chapter
+l   the automotive research association of india
+l   mahratta chamber of commerce industries and agriculture
+l   nafems ltd
+l   national safety council
+l   the advertising standards council of india
+l   forum of free enterprise
+l   indian merchant chamber
+l   bombay chamber of commerce and industry
+
+
+principle 8 businesses should support inclusive growth and
+equitable development
+the csr philosophy of bal has been formulated under the vision and principles of the companys
+founding father late shri jamanalalji bajaj who believed in creating shared value through fair and
+equitable business functioning bal believes that majority of expenditures under csr are converted
+to investments in resource creation for use over generations
+
+as of 201415 csr donations committed by the company under section 135 schedule vii of the
+companies act 2013 totals to b 11925 crore these activities cover a variety of stakeholders and are
+implemented through employee initiatives welfare groups ngos charitable bodies local authorities
+and social organisations
+
+given below is a list of key csr initiatives carried out by bal in 201415 list not exhaustive
+
+1 education
+through ppps bal is upgrading 5 industrial training institutes iti in india there are two in pune one
+in pantnagar one in aurangabad and a fifth iti was newly adopted in uttrakhand the company is
+taking consistent actions to better the quality of output from the institutes as of 201415 over 450
+students are being trained across these itis
+
+2 health
+in association with the indian ministry of health and family welfare the department of aids control
+dac and cii bal initiated a ppp to provide accessible and better healthcare to hivaids patients
+msacs maharashtra state aids control society awarded a certificate of appreciation to the bajaj
+ycmh art centre in recognition of their efforts to provide excellent hiv care from august 2008
+onwards the bajaj ycmh art centre at ycm hospital pimpri has registered over 12000 cases
+of which over 5300 are active cases for antiretro viral therapy this centre is now considered a
+benchmark for such centres and is the largest one run by an industry
+
+
+
+                                                                                                             7
+
+    3 others
+
+       l   through blood donation camps organised by factory employees over 885 employees donated
+           blood for local hospitals
+
+       l   in september 2014 employees from the akurdi plant collected nearly 2000 old and new books
+           through a book donation drive which were distributed among eleven schools in various local
+           village schools
+
+       l   in order to ensure safety and disaster management of the local area the fire departments
+           vehicles made 33 fire calls outside the plants to carry out firefighting and rescue operations
+
+    in addition to the above activities bal contributes to rural and urban development in the areas of
+    its operations through the jankidevi bajaj gram vikas sanstha jbgvs jbgvs reaches 84 villages in
+    maharashtra 11 villages in sikar district of rajasthan and 1 village in pantnagar uttarakhand
+    through education health care environmental economic and social activities jbgvs touches
+    67500 people most from economically weaker sections of the society such as scheduled castes
+    scheduled tribes nomadic tribes and other backward classes
+
+
+    principle 9 businesses should engage with and provide value to their
+    customers and consumers in a responsible manner
+    bals philosophy distinctly ahead guides its customer engagement process bal is rigorous in
+    ensuring it is able to actively communicate and engage with customers on a variety of platforms
+    such as call centres web based interfaces dealer showrooms and service centres further in order
+    to enhance customer satisfaction clear any pending issues and generate referral sales bal organises
+    service camps for its customers
+
+    for bal safety is of supreme importance which includes safe use of its products every product is sold
+    with an owners manual which includes safety checking mechanisms dos and donts and fuel saving
+    tips thus encouraging consumers to use bals products in a responsible manner to ensure the right
+    type of communication with regards to newly launched products and create in depth awareness on
+    feature advantage and benefits fabs bal carries out a mobile showroom on wheels programme
+
+    additionally bal has a dedicated organisational structure called customer insight ci which carries
+    out internal surveys to understand consumer behaviour and complaints
+
+    bal carries out various field activities on a panindia level to engage with customers at a ground level
+    an example of this is the swarozgar campaign which tackles the issues of unemployment in rural and
+    semiurban areas through triggering the need to enter the threewheeler business and thus providing
+    selfemployment opportunities to rural youths
+
+    the number of cases pending at the consumer forum as of end of march 2015 is 439 while 136
+    cases were filed during the year there were 3 case filed against the company regarding irresponsible
+    advertising however no case is pending as of 31 march 2015
+
+
+
+
+8

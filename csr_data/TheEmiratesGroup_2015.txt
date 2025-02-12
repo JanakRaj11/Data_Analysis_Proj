@@ -1,0 +1,1463 @@
+the emirates group
+
+environmental report 201415
+
+
+                     environmental report 201415 1
+
+             hh sheikh mohammed bin rashid
+             al maktoum
+             vice president and prime minister of the united arab emirates
+             and ruler of dubai
+
+
+
+
+2  environmental report 201415
+
+we recognise that preserving our resources will be one of the greatest challenges in our drive
+towards sustainable development this however will not materialise unless different facets of
+our society adopt energy conservation principles in their core values
+
+
+
+
+                                                                                                  environmental report 201415 3
+
+                                   emirates is a global airline operating the worlds largest fleets of airbus a380 and boeing 777
+                                   aircraft from its hub in dubai united arab emirates its main activity is the provision of
+                                   commercial air transportation services
+
+
+                                   dnata is one of the largest combined air services providers in the world and the largest travel
+                                   management services company in the uae its main activities are the provision of cargo and
+                                   ground handling catering information technology and travel services
+
+
+                                   emirates and dnata are independent entities and do not form a group as defined by international
+                                   financial reporting standards however these entities are under common management
+                                   therefore in this document they are together referred to as the emirates group
+
+
+
+
+4  environmental report 201415
+
+the emirates group
+
+
+
+contents
+environmental performance 					6
+
+letter from the chairman and chief executive 			          8
+
+the leadership team						10
+
+scope of the report						11
+
+the emirates group  who we are				                       12
+
+our growing network						14
+
+the emirates fleet						16
+
+our priorities							                                     18
+
+jet fuel and engine emissions					                        20
+
+aircraft noise							26
+
+ground operations						                                   28
+
+electricity and water   					32
+
+materials and waste						34
+
+group carbon dioxide emissions					                       38
+
+biodiversity and conservation					                        40
+
+a greener tomorrow						44
+
+supporting communities 					                              48
+
+pwc reasonable assurance report				                       54
+
+abbreviations and references					                         56
+
+
+
+
+                                                   environmental report 201415 5
+
+             environmental performance
+
+                                   emirates airline  environmental data
+                                   metric 1                                            unit           201415       201314        change   verified 2
+                                   jet fuel consumption                               tonnes         8975666		    8141738		    102		       
+                                   carbon dioxide co2 emissions                     tonnes        28273348		   25646474		    102		       
+                                   fuel efficiency  passenger                       l100pk              399 3         399 3     00		       
+                                   fuel efficiency  cargo freighters only          lftk              0182		        0190		    42		       
+                                   fuel efficiency  combined                          ltk            03057		       03089		     10		       
+                                   operational fuel efficiency factor ofef 4         tkl              1774		        1774		     00 4       
+                                   co2 efficiency  passenger                       g co2  pk            986 3         986 3     00		       
+                                   co2 efficiency  cargo freighters only        g co2  ftk           4491		        4692		    43		       
+                                   co2 efficiency  combined                        kg co2  tk          0756		        0764		    10		       
+                                   nitrogen oxides nox emissions                tonnes 3000ft      11255		       10552		      67
+                                   carbon monoxide co emissions                 tonnes 3000ft        7082		        6394		    108
+                                   unburnt hydrocarbon uhc emissions            tonnes 3000ft         754		          665		     134
+                                   aircraft compliant with icao annex 16 vol ii                          100		          100		      00		       
+                                   emissions standards 5
+                                   aircraft compliant with icao annex 16 vol i                           100		          100		      00		       
+                                   chapter 4 noise standards 5
+
+
+
+
+6  environmental report 201415
+
+emirates group  ground operations environmental data
+metric 1                                                          unit                 201415           201314         change
+diesel consumption 7                                              litres            30968471         31766294          25
+petrol consumption 7                                              litres            14419770         13451474           72
+total fuel consumption ground 7                                 litres            45388241         45217768           04
+fuel consumption per head of staff 6                         litresheadday               176               197        107
+associated co2 emissions 7                                       tonnes                116026            115900           01
+electricity consumption 7                                         mwh                1087180          1185721          83
+associated co2 emissions 7                                   tonnes of co2             761026            830005          83
+electricity consumption per head of staff 6                  kwhheadday                  420               526        202
+water consumption 7                                                ml                     6054              8221        264
+associated co2 emissions 8                                   tonnes of co2              89726            116470         230
+water use per head of staff 6                                litresheadday              2392              3613        338
+total waste not recycled 7                                     tonnes                214510            210376           20
+total waste not recycled per head of staff 6                kgheadday                   84                88         46
+recyclables collected 7                                          tonnes                 53203            75552        296
+
+
+emirates group  total carbon dioxide emissions
+metric 1                                                          unit                 201415           201314      change       verified 2
+co2 from flight operations                                       tonnes             28273348         25646474          102         
+co2 from ground operations                                       tonnes              1181288          1272751          72
+total group co2 emissions                                        tonnes             29454636         26919225           94
+
+
+1 for definitions of the metrics in these tables please see the emirates group environmental report 201415 reporting guidelines and
+
+ methodology document available on wwwemiratescomaboutenvironment
+2 the metrics marked  are covered by pwcs assurance procedures see pwc assurance report on pages 5455
+
+3 the methodology for calculating passenger fuel and co2 efficiency was amended for the 201415 environmental report to make it more
+
+  accurate the passenger efficiency figures for 201314 have therefore been recalculated with the new methodology to enable comparison
+  under the previouslyused methodology passenger fuel efficiency was 405 litres per 100 passenger kilometres and passenger co2
+  efficiency was 1003 grams co2 per passenger kilometre for 201314
+4 unlike the other fuel efficiency metrics we report the higher the ofef value the better the efficiency a positive percentage change
+
+  therefore reflects improvement over time
+5 excludes wetleased cargo aircraft
+6 includes staff of emirates dnata and emirates flight catering ekfc in dubai 68500 it excludes staff from the 29 emirates airport lounges
+
+  covered in this report ex dubai alpha flight group ltd emirates outstations and staff of emirates and dnata subsidiary companies
+7 includes emirates dnata and emirates flight catering ekfc in dubai five of the emirates groups largest outstations by headcount
+
+  29 emirates airport lounges ex dubai and alpha flight group ltd
+8 for desalinated water only
+
+
+
+
+                                                                                                                                                    environmental report 201415 7
+
+             his highness sheikh ahmed
+             bin saeed al maktoum
+             chairman  chief executive emirates airline  group
+             the operations of the emirates group comprising emirates the worlds largest              we also saw the runway resurfacing project at dubai international airport last year having a
+             international airline and dnata a global air services provider span six continents      major impact on our operations as emirates had to carry extra contingency fuel and cut back
+                                                                                                         on flights dnata also had to navigate its ground support equipment in a constrained operating
+             each day we proudly contribute to global trade and tourism by providing high quality       environment however these improvements to our hub infrastructure will add to the capacity
+             air transport links as well as catering ground handling and travel management services   and efficiency of the airports operations in the longterm
+             to businesses and travelers around the world
+                                                                                                         dnata took delivery of 30 new electric ground handling tractors from us manufacturers for their
+             in 201415 emirates and dnata have continued to invest in business growth in tandem        operations at dubai international airport these will reduce emissions and help contribute to a
+             with customer demand and global opportunities                                              healthier environment
+
+
+             as the scale of our operations expands we are ever more conscious of our responsibility    emirates skycargo moved all of its freighter operations to new dedicated facilities at
+             towards the environment and communities we serve we are aware that our efforts to          al maktoum international airport at dubai world central which has less congestion
+             reduce resource use will not only reduce our environmental impact but will also help       the advanced facilities also helped enhance efficiency and service offering to customers
+             build our business resilience
+                                                                                                         wolgan valley resort  spa our luxury hospitality property in australias blue mountains
+             when it comes to our environmental stewardship the emirates group has core areas of        saw a change of management to oneonly however the resort will remain committed to
+             focus where we believe we can make the biggest impact but we also know that every          wildlife and conservation in collaboration with the resort emirates supported the university of
+             little effort counts especially when amplified at a global scale                           new south wales in a ground breaking initiative to map atrisk populations of wombats in a
+                                                                                                         communitybased project where anyone with a smartphone can participate
+             in the past year we faced some significant operational challenges including airspace
+             closures over some countries because of safety and security risks although the extra       looking ahead we are sponsoring a new documentary series on the wildlife of the
+             flight time to route around these closed areas added to our fuel consumption the           united arab emirates which will be launched in 2016 i am particularly excited at sharing
+             safety of our passengers and crew is paramount                                             the largely untold story of the uaes rich and diverse desert and marine habitats we are also
+
+
+8  environmental report 201415
+
+partnering with united for wildlife a coalition of conservation organisations to raise
+awareness about the illegal wildlife trade and to promote protection efforts
+
+
+in addition to our wellpublicised fleet strategy of operating young and modern widebody
+aircraft emirates also has an ongoing focus on operating our aircraft in the most efficient
+responsible way possible our partnerships with air navigation service providers have been
+key to implementing fuel and timesaving routes
+
+
+the initiatives i have highlighted may only provide a flavour of activity across our varied
+business operations but i hope that it also conveys our commitment to reducing resource
+use and sustainable operations this report contains more information and data about
+our environmental performance and conservation efforts and i hope you will find it an
+interesting read
+
+
+
+
+                                                                                                environmental report 201415 9
+
+             the leadership team
+             the chairman  chief executive of emirates airline  group is his highness sheikh ahmed
+             bin saeed al maktoum sir tim clark is president of emirates airline the president of group
+             services and of dnata is gary chapman both presidents are supported by a senior man
+             agement team who oversee the various business units of the group
+
+
+                                                                                  a commitment to managed responsible growth
+
+                                                                                  environmental responsibility is a core value of the emirates group and underpins our vision
+                                                                                  of making the group a leader in the aviation and travel sectors we constantly strive to make
+                                                                                  sustainability and environmental efficiency a cornerstone of all group operations in the air
+                                                                                  and on the ground
+
+
+                                                                                  we continue to invest in the most modern efficient aircraft and engine technology available
+                                                                                  as well as ground equipment we are constantly innovating both internally and with our
+                                                                                  partners to introduce greater improvements to our operations in the emirates groups fifth
+                                                                                  environmental report you will see how the group is moving to drive future enhancements
+                                                                                  in efficiency and environmental performance as well as the benefits now being realised from
+                                                                                  previous years of investment in programmes and initiatives
+         hh sheikh ahmed              sir tim clark      gary chapman
+         bin saeed al maktoum         president          president
+         chairman  chief executive   emirates airline   group services  dnata
+         emirates airline  group
+
+
+
+
+10  environmental report 201415
+
+scope of the report
+this report covers the emirates groups financial reporting year 1 april 2014
+to
+dubai  31     march
+         desert  conservation  reserve as of the end of this financial
+                             2015
+it is the focal point for conservation programmes aimed at restoring populations of
+                                                                                                year
+                                                                                            emirates      the wolgan
+                                                                                                     oneonly    emiratesvalley     group
+                                                                                            emirates has supported the protection of australias extraordinary wildlife and plant life
+operated
+some                   in over
+        of the uaes desert            80alsocountries
+                            wildlife and                       with
+                                              hosts lowimpact desert     more
+                                                                      experiences run than 80000         staff
+                                                                                            since 2009 when we opened the conservationbased wolgan valley resort and spa in new
+by a small number of tour operators including the emirates group company arabian                  south wales
+adventures
+                                                                                                   the property was the first luxury resort in the world to receive an internationallyrecognised
+in january 2015 the reserve hosted its fourth volunteer programme conducted by                    carbon neutral certification from new zealandbased carbonzero in preparation for
+biosphere
+we           expeditions
+      addressed           participants impacts
+                  the environmental     on the programme     help the reserves conservation
+                                                 of the following                                 recertification the resort
+                                                                                                    29 emirates airport        underwent
+                                                                                                                            lounges        a comprehensive
+                                                                                                                                     outside of dubai     greenhouse gas emissions assess
+managers gather scientific data on key wildlife species such as arabian oryx mountain            ment during the year covering emissions from all relevant sources  including the sydney
+gazelle
+     emirates                                                                                       skycargo truck feeder service between dubai international airport and al maktoum
+          sandfleet operations
+                gazelle gordonspassenger   andmacqueens
+                                   wildcat and   cargo the latter flown
+                                                              bustard       under
+                                                                        also     theas
+                                                                                      emirates
+                                                                              known     the        office and guest transportation after successful completion of the emissions inventory
+     skycargo
+ houbara  thebrand
+                 data gathered on the expeditions help the conservation managers gain a                international
+                                                                                                   carbonzero         airport
+                                                                                                                  issued the new carbon neutral certificate on 17th april 2015 valid for another
+ better understanding
+     dnata  operations in   the wildlife
+                         ofdubai         ecology
+                                  aircraft groundand to inform
+                                                    handling    management
+                                                              cargo   and travel decisions
+                                                                                 services        two  years oneonly wolgan valley
+                                                                                                    emirates
+
+ emirates and dnata commercial buildings in dubai including offices training colleges
+link httpwwwddcrorgen
+    flight catering laundry services warehouses it and engineering services                    environmental impacts associated with the following activities of the emirates group were
+   emirates aviation university                                                                  not included in this report
+   emirates group staff accommodation buildings in dubai apartment buildings                        emirates leisure retail elr and emirates consumer goods businesses in the uae and
+    and houses                                                                                       other countries
+   five of the largest group offices outside of dubai outstations by headcount note that         partlyowned emirates companies in the uae and other countries
+    this is a smaller number than last year when we reported on 12 there may be a small             remaining outstations the airlines offices and activities outside of the uae and all hotel
+    consequential impact on the figures for worldwide electricity water and petroldiesel             properties except emirates oneonly wolgan valley
+    consumption waste production and recycling
+                                                                                                      partly and whollyowned dnata ground handling cargo and travel services outside of dubai
+   alpha flight group ltd operations note the number of alpha flight group sites reduced
+                                                                                                      partlyowned dnata freightforwarding and security companies in the uae
+    during the year with a small consequential impact on the figures for worldwide electricity
+                                                                                                      skycargo trucking services vehicle fleets operated in smaller outstations and those
+    water and petroldiesel consumption waste production and recycling
+                                                                                                       operated by subsidiary companies of emirates and dnata in the uae and overseas
+
+
+
+
+                                                                                                                                                                            environmental report 201415 11
+
+             the emirates group  who we are
+
+
+
+
+                                     84 160 144 232 493
+                                    thousand staff   nationalities          airline destinations                          aircraft                      million passengers
+                                                                                                                                                              carried
+
+
+                                                                     in 201415 emirates added 24 new aircraft to our fleet including our 50th airbus a380 and
+                                                                     100th boeing 777300er we also retired 10 older aircraft maintaining the average age of
+                                                                     our fleet at 75 months about half the industry average of 140 months investing in modern
+                                                                     widebodied aircraft has always been the cornerstone of our strategy because these are
+                                                                     more fuelefficient to operate and also allow us to provide our customers with a better
+                                                                     onboard experience
+
+
+
+
+12  environmental report 201415
+
+24 17 298 200 466
+million tonnes
+freight carried
+                   million tonnes
+                  freight handled
+                                    thousand aircraft
+                                        handled
+                                                         retail outlets
+                                                                  dnata
+                                                                                              million meals prepared
+                                                                                                       dnata
+    skycargo            dnata              dnata
+
+
+
+                                                        each day dnatas employees around the globe uplift meals service aircraft move all types of
+                                                        cargo handle baggage help people with their travel plans and ensure they reach their final
+                                                        destinations dnatas aim is to become the worlds most admired air travel services provider
+                                                        and we do that by delivering on the promises that our customers make
+
+
+                                                        these figures are valid as of 31 march 2015
+
+
+
+
+                                                                                                                          environmental report 201415 13
+
+             our growing network
+
+
+
+                  dnata presence                                       emirates presence       emirates destinations
+               abu dhabi        dubai             newcastle         abu dhabi               abidjan        colombo             kano              nice
+               adelaide         east midlands     nottingham        adelaide                abuja          conakry             karachi           osaka
+               al ain           edinburgh         olbia             ajman                   accra          copenhagen          khartoum          oslo
+               al khobar        erbil             palermo           bangkok                 addis ababa    dakar               kochi             ouagadougou
+               al medinah       florence          perth             bengaluru               adelaide       dallasfort worth   kolkata           paris
+               alghero          fujairah          peshawar          brisbane                ahmedabad      dammam              kozhikode         perth
+               amman marka    geneva            pisa              canberra                al medinah     dar es salaam       kuala lumpur      peshawar
+               bahrain          genova            prague            dar es salaam           algiers        delhi               kuwait            phuket
+               barcelona        glasgow           preston           darwin                  amman          dhaka               lagos             prague
+               bari             guangzhou         prestwick         delhi                   amsterdam      djibouti            lahore            quito
+               beirut           halifax           ras al khaimah    dubai                   athens         doha                larnaca           rio de janeiro
+               belfast          islamabad         riyadh            fujairah                atlanta        dubai               liege             riyadh
+               bengaluru        jeddah            rome fiumicino   hobart                  auckland       dublin              lilongwe          rome
+               bergamo          johannesburg       ciampino       launceston              baghdad        durban              lisbon            san francisco
+               birmingham       jubail            salalah           malé                    bahrain        düsseldorf          london gatwick    são paulo
+               bologna          kabul             sanford           melbourne               bangkok        eldoret             london heathrow   seattle
+               brindisi         karachi           sharjah           muscat                  barcelona      entebbe             los angeles       seoul
+               brisbane         kathmandu         singapore         newcastle australia   basel          erbil               luanda            seychelles
+               bristol          khartoum          sofia             perth                   basra          frankfurt           lusaka            shanghai
+               bucharest        kuwait            suva              phuket                  beijing        geneva              lyon              sialkot
+               cagliari         lahore            sydney            ras al khaimah          beirut         glasgow             madrid            singapore
+               cairo            lamezia terme     townsville        samui                   bengaluru      guangzhou           malé              stockholm
+               canberra         leeds             trapani           sharjah                 birmingham     hamburg             malta             st petersburg
+               cape town        liverpool         tunis             singapore               boston         haneda              manchester        sydney
+               cardiff          london gatwick    turin             sydney                  brisbane       hanoi               manila            taipei
+               casablanca       london heathrow   venice            wolgan valley           brussels       harare              mauritius         tehran
+               catania          london stansted   verona            zanzibar                budapest       ho chi minh city    melbourne         thiruvananthapuram
+               chester          luton             yanbu                                     buenos aires   hong kong           mexico city       tokyo
+               colombo          manchester        zurich                                    cairo          houston             milan             toronto
+               coolangatta      manila                                                      campinas       hyderabad           moscow            tunis
+               cork             melbourne                                                   cape town      islamabad           mumbai            venice
+               dammam           milan malpensa                                             casablanca     istanbul            munich            vienna
+               darwin            linate                                                   chennai        jakarta             muscat            warsaw
+               delhi            mumbai                                                      chicago        jeddah              nairobi           washington
+               dhaka            muscat                                                      chittagong     johannesburg        new york          zaragoza
+               doha             naples                                                      christchurch   kabul               newcastle         zurich
+
+
+14  environmental report 201415
+
+environmental report 201415 15
+
+             the emirates fleet
+             fleet numbers as of 31 march 2015
+
+
+
+                                                                                                                        airbus a340300    number of aircraft 4           wingspan 603 m
+                                                                                                                                           cargo capacity 13 tonnes       length 636 m
+                                                                                                                                           passenger capacity 267         height 168 m
+                                                                                                                                           engine type cfm565c4          max takeoff weight 2750 tonnes
+                                                                                                                                           range 13350 km                average cruising speed 874 kmh
+
+
+                                    airbus a380800   number of aircraft 59        wingspan 798 m
+                                                      cargo capacity 8 tonnes      length 727 m
+                                                      passenger capacity 489517   height 241 m
+                                                      engine type gp7272           max takeoff weight 5690 tonnes
+                                                      range 15000 km              average cruising speed 907 kmh
+
+
+
+
+                                                                                                                        airbus a330200    number of aircraft 21          wingspan 603 m
+                                                                                                                                           cargo capacity 17 tonnes       length 588 m
+                                                                                                                                           passenger capacity 237278     height 178 m
+                                                                                                                                           engine type rr trent 772       max takeoff weight 2300 tonnes
+                                                                                                                                           range 12200 km                average cruising speed 874 kmh
+
+
+                                    airbus a340500   number of aircraft 1         wingspan 634 m
+                                                      cargo capacity 15 tonnes     length 679 m
+                                                      passenger capacity 258       height 171 m
+                                                      engine type rr trent 553     max takeoff weight 3720 tonnes
+                                                      range 16050 km              average cruising speed 874 kmh
+
+
+
+
+                                                                                                                        boeing 777300er     number of aircraft 103         wingspan 648 m
+                                                                                                                                             cargo capacity 23 tonnes       length 739 m
+                                                                                                                                             passenger capacity 354442     height 186 m
+                                                                                                                                             engine type ge90115b          max takeoff weight 3492 tonnes
+                                                                                                                                             range 14594 km                average cruising speed 896 kmh
+
+
+
+
+16  environmental report 201415
+
+         boeing 777300    number of aircraft 12         wingspan 609 m
+                           cargo capacity 23 tonnes      length 739 m
+                           passenger capacity 364        height 186 m
+                           engine type rr trent 892      max takeoff weight 2993 tonnes
+                           range 11029 km               average cruising speed 896 kmh
+
+
+                                                                                                    boeing 777f    number of aircraft 12         wingspan 648 m
+                                                                                                                   cargo capacity 103 tonnes     length 637 m
+                                                                                                                   engine type ge90110b         height 186 m
+                                                                                                                   range 9260 km                max takeoff weight 3475 tonnes
+                                                                                                                                                  average cruising speed 896 kmh
+
+
+
+
+       boeing 777200lr    number of aircraft 10         wingspan 648 m
+                           cargo capacity 15 tonnes      length 637 m
+                           passenger capacity 266        height 186 m
+                           engine type ge90110b         max takeoff weight 3434 tonnes
+                           range 17446 km               average cruising speed 896 kmh
+
+                                                                                               boeing 747400erf   number of aircraft 2          wingspan 644 m
+                                                                                                                   cargo capacity 117 tonnes     length 706 m
+                                                                                                                   engine type ge80c2b1f         height 195 m
+                                                                                                                   range 8232 km9204 km       max takeoff weight 3959 tonnes
+                                                                                                                                                  average cruising speed 896 kmh
+
+
+
+
+boeing 777200777200er    number of aircraft 16        wingspan 609 m
+                            cargo capacity18 tonnes       length 637 m
+                            passenger capacity 274346    height 186 m
+                            engine type rr trent 877      max takeoff weight 2472 tonnes
+                            range 9649 km                average cruising speed 896 kmh
+
+                                                                                                                        note one a319 aircraft is used for executive jet charters
+
+
+
+                                                                                                                                                 environmental report 201415 17
+
+             our priorities
+18  environmental report 201415
+
+the emirates group operates globally flying to more than 80 countries
+occupying facilities around the world and operating a large fleet of ground
+vehicles all of these operations inevitably produce a range of environmental
+impacts varying in scope and scale
+
+
+in this report we focus on major environmental aspects and have assessed each aspect         beyond the operational environmental aspects described above we recognise the clear
+for significance based on factors such as                                                     link between healthy ecosystems and the health of our business to that end we have
+                                                                                               supported two major conservation initiatives in dubai and australia as well as contributing
+   net contribution to the group environmental footprint                                     to a number of sustainability projects in different countries through our a greener
+   existence or pending development of significant regulatory controls and                   tomorrow programme
+   public or other stakeholder interest
+
+                                                                                               finally we acknowledge the role that people play in making a better environment for us
+given our core business the emirates groups environmental aspects are dominated by
+                                                                                               all to enjoy our staff contribute to a variety of initiatives in dubai and in our locations
+the consumption of jet fuel and the resulting emissions jet fuel is also emirates airlines
+                                                                                               around the world and our passengers support children in developing countries through
+single largest operating cost efforts to minimise fuel consumption and the resulting
+                                                                                               their generous donations to the emirates airline foundation with the launch of dnatas new
+emissions are therefore central to our environmental programme and are at the core of
+                                                                                               programme dnata4good staff contribute to a select range of projects helping children and
+our report
+                                                                                               wildlife in several countries
+
+despite the new generations of aircraft being significantly quieter than their
+predecessors noise also remains an issue around many airports we report here on the
+performance of our fleet relative to the applicable international aircraft noise standards
+
+
+on the ground we concentrate on our vehicle and equipment fuel use and emissions
+electricity and water consumption and waste generation  as well as efforts to reduce
+impacts in these areas
+
+
+
+
+                                                                                                                                                                         environmental report 201415 19
+
+             jet fuel and engine emissions
+20  environmental report 201415
+
+jet fuel and the resulting emissions are our most significant environmental
+concern and the lower fuel prices have not altered our focus on fuel efficiency
+despite a 15 reduction in average fuel price from the previous year jet fuel
+remained emirates single largest area of expenditure
+in 201415 emirates spent nearly aed 287 billion us78 billion on jet fuel which made    we are supportive of efforts around the world to improve the efficiency of air traffic
+up 346 of the airlines operating costs total fuel consumption reached 8975666           management and to provide more flexibility on flight routes for example a major new
+tonnes up 102 on the previous year the resulting co2 emissions totalled 28273348        programme that is under way to deliver seamless integrated free route airspace across the
+tonnes also up 102 as co2 emissions are directly related to the quantity of fuel burnt    whole of northern europe by 2020 will help us to reduce fuel consumption and emissions on
+                                                                                              our flights traversing that region we would encourage this kind of approach to be replicated
+the increase in fuel consumption was largely driven by the strong growth in our network       more widely to deliver the safety and efficiency benefits that such programmes are expected
+as we added five new passenger and four new freighteronly destinations and our              to achieve
+capacity increased by 86 in available tonne kilometres atk we took delivery of 24
+aircraft to service our expanding network  10 boeing 777300ers 12 airbus a380s and        emirates continued its active participation in the indian ocean strategic partnership to
+two boeing 777200f freighters maintaining our position as the worlds largest boeing        reduce emissions inspire hosting the 5th inspire meeting in dubai in november 2014
+777 and airbus a380 operator at the same time a number of older and less efficient          the meeting which was attended by representatives from inspires partner air navigation
+airbus a340500s and boeing 777200s exited the fleet resulting in a net increase in fleet   service providers airlines and government agencies reviewed progress on a range of efficiency
+size of 14 aircraft these changes to our fleet contributed to us maintaining one of the      initiatives that are set to benefit international flights
+youngest average fleet ages in the industry of 75 months 625 years
+                                                                                              httpwwwinspiregreencom
+fuel efficiency
+
+as emirates primarily operates medium and longhaul flights fuel efficiency measures
+can make a significant impact on our bottom line as well as helping to reduce emissions
+this is why we cooperate with aviation authorities and air traffic control organisations
+across the world to test and validate new fuelsaving flight procedures during the
+year our flight operations specialists worked with agencies in countries as far afield
+as the usa austria france malta the seychelles ethiopia kenya and pakistan  as
+well as dubais neighbouring emirate of sharjah  to introduce or validate new
+performancebased navigation pbn procedures which will help to both reduce fuel
+consumption and enhance operational safety
+                                                                                                 5 new passenger                        4 new freighter only
+                                                                                                   destinations                             destinations
+                                                                                                                                                                     environmental report 201415 21
+
+                        combined fuel efficiency
+                               ltk
+             03120
+
+
+
+
+                                                                                                           14
+             03100
+
+
+             03080
+
+
+             03060
+
+
+             03040
+
+
+             03020
+                                                                                                       more efficient than                      24 new aircraft                    10 aircraft retired
+                      201112
+
+
+                                201213
+
+
+                                          201314
+
+
+                                                    201415
+                                                                                                        iata fleet average                         delivered                           from fleet
+
+
+             we have also maintained our focus on operational measures such as idle reverse            for safety reasons flights were also required to carry more contingency fuel than usual despite
+             thrust and engineout taxi which our pilots use whenever operational conditions          the shortterm operational impact the longterm benefits will be substantial this is particularly so
+             permit idle reverse thrust saved 4059 tonnes of fuel in 201415 equivalent to 12786   in terms of increasing the capacity of the airport to handle more takeoffs and landings in a given
+             tonnes of co2 while shutting down one engine while taxiing saved 2093 tonnes of         time period especially in lowvisibility situations the enhancements include
+             fuel over the year or 6593 tonnes of co2
+                                                                                                          extended runways
+             on the other hand our efficiency levels this year were affected by airspace closures        rapid exit taxiways to reduce the time that aircraft are on the runway after touching down
+             due to security concerns and instability in many parts of the world including ukraine      upgraded runway lighting and
+             syria iraq and libya because the safety of our passengers and crew is of paramount         an enhanced category iii instrument landing system ils to enable operations in
+             concern we rerouted flights to avoid these areas resulting in increased fuel               lowvisibility conditions
+             consumption emirates worked closely with the authorities in neighbouring states to
+             ensure that the increased traffic through their airspace could be handled safely and      as a result of operational challenges such as the airspace closures passenger fuel efficiency
+             efficiently iran and saudi arabia in particular accepted much higher volumes of our      remained at the same level as the previous year at 399 litres per 100 passenger kilometres
+             traffic through their airspace and were very helpful in providing timely access to       likewise our payloadindependent operational fuel efficiency factor showed no change between
+             fuelefficient contingency routes                                                        201314 and 201415 1774 tonnekilometres per litre note we changed our calculation
+                                                                                                       methodology for passenger fuel and co2 efficiency to improve its accuracy the figures for
+             emirates operations were significantly impacted by the 80day consecutive closure        201314 have been updated with the new methodology
+             of each of dubai international airports two runways to enable necessary improvement
+             works fewer slots were available for takeoff and landing so we scheduled more          on the other hand cargo fuel efficiency improved 42 to 0182 litres per freight tonne kilometre
+             aircraft for maintenance during the period skycargo freighter operations were            as more flights were undertaken by the more efficient boeing 777200f this helped our overall
+             relocated permanently to dubais new airport al maktoum international airport at         fuel efficiency improve 1 to 03057 litres per tonne kilometre 14 more efficient than the iata
+             dubai world central dwc                                                                fleet average fuel efficiency of 03553 litres per revenue tonne kilometre iata wats 59th edition
+
+
+
+22  environmental report 201415
+
+                                                                                                                          fleet information as at 31 march 2015
+                                                                                                                          aircraft                       in operation      change from march 2014    on  firm order
+policy
+                                                                                                                          a330200                             21		
+the international civil aviation organisation icao has two significant processes                                        a340300                             4		
+
+under way which will impact the way that co2 emissions from international aviation are                                    a340500                             1                        8
+
+regulated the organisation is continuing to develop an aircraft co2 emissions standard                                   a380800                             59                       12                81
+
+to apply to aircraft designs in the future and discussions have been ongoing to develop                                  b777200                             1                        2
+                                                                                                                          b777200er                           6
+a global marketbased measure which is intended to offset the industrys growth in
+                                                                                                                          b777200lr                           10
+emissions from 2020 emirates has contributed to these discussions through the uae
+                                                                                                                          b777300                             12
+delegation to the icao committee on aviation environmental protection caep
+                                                                                                                          b777300er                          103                       10                49
+                                                                                                                          b7778x9x                                                                      150
+the european union emissions trading system eu ets is still in force but its scope has
+been reduced to coverage of intraeuropean flights until the end of 2016 while icao is
+                                                                                                                          total passenger                     217                       12                280
+working on the global scheme emirates continues to comply with the eu ets for all of
+our flights within the amended scope
+                                                                                                                          b777200lrf                          12                       2
+                                                                                                                          b747400erf on wet lease           2
+
+emirates fleet fuel efficiency
+metric                                         unit                     201415                     201314     change   total cargo                          14                       2
+
+operational fuel efficiency ofef 1           tk  l                     1774                      1774       00
+                                                                                                                          a319 acj                             1		
+passenger fuel efficiency 2                    l  100pk                   399                       399       00
+                                                                                                                          			
+cargo fuel efficiency freighters only        l  ftk                    0182                      0190       42
+                                                                                                                          total executive charter              1		
+combined fuel efficiency                       l  tk                    03057                      03089      10
+                                                                                                                          			
+                                                                                                                          total                               232                       14                280
+emirates fleet carbon dioxide emissions efficiency
+metric                                          unit                    201415                     201314     change
+passenger co2 efficiency 2                     g co2  100pk               986                       986       00
+cargo co2 efficiency freighters only         g co2  ftk                4491                      4692       43     fuel jettison events
+combined co2 efficiency                        kg co2  tk                0756                      0764       10     fuel is only jettisoned in an inflight emergency situation when it is
+                                                                                                                          necessary to lower the aircraft weight to ensure a safe landing
+1 note an increase in the ofef implies greater efficiency whereas a decrease in the other metrics implies
+                                                                                                                                                                                        201415
+  greater efficiency
+                                                                                                                          technical reasons                                                  6
+2 the methodology for calculating passenger fuel and co2 efficiency was amended for the 201415
+                                                                                                                          medical reasons                                                    9
+  environmental report to make it more accurate the passenger efficiency figures for 201314 have therefore
+  been recalculated with the new methodology to enable comparison under the previouslyused                              other reasons                                                      0
+  methodology passenger fuel efficiency for 201314 was 405 l  100pk and passenger co2 efficiency                      total events                                                       15
+  was 1003 g co2  100pk                                                                                                jettisoned fuel tonnes                                          3413
+
+
+
+                                                                                                                                                                                environmental report 201415 23
+
+24  environmental report 201415
+
+   fleet margins below regulatory
+     limits for noxpercentages
+74
+76
+78
+80                                                                                        uhc emissions increased 134 to 754 tonnes while the average fleet margin below icao
+82                                                                                        standards decreased slightly from 6809 to 6752
+84
+86                                                                                        uhc and co emissions have grown at a higher rate than co2 emissions because the
+88
+                                                                                            increase in cruise fuel efficiency in newer engines has come with a tradeoff of higher uhc
+90
+                                                                                            and co emissions during the lto cycle however the margins for emirates engines are still
+        201112
+
+
+                  201213
+
+
+                            201314
+
+
+                                      201415
+                                                                                            well below the applicable regulatory limits for all categories of local air quality emissions
+       icao annex 16 vol ii                                                                uhc and co emissions are mainly produced at low thrust settings and are minimal in the
+                                                                                            cruise phase of flight
+
+local air quality emissions
+                                                                                            aircraft are not the only contributors to air quality concerns around airports  airport
+the most significant types of engine emissions that can impact on local air quality         ground equipment road traffic industrial facilities and home heating can all impact on
+are internationally regulated by icao standards contained in icao annex 16 volume           air quality efforts to address local air quality should therefore fully take into account the
+ii these emissions are oxides of nitrogen nox unburnt hydrocarbons uhcs carbon       contributions of all pollution sources and mitigation actions should be proportionate
+monoxide co and smoke all of emirates aircraft are fully compliant with these           to the source of the problem
+standards in addition our operational initiatives such as switching off one engine
+during taxi on the ground where operationally possible and using ground power when
+available instead of the onboard auxiliary power unit apu all help to reduce emissions
+on the ground
+
+
+we report on the emissions of nox uhcs and co below 3000 feet using icaos                local air quality emissions below 3000 feet landingtakeoff cycle in tonnes
+landingtakeoff lto cycle this layer of the atmosphere nearest the ground is            emission type                                      201415                 201314              change
+                                                                                            oxides of nitrogen nox                            11255                 10552                  67
+considered to be the most relevant for emissions affecting local air quality
+                                                                                            carbon monoxide co                                 7082                  6394                 108
+                                                                                            unburnt hydrocarbons uhcs                            754                    665                 134
+nox emissions below 3000 feet increased 67 to 11255 tonnes in line with growth
+in the fleet and network the average fleet margin below the applicable icao limits
+improved from 869 to 884 as we retired older aircraft and took delivery of            emirates fleet margins below regulatory limits in percentages icao annex 16 volume ii
+                                                                                            emission type                                     201415              201314
+newer models
+                                                                                            oxides of nitrogen nox                             884                   869
+                                                                                            carbon monoxide co                                5970                  6011
+co emissions increased 108 to 7082 tonnes again reflecting the growth in the fleet      unburnt hydrocarbons uhcs                         6752                  6809
+and network the average fleet margin below the icao standard decreased slightly
+from 6011 to 5970
+
+
+
+                                                                                                                                                                                 environmental report 201415 25
+
+             aircraft noise
+26  environmental report 201415
+
+as emirates has progressively invested in quieter aircraft our overall
+noise performance has continued to improve
+
+
+all of emirates aircraft meet or exceed the chapter 4 noise standards in icao annex 16
+volume i which are the most stringent icao standards for aircraft currently in opera
+tion the fleets margin below chapter 4 limits has continued to widen reaching 995
+epndb below the limit in 201415 note these metrics exclude wetleased freighters
+
+
+the backbone of our fleet the boeing 777 and airbus a380 both perform exceptionally
+                                                                                           emirates fleet margins below icao chapter 4 regulatory limits
+well in terms of noise emirates has continued to rank highly in the london heathrow
+                                                                                           metric                                         201415        201314     change
+fly quiet programme as a result of its selection of aircraft exclusive a380 operations   margin to chapter 4 in effective perceived
+and consistent use of noise abatement procedures achieving 4th position overall in the    noise in decibels epndb                         995         966     30
+fly quiet report covering the first quarter of 2015                                       percentage margin below chapter 4              644         636     008 percentage points
+
+
+
+
+         fleet margins below icao
+        chapter 4 limits percentages
+ 80
+
+
+
+
+                                                                                           100 995
+ 85
+
+
+ 90
+
+
+ 95
+
+
+100
+
+
+105
+                                                                                           aircraft compliant                               fleet margin
+           201112
+
+
+                     201213
+
+
+                               201314
+
+
+                                         201415
+
+
+
+
+                                                                                              with chapter 4                            below icao chapter 4
+         excl wetleased freighers epndb                                                    standards                                   limits epndb
+                                                                                             excludes wetleased freighters
+
+
+
+                                                                                                                                                                   environmental report 201415 27
+
+             ground operations
+28  environmental report 201415
+
+the emirates group has substantial groundbased operations in dubai and in many
+countries around the world and efforts are made across the group to manage their
+environmental impacts this section covers the use of ground vehicles and equipment
+and associated emissions electricity and water consumption and management of
+materials and waste
+the group occupied several new facilities during the year including the skycargo
+terminal at dubai world central dwc  al maktoum international airport the emirates
+
+
+
+
+                                                                                                                           12
+aviation university campus in dubais academic city district and a new stateoftheart
+engine maintenance centre
+
+
+from 1st may 2014 all skycargo freighter operations moved to dedicated facilities at
+dwc the move took pressure off capacity at dubai international airport particularly
+during the runway maintenance works in summer 2014 and gives the operation room
+to expand the new cargohandling facilities feature 12 aircraft stands which connect                                     aircraft stands
+through the warehouse facility directly to truck loading bays to enable rapid movement
+and sorting of shipments a road feeder service was inaugurated to connect the
+dwc operation with dubai international airport where belly cargo is handled for the
+                                                                                           ground vehicles and equipment
+passenger aircraft network the road feeder service is managed from a control room at
+dwc ensuring security of the shipments and that the most timeefficient road routes       the emirates groups ground vehicle and equipment fleet increased from 4680 vehicles in
+are utilised between the two airports                                                     201314 to 4812 in 201415 in line with this increase fuel consumption in dubai rose 44
+                                                                                           and 04 worldwide one factor contributing to the increase in petrol consumption relative
+                                                                                           to diesel was the replacement last year of 42litre diesel buses with 28litre petrol buses for
+fuel consumption from ground vehicle operations                                            airside crew transfers which also helped to reduce emissions by 70 g co2  km
+metric                            unit               201415      201314      change
+diesel consumption worldwide        litres       30968471   31766294       25
+petrol consumption worldwide        litres       14419770   13451474        72
+total fuel consumption worldwide    litres       45388241   45217768        04
+total fuel consumption dubai        litres       44089152   42249461        44
+fuel consumption per head
+of staff dubai                 litresheadday         176         197      107
+
+                                                                                                                                                                    environmental report 201415 29
+
+             an important addition to the ground transport network this year was the skycargo           a change in the uae governments regulations has helped to bring down the amount of
+             road feeder service introduced above providing the link between dedicated freighter     pollutants produced by ground vehicles the groups ground transport fleet in the uae
+             operations at dwc and the majority of the emirates fleet at dubai international airport   began using lowsulphur diesel following the governments announcement of mandatory
+             the fuel consumption figures this year include the diesel used by the service             new fuel specifications in 2014 the fuel contains 10 parts per million ppm of sulphur a
+                                                                                                        considerable reduction from the previous specification of 500 ppm and will greatly reduce
+             dnata in dubai took delivery of 30 new electric tractors to replace dieselpowered         levels of particulate emissions
+             vehicles for use at dubai international airport the tractors manufactured by tug
+             technologies corporation and charlatte america produce no airpolluting emissions
+
+
+
+
+                                                                                                        emirates group ground vehicles
+                                                                                                        business unit                      201415          201314
+                                                                                                        arabian adventures                    105               108
+                                                                                                        central services                     1380            1160
+                                                                                                        ddcr                                    8                10
+                                                                                                        dnata airport operations             1791            1684
+                                                                                                        dnata cargo                           225               190
+                                                                                                        ekfc                                  299               299
+                                                                                                        emirates engineering                  393               350
+
+
+
+
+                                                          30
+                                                                                                        skycargo                              225               122
+                                                                                                        subtotal dubai                    4426            3923
+                                                                                                        outstations                            87               103
+                                                                                                        alpha catering                        299               654
+                                                                                                        subtotal exdubai                  386               757
+                                                                                                        total vehicles                       4812            4680
+                                                   new electric tractors
+
+
+
+
+30  environmental report 201415
+
+environmental report 201415 31
+
+             electricity and water
+32  environmental report 201415
+
+we recorded a large fall in electricity and water consumption in dubai during the year       some parts of our reported electricity and water use are outside our direct control for
+which can be attributed to several factors to begin with the new facilities occupied by     example a large proportion of our electricity consumption comes from the operation of
+group business units during the year have been designed to optimise energy and                the terminals and other buildings occupied by the group at dubai international airport and
+water efficiency                                                                             dwc the variation in meter reading dates at the airport facilities has an impact on final
+                                                                                              electricity consumption figures and may result in an apparent decrease in consumption
+at the skycargo terminal at dwc energysaving light emitting diode led lights were
+fitted in the warehouse for street lights and for external lights on the building the led   only three of the facilities occupied by the emirates group at dubai international airport
+lights are expected to save over 970 mwh of electricity a year meanwhile judicious use      have their own water meters skycargos move to dwc left their previouslyoccupied facility
+of natural lighting in the warehouse minimises electrical lighting requirements during        at dubai international airport mostly vacant resulting in a large fall in reported water
+the day watercooled condensers with closed circuit chilled water connections were           consumption as of the reporting date the new facility at dwc is not metered by dubai
+installed in all cold rooms in the perishable area eliminating the need for cooling          airports in addition ground support equipment maintenance moved to a new facility
+towers and the higher performance reduces the running time of the compressors               at dubai international airport where the installed water meter covers a smaller scope of
+double shutter doors on the loading docks help to keep in temperaturecontrolled air         operations again resulting in a reported fall in consumption
+
+
+in the emirates group headquarters the emirates group facilities department                  we will be working to gain a more detailed understanding of group electricity and water
+overhauled the air chillers which together with the use of automated mode settings to        consumption levels at our various facilities over the coming year
+switch off unnecessary air conditioning in unoccupied areas after office hours resulted
+in greatly improved energy efficiency
+
+
+
+
+                                                                                              electricity consumption
+                                                                                              scope                           unit            201415            201415              change
+                                                                                              dubai                           mwh           1049225          1130319                72
+                                                                                              worldwide                       mwh           1087180          1185721                83
+                                                                                              per head of staff dubai   kwhheadday           420               526               202
+
+
+
+
+                                                                                              water consumption
+                                                                                              scope                            unit          201415            201314               change
+                                                                                              dubai                            ml              5982              7765                230
+                                                                                              worldwide                        ml              6054               8221               264
+                                                                                              per head of staff dubai   litresheadday      2392               3613               338
+
+
+
+                                                                                                                                                                           environmental report 201415 33
+
+             materials and waste
+34  environmental report 201415
+
+the quantity of waste sent to landfill increased commensurate with the growth in the        our teams are always on the lookout for effective ways to reuse equipment seats
+companys business although the amount of landfilled waste per head of staff in dubai      from a retired emirates a340500 were given a new life when the flight training
+decreased we recorded a decline in the weight of recycled materials largely as a result   facilities department secured a set for their cabin simulators the team modified the
+of the move of the emirates aviation university to a new campus location and a reduc       seats to fit them to two emergency evacuation cabin simulators  a boeing 777 and
+tion in the number of locations at alpha flight group however other items used tyres     an airbus a380  as well as on a340 economy and business cabin service training
+and vehicle batteries were not recorded in this metric because of the varying sizes        simulators the simulator interiors replicate the look and feel of emirates aircraft
+and weights of the items these are reported in a separate table we are setting up a       creating a realistic training environment for cabin crew the project has extended the
+new recycling programme at the university to ensure that recyclable materials can be        lifetime of the seats by another five to seven years and saved the company the cost
+recovered from the campus                                                                  of 50 new seats
+
+
+
+
+                                                                                            materials recycled in tonnes all emirates group sites
+                                                                                            material recycled                                         201415            201314
+                                                                                            paper and cardboard                                        42940             55069
+                                                                                            unspecified recycling                                       2553              11346
+                                                                                            glass                                                       1905               3246
+                                                                                            plastic  all types including plastic
+                                                                                            bottles and polycarbonate                                   3202               2806
+                                                                                            it and ewaste                                               784                822
+                                                                                            textiles                                                       42                 00
+                                                                                            cooking oil                                                  451                562
+
+
+
+
+        5320
+                                                                                            food                                                         144                495
+                                                                                            wood                                                           00               472
+                                                                                            aluminium  foil cans aviation grade
+                                                  tonnes of waste diverted                  2017a alloy                                                  841                398
+                                                             from landfill                  steel  scrap and cans                                       322                306
+                                                                                            cartridges                                                     19                 30
+                                                                                            total tonnes                                            53203             75552
+
+
+
+
+                                                                                                                                                                     environmental report 201415 35
+
+             emirates zurichbased team spotted an opportunity to repurpose a giant pvc               waste generation
+
+             cabin crew poster which was originally displayed outside zurich airport with the         scope                            unit            201415            201314    change
+                                                                                                        dubai                           tonnes           209846            188231      110
+             help of feinschliff a socially integrative company in switzerland which supports
+                                                                                                        worldwide                       tonnes            214510           210376       20
+             longterm unemployed people in returning to the labour market the 200 m2 poster           per head of staff dubai    kgheadday              84               88      46
+             was upcycled into a limited edition line of shopping bags two industrial climbers
+             worked for two days to carefully remove the enormous poster from its display wall
+             the poster was then sent to feinschliff where a team of 10 workers spent 16 days
+             transforming the material into 300 of the attractive accessories
+                                                                                                        other recycling in number of items where weights not available
+             the handcrafted production of a single bag took 27 minutes involving 13 different         item recycled                                    201415
+             steps including cutting and washing the poster sewing on straps and assembling           used tyres		                                      10817
+                                                                                                        used vehicle batteries		                            2629
+             the material the bags were gifted to lucky audience members during an open air
+             cinema screening in the city
+
+
+             httpyoutubetarcyczo7g0
+
+
+             our staff also help with local cleanup initiatives in january 2015 dubai municipality
+             presented dnata with an award in recognition of its support for the global clean up
+             the world campaign nearly 50 emirates group participants joined the dnata cleanup
+             day on 14 november 2014 near the university district on the outskirts of dubai dnata
+             has participated in clean up the world since its beginnings in 1993 emirates group
+             staff also participated in dubai airports annual cleanup day on 16 december 2014
+
+
+
+
+36  environmental report 201415
+
+environmental report 201415 37
+
+             group carbon dioxide emissions
+38  environmental report 201415
+
+in 201415 total emirates group emissions considered within the scope of this report
+reached 29454636 tonnes of carbon dioxide up 94 compared with the previous year
+consistent with the overall growth of the business                                       carbon dioxide emissions from worldwide ground operations in tonnes by source
+                                                                                          source                                          201415              201314                   change
+co2 emissions from ground operations within the scope of this report fell 72 largely   ground vehicles and equipment                          116026           115900                   01
+as a result of the reduction in recorded electricity and water consumption discussed in   electricity                                            761026           830005                   83
+
+the section above the fall in recorded consumption was driven by the move of several     water desalinated                                     89726           116470                 230
+                                                                                          waste to landfill or incineration                      214510           210376                   20
+large emirates group units to new purposedesigned facilities the implementation of
+                                                                                          total                                                1181288         1272751                  72
+energy efficiency measures and changes in metering at dubai international airport
+as noted above we will be working on gaining a more detailed understanding of our
+electricity and water usage in the coming year
+
+                                                                                          emirates group total carbon dioxide emissions in tonnes
+by far the largest proportion of the emirates groups emissions come from the             source                                             201415               201314               change
+consumption of jet fuel in airline flight operations a total of 96 of emissions were    flight operations                                    28273348        25646474                 102
+generated by flight operations and the consumption of jet fuel while fuel consumption    ground operations worldwide                         1181288         1272751                  72
+in ground vehicles and equipment accounted for 4 of emissions                           total                                                29454636       26919225                   94
+
+
+
+
+                                                                                          emirates group carbon dioxide emissions in tonnes by scope
+                                                                                                                         dubai includes co2 emissions
+
+
+
+
+                            4                                96
+                                                                                                                            from flight operations                      worldwide
+                                                                                          source                       201415      201314  change          201415      201314  change
+                                                                                          scope 1 aviation
+                                                                                          fuel diesel petrol and
+                                                                                          lpg consumption            28385829   25754655         102   28389374   25762374         102
+                                                                                          scope 2 electricity
+                                                                                          and desalinated water        734458      907483         191     850752         946475       101
+                                                                                          scope 3 waste to
+                                                                                          landfill or incineration     209846      188231          115     214510         210376         20
+                         emissions from                        emissions from             total                      29330133   26850369          92   29454636   26919225          94
+                            ground                                 flight
+
+
+
+
+                                                                                                                                                                              environmental report 201415 39
+
+             biodiversity and conservation
+40  environmental report 201415
+
+dubai desert conservation reserve                                                         emirates oneonly wolgan valley
+
+emirates helped to set up the 225 km2 dubai desert conservation reserve ddcr in         emirates has supported the protection of australias extraordinary wildlife and plant life since
+2003 and continues to fund its operations the ddcr is a representative inland desert    2009 when we opened the conservationbased wolgan valley resort and spa in
+ecosystem of dubai featuring rolling sand dunes interspersed with gravel plains         new south wales
+
+
+the reserve is the focal point for conservation programmes aimed at restoring             the property was the first luxury resort in the world to receive an internationallyrecognised
+populations of some of the uaes desert wildlife and also hosts lowimpact desert        carbon neutral certification from new zealandbased carbonzero in preparation for
+experiences run by a small number of tour operators including the emirates group         recertification the resort underwent a comprehensive greenhouse gas emissions assessment
+company arabian adventures                                                               during the year covering emissions from all relevant sources  including the sydney office
+                                                                                          and guest transportation after successful completion of the emissions inventory carbonzero
+in january 2015 the reserve hosted its fourth volunteer programme conducted by           issued the new carbon neutral certificate on 17th april 2015 valid for another two years
+biosphere expeditions participants on the programme help the reserves conservation
+managers gather scientific data on key wildlife species such as arabian oryx mountain
+gazelle sand gazelle gordons wildcat and macqueens bustard also known as the
+houbara the data gathered on the expeditions help the conservation managers gain
+a better understanding of the wildlife ecology and to inform management decisions
+
+
+httpwwwddcrorgen
+
+
+
+
+                                                                                                                                                                 environmental report 201415 41
+
+                                    wolgan valley has provided a base for biodiversity and conservation research for many
+                                    years unfortunately some of the wildlife still face threats to their survival one of australias
+                                    mostloved animals the wombat is afflicted by a parasitic mite that causes a condition
+                                    called sarcoptic mange the condition results in unsightly and painful skin infections and
+                                    ultimately can kill the affected animal this year we supported a new project that will enable
+                                    anyone with a smartphone to participate in wombat conservation research and monitoring
+
+
+                                    emirates airline and emirates oneonly wolgan valley jointly funded the development
+                                    of the womsat app and website which were created by the university of western sydney
+
+
+                                    the app allows anyone to use the inbuilt global positioning system gps of a
+                                    smartphone to report wombat sightings and record the animals health the information
+                                    is then uploaded to an online map which will help researchers identify and treat affected
+                                    wombat populations
+
+
+                                    on 1st february 2015 emirates began a new partnership with oneonly resorts a
+                                    subsidiary of kerzner international holdings limited to manage the resort and expand the
+                                    high quality wolgan valley experience emirates will continue to retain full ownership and
+                                    the conservation and community principles that the resort began with will stay unchanged
+
+
+                                    httpwolganvalleyoneandonlyresortscom
+                                    httpwomsatorgau
+
+
+
+
+42  environmental report 201415
+
+environmental report 201415 43
+
+             a greener tomorrow
+44  environmental report 201415
+
+in 2013 emirates decided to dedicate revenues raised from group recycling programmes
+to support notfor profit environmental or conservation organisations in countries
+across our network
+
+
+a greener tomorrow resulted in over 400 applications of which three were chosen         tacloban city was severely affected by typhoon haiyanyolanda in november 2013
+based on merit to receive awards this year we report on the outcomes of those            and many public transport assets were destroyed using the project funding the
+three projects                                                                            organisation converted two of the damaged diesel jeepneysmulticabs into cleaner
+                                                                                           electricpowered vehicles the renovated vehicles have already found use in responding
+drawing on the success of the first round we launched the second round of a greener       to storm damage in december 2014 one of the converted multicabs was used as
+tomorrow in march 2015 we look forward to announcing the details of the successful        a mobile charging station for phones and lamps after typhoon ruby brought down
+applications later in the year                                                            power lines
+
+
+                                                                                           httpwwwemiratescomenglishenvironmentgreenertomorrowicscaspx
+the institute for climate and sustainable cities icsc ejeepney project
+the philippines
+
+
+recharge tacloban a clean transportation initiative of icsc has a goal of creating a
+fleet of converted electric jeepneys and multicabs to replace tacloban citys polluting
+dieselpowered public transport vehicles further reducing the environmental impact
+the converted vehicles will be charged by a solar photovoltaic station which in turn is
+tied to the geothermalpowered electrical grid of leyte island
+
+
+
+                                                                                                                          tacloban
+
+
+
+
+                                                                                                                                                               environmental report 201415 45
+
+             the heritage foundation of pakistan                                                       as a result of the award from a greener tomorrow over 5000 people now have their
+                                                                                                       meals cooked every day on one of 1563 new changu changu moto stoves saving
+             artisans and trainers from the heritage foundation of pakistan worked with the            approximately 114000 bundles of wood a year women have an extra six to 10 hours
+             community in hashim macchi village in sindh to support sustainable livelihoods           per week that they do not need to spend collecting firewood and some have started
+             education and training were a central part of the project enabling the community         attending adult literacy courses in their spare time kitchens are now much safer
+             to build their own facilities the foundation assisted the community to construct         because of the reduction in open threestone cooking fires and mothers and children
+             environmentallyfriendly sanitation facilities earthen smokeless stoves animal          will experience fewer smokerelated illnesses
+             enclosures and green roof gardens
+                                                                                                       householders told project organisers that the new stoves cook faster they save
+             the community planted rooftop gardens with herbs and seasonal vegetables and            wood  using about a third of the amount compared with three stone fires they are
+             built animal enclosures that were designed to both protect the livestock and to cleanly   safer reducing the chance of burn injuries and they produce less smoke
+             collect manure for fertilizer the project established a literacy and training centre
+             where children attend regular classes and training materials are displayed and the       httpwwwemiratescomenglishenvironmentgreenertomorrowrippleafricaaspx
+             community decorated the new buildings with motifs and handwoven mats
+
+
+             httpwwwemiratescomenglishenvironmentgreenertomorrowheritagefoundationaspx
+
+
+
+             ripple africa  the changu changu moto fast fast fire project malawi
+
+
+             ripple africa focuses on environment education and healthcare in the nkhata bay
+             district of malawi in malawi 95 of the population cook using wood or charcoal
+             mainly using inefficient and unhealthy open fires this is accompanied by extensive
+
+
+
+
+                                                                                                       1563
+             woodcutting for firewood ripple africa is building thousands of fuelefficient safer
+             and healthier cookstoves as an alternative the changu changu moto stove which
+             means fast fast fire in the local language is a simple lowtech design made from
+             100 localsourced and free materials
+
+
+                                                                                                       new changu changu moto stoves
+
+
+
+
+46  environmental report 201415
+
+environmental report 201415 47
+
+             supporting communities
+48  environmental report 201415
+
+emirates airline foundation
+the emirates airline foundation is a nonprofit charity organisation which
+aims to improve the quality of life for children regardless of geographical
+political or religious boundaries
+
+
+under the patronage of his highness sheikh ahmed bin saeed al maktoum chairman               here are just a few of the projects sponsored during the year
+and chief executive emirates airline and group the foundation provides humanitarian
+and philanthropic aid and services for children in need                                         the emirates friendship hospital in bangladesh delivered healthcare services to
+                                                                                                  more than 74000 patients in 2014 increasing its reach by 27 compared with the
+the foundation is made up of volunteer employees and friends of the emirates group               previous year the hospital ship is a project of the emirates airline foundation and 		
+in the past two years over 99 of the money raised by the foundation has gone directly           the organisation friendship and it travels up and down the brahmaputra river
+to supporting projects with administration costs running at under 1                            providing healthcare to isolated communities
+
+
+the foundation is funded by generous monetary donations from passengers and staff               the emirates airline foundation sponsored the lifeline express a train which brings
+while frequent fliers can donate skywards miles to help the foundation purchase air               medical care to communities in need across india for a third year the team saw over
+tickets for healthcare professionals and other skilled volunteers to assist in projects and       5300 patients on the mission to the city of sagara in the state of karnataka of those
+humanitarian missions                                                                            patients more than 925 were admitted to the facilities on board the train for advanced
+                                                                                                  treatment the lifeline express is a project in cooperation with indian railways and
+                                                                                                  impact india foundation
+
+
+
+
+                                                                                                                                                                     environmental report 201415 49
+
+                south africabased singakwenza is developing a network of sustainable              the foundation partnered with new zealandbased water for prosperity
+                 crèches and hosts an innovative series of waste2toys workshops by                 to dig groundwater wells and bring clean water to the community of torwood
+                 november 2014 they were working with 11 crèches in south africa and                zimbabwe the mission installed eight bores opening a source of water 		
+                 reaching more than 400 children in their care singakwenza expanded                 that will benefit over 20000 children and adults in the community 		
+                 internationally for the first time taking its waste2toys workshop event to         the wells will reduce pressure on the few existing water sources and reduce
+                 malawi the workshops teach preschool educators how to turn everyday               the long distances travelled by the community to seek water
+                 waste items into a range of educational toys
+                                                                                                    the foundation extended its support for the kharja charity society in
+                the foundation supported engineers without borders of germany                       jordan until 2020 the kharja charity society was established in 1973 to look
+                 ingenieure ohne grenzen ev to build eight water tanks to supply water           after orphans special needs and poor children with a community centre
+                 yearround in the rural regions of laikipia kenya most of the available           focusing on learning difficulties over the past five years the foundations
+                 water in the region is seasonal and water quality is often poor a condition       funding has assisted with rebuilding the societys facilities to provide full
+                 of the programme is that the beneficiary must plant 100 trees when                  education services and a healthcare clinic as well as expanding their
+                 receiving a tank to compensate for trees cut down during construction              information technology centre creating an indoor and outdoor recreation
+                 and to provide resources for the future                                            garden and providing bus transportation for the children
+
+
+                                                                                                     httpwwwemiratesairlinefoundationorg
+
+
+
+
+50  environmental report 201415
+
+environmental report 201415 51
+
+             dnata4good
+             in july 2014 dnata launched dnata4good a new corporate giving initiative to
+             unite and harness the strength of our employees towards creating a bigger
+             more meaningful impact on childrens education and wildlife conservation
+
+
+             in south africa dnata4good supports rhino revolution and saving the survivors             in the past year dnatas donations have played a major role in constructing a new rhino
+             two charities dedicated to preventing the extinction of the rhino as a result of poaching   orphanage facility at the rhino revolution reserve which will take in the calves of female
+             for their horns                                                                            rhinos killed by poachers for their horns the orphaned calves will be raised weaned and
+                                                                                                         at a suitable age released back into the wild
+             dnata4goods fundraising efforts have paid for a new 17seater minibus for a
+             community organisation called green kidz which works in partnership with rhino             donations to the organisation saving the survivors are helping to fund emergency
+             revolution the bus takes school children from limpopo province  one of the poorest        treatment for rhinos left maimed by poachers saving the survivors was started in 2012
+             areas of south africa  to visit the reserves in kruger national park and other local       by two eminent wildlife surgeons to care for rhinos that had fallen victim to poachers or
+             animal rehabilitation centres educating them about the importance of preserving            other traumatic incidents a rhino subsequently named hope was rescued and received
+             wildlife                                                                                   emergency surgery onsite an effort that was made possible by the mobile response
+                                                                                                         vehicle and emergency unit donated by dnata4good
+             dnata volunteers have the opportunity to help out on the rhino revolution reserve
+             both providing handson assistance to the organisation and learning about the              dnata4good has also partnered with the charity dubai cares to donate funds that help its
+             immense challenges that rhino conservation efforts face enabling them to be                partner buildon develop schools in some of the worlds poorest areas three new schools
+             champions for the cause after they return from their visit                                 have been funded through the dubai cares adopt a school programme in senegal malawi
+                                                                                                         and nepal staff volunteers can participate in buildons ambassador trip initiative where
+                                                                                                         they spend some time in the communities where the new schools are being built
+                                                                                                         fundraising is already under way for several more new schools
+
+
+
+
+52  environmental report 201415
+
+environmental report 201415 53
+
+                                    reasonable assurance                                    all other information in the environmental report
+                                                                                            20142015 was not subject to our engagement
+                                    report                                                  and we do not report and do not opine on this
+                                                                                            information
+                                    to the presidents of the emirates group
+                                                                                            the presidents of the emirates group are ultimately
+                                    engagement and responsibilities                         responsible for the preparation and presentation
+                                    we have been engaged by the emirates group to           of the environmental report 20142015  we are
+                                    perform a reasonable assurance engagement on            responsible for providing an assurance report on
+                                    the following measures presented at pages 6 and         the reported annual environmental data presented
+                                    7 and marked with a u hereafter the reported          in the environmental report 20142015
+                                    annual environmental data in the accompanying
+                                    environmental report 20142015 by the emirates          criteria
+                                    group dubai                                           the reporting criteria used by the emirates group
+                                                                                            are described in the emirates group 20142015
+                                     total jet fuel consumption of the airline aircraft   environmental report  reporting guidelines and
+                                      fuel consumption only                               methodology dated 27 january 2016 available on
+                                     total co2 emissions of the airline aircraft          the website of the emirates group  we consider
+                                      emissions only                                      the reporting criteria to be relevant and sufficient
+                                     fuel efficiency of the airline in terms of volume    for our engagement
+                                      per passenger kilometre volume per freight
+                                      tonnekilometre and volume per total tonne           co2 quantification is subject to uncertainty
+                                      kilometre aircraft fuel consumption only           because of such things as emissions factors that
+                                     co2 efficiency of the airline in terms of co2         are used by mathematical models to calculate
+                                      weight per passenger kilometre co2 weight per        emissions and the inability of those models to
+                                      freight tonnekilometre and kilograms co2 per         precisely characterize under all circumstances
+                                      total tonnekilometre aircraft emissions only      the relationships between various inputs and
+                                     percentage of aircraft compliant with icao            the resultant emissions because of incomplete
+                                      annex 16 volume ii emissions standards and            scientific knowledge
+                                      icao annex 16 volume i chapter 4 noise
+                                      standards
+                                     operational fuel efficiency factor ofef
+
+
+
+
+             reasonable assurance report
+54  environmental report 201415
+
+scope and procedures performed                     within the scope of our work we performed             opinion
+we planned and performed our procedures in         amongst others the following procedures              in our opinion the reported annual environmental
+accordance with dutch law and the international                                                           data as included in the emirates group
+standard on assurance engagements isae            reviewed documents to gain an understanding          environmental report 20142015 pages 6 and 7
+3000 assurance engagements other than audits        of the activities and structure of the emirates      and marked with a u as mentioned in the paragraph
+or reviews of historical financial information      group                                               engagement and responsibilities have been
+and isae 3410 assurance engagements on           conducted interviews with emirates group             prepared in all material respects in accordance
+greenhouse gas statements these standards          management to understand the data collection         with the emirates group environmental report
+require that we plan and perform our procedures      process and to evaluate the accuracy of the          201415  reporting guidelines and methodology  
+to obtain reasonable assurance about whether the     quantitative and qualitative information in the
+reported annual environmental data are free from     reported annual environmental data                  amsterdam 27 january 2016
+material misstatement                              reconciled reported data with internal and           pricewaterhousecoopers accountants nv
+                                                     external source documentation
+reasonable assurance                                performed analytical procedures on the reported      original signed by
+this engagement is aimed at providing                data
+reasonable assurance   a reasonable assurance      evaluated the appropriateness of quantification      jan van der hilst
+engagement involves performing procedures to         methods and reporting policies used
+obtain verification evidence about the reported     assessed the data gap approach used and the
+environmental data in the emirates group             methods used to estimate missing data and
+environmental report 20142015 the procedures      evaluated the overall format and presentation
+selected depend on our judgement including the      of the annual environmental data as presented
+assessment of the risks of material misstatement     in the environmental report 20142015
+in the reported annual environmental data due        including an evaluation of the consistency of the
+to omissions misrepresentations and errors         information in line with the abovementioned
+in making those risk assessments the verifier       reporting criteria
+considers internal controls relevant to the
+companys preparation and fair presentation        we believe that the evidence we have obtained is
+of the reported annual environmental data in       sufficient and appropriate to provide a basis for
+order to design verification procedures that       our opinion
+are appropriate in the circumstances but not
+for the purpose of expressing an opinion on the
+effectiveness of the companys internal controls
+regarding environmental reporting
+
+
+
+
+                                                                                                                                                 environmental report 201415 55
+
+             list of abbreviations                                                       references
+
+             aed		              united arab emirates dirham                                 indian ocean strategic partnership to reduce emissions inspire
+             ask		              available seat kilometres                                    httpwwwinspiregreencomwp
+             aspire		           asia and south pacific initiative to reduce emissions       international air transport association iata world air transport statistics wats
+             atk		              available tonne kilometres                                   59th edition 2015
+             caep		             committee on aviation environmental protection              iata fact sheet climate change december 2013 httpwwwiataorgpressroomfacts_
+             co		               carbon monoxide                                              figuresfact_sheetspagesenvironmentaspx
+             co2		              carbon dioxide                                              international civil aviation organisation icao resolutions adopted by the assembly
+             ddcr		             dubai desert conservation reserve                            assembly  38th session montréal 24 september  4 october 2013
+             ekfc		             emirates flight catering                                    icao report of the committee on aviation environmental protection sixth meeting
+             dwc		              dubai world central                                          montréal 212 february 2004 doc 9836 caep6 2004
+             epndb		            effective perceived noise level in decibels                 icao report of the committee on aviation environmental protection eighth meeting
+             eu ets		           european union emissions trading system                      montréal 1  12 february 2010 doc 9938 caep8 2010
+             g co2ftk          grams of co2 per freight tonne kilometre                    icao report of the committee on aviation environmental protection ninth meeting
+             g co2pk           grams of co2 per passenger kilometre                         montréal 415 february 2013 doc 10012 caep9 2013
+             gcaa		             general civil aviation authority                            united nations convention on international civil aviation chicago 1944
+             ghg		              greenhouse gas emissions
+             iata		             international air transport association
+             icao		             international civil aviation organisation
+             inspire		          indian ocean strategic partnership to reduce emissions
+             kg co2tk          kilograms of co2 per tonne kilometre
+             l100pk		          litres per 100 passenger kilometres
+             lftk		            litres per freight tonne kilometre
+             ltk		             litres per tonne kilometre
+             led		              light emitting diode
+             lto cycle          landing and takeoff cycle
+             mbm		              marketbased measure
+             nox		              nitrogen oxides
+
+
+
+
+             abbreviations and references
+56  environmental report 201415
+
+environmental report 201415 57
+
+                                    theemiratesgroupcom
+58  environmental report 201415

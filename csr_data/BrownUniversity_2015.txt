@@ -1,0 +1,1126 @@
+        big              eighth annual
+                         sustainability
+                         progress report
+
+
+
+
+office of sustainable energy  environmental initiatives
+facilities management
+
+prepared by the energy  environmental team                 fall 2015
+
+table of contents
+
+  i    executive summary                                                  3
+ ii    sspac overview and movement in fy 2015                             4
+iii    fy 2015 timeline                                                   5
+iv     facilities management                                              6
+            a energy
+                     i greenhouse gas goals
+                     ii energy efficiency program
+                     iii brown unplugged
+            b waste
+                     i unused food resources
+                     ii residential life
+                     iii events
+            c new construction high performance design  leed
+            d custodial and grounds
+ v     student groups and initiatives                                     16
+            a empower
+            b other groups
+            c student initiative spotlight food recovery network
+            d earth week initiative
+vi     research  teaching in sustainability                              21
+            a nitrogen footprint
+            b institute at brown for the environment and society ibes
+            c trilab
+vii    departmental reporting                                             24
+            a brown dining services
+            b transportation  parking services
+            c purchasing services
+viii   awards                                                             28
+ ix    ways forward for browns sustainability
+  x    acknowledgments                                                    29
+
+
+
+
+                                                                                2
+
+i executive summary
+
+   this past year has proven to be a dynamic and accomplished year for the sustainability office the office
+   has continued to work with the sustainability strategic planning and advisory committee sspac to
+   advance metrics collection tracking and standardization in order to facilitate future development of
+   sustainability goals across operational areas including dining transportation energy water and waste
+   diversion
+
+   while greenhouse gas ghg emission reduction through energy efficiency programs continues to
+   be our flagship sustainability program there have been challenges in the past year we had the coldest
+   winter on record resulting in increased heating energy demand although conservation efforts allowed
+   brown to actually decrease its energy use from the previous fiscal year by 2 the cold winter played a
+   significant role in this increase primarily because the new england electricity grid utilized more carbon
+   intensive fuels due to a shortage of natural gas pipeline infrastructure in the region thereby increasing
+   the co2 emissions per kilowatthour by 13 that said our ghg emissions increased from the previous
+   year by more than 3200 metric tons leaving us at 22 below 2007 levels as compared to our interim
+   target of 28 however we are progressing towards reaching our goal of a 42 reduction in ghg
+   emissions by 2020 from our 2007 baseline as indicated by our ability to grow while still reducing overall
+   energy consumption  while new england electricity grid continues to invest in cleaner and renewable
+   energy sources and brown continues to invest in energy efficiency
+
+   since inception of our ghg reduction plan we have added new systems and equipment whose energy
+   consumption is equivalent is 6400 metric tons of carbon dioxide equivalents mtcde 9 of our 2007
+   baseline emissions these systems and equipment will continue to grow as the campus meets its
+   research teaching and quality of life missions since 2008 we have already invested approximately 24
+   million for a net investment of 20 million after accounting for 4 million in energy efficiency incentives
+   this has reduced our carbon footprint by almost 14500 mtcde which is on track to meet our original
+   energy efficiency plan although opportunities for reductions continue to become harder to find we
+   continue to invest in innovative technologies and systems to help achieve our 42 goal
+
+   beyond energy use we have begun to gather baseline data this year particularly in waste diversion water
+   conservation and management and food systems that will lend to setting specific institutional goals in
+   the near future lastly we have reorganized our office to better support a more comprehensive campus
+   wide sustainability plan and better serve student and academic programs that engage the campus as a
+   living lab our staff includes two energy engineers a student engagement coordinator and a sustainability
+   manager dedicated to supporting and implementing the sspac recommendations brown university
+   continues to expand and evolve its sustainability efforts building on past success and integrating its goals
+   within a growing network of trained and engaged members of the brown community for example over
+   the past year the office of sustainable energy and environmental initiatives ee has partnered with
+   the providence community and various brown departments to spearhead two highly sucessful compost
+   pilots in preparation for a campuswide compost program also commencement 2015 was the first to
+   feature a plastic water bottle free event that successfully hydrated over 10000 participants
+
+   the ee office is proud to share this report with our partners and friends throughout the brown
+   university community and our peer institutions
+
+
+                                                                                                                   3
+
+ii sspac overview and movement in fy 2015
+
+
+ sspac                                               sspac working groups 20142015
+ in march 2011 a group of undergraduates
+                                                     waste  recycling
+ presented to the brown university community
+                                                     jessica berry  office of energy  environment
+ council to encourage the creation of a
+                                                     henry huppert  environmental health  safety
+ sustainability strategic plan in response the
+                                                     donna butler  facilities management
+ sustainability strategic planning and advisory
+                                                     will battersby  event operations
+ committee sspac was created in fall 2012
+                                                     courtney wuethrich  purchasing
+ sspac was then charged by the provost and           haily tran  undergraduate
+ the president to create a draft proposal for a      jane jacoby  undergraduate
+ sustainability strategic plan for the university   harry neurt  undergraduate
+ the sustainability strategic plan will seek to
+ decrease the universitys environmental impacts    food
+ promote community engagement and inspire           margaret klawunn  campus life  student services
+ innovation and excellence                          richard bova  campus life  student services
+                                                     peter rossi  dining services
+ in november 2013 the energy  environmental
+                                                     dawn king  environmental studies
+ initiatives office convened four sspac working
+                                                     pat vetere  facilities management
+ groups food energy  water transportation
+                                                     nicholas mol  facilities management
+ and waste  recycling members of each
+                                                     isabelle aubrun  undergraduate
+ working group were carefully selected based on
+ his or her expense in the groups specific focus
+                                                     energy  water
+ issue each group includes faculty students
+                                                     chris powell  office of energy  environment
+ staff and administrators teams convene
+                                                     mike mccormick  planning design  construction
+ monthly for facilitated meetings with specific
+                                                     adam mcgovern  bio med facilities planning 
+ measured outcomes each working group
+                                                     operations
+ uses a framework of six criteriaacademic
+                                                     chris bull  school of engineering
+ integration community inclusion persona
+                                                     ravi pendse  cis
+ impact metrics communication and structure 
+                                                     jeff baum  undergraduate
+ accountabilityto develop highlevel goals and
+                                                     sam lee  undergraduate
+ projects based on research into best practices
+ each working group has created several high        transportation
+ level goals these include designing campus        beth gentry  transportation
+ wide awareness events to promote sustainable        cathy lutz  anthropology
+ behaviors developing a holistic approach to        melissa meo  purchasing
+ resource management for consumable and              kurt teichert  environmental studies
+ durable goods formalizing food studies as          emily koo  city of providence
+ an academic discipline reducing browns            alan harlam  swearer center
+ storm water impact and energy consumption          arielle johnson  undergraduate bikesbrown
+ expanding the complete street program and        leah haykin  undergraduate bikesbrown
+ decreasing browns transportationbased carbon
+ footprint
+
+
+                                                                                                         4
+
+iii brown university sustainability timeline
+
+        spring 2006 energy and environmental
+        advisory committee formed
+
+                         jan 2008 greenhouse gas goals
+                         accepted by president simmons
+
+                                     march 2012 student sspac
+                                     proposal to bucc
+
+                                                fall 2012 sspac convened by
+                                                past provost
+
+
+                                                  jan 2013 building for environmental
+                                                  research and teaching opens for classes
+
+
+                                                nov 2013 phase one of sspac
+                                                convenes
+
+
+                                           dec 2013 brown convenes
+                                           environmental task force
+
+
+                                       april 2014 institute for enviroment
+                                       and society is launched
+
+                                           nov 2014 sspac working groups
+                                           prioritize initiatives
+
+
+                                                       nov 2014 brown students attend
+                                                       the un climate talks in lima peru
+
+
+                                                                     jan 2015 compost pilots
+                                                                     begin at two dining facilities
+
+
+                                                                              april 2015 brown facilitates
+                                                                              providence sustainability roundtable
+
+
+                                                                                     may 2015 first
+                                                                                     sustainable commencement
+
+
+
+
+                                                                                                               5
+
+iv facilities management
+
+  the department of facilities management is responsible for ensuring that the planning design construction
+  operation and maintenance of all university facilities and grounds support the academic research and
+  administrative functions of the university while balancing financial and technical constraints with aesthetic
+  and historical concerns in providence the university owns and maintains 241 buildings totaling approximately
+  6900000 gross square feet the mission of facilities management is to support the university by enhancing
+  the quality of physical facilities facilities does this through planning designing engineering constructing and
+  maintaining in a responsive serviceoriented effective and environmentallyconscious manner
+
+  a energy
+     i greenhouse gas goals
+
+
+
+
+          key
+        mtcde  metric tons of carbon dioxide equivalent		                bau  business as usual
+        with growth  newly constructed buildings post 2007
+        the yellow line represents the projected level of carbon dioxide co2 emissions reduced over time through the strategies listed on the
+        right side of the chart and described in the report below
+        the dark blue line indicates the level of co2 emissions that would be released if greenhouse reduction goals were not implemented
+        the green line indicates the actual decrease in co2 emissions since implementing the strategies listed on the right hand side of the chart
+         and described in the report on the page 2
+
+                                                                                                                                                     6
+
+iv facilities management energy
+
+    ii energy efficiency program
+       the energy efficiency investments in existing buildings are being achieved by
+       1 steam system condensate over 1400 steam traps throughout campus buildings were replaced along
+       with other improvements to increase the efficiency of the overall heating systems and improve system
+       performance
+       2 lighting and lighting controls a total of 93 buildings were upgraded between 2009 and 2014 with
+       implementation costs of approximately 3 million and an estimated annual savings of 609000 for an
+       average payback of 5 years and an internal rate of return of 20 percent we are currently beginning a new
+       lighting initiative to convert campus lighting systems to led systems with advanced controls
+       3 retrocommissioning rcx for existing buildings this program evaluates facilities both from an
+       operational and system design perspective identifying efficiency opportunities through improving how
+       existing systems are operated andor through replacement of existing systems or equipment a majority of
+       our buildings have completed this phase
+       4 brown ongoing commissioning bocx as part of its ongoing and continuous building commissioning
+       program brown deployed skyspark software to test its ability to identify wasteful andor unknown
+       energy practices during normal building operation the software downloads data from browns existing
+       controls systems and uses the data to determine if buildings are using energy effectively in addition we
+       created a process to engage operations staff to minimize repeat sparks we have completed implementing
+       this process on over 20 of our largest energy consuming buildings and are now working to expand as many
+       as an additional 50 buildings
+       5 heat recovery systems developed and implemented our first heat recovery chiller system at macmillan
+       hall a heat recovery system takes the waste heat from an air conditioning system and recycles it for use in
+       heating this system is ideal when we have a simultaneous need for heating and cooling as is the case in all
+       of our lab facilities where we need dehumidification we were able to eliminate two hotwater boilers from
+       macmillan hall reducing our carbon footprint and energy use
+
+
+
+
+       blue  net expenditures            red  incentivesrebates                green line  ghg reductions
+                                                                                                                       7
+
+iv facilities management energy
+
+    ii brown unplugged 2015
+       in its 5th year this three week energy savings
+       competition was a huge success the student
+       run brown unplugged planning team hosted a
+       variety of outreach events to encourage energy
+       saving techniques among residents weekly
+       led bulb swaps and dining hall signups
+       achieved commitments using lucids building
+       dashboard students within residence halls
+       could engage with the competition via user
+       friendly realtime updates of building energy
+       usage and trends
+       residents of the winning hall metcalf hall
+       reduced their energy use by 144 or 219
+       kwh winners were invited to a dinner hosted
+       by president paxson where ten tickets to
+       spring weekend were raffled off to attendees
+       the entire competition consisted of nineteen
+       residence halls and saved over 16000 kwh
+
+
+                                                          above students creating post
+                                                          ers for dorms to spread word
+                                                           about the competition with
+                                                                 catchy messages
+
+
+
+
+                                                           the posters that advertised
+                                                           the results of the 2015 com
+                                                          peition and the sticker passed
+                                                                 out to students
+
+
+
+
+                                                                                           8
+
+iv facilities management
+
+  b waste  diversion
+     in fy 2015 considerable progress has been made toward understanding brown universitys waste stream
+     a major step in planning for programs that will significantly increase our waste diversion brown undertook
+     several waste audits and pilots this year including a dining waste audit removal of deskside waste bins pilot
+     campuswide bin and signage assessment and compost pilots these initiatives allowed the university to
+     identify gaps and potential options to increase overall campus waste diversion going into fy 2016
+     the diversion rate for fy 2015 was 232 percent of total waste not including construction and demolition
+     current diversion rates include a variety of methods such as recycling donations composting and reuse
+     brown will continue to work toward improving recycling rates by focusing efforts on bin standardization and
+     communications however significant attention will be given to diverting organic waste due to the substantial
+     impact it has on the universitys waste stream as well as new rhode island state law requiring organics
+     diversion
+     based on the dining audit with the implementation of organics diversion at the six main eateries on campus
+     overall campus waste diversion is expected to increase at least 10 percent it is also expected as the pilots
+     revealed with increased communication concerning organics diversion recycling rates will increase as diners
+     become more educated on proper waste disposal
+     recycling browns recycling rate is a reflection of total tonnage of recyclables through our waste hauling
+     service ie cardboard paper bottles cans in fy 2015 brown university recycled paper containers and
+     cardboard at a rate of 154 percent
+     organic diversion in fy 2015 several organics diversion streams were utilized including composting food
+     donations waste oil to biodiesel and preconsumer piggery diversion the following reflect the pounds
+     diverted in fy 2015
+                                fy 2015 brown university organics diversion lbs
+        yard  leaf waste to compost                              110400
+        waste oil to bio diesel                                   44000
+        pig farm                                                  160000
+        food waste to compost                                     47000
+        food donations                                            25076
+        total                                                     386476
+     books the library system partners with better world books to dispense unwanted and unneeded textbooks
+     and other collegiate literature for resale a portion of the proceeds are donated to charities books that cannot
+     be sold are donated to soldiers serving overseas and to school programs
+     solar powered trash compactors implemented in 2011 these bigbelly compactors are placed around
+     campus grounds and reduce the gas and labor associated with frequent trash collection
+     special materials diversion and donation special materials are waste products that are not recyclable as
+     traditional glass paper metal etc these wastes include ewaste batteries light bulbs ballasts computers etc
+     in fy 2015 brown properly disposed about 20 tons of special waste through secure and environmentally
+     preferable methods with a company that is estewards and national association for information destruction
+     naid certified additionally over 12 tons of clothing were collected and donated throughout the year
+                                                                                                                            9
+
+iv facilities management waste  diversion
+
+    i unused food resources
+       a composting
+         composting is the process of transforming organic materials such as food waste into a nutrientrich
+         natural fertilizer composting has many benefits including enriched soils reduced contributions to
+         landfills and decreased release of greenhouse gases into the atmosphere as such composting is an
+         essential part of browns commitment to sustainability
+         students have shown themselves to be open to composting in spring 2015 brown recovered over
+         23 tons of organic waste in two 1017 week composting pilot programs the diverted organic
+         material was hauled by a local vendor to a local facility about 33 miles away from campus
+         brown is a leader among rhode island institutions in its commitment to comply with the states
+         2014 compost law ideally the compost law will eventually make composting less expensive and
+         more convenient for brown the university will begin to plan for its campuswide composting
+         program in fy 2015 and expects to rollout the program in late 2016 or early 2017 it is facilities
+         managements goal to make this transition easy and accessible for all of browns staff faculty and
+         students in the future all brown dining facilities offices and residential halls will divert organic
+         materials
+         the environmental impact of a campuswide composting program will be highly significant
+         through composting at just the six main eateries and catering brown could reduce its annual
+         landfillbound waste by 155 percent this translates into about 420 tons of organic material that will
+         become a useful local resource
+
+
+
+
+                         based on these numbers in one year 88366 lbs of organic
+                        material from andrews dining could be composted resulting in
+                            an overall andrews dining hall diversion rate of 62
+
+
+                                                                                                                   10
+
+iv facilities management waste  diversion
+
+    iii residential life
+       a wriston waste audit
+          each year student volunteers hold a trash sort students don
+          hazmat suits and gloves in order to sort through residence
+          hall waste and determine average contamination rates in trash
+          and recyclables the program assists in determining average
+          recycling rates in residence halls demonstrates which common
+          items are consistently missorted and creates an educational
+          spectacle for the
+          student body the
+          residence halls
+          on wriston quad
+          have consistently
+          achieved poor
+          recycling rates
+          from year to
+          year so students
+          planned a wriston
+          quad specific
+          trash sort for
+          both semesters
+          during the 2014
+          2015 school year
+
+       b move out  clean break
+          this years clean break crew collected over 12 tons of clothing and other items for donation to the
+          goodwill of rhode island and the furniture bank this program runs throughout the month of may
+          and relies heavily on the hard work of student volunteers who bag and carry donations every morning
+          to designated pick up locations across campus toters are placed at the entrances and in the lobbies of
+          residence halls and through the collaboration between the office of residence life custodial services
+          and the volunteers students have the option of donating their unwanted items rather than throwing
+          them in the trash
+
+
+
+
+                                                                                                                 11
+
+iv facilities management waste  diversion
+
+    iv events
+        brown university holds a variety of large highprofile events each year that have significant impacts
+        in terms of resource use waste generation and public attention the conscious reduction and
+        diversion of waste at these events has the ability to showcase browns commitment to sustainability
+        at the university and as part of the providence community the ee office partnered with various
+        stakeholders to identify and implement waste reduction and diversion strategies at these events
+       a game day recycling challenge
+                                                    the game day recycling challenge is an annual
+                                                    beginning of the school year event for our sustainability
+                                                    student organizations this years selected game was
+                                                    the home game against harvard twenty volunteers
+                                                    worked the tailgate handing out bags for recyclables
+                                                    and encouraging football guests to sort their waste
+                                                    collectively the 2014 event had a 26 diversion rate
+                                                    with over 1100 pounds of recycling collected from the
+                                                    tailgate
+
+       b commencement brown eliminates sale and distribution of plastic water bottles
+          each may brown university confers honorary graduate medical and undergraduate degrees
+          on commencement day the culmination of a campuswide weekend celebration it is a time of
+          great ceremony pageantry and rejoicing much of it representing traditions that are centuries
+          old commencement is open to families alumni and the general public and host about 10000
+          participants on sundays commencement
+         in the past large events like commencement have struggled with large volumes of waste coupled
+         with challenging waste management conditions this year brown chose to take a proactive
+         approach to waste reduction while the university has made significant strides in overall campus
+         sustainability including a 92 reduction in plastic water bottles on campus a 23 waste
+         diversion rate and a 221 reduction in greenhouse gas emissions since 2007 large events such as
+         commencement have not in the past showcased these strides in sustainability
+         this year however the ee office dining
+         services ecoreps and event services worked
+         together with various departments to fully
+         eliminate the sale and distribution of plastic
+         water bottles and with huge success two
+         thousand two hundred reusable prefilled
+         and chilled water bottles were distributed to
+         graduating seniors and alumni additionally
+         three large scale water stations were setup in
+         the commencement area to provide patrons the
+         opportunity to refill personal bottles and reduce
+         overall waste footprint
+
+                                                                                                                 12
+
+iv facilities management
+
+  c new construction high performance design  leadership in energy and environmental design leed
+
+    as brown university constructs rebuilds or expands its infrastructure facilities managements design
+     construction office is required to limit greenhouse gas emissions by reducing energy consumption for
+    all newly constructed facilities to at least 25 percent with a goal of 50 percent below the standard
+    required by state code
+    new construction will at a minimum meet a silver standard in us green building council leed
+    certification program the standards of leed certification are silver gold and platinum
+    categories in which points are earned are sustainable sites water efficiency energy and atmosphere
+    materials and resources indoor environmental quality and innovation and design projects at brown
+    which have already achieved leed or are designed and registered to achieve leed certification can
+    be viewed at the interactive campus map and include
+
+     achieved gold
+     rhode island hall 2010
+     stephen robert 62 campus center 2011
+     medical education building 2012
+     perry and marty granoff center for the creative arts
+     2012
+     315 thayer street 2013
+     miller and metcalf residence hall 2014
+     nelson fitness center 2014
+     85 waterman street 2014                                 85 waterman street leed gold certification
+
+
+
+     achieved silver
+                                                                 s   e
+
+
+
+
+     sidney e frank hall for life sciences 2009                       rainwater collection and
+                                                                  ur
+
+
+
+
+                                                                     reuse system this 6500 gallon
+                                                               at
+
+
+
+
+     metcalf complex 2013                                         tank collects and retains precipitation
+                                                             fe
+
+
+
+
+                                                                  from the roof to be used in toilets in the
+                                                             r
+
+
+
+
+                                                               building that are all 35 more efficient this
+                                                          te
+
+
+
+
+     designed to gold
+                                                               reduces demand for potable water by at least
+                                                        wa
+
+
+
+
+     school of engineering design development               68 and this will increase during rainy periods
+     division of applied math under construction
+                                                               rain garden by creating the rain garden at 85
+     south street landing design development                 waterman stormwater runoff is expected to be
+                                                                reduced by 39 stormwater harvesting and
+                                                                       vegetated strips will remove
+                                                                        approximately 91 of total
+                                                                          suspended solids from
+                                                                            stormwater runoff
+
+
+                                                                                                                 13
+
+iv facilities management
+
+  d custodial and grounds
+    i grounds division
+       brown university grounds division manages over 113 acres of open space parking lots landscaped
+       spaces and athletic facilities grounds is committed to maintain the highest standards of aesthetic
+       and healthy landscapes in fy 2015 85 percent of the fertilizers used were 100 percent organic
+       representing a 10 percent increase in organic fertilizers since 2012
+       in fy 2014 the grounds office launched the keep brown clean initiative aimed at educating students
+       and staff about cleaning up and taking ownership of communal campus spaces and this program has
+       proven to be highly successful in its second year
+       the grounds division has been a key player in collaborating with the ee office to improve large
+       event cleanups to increase and encourage appropriate waste diversion and disposal track and
+       measure browns nitrogen footprint and participate in the sustainability strategic planning advisory
+       committee
+
+
+
+
+                                                                                            to the left
+                                                                                            green spaces
+                                                                                            on campus
+                                                                                            maintained by
+                                                                                            the grounds
+                                                                                            division green
+         to the right                                                                      roof on 222
+             grounds                                                                        richmond and
+             division                                                                       plantings at
+         maintaining                                                                        brown
+        trees around                                                                        stadium
+              campus
+        buildilngs in
+          the jewelry
+             district
+
+
+
+
+                                                                                                              14
+
+iv facilities management custodial  grounds
+
+    i custodial office
+       brown university began using green cleaning products in 2004 when they reached out to local
+       vendors to replace current cleaning agents to more environmentally friendly alternatives
+       research and testing led to the purchasing of green seal approved chemicals microfiber applications
+       nonacid bathroom products and products containing hydrogen peroxide
+       brown is committed to keeping abreast of green sustainable products that do a superior job of
+       cleaning surfaces and removing or neutralizing infectious bacteria each product considered for use
+       must meet the dual challenge of being an effective agent with no additional labor required and no
+       damage to cherished historic surfaces products are rigorously tested prior to deploying them across
+       campus if the product passes the testing phase it becomes a part of our green cleaning arsenal
+       custodians are essential in campus sustainability efforts due to their recycling knowledge and
+       dedication to helping student initiatives including but not limited to green events and clean break
+
+
+
+
+                          custodians using green seal approved cleaning products across campus
+
+
+
+
+                                                                                                               15
+
+v student groups and initiatives
+
+  brown university fosters a large and varied student environmental community from campus gardens
+  bike share programs conferences energy initiatives and more brown students drive our momentum and
+  success
+
+  a empower is browns student environmental umbrella organization empowers
+  common meeting time and collaborative structure create a strong sense of community
+  among member groups that address a wide variety of sustainability issues the
+  following student groups are included under empower
+
+                                             i bikesbrown strives to facilitate and encourage bike usage
+                                             on browns campus and throughout the ocean state the
+                                             organization runs a free fullservice bicycle repair and rental
+                                             shop in the basement of the stephen robert 62 campus center
+                                             bikesbrown also seeks to cultivate a cycling culture on campus
+                                             by organizing bike rides promoting bike safety and volunteering
+                                             at recycleabike a local nonprofit bike shop
+
+    ii in climate action league formerly bcaf students think of and lead projects
+    and research to reduce brown universitys resource use and carbon footprint past
+    projects include residence hall lowflow showerhead retrofits photovoltaic solar
+    array additions thayer street recycling bins waste station signage for andrews
+    dining partnership with the jt owens park green infrastructure outreach project
+    and community outreach on rising electricity prices in rhode island
+
+                          iii ecoreps work with the department of facilities management to help foster
+                          a campus culture that embraces environmental conservation and sustainable
+                          resource management ecoreps are passionate environmentallyminded
+                          individuals who work to raise environmental awareness within the brown
+                          community in addition to encouraging sustainability in daytoday life ecoreps
+                          plan many popular annual events such as gameday recycling brown unplugged
+                          america recycles day earth week and clean break
+
+    iv fossil free brown formerly brown divest coal is a campaign that is demanding
+    brown to divest from 200 companies with the greatest fossil fuel reserves since
+    the groups conception in 2012 the brown community has shown strong support
+    for divestment although the brown corporation voted against divestment in
+    october 2013 fossil free continues to push the university to commit to more
+    socially responsible investment practices
+
+
+
+
+                                                                                                             16
+
+v student groups and initiatives
+
+     v green events a studentdriven initiative to promote and facilitate sustainable
+     event planning at brown started as a final project for an environmental
+     stewardship class in spring 2012 in 20132014 green event was requested for
+     over 50 events from which 800 pounds of compost was collected green event
+     certification provides a simple framework for reducing waste lowering our
+     carbon footprint supporting local businesses and educating consumers
+
+                                 vi the healthy housing hub hhh aims to align the resources of brown
+                                 university local nonprofits and community members to address energy
+                                 efficiency sustainable living and primary environmental health concerns in
+                                 order to improve the state of healthy housing in rhode island currently the
+                                 hhh coordinates the green and healthy homes summer research institute
+                                 and maintains a healthy housing database that is accessible to the public
+
+     vii rhode island student climate coalition riscc is a political action group
+     and statewide alliance of students and youth working toward a clean safe and
+     just future for all some of risccs projects include helping to pass the 2014
+     resilient rhode island act transporting 400 rhode islanders to the peoples
+     climate march in new york city and opposing the construction of fossil fuel
+     infrastructure within the state
+
+
+
+                         viii scrap browns student composting initiative is working toward creating a
+                         zerowaste food cycle and making composting easily accessible at brown university
+                         its mission is to expand composting awareness and practice through an improved
+                         campuswide composting system scrap has gained recognition on campus over
+                         the years by distributing its famous composting buckets to brown community
+                         members these bins can be emptied at two different campus locations
+
+     ix the sustainable food initiative sufi is a student group working with
+     brown and its surrounding community to provide local organic food options
+     it does this by managing an oncampus studentrun garden and organizing
+     foodrelated workshops sufi serves as an umbrella organization for browns
+     many sustainable food groups such as market shares the brown vegetarian
+     society the studentfarmworker alliance food recovery network and
+     challah for hunger
+
+
+
+
+                                                                                                                 17
+
+v student groups and initiatives
+
+  b in addition to empower the following student initiatives had a strong campus presence in fy 2015
+
+                       i the brown market shares program is a studentrun campusbased food distribution
+                       program due to its low cost market shares is highly accessible to all members of the
+                       brown community inspired by the community supported agriculture csa model
+                       the program partners with regional farmers to bring fresh local and sustainable
+                       produce bread eggs dairy and meat to the university community the program is
+                       supported almost entirely by volunteers and is directed by a six person coordinating
+                       team
+
+  ii west house and north house are browns environmental program houses the houses
+  are open to visitors every friday for open dinner night at 630 pm all food prepared in
+  the houses is vegetarian or vegan and they strive to purchase local seasonal produce
+  each resident has a house job such as coordinating environmental initiatives or managing
+  the backyard compost system both houses present the opportunity to live with others who
+  also care deeply about environmentalism
+
+                           iii outdoor leadership environmental education project oleep is an
+                           environmental mentoring program for metropolitan regional career and technical
+                           center met high school students that is run through the swearer center brown
+                           volunteers engage with met students through oneonone mentoring relationships
+                           weekly educational environmental science workshops and camping and
+                           backpacking trips oleep strives to foster individual environmental awareness
+                           experiential science education personal challenge and leadership skills in brown
+                           and met students as they learn from each other
+
+  iv rainwater for humanity r4h is a collaborative social enterprise initiated by brown students in
+  partnership with local organizations in kerala india to address the potable water crisis in the region r4h
+  has financed the construction of 60 rainwater harvesting tanks under a sustainable payperuse water
+                                         vending model and trains rural women to manage each structure
+                                         these tanks supply 120 families with affordable accessible water
+                                         throughout the dry season safeguarding community health and
+                                         increasing household savings
+
+  v a better world by design bwxd is an annual studentorganized
+  collaboration between brown and the rhode island school of design that
+  brings innovators from across the globe to providence to bridge disciplines
+  for a common goal building a better world presenters share engaging stories
+  workshops teach creative skills and discussions reframe perspectives bwxd
+  is an immersive experience that deepens our understanding of the power of
+  design and technology to engage communities and sustain the environment
+
+
+                                                                                                                  18
+
+v student groups and initiatives 
+
+  c student initiative spotlight food recovery network
+
+
+
+
+     in the united states 40 percent of food goes uneaten  equivalent to about 20 pounds of uneaten food per
+     person per month yet one in six americans are food insecure and by reducing these losses by just 15
+     could pull over 25 million americans out of food insecurity frn is a national effort to bridge this divide
+     between food waste and food insecurity
+     frn is a national studentrun nonprofit organization founded at the university of maryland in 2011
+     food recovery network at brown frnbrown was started by four brown undergraduates since then
+     the group has flourished and now includes approximately 35 students frn partners with brown dining
+     services to recover food from campus eateries every day in only four years it has recovered over 50000
+     pounds of food from brown university dining halls
+     frnbrown is a network of students at brown volunteering to recover the surplus food from six differ
+     ent campus dining facilities and thayer street businesses such as blue state coffee food is then carried
+     to a centralized storage facility in the sharpe refectory and then regularly brought to inneed rhode
+     islanders through community partners such as crossroads rhode island and the womens center of ri
+     above all frnbrown aims to support food justice communities both on and off college hill these
+     efforts have won the organization various awards and accolades such as the bsa inspire grant
+
+
+
+
+                                                                                                                 19
+
+v student groups and initiatives
+
+  d earth week initiative
+     the 2015 brown earth week was an ambitious collection of events planned and run by the student
+     group empower the planning committee targeted various brown community audiences through
+     mindful and varied events key events included a staff plant giveaway nightly films from the up up farm
+     film festival and a dirt cup giveaway featuring the compostthemed musical stylings of noah goodman
+     brown dining services hosted their annual local food celebration on earth day where student
+     volunteers collected all postconsumer waste for composting the week culminated in the community
+     fair where local musicians performed while students engaged in a variety of activities including the
+     clothing swap
+
+                        earth week 2015 facebook page
+
+                        brown university news about earth week
+
+                        the brown daily herald earth week plants seeds of change
+
+
+
+
+                                                                                                            20
+
+vi research  teaching in sustainability
+
+  a brown nitrogen footprint
+    brown university was selected as one of 10 institutions to test the first institutional nitrogen footprint
+    tool this entailed gathering organizing and analyzing a wide range of data across many sectors of the
+    university once the baseline nitrogen footprint was calculated scenarios for pollution reduction can
+    be tested within the tool this can help project the likely impact of sustainability initiatives browns
+    nitrogen footprint project is spearheaded by a team of faculty scientists undergraduate researchers and
+    sustainability staff from across campus
+    a nitrogen footprint is the contribution of the university to nitrogen pollution through its activities
+    like carbon nitrogen is released into the environment through fossil fuel energy consumption for
+    utilities and transportation additional activities that are big contributors to nitrogen release are also
+    food production consumption and waste management the calculation of a nitrogen footprint gives an
+    indication of how much reactive nitrogen different activities contribute using the nitrogen footprint tool
+    will help institutions reduce losses of nitrogen to the environment as a result of their activities and use of
+    resources
+
+    what have we learned so far
+    on the whole activities on campus contribute
+    to the release of 126000 kilograms of nitrogen
+    per year to the environment as expected food
+    production is the biggest contributor to the
+    universitys nitrogen footprint 78 of the total
+    production of meat dairy and eggs are the biggest
+    contributor to the universitys nitrogen footprint
+    other contributors to the overall nitrogen footprint
+    includes the use of fossil fuels for utilities and
+    transportation 9 total use of research animals
+    8 food consumption 4 and the use of
+    fertilizer on campus 1 the amount of nitrogen
+    released from utilities was surprisingly small
+    reflecting the reliance in new england on natural gas
+
+    what are the next steps
+    in the coming year browns nitrogen footprint team will be            preliminary scenario tests for
+    refining our calculation to best represent the universitys                reducing n footprint
+    activities and understand how the nitrogen footprint has
+    changed in the last several years we will also be exploring               composting food waste
+    ways in which changes to our nitrogen footprint can support                 45 reduction of total
+    existing sustainability initiatives or help identify new             replacing 25 of beef with chicken
+    opportunities for example we will be investigating how                   3 reduction of total
+    much composting food waste increasing food donations
+                                                                                   more local food
+    and increasing poultry and vegetarian protein options might
+                                                                                  marginal reduction
+    reduce the excess nitrogen released into our environment
+
+
+                                                                                                                 21
+
+vi research  teaching in sustainability
+
+  b institute at brown for environment and society ibes
+     while sustainability learning outcomes are integrated within various departments and championed
+     by faculty and leadership throughout undergraduate concentrations in environmental studies and
+     environmental science are housed within ibes the institute at brown for environment  society ibes
+     organizes research into four interdisciplinary thematic areas each centered on an organizing question
+     and led by a faculty member with expertise in the area natural systems food and water human health
+     and wellbeing and equity and governance
+     ibes is housed in 85 waterman street home to the climate development lab which was recognized
+     at the un climate talks in peru the urban environmental lab at 135 angell street hosts a community
+     garden and integrated space for student engagement in environmental consciousness and urban self
+     sufficiency
+
+
+
+
+              a group of brown students attending the un climate change negotiations in peru
+                                as part of an environmental studies course
+
+
+
+
+                                                                                                              22
+
+vi research  teaching in sustainability
+
+  c trilab
+     the brown university trilab program is an initiative that promotes collaboration among students faculty
+     and the rhode island community in order to engage with and address complex social issues topics are
+     based on a combination of faculty and student interests and community needs
+     students take an indepth one or twosemester seminar on the labs topic in which they harness their
+     diverse perspectives to come up with creative solutions after the seminar labs apply for funding in order
+     to continue their efforts
+     there are currently three tri labs the healthy early childhood development 20132014 heathy food
+     access 20142015 and climate change and environmental justice 20152016 labs
+
+
+                healthy early                                                     climate change
+                                                    healthy
+                 childhood                                                         and environ
+                                                  food access
+                development                                                        mental justice
+                                                  20142015
+                20132014                                                        20152016
+
+
+
+     the healthy food access lab investigates approaches to increase access to healthy food and reduce
+     obesity food insecurity and hunger the lab focuses on behavioral change improved socioeconomic
+     conditions and enhanced policy structures this lab is cochaired by professor kim gans and courtney
+     bourns senior program officers at the henry p kendall foundation the lab is broken into three
+     working groups the freshtoyou food as medicine and data and public policy teams
+     the climate change and environmental justice lab investigates the future potential impacts of climate
+     change on rhode islands most vulnerable communities with the goal of reducing climate changerelated
+     public health risks and increasing resiliency within these populations the lab is cochaired by professor
+     timmons roberts and robert vanderslice and julia gold from the rhode island department of health
+
+
+
+
+                                                                                                                   23
+
+vii departmental reporting
+
+  a brown dining services
+
+    bds is committed to improving the local food system through sustainable initiatives which work
+    to support local farmers reduce waste output and purchase fairlytraded sustainablysourced and
+    environmentallyfriendly foods
+
+    bdss commitment to sustainability is demonstrated by the following initiatives
+
+    through the community harvest program initiated in 2002 bds aims
+    to purchase sustainable local food to increase browns support of rhode
+    island food producers
+    bds maintains committed partnerships with local farmers in order to
+    bring fresh sustainable produce to brown dining halls this program
+    expands each year and now represents a network of over 50 local farms
+                        bds is a founding partner of farm fresh rhode
+                        island ffri created in 2004 ffri is a nonprofit
+                        organization whose mission is to strengthen rhode
+                        islands food system by creating connections between producers consumers and the
+                        environment ffri manages eight urban farmers markets and with bds comanages
+                        a weekly market held on browns campus
+    the market mobile a ffri initiative developed in 2008 provides a centralized
+    distribution system for rhode island farmers through this program farmers
+    can post prices for their products online and local institutions view the list and
+    place orders the market mobile picks up farmers products from one central
+    location and delivers them to consumers
+    brown catering services has developed options for green catering these meals
+    include local seasonal items that have minimal packaging and waste and are
+    served on compostable greenware
+    through the after the harvest ath initiative established in 2005 bds
+    coordinates efforts to both reduce food waste and reroute overproduced food to
+    local hunger relief programs
+    since 2005 bds has donated over 85000 pounds of local food to local organizations including we share
+    hope the rhode island community food bank and providence rescue mission
+                                      in 2010 bds implemented eco togo a reusable takeout container
+                                      program which reduces the amount of disposable togo containers that
+                                      brown sends to the landfill
+                                      bds has partnered with newport biodiesel a local company that
+                                      transforms used fryoil into fuel for diesel engines and home heating
+                                      since 2010 four participating dining locations have donated 22509
+                                      gallons of oil and grease to be refined into fuel
+
+                                                                                                               24
+
+vii departmental reporting  brown dining services
+
+
+
+
+     in 2009 due to a grassroots effort led by a group of students bds committed to meeting the real food
+     challenge the goal of the resulting real food initiative is to create a process through which all food
+     purchasing decisions consider four main criteria whether foods are local ecological fair and humane
+     bds diverts an estimated 275000 pounds of preconsumer waste from the landfill every year by sending
+     food waste to a local pig farmer a local compost facility and newport biodiesel
+                             in 2008 bds implemented trayless dining in verneywoolley trayless dining
+                             conserves half a gallon of heated water per tray translating to a savings of over
+                             155000 gallons per school year studies also suggest that eliminating trays may
+                             reduce food waste because people take fewer items without them
+
+
+     beyond the bottle btb is an initiative started
+     by students with the goal of reducing the
+     supply and demand of bottled water at brown
+     as a result bds has reduced its water bottle
+     purchasing by 95 since 2008 this goal is
+     supported by the installation of
+     hydration stations across campus which
+     encourage the use of reusable water bottles
+
+
+
+
+                                                                                                                  25
+
+vii departmental reporting 
+
+  b transportation  parking services
+    public transportation brown university is making great strides toward increasing the availability of
+    public transportation with the rhode island public transportation authority ripta upass program
+    in its sixth year all brown university id holders faculty staff and students may ride any ripta bus or
+    trolley free of charge anywhere in the state of rhode island
+                                                    zipcars the university has partnered with zipcar to offer
+                                                    brown community members an alternative to driving to
+                                                    campus brown university students faculty and staff pay
+                                                    an annual 20 fee hourly rates range from 725 to 1100
+                                                    depending on the type of vehicle reserved nine of the 25
+                                                    vehicles are hybrids and 2600 brownrelated members
+                                                    use them to travel 30000 miles a month
+
+
+
+
+    electronic vehicle charging station brown university now
+    has two plugin electric vehicle charging stations available for
+    public use one is located in lot 44 on brook street behind
+    minden hall the other is in the richmond street parking
+    garage entrance on eddy street
+    bicycle racks brown has bicycle racks in convenient places
+    across campus offers bicycle registration to discourage theft
+    and is working with various civic groups to help promote
+    cycling in the city all new construction and major renovations
+    are required to install racks as part of their projects
+    bicycle sharing bikesbrown a student initiative launched
+    a bikesharing program in march 2009 utilizing brown university
+    funds to purchase three new schwinn cruisers and four
+    mongoose mountain bikes they now have a fleet of thirtytwo
+    bicycles which can be signed out for a week at a time at no charge and for no deposit
+
+    next steps sustainable transportation on campus is an issue directly addressed by browns
+    sustainability strategic planning advisory committee sspac through its transportation
+    subcommittee objectives of the sspac transportation team include
+
+       creating a more economi              expanding providences                 decreasing browns
+      cally efficient and equitable            complete streets                  transportationbased
+        transportation portfolio                   program                            carbon footprint
+
+
+
+                                                                                                                 26
+
+vii departmental reporting 
+
+  c purchasing services
+
+    faculty staff and students are strongly encouraged to be proactive in identifying and examining
+    opportunities to procure environmental friendly materialsequipment this effort focuses along the
+    complete supply chain process including assessment of alternative materials vendor sourcing and
+    selection and ultimate disposal of wastesurplus
+    brown strongly recommended that appliances building products computers electronics heating and
+    cooling lighting fans and plumbing equipment meet or exceed the energy star rating
+    purchasing services manages a surplus program with a goal to repurpose brownowned furniture after
+    it has been used for its original purpose additionally purchasing is currently developing an online
+    furniture craigs list type interface that will allow departments to procure previously used items
+    items not absorbed back into campus will be open for donation to authorized local organizations 
+    thereby promoting browns commitment to support providence public schools and local organizations
+
+
+
+
+                                       the new brown surplus website
+
+                                                                                                             27
+
+viii awards
+
+  princeton reviews guide to green colleges
+  sierra club cool schools
+  climate change awards green university of 2014
+  food recovery network certified
+  brown dining services
+    an a rating on the 2015 peta vegan report card
+    2014 bostoncom top 25 healthiest colleges in the united states
+     41 ranking in the daily meals top 52 best colleges for food 2014
+    2014 green certification rhode island hospitality association
+    brown was recognized as friend of the rhode island food bank 2014
+
+ix ways forward for browns sustainability
+
+  the ee office and the sustainability strategic planning and advisory committee sspac continue to seek
+  out new ways to develop and enhance the universitys social and environmental impact while incorporating
+  student learning and development in fields that contribute to global wellbeing over the next year we
+  aim to look at innovative technology and research to develop a robust data tracking tool that will guide
+  brown in identifying baseline metrics and determining goals on waste reduction and diversion alternative
+  transportation stormwater management and water conservation food and product purchasing and
+  nitrogen footprint reduction
+  over this coming year we look forward to working with brown university departments students and
+  faculty peer institutions and our surrounding community to collectively progress our campus commitment
+  to social and environmental responsibility we are excited to increase our ee internship program which is
+  not only essential to building sustainability on campus but directly contributes to educating and preparing
+  students to enter the next phase of their professional development
+  please feel free to contact the ee office at brownisgreenbrownedu for further information
+
+
+
+
+                                                                                                           28
+
+x acknowledgments
+
+ the ee office would like to acknowledge the contributions and efforts of the staff of brown dining
+ services office of transportation and parking services facilities management and the sustainability
+ strategic planning and advisory committee and all campus members who served as advocates
+ for sustainability in particular we would like to thank the ee interns ecoreps and empower
+ students without whom it would not be possible for brown university to continue its commitment to
+ sustainability
+
+
+
+
+                                                                                                         29

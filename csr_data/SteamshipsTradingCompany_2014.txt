@@ -1,0 +1,710 @@
+
+contents
+
+
+ readers guide                                          1
+
+
+
+ selected group performance highlights        2
+
+
+
+        2013 sustainable development highlights          2
+
+
+
+ part 1  gri g31 content index                     3
+
+
+
+        standard disclosures profile disclosures             3
+
+
+
+        standard disclosures performance indicators        7
+
+
+
+ part 2  sustainable development statistics       9
+
+
+
+ 	economic performance indicators                    9
+
+
+
+ 	environmental performance indicators               10
+
+
+
+        social performance indicators labour
+        practices and decent work                         11
+
+
+
+ notes  definitions                                   13
+
+                                                                                       readers guide
+
+
+this report covers the performance of steamships trading
+company ltd and the activities over which steamships had
+operational control during the calendar year 2013 steamships
+2012 annual report dated may 2012 covered the calendar
+year 2012
+
+
+
+
+this report covers all business and         to in 2012 has been restated to reflect
+operational activities of steamships       revised methods of calculation used by
+divisions in papua new guinea and          steamships divisions
+where noted internationally it is
+structured around the principles of         the information in this report has been
+steamships sustainable development         prepared having regard to the gri g31
+policy which was released in 2013 and      guidelines the report application level
+can be accessed here                       is c
+
+this report provides an objective and       the gri g31 content index in this
+transparent overview of steamships         report shows the gri g31 references
+sustainability performance in 2013          in abbreviated form for full disclosure
+for the information of our major            of the references from the guidelines
+stakeholders including investors           please refer to the complete g31
+partners employees government            guidelines which can be found at www
+community members and non                  globalreportingorg
+government organisations
+                                            for additional information or to provide
+this report uses a framework which          feedback please contact steamships
+follows the global reporting initiatives   through the corporate website at www
+gri sustainability reporting              steamshipscompg
+guidelines steamships reports on the
+twelve gri performance indicators
+which are most relevant to the group
+and its operations some data referred
+
+
+                                                                             2013 sustainable development statistics report   1
+
+selected group performance highlights
+2013 sustainable development highlights
+
+		                                                                                 2013        2012     change
+		                                                                                 k000       k000      
+
+	ec7	total employees                                                                 4000      4166     4
+
+	ec7          citizens in senior roles                                                470      516     9
+
+    la1       female employees as a proportion of total workforce                     241      268    10
+
+    la2	staff turnover                                                                371      411    10
+
+    la6	staff representation on health  safety committees                             94       98     4
+
+    la7       ltiir number of injuries per 100 fulltime equivalent employees        093      070   33
+
+    la7       ltisr average number of days off per injury                            110       74   49
+
+    la8	employee attendance at health programs                                       1488      1008   48
+
+    la10      average hours of training per employee                                   346      239   45
+
+	en3          direct energy consumed gj                                         1052091   915116   15
+
+	en4          indirect energy consumed gj                                         93441     84705   10
+
+	en8          water withdrawal kl                                                576028    475095   21
+
+	en16	energy consumed co2 tons                                                    93098     81499   14
+
+	ec1	expenditure on community programs k000                                       1941      1608   21
+
+
+
+
+2     steamships trading company ltd
+
+                                                   part 1 gri g31 content index
+standard disclosures profile disclosures
+profile      description                                         reported    crossreference direct answer                  page
+disclosure                                                                                                                   link
+1 strategy and analysis
+11          statement from the most senior decision            fully       2013 annual report  sustainability a          pages 37
+             maker of the organisation                                      message from the board of directors              38
+12          description of key impacts risks and              partially   2013 annual report  sustainability a          pages 37
+             opportunities                                                  message from the board of directors             3839
+                                                                             selected group performance highlights
+                                                                             sustainable development statistics report       page 2
+                                                                              2013 sustainable development highlights
+2 organisational profile
+21          name of the organisation                           fully       2013 annual report  brief profile of           pages 1
+                                                                             steamships trading company ltd                  3
+22          primary brands products andor services          fully       2013 annual report  brief profile of           pages 1
+                                                                             steamships trading company ltd                  3
+23          operational structure of the organisation          fully       2013 annual report  brief profile              page 3
+             including main divisions operating                             of steamships trading company ltd
+             companies subsidiaries and joint ventures                    organisational structure
+24          location of organisations headquarters            fully       2013 annual report  brief profile of           pages 1 
+                                                                             steamships trading company ltd company         3 105
+                                                                             directory
+25          number of countries where the                       fully       2013 annual report  brief profile of           pages 1 
+             organisation operates and names of                             steamships trading company ltd review of       3 16  35
+             countries with either major operations                          operations
+             or that are specifically relevant to the
+             sustainability issues covered in the report
+26          nature of ownership and legal form                 fully       2013 annual report  brief profile              pages 1 
+                                                                             of steamships trading company ltd              3 53  58
+                                                                             corporate governance statement
+27          markets served including geographic                fully       2013 annual report  brief profile of           pages 1 
+             breakdown sectors served and types of                         steamships trading company ltd review of       3 16  35
+             customersbeneficiaries                                       operations
+28          scale of the reporting organisation                fully       2013 annual report  brief profile of           pages 1 
+                                                                             steamships trading company ltd financial       3 45
+                                                                             highlights
+29          significant changes during the reporting            fully       2013 annual report  chairmans report         pages 6 
+             period regarding size structure or                            directors review                               7 12  14
+             ownership
+210         awards received in the reporting period            fully       we did not receive any awards for our           na
+                                                                             sustainability performance in 2013
+3 report parameters
+31          reporting period eg fiscalcalendar             fully       sustainable development statistics report       page 1
+             year for information provided                                  readers guide
+32          date of most recent previous report if             fully       sustainable development statistics report       page 1
+             any                                                            readers guide
+33          reporting cycle annual biennial etc           fully       annual                                          na
+
+34          contact point for questions regarding the           fully       sustainable development statistics report       page 1
+             report or its contents                                          readers guide
+35          process for defining report content                fully       sustainable development statistics report       page 1
+                                                                              readers guide
+36          boundary of the report eg countries            fully       sustainable development statistics report       page 1
+             divisions subsidiaries leases facilities joint                readers guide
+             ventures suppliers see gri boundary
+             protocol for further guidance
+
+                                                                                      2013 sustainable development statistics report      3
+
+part 1 gri g31 content index
+standard disclosures profile disclosures continued
+    profile    description                                           reported   crossreference direct                     pagelink
+    disclosure                                                                  answer
+    3 report parameters continued
+    37               state any specific limitations on the          fully      sustainable development statistics          page 1
+                      scope or boundary of the report see                      report  readers guide
+                      completeness principle for explanation
+                      of scope
+    38               basis for reporting on joint ventures         fully      sustainable development statistics          page 1
+                      subsidiaries leased facilities outsourced               report  readers guide
+                      operations and other entities that can
+                      significantly affect comparability from
+                      period to period andor between
+                      organisations
+    39               data measurement techniques and              fully        sustainable development statistics          pages 13  14
+                      the basis of calculations including                      report  notes  definitions
+                      assumptions and techniques underlying
+                      estimations applied to the compilation of
+                      the indicators and other information in
+                      the report explain any decisions not to
+                      apply or to substantially diverge from the
+                      gri indicator protocols
+    310              explanation of the effect of any               fully      sustainable development statistics          page 1
+                      restatements of information provided in                   report  readers guide
+                      earlier reports and the reasons for such
+                      restatement eg mergersacquisitions
+                      change of base yearsperiods nature of
+                      business measurement methods
+    311              significant changes from previous         fully           sustainable development statistics          page 1
+                      reporting periods in the scope boundary                 report  readers guide
+                      or measurement methods applied in the
+                      report
+    312              table identifying the location of the          fully      this table
+                      standard disclosures in the report
+    313              policy and current practice with regard        na        the report application level is c it has   1
+                      to seeking external assurance for the                     not been externally assured
+                      report
+    4 governance commitments and engagement
+    41               governance structure of the                    fully      2013 annual report  corporate              pages 53  58
+                      organisation including committees under                  governance statement
+                      the highest governance body responsible                   steamships website  corporate              wwwsteamships
+                      for specific tasks such as setting strategy              governance                                  compgabout
+                      or organisational oversight                                                                          uscorporate
+                                                                                                                            governance
+    42               indicate whether the chair of the highest fully           2013 annual report  corporate              pages 53  58
+                      governance body is also an executive                      governance statement
+                      officer                                                  steamships website  corporate              wwwsteamships
+                                                                                governance                                  compgabout
+                                                                                                                            uscorporate
+                                                                                                                            governance
+    43               for organisations that have a unitary          fully      2013 annual report  corporate              pages 53  58
+                      board structure state the number and                     governance statement
+                      gender of members of the highest                          steamships website  corporate              wwwsteamships
+                      governance body that are independent                      governance                                  compgabout
+                      andor nonexecutive members                                                                         uscorporate
+                                                                                                                            governance
+
+
+
+4         steamships trading company ltd
+
+                                             part 1 gri g31 content index
+standard disclosures profile disclosures continued
+profile    description                                 reported   crossreference direct                  pagelink
+disclosure                                                        answer
+4 governance commitments and engagement continued
+44          mechanisms for shareholders and           fully      2013 annual report  corporate           pages 53  58
+             employees to provide recommendations                 governance statement
+             or direction to the highest governance               steamships website  corporate           wwwsteamships
+             body                                                governance                               compgabout
+                                                                                                           uscorporate
+                                                                                                           governance
+45          linkage between compensation for          fully      2013 annual report  directors           pages 98  101
+             members of the highest governance                    report corporate governance             53  58
+             body senior managers and executives                steamships website  corporate           wwwsteamships
+             including departure arrangements and              governance                               compgabout
+             the organisations performance including                                                     uscorporate
+             social and environmental performance                                                        governance
+46          processes in place for the highest        fully      2013 annual report  corporate           pages 53  58
+             governance body to ensure conflicts of               governance statement
+             interest are avoided                                steamships website  corporate           wwwsteamships
+                                                                  governance                               compgabout
+                                                                                                           uscorporate
+                                                                                                           governance
+47          process for determining the composition fully       2013 annual report  corporate           pages 53  58
+             qualifications and expertise of the                 governance statement                     wwwsteamships
+             members of the highest governance                    steamships website  corporate           compgabout
+             body and its committees including any               governance                               uscorporate
+             consideration of gender and other                                                             governance
+             indicators of diversity
+48          internally developed statements of        fully      2013 annual report  corporate           pages 37  39
+             mission or values codes of conduct                 governance statement                     40 53  58
+             and principles relevant to economic                 steamships website  corporate           wwwsteamships
+             environmental and social performance                governance charters and policies        compgabout
+             and the status of their implementation                                                       uscorporate
+                                                                                                           governance
+                                                                                                           chartersand
+                                                                                                           policies
+49          procedures of the highest governance      fully      2013 annual report  sustainability a   pages 37  39
+             body for overseeing the organisations               message from the board of directors     53  58
+             identification and management of                     corporate governance statement
+             economic environmental and social                  steamships website  corporate           wwwsteamships
+             performance including relevant risks                governance sustainability               compgabout
+             and opportunities and adherence or                                                           uscorporate
+             compliance with internationally agreed                                                        governance
+             standards codes of conduct and                                                              httpwww
+             principles                                                                                   steamshipscom
+                                                                                                           pgsustainability
+                                                                                                           ourcommitment
+410         processes for evaluating the highest      fully      2013 annual report  corporate           pages 53  58
+             governance bodys own performance                   governance statement
+             particularly with respect to economic               steamships website  corporate           wwwsteamships
+             environmental and social performance               governance charters and policies        compgabout
+                                                                                                           uscorporate
+                                                                                                           governance
+411         explanation of whether and how the        fully      steamships follows the precautionary     na
+             precautionary approach or principle is               principle through implementation of
+             addressed by the organisation                       the sustainable development policy
+                                                                  and corporate code of conduct
+
+
+                                                                            2013 sustainable development statistics report      5
+
+part 1 gri g31 content index
+standard disclosures profile disclosures continued
+    profile         description                                 reported crossreference direct               pagelink
+    disclosure                                                           answer
+    4 governance commitments and engagement continued
+    412            externally developed economic              fully       2013 annual report                 pages 37  39
+                    environmental and social charters                     sustainability a message from the
+                    principles or other initiatives to                     board of directors
+                    which the organisation subscribes or                    steamships website  sustainability httpwwwsteamships
+                    endorses                                                                                   compgsustainability
+                                                                                                                ourcommitment
+    413            memberships in associations such as        fully       2013 annual report                pages 37  52
+                    industry associations andor national                 sustainability
+                    international advocacy organisations in
+                    which the organisation has positions
+                    in governance bodies participates
+                    in projects or committees provides
+                    substantive funding beyond routine
+                    members dues or views membership
+                    as strategic
+    414            list of stakeholder groups engaged by       partially   2013 annual report                pages 37  52 53  58
+                    the organisation                                       sustainability corporate
+                                                                            governance statement
+                                                                            steamships website  corporate     wwwsteamshipscom
+                                                                            governance sustainability         pgaboutuscorporate
+                                                                                                               governance
+                                                                                                               httpwwwsteamships
+                                                                                                               compgsustainability
+                                                                                                               ourcommitment
+    415            basis for identification and selection of   partially   2013 annual report                pages 37  52 53  58
+                    stakeholders with whom to engage                       sustainability corporate
+                                                                            governance statement
+                                                                            steamships website  corporate     wwwsteamshipscom
+                                                                            governance sustainability         pgaboutuscorporate
+                                                                                                               governance
+                                                                                                               httpwwwsteamships
+                                                                                                               compgsustainability
+                                                                                                               ourcommitment
+    416            approaches to stakeholder                   partially   2013 annual report                pages 37  52 53  58
+                    engagement including frequency                         sustainability corporate
+                    of engagement by type and by                            governance statement
+                    stakeholder group                                      steamships website  corporate     wwwsteamshipscom
+                                                                            governance sustainability         pgaboutuscorporate
+                                                                                                               governance
+                                                                                                               httpwwwsteamships
+                                                                                                               compgsustainability
+                                                                                                               ourcommitment
+    417            key topics and concerns that have           partially   2013 annual report                pages 37  52 53  58
+                    been raised through stakeholder                         sustainability corporate
+                    engagement and how the organisation                    governance statement
+                    has responded to those key topics                       steamships website  corporate     wwwsteamshipscom
+                    and concerns including through its                     governance sustainability         pgaboutuscorporate
+                    reporting                                                                                 governance
+                                                                                                               httpwwwsteamships
+                                                                                                               compgsustainability
+                                                                                                               ourcommitment
+
+
+
+
+6      steamships trading company ltd
+
+                                             part 1 gri g31 content index
+standard disclosures performance indicators
+profile    description                                  reported   crossreference direct answer                  page
+disclosure                                                                                                         link
+economic
+economic performance
+ec1          direct economic value generated and        fully      sustainable development statistics report       page 9
+             distributed including revenues operating             ec1
+             costs employee compensation donations               2013 annual report  financial highlights      pages 4  5
+             and other community investments                      financial section                               60  97
+             retained earnings and payments to
+             capital providers and governments
+market presence
+ec7          procedures for local hiring and            fully      sustainable development statistics report       page 9
+             proportion of senior management hired                  ec7
+             from the local community at significant               2013 annual report  sustainable                pages 39
+             locations of operation                               development selected group performance         40  46
+                                                                   highlights steamships sustainability focus
+                                                                   areas our people
+environmental
+energy
+en3          direct energy consumption by primary       fully      sustainable development statistics report       page 10
+             energy source                                         en3
+                                                                   2013 annual report  sustainable                pages 39
+                                                                   development selected group performance         47  49
+                                                                   highlights steamships sustainability focus
+                                                                   areas our environment
+en4          indirect energy consumption by primary     fully      sustainable development statistics report       page 10
+             source                                                en4
+                                                                   2013 annual report  sustainable                pages 39
+                                                                   development selected group performance         47  49
+                                                                   highlights steamships sustainability focus
+                                                                   areas our environment
+water
+en8          total water withdrawal by source          fully      sustainable development statistics report       page 10
+                                                                    en8
+                                                                   2013 annual report  sustainable                pages 39
+                                                                   development selected group performance         47  49
+                                                                   highlights steamships sustainability focus
+                                                                   areas our environment
+emissions effluent and waste
+en16         total direct and indirect greenhouse gas   fully      sustainable development statistics report       page 10
+             emissions by weight                                   en16
+                                                                   2013 annual report  sustainable                pages 39
+                                                                   development selected group performance         47  49
+                                                                   highlights steamships sustainability focus
+                                                                   areas our environment
+social labour practices and decent work
+employment
+la1          total workforce by employment type     partially     sustainable development statistics report       page 11
+             employment contract and region broken                la1
+             down by gender                                       2013 annual report  sustainable                pages 39
+                                                                   development selected group performance         40  46
+                                                                   highlights steamships sustainability focus
+                                                                   areas our people
+
+
+
+
+                                                                             2013 sustainable development statistics report       7
+
+part 1 gri g31 content index
+standard disclosures performance indicators continued
+    social labour practices and decent work continued
+    employment continued
+    la2            total number and rate of new employee          fully       sustainable development statistics report     page 11
+                   hires and employee turnover by age                          la2
+                   group gender and region                                  2013 annual report  sustainable              pages 39
+                                                                              development selected group performance       40  46
+                                                                              highlights steamships sustainability focus
+                                                                              areas our people
+    occupational health and safety
+    la6            percentage of total workforce            fully             sustainable development statistics report     page 11
+                   represented in formal joint management                     la6
+                   worker health and safety committees                        2013 annual report  sustainable              pages 39
+                   that help monitor and advise on                            development selected group performance       40  46
+                   occupational health and safety programs                   highlights steamships sustainability focus
+                                                                              areas our people
+    la7            rates of injury occupational diseases lost   partially   sustainable development statistics report     page 11
+                   days and absenteeism and number of                        la7
+                   workrelated fatalities by region and by                   2013 annual report  sustainable              pages 39
+                   gender                                                    development selected group performance       40  46
+                                                                              highlights steamships sustainability focus
+                                                                              areas our people
+    la8            education training counselling              fully       sustainable development statistics report     page 12
+                   prevention and riskcontrol programs                       la8
+                   in place to assist workforce members                      2013 annual report  sustainable              pages 39
+                   their families or community members                       development selected group performance       40  46
+                   regarding serious diseases                                highlights steamships sustainability focus
+                                                                              areas our people
+    training and education
+    la10           average hours of training per year per         partially   sustainable development statistics report     page 12
+                   employee by gender and by employee                         la10
+                   category                                                  2013 annual report  sustainable              pages 39
+                                                                              development selected group performance       40  46
+                                                                              highlights steamships sustainability focus
+                                                                              areas our people
+
+
+
+
+8      steamships trading company ltd
+
+                part 2 sustainable development statistics
+economic performance indicators
+direct economic value generated distributed and retained ec1
+ steamships group                                                              2013               2012            change
+ direct economic value generated
+ turnover                                                                        969652           1038195                7
+
+ finance income                                                                     5826                2348         14
+ share of profits of jointly controlled and associated companies                    9697              14188              32
+ subtotal                                                                        985175           1054731                7
+ economic value distributed
+ purchase of goods  services                                                    382001             486928               22
+ employee compensation                                                           166225             170954                3
+ payments to providers of capital                                                108220             121832               11
+ payments to government                                                            64930              75808              14
+ community investments                                                              1887                2201             14
+ subtotal                                                                        723263             857723               16
+ economic value retained
+ depreciation including impairment                                             213080               98379         117
+ profit after dividends                                                            48832              98629              50
+ subtotal                                                                        261912             197008           33
+
+procedures for local hiring and proportion of senior management hired from the local community at locations of
+significant operations ec7
+
+ steamships group                                                              2013               2012            change
+ total workforce                                                                    4000                4166             40
+
+ total staff in senior roles                                                          268                 225         160
+ citizen staff in senior roles                                                        126                 116          79
+  citizen staff in senior roles                                                       47                  52              50
+
+
+
+
+                                                                          2013 sustainable development statistics report          9
+
+part 2 sustainable development statistics
+environmental performance indicators
+total energy consumption en3  en4
+ steamships group                                                          2013                    change
+ en3                                    direct energy consumption gj                 915116        150
+
+ en4                                    indirect energy consumption gj     93441     84705        103
+
+
+total water withdrawal by source en8
+ steamships group                                                          2013       2012         change
+ water used kl                                                            576028    475095        212
+
+
+total direct and indirect greenhouse gas emissions by weight en16
+ steamships group                                                          2013       2012         change
+ scope 1  direct greenhouse gas emissions                                   78044      67852       150
+ tonnes co2 equivalent
+ scope 2  indirect greenhouse gas emissions                                 15054      13647       103
+ tonnes co2 equivalent
+ total greenhouse gas emissions                                              93098      81499       142
+ tonnes co2 equivalent
+
+
+
+
+10     steamships trading company ltd
+
+                part 2 sustainable development statistics
+social performance indicators labour practices and decent work
+total workforce by employment type employment contract and region broken down by gender la1
+                                                             2013                                         2012                        change
+ steamships group                                subtotal           of workforce            subtotal           of workforce
+
+ citizen fulltime  male                                2556                  639                2719                     653           60
+ citizen fulltime  female                                  951                238                1106                     265          140
+ citizen casual fte  male                                372                 93                     214                   51          730
+ citizen casual fte  female                                 8                02                        8                  02              0
+ noncitizen fulltime  male                                109                 27                     117                   28           68
+ noncitizen fulltime  female                                 4                01                        2                  00         1000
+ total workforce                                        4000                  100                 4166                     100            40
+
+
+total number and rate of new employee hires and employee turnover by age group gender and region la2
+
+                                                                          2013                                           2012
+ steamships group                                                   m                    f                       m                    f
+
+ 30                                                                     544                    306                  562                    306
+ 30 to 50                                                                362                    141                  336                    125
+ 50                                                                      55                      7                     29                     5
+ total                                                                   961                    454                  927                    436
+ total                                                                     961                                            454
+ turnover                                                                 371                                          411
+
+
+total percentage of total workforce represented in formal joint management  worker health and safety committees that
+help monitor and advise on occupational health and safety programs la6
+
+                                                             2013                                         2012                        change
+ steamships group                                subtotal           of workforce            subtotal           of workforce
+
+ total workforce                                        4000                  100                 4166                     100            40
+ number of employees on formal ohs                          288                 72                     322                   77         1056
+ committees
+ number of senior managers on formal ohs                    89                  22                       86                  21          349
+ committees
+
+rates of injury lost days and workrelated fatalities la7
+ steamships group                                                                         2013                   2012                change
+ days worked employee                                                                         4000                   4166               40
+
+ total fatalities employee                                                                          0                      1            1000
+
+ total lost time injuries employees                                                              37                     29               275
+
+ lost time injury incidence rate                                                                 093                    070             3288
+
+ lost days due to injuries                                                                       407                     214                90
+
+ lost time injury severity rate                                                                 1100                    738             4907
+
+
+
+
+                                                                                      2013 sustainable development statistics report           11
+
+part 2 sustainable development statistics
+education training counselling prevention and riskcontrol programs in place to assist workforce members their
+families or community members regarding serious diseases la8
+
+ steamships group                                                              2013            2012           change
+ number of health programs conducted                                                   52               60            133
+
+ number of attendance for health programs conducted                                 1488              1008        476
+
+
+average hours of training per year per employee by gender and by employee category la10
+
+ steamships group                                                              2013            2012           change
+ hours per employee                                                                   346            239        449
+
+
+
+
+12   steamships trading company ltd
+
+                                                                             notes  definitions
+na  data is not available as the indicator is new or not applicable or the processes to report on this indicator are still in
+development
+economic performance indicators
+finance income the interest income earned on deposits or loans to joint ventures and associates
+share of profits of jointly controlled and associated companies the groups share of profits from its joint venture and
+associated investments
+employee compensation includes salaries annual leave utilised superannuation housing medical and insurance
+excludes long service leave training clothing and amenities
+payments to providers of capital the dividends paid to shareholders and interest paid to providers of debt
+payments to government corporate income taxes paid to the png internal revenue commission
+community investments the financial cost excluding management and staff time of donations made to various community
+programs
+
+
+environmental performance indicators
+greenhouse gas emissions boundary
+sites covered the operational sites of all steamships divisions and businesses in which steamships has a controlling stake
+during the reporting period
+exclusions from the greenhouse gas inventory those business units in which steamships does not have a controlling stake
+scope 1 sources included in the inventory
+    	transportationloading of material products andor waste land and sea
+    	noncombustion gas uses
+scope 2 sources included in the inventory
+        purchased electricity from png power grid and from private generator sets
+methodology used total greenhouse gas emissions are the sum of direct and indirect emissions for the period measured in
+tonnes of co2 equivalent
+water withdrawal boundary
+sites covered the operational sites of all steamships divisions and businesses in which steamships has a controlling stake
+during the reporting period
+exclusions from the water withdrawal inventory those business units in which steamships does not have a controlling
+stake
+water sources included in the inventory total water usage from citytown reticulated water supply and bore water sources
+direct and indirect energy consumption boundaries
+sites covered the operational sites of all steamships divisions and businesses in which steamships has a controlling stake
+during the reporting period
+exclusions from the energy consumption inventory those business units in which steamships does not have a controlling
+stake
+
+
+
+
+                                                                                   2013 sustainable development statistics report   13
+
+notes  definitions
+environmental performance indicators continued
+direct energy sources included in the inventory
+           diesel
+           gasoline
+           liquefied petroleum gas lpg
+methodology used to measure direct energy consumption total direct energy consumption is the sum of direct energy
+sources used during the period measured in gigjoules gj
+indirect energy sources included in the inventory intermediate energy purchased and consumed including
+     	electricity from the png power grid and from private generator sets
+methodology used to measure indirect energy consumption total indirect energy consumption is the sum of indirect
+energy sources used during the period measured in gigjoules gj
+
+
+social performance indicators
+days worked employee  total number of employees that have worked during a fixed period eg year  this is used to
+calculate the lost time injury incident rate
+total lost time injuries employees the sum of all occupational injuries resulting in lost days
+lost days due to injury the number of calendar days that an employee is unable to work because of a work related injury
+lost time injury incidence rate the number of lost time injuries per 100 fulltime equivalent employees
+lost time injury severity rate the average days lost per lost time injury
+total workforce includes all employees on steamships payroll and paid as part of the regular payroll cycle contractors are
+defined as those individuals who are employed via a third party agreement or labour hire company and whose services are
+paid via an invoice
+employment type assumes the following classifications
+full time permanent salaried workers
+casuals fte temporary seasonal workers
+senior management all senior managers technical experts and executives key management personnel
+turnover all forms of termination such as resignation retirement and termination with cause turnover percentage is the
+number of permanent salaried workers terminated during the period against the total workforce
+formal ohs committees safety committees operating at the division and group level comprise representatives from
+divisions andor departments within divisions regularly scrutinize workplace behavior and safety performance to ensure
+ohs systems are robust and accurate
+health programs includes the facilitation of medical services to workers and others in the community and awareness
+programs that are carried out within the organization and in partnership with respective stakeholders government and
+ngos
+training training and development programs seek to blend inhouse educational initiatives for specific needs and skills
+with external opportunities for training in areas such as management occupational safety communication first aid and
+technicaloperational training includes plant and equipment operations and specialized training to meet industry and
+international standards
+
+
+
+
+14       steamships trading company ltd
+

@@ -1,0 +1,1714 @@
+sustainability report
+2006
+
+    sustainability
+    report 2006                contents
+                               president s messagecorporate philosophy                          p3
+                               envi ronm ental report
+
+                               environmental policy                                              p4
+                               environmental management and implementation structure
+                               environmental activity program and results                        p5
+                               environmental conservation measures through product design        p6
+                                development of leadfree products
+                                car navigation systems
+                                reduction in packing materials
+                                product downsizing
+                                green procurement
+                                use of waterbased paint
+                                control of chemical substances
+
+                               environmental conservation in the workplace                       p9
+                                zero emissions
+                                soil and water contamination prevention
+                                noise prevention
+                                global warming prevention
+                                risk control
+
+                               environmental audits and accounting                              p12
+                                environmental audits
+                                environmental accounting
+
+                               efforts at each site outside japan                               p13
+                                china
+                                thailand
+                                mexico
+                                europe
+
+                               environmental communication                                      p16
+                                environmental education and promoting awareness
+                                information disclosure
+                               soci al report
+
+                               contribution to local communities                                p17
+                               communication with customers
+                               relationship with employees
+                               approach to compliance
+
+                               views from readers                                               p21
+                                publication of this sustainability report
+
+                               site data
+
+                                                      scope of report
+                                 scope unless stated otherwise
+                                  this report covers the following business
+                                   ①iwaki main office and plant alpine electronics inc
+                                   ②head office and yoshima plant alpine manufacturing inc
+                                   ③onomachi plant alpine manufacturing inc
+                                   ④alpine precision inc
+                                   ⑤dalian alpine electronics co ltd
+                                   ⑥taicang alpine electronics co ltd
+                                   ⑦alpine china dalian rd center
+                                   ⑧alpine manufacturing thailand co ltd
+                                   ⑨alcom electronics de mexico sa de cv
+                                   ⑩alpine manufacturing of europe ltd
+                                 reporting period april 1 2005  march 31 2006
+
+
+1 sustainability report 2006
+
+      company overview
+
+
+
+
+registered name             alpine electronics inc                      consolidated sales
+
+                                                                                                               acoustic equipment business
+head office                 118 nishigotanda shinagawaku                             information and communication equipment business
+                            tokyo 1418501 japan
+                                                                            2005                      129075                       124907
+phone                       81334941101 main number
+                                                                            2004                     122964                 99814
+date of                     may 10 1967
+establishment
+                                                                            2003                       135029             77990
+
+paidin capital             25920000000 yen
+                            as of march 31 2006                          2002                             148856         73511
+
+
+representative director     seizo ishiguro president and ceo               2001                        137819          58271
+
+                                                                                   0        50000   100000 150000 200000 250000 300000
+principle business          production sales and services
+activities                  related to automotive products                                                                            million yen
+                            such as car audio equipment and
+                            car navigation systems                        consolidated results salesordinary profit
+
+                                                                                                                   ordinary profit        sales profit
+
+                                                                                                                              10355
+                                                                             2005
+                                                                                                                           9671
+
+                                                                                                                                11060
+                                                                             2004
+                                                                                                                             10148
+
+                                                                                                                              10469
+                                                                             2003
+                                                                                                                                 11320
+              car audio products head units
+                       cda9857ji                                                                                                   11773
+                                                                             2002
+                                                                                                                                      12306
+
+                                                                                                                 7380
+                                                                             2001
+                                                                                                                7021
+
+                                                                                       0    2000    4000     6000     8000 10000 12000 14000
+                                                                                                                                       million yen
+
+
+                                                                          fy 2005 regional sales consolidated
+
+
+                                                                            other regions 8                                              japan 15
+              car audio products amplifier
+                      pdx11000
+
+
+
+
+                                                                            europe 39
+
+
+
+
+                                                                                                                                  north america 38
+
+
+
+
+                                                car navigation systems
+                                                inahd55
+
+
+
+
+                                                                                                                                           sustainability report 2006   2
+
+                     president s messagecorporate philosophy
+
+                                  targeting global corporation
+                                  coexisting with environment and society
+                                  since its founding alpine has practiced contributing to society as a corporate
+                                  philosophy providing automakers and customers worldwide with mobile
+                                  multimedia products such as car audio and car navigation systems to help make
+                                  society and its members more affluent through worthwhile products
+                                   we believe that as a manufacturer a company is obligated to develop and
+                                  provide products that meet customer needs while maintaining corporate
+                                  awareness of such issues as environmental preservation we are thus committed
+                                  to manufacturing environmentfriendly products including the development of
+                                  ecoproducts the achievement of leadfree materials and the implementation of
+                                  green procurement using unique core technologies we have accumulated as a
+                                  car products specialist
+                                   we thank our customers and vendors for their kind understanding of our
+                                  approach and for their ongoing support
+                                  starting this fiscal year we will change the activity report from an environmental
+                                  report to a sustainability report to cover both environmental activities including
+                                  zero emissions and our response to local community compliance and
+                                  communication with customers
+                                   we will also launch a csr committee as a
+                                  corporate organization to further approaches
+                                  integrating       business   activities   with     those
+                                  contributing to society
+                                  as a member of the alps group alpine is working
+                                  to promote efficient sound corporate activities
+                                  fulfilling our public and social obligations
+                                   we hope you will find this report both interesting
+                                  and informative we also hope that it will provide
+                                  you   with    a    deeper    understanding       of   our
+                                  environmental and social activities                                         june 2006
+                                                                                  seizo ishiguro president and ceo
+
+
+
+
+                                                         corporat e ph ilosoph y
+                                        alpine values its members as individuals and is committed to forming
+                                        an energetic and attractive company where the work of quality is
+                                        enhanced
+                                        1respect for individuality
+                                          alpine seeks to foster the pride and enthusiasm of each employee
+                                          providing the means and opportunities for growth and encouraging
+                                          relationships built on mutual trust
+                                        2creating value
+                                          alpine eagerly takes up the challenge of maintaining technical leadership in
+                                          creating new values that will enhance the quality of human life
+                                        3 contribution to society
+                                          alpine is committed to providing superior products and thus contributing to a
+                                          fuller richer society
+
+
+
+
+3 sustainability report 2006
+
+e n v i r o nmental r e p o r t
+
+
+
+                environmental policy
+                in 1998 alpine established an environmental policy and implemented fullscale environmental
+                preservation activities based on the corporate philosophy contribution to society which we have
+                maintained since our founding in 2003 we revised our conventional policy to further step
+                up environmental preservation activities
+
+                                                         envi r on men t al policy
+                                                                       main policy
+                    our aim is to reconcile the often contrary goals of environmental friendliness and business
+                    efficiency by keeping our operations fast      light and transparent as we fulfill our social
+                    responsibilities as inhabitants and stewards of this planet
+                                                                     specific actions
+                    1fast  quickly answering the needs
+                        ① not only will we maintain domestic and international environmental standards
+                          we will take the extra initiative and responsibility to set and maintain new standards
+                        ② we will keep a close watch on trends throughout our society as well as the needs and wants of
+                          our customers concerning environmental practices and rapidly respond accordingly
+                    2light  less weight less waste
+                        ① we will develop products with full consideration of environmental safety and protection by decreasing the
+                          weight cutting down on use of harmful chemicals and improving resolvability
+                        ② we will conduct our daytoday business operations putting a minimal burden on the environmentpreventing
+                          pollution saving precious resources recycling wherever possible and decreasing the amount of waste
+                    3 transparent  communication and education
+                        ① regarding environmental practices we encourage and support individual initiative in all our employees and
+                          will actively educate them to improve their environmental awareness
+                        ② we also start environmental activities on our own initiative harmonizing with the environment and with society
+                    4 practical plans for environmental preservation
+                        ① we will implement a companywide comprehensive system for environmental protectionpreservation and
+                          promote continual reforms and technological renovations to those ends
+                        ② we will make concrete plans and achievable goals and devote the
+                          appropriate resources and funds necessary to realize them
+                                                                                                                                         april 1 2003
+                                                                                                                president and ceo      seizo ishiguro
+
+
+
+
+                environmental management and implementation structure
+                 in 1997 alpine set up the alpine environmental management committee the top organization for
+                 deliberating and controlling environmental problems throughout the alpine group
+                 we also set up the environmental management working group wg consisting of experts from
+                 different fields to cope with today s increasingly complex environmental problems
+
+             organization chart of environmental           president and ceo
+              management and implementation structure
+              as of april 2006                      director of environmental affairs                   internal environmental auditor
+
+                                                         head of environmental management                 main office of the environment
+
+
+                                                 alpine environmental management committee
+
+
+                                 energy management wg                           iwaki main office and plant alpine electronics inc
+
+                                environmental design wg                          head office and yoshima plant alpine manufacturing inc
+
+                                                                                     onomachi plant alpine manufacturing inc
+                               chemicals management wg
+                                                                                                   alpine precision inc
+                                pollution management wg                                                                                       asia
+                                                                                            dalian alpine electronics co ltd
+                                 waste management wg
+                                                                                            taicang alpine electronics co ltd
+
+                                                                                             alpine china dalian rd center
+
+                                                                                      alpine manufacturing thailand co ltd
+
+               alpine                                                                 alcom electronics de mexico sa de cv                north
+                                                                                                                                             america
+               environmental
+               management
+               committee                                                                alpine manufacturing of europe ltd                 europe
+
+
+
+
+                                                                                                                                                         sustainability report 2006   4
+
+                     environmental activity program and results
+                       we have selected subjects that require special attention from among the five aspects of product
+                      workplace management communication and social responsibility
+                      and implemented their improvement our targets and results in 2005 are detailed below
+                       although some targets have yet to be achieved we made general improvements in 2005
+
+
+
+
+                                product                                                                                                              workplace
+                      development of leadfree products                                                                                   zero emissions
+                      product downsizing                                                                                                  global warming prevention
+                      reduction in packing materials                                                                                       energy saving
+                      green procurement                                                                                                   noise prevention
+                      use of waterbased paint                                                                                            soil and water contamination
+                                                                                                                                            prevention
+                      control of chemical substances
+                                                                                                                                           risk control
+                      etc
+                                                                                                                                           etc
+                                                                              continual improvement
+                                           management                                                                                  communication
+                                    environmental accounting                    social responsibility                           environmental education and
+                                    environmental audits                                                                         promoting awareness
+                                                                               contribution to society
+                                    iso 14001 certification                                                                    implementation of information disclosure
+                                                                               compliance
+                                    etc                                                                                          etc
+                                                                               relationship with customers
+                                                                               relationship with employees
+                                                                               etc
+
+
+                               item                         goal                           fy 2005 target                                   fy 2005 results                      attainment
+                   prevention of                 reduction of co2 emission       power consumption reduced                      power consumption reduced                                   1
+                                                                                                                                                                                    
+                   global warming                promotion of energysaving      1 over fiscal 2004 as the basic unit           75 over fiscal 2004 as the basic unit
+                                                                                                                                                                                              2
+                   reduction of waste           zero emissions                   zero emissions to be continued                zero emissions to be continued                   
+
+                                                 improvement of                  improvement of information on                   improvement of information on
+                                                                                                                                                                                    
+                                                 environmentfriendly parts      parts materials 10000 items                    parts materials 10161 items
+                                                 improvement of                  expansion of models using                       models using ecopackaging
+                                                                                                                                                                                    
+                                                 packaging material              ecopackaging                                    at least 215
+                    development of
+                                                                                                                                 development of weight saving
+                    environmentfriendly        productdownsizing               development of weight saving                                                                       
+                                                                                                                                  2 models
+                    products
+                                                                                                                                 development of low voc
+                                                                                 development of low voc                                                                             
+                                                                                                                                  3 models
+                                                voc reduction
+                                                                                 development of supplementary                    stopping short of applying mass
+                                                                                                                                                                                    
+                                                                                 material for low voc manufacturing              production model
+                                                                                 creation of system for measuring                creation of system for measuring four major
+                                                 establishment of chemical        four major unwanted chemical substances       unwanted chemical substances
+                    construction of                                                                                                                                                 
+                                                 substance control               mercury cadmium lead hexavalent chromium   mercury cadmium lead hexavalent chromium
+                    environmental
+                    management                   creation of environmental       iso 14001 transition to                        completion of transition to iso 14001
+                                                                                                                                                                                    
+                                                 management                      fiscal 2004 certification                       fiscal 2004 certification
+                                                                                 ipa use reduced 5                             ipa use reduced 20
+                   reduction of chemicals       voc reduction in processes                                                                                                          
+                                                                                 over fiscal 2004                                over fiscal 2004
+                   promotion of                 publication of                   publication of                                  publication of
+                                                                                                                                                                                    
+                   information disclosure       environmental report             environmental report june                     environmental report june
+
+
+                                                       total electric power
+                      1 power consumption 
+                                                 consumedconsolidated net sales
+
+                      2 zero emissions  over 997 of the recycling ratio
+
+
+
+
+5 sustainability report 2006
+
+   environmental conservation measures through product design
+     as a production enterprise alpine is focusing on decreasing the impact of its products on the environment
+     we are working on developing products taking into consideration the entire life cycle of each product
+    including the selection of material method of transfer manufacturing process and customer use
+
+
+
+
+                                                                    environmental conservative product development concept
+development of leadfree products
+                                                                                                                           input energy sources resources
+ alpine launched a special project in 2002 to reduce lead
+adversely affecting the environment and health and have since
+then been working to implement leadfree solder in 2003 we
+released our first leadfree cd player in the north american
+
+
+
+
+                                                                                                       materials procurement
+
+
+
+
+                                                                                                                                                                  materials procurement
+market since then we have been applying leadfree solder to
+
+                                                                      natural resources
+almost all models developed in 2005 we will continue similar
+
+
+
+
+                                                                                                                                         production
+
+
+
+
+                                                                                                                                                                                                   production
+
+
+
+
+                                                                                                                                                                                                                                   recycling
+                                                                                          transport
+
+
+
+
+                                                                                                                                                      transport
+
+
+
+
+                                                                                                                                                                                                                transport
+
+
+
+
+                                                                                                                                                                                                                                               disposal
+                                                                                                                                design
+
+
+
+
+                                                                                                                                                                                          design
+
+
+
+
+                                                                                                                                                                                                                            use
+development in the future targeting leadfree solder for all
+products
+                                      leadfree solder
+                                      process
+
+                                                                                                                   supplies                                                        alpine                                         users
+
+
+
+
+                                                                                                                               output waste carbon dioxide
+                                                                                                       products placing less burden on the
+                                                                                                      environment throughout their life cycle
+     leadfree solder
+              product
+
+
+
+
+          car navigation systems                                              reduction in packing materials
+ in automobile travel searching for correct routs in unfamiliar    in most cases crating and packing materials are disposed of
+areas can result in wasting extra fuel and emitting co2           immediately after products are delivered to customers thus
+ alpine is working to develop highperformance car navigation      contributing to increased waste
+systems to make driving more comfortable and ecological by          to decrease the amounts of crating and packaging materials
+guiding drivers smoothly to their destinations our latest         used alpine is working to introduce more environment
+model implements new services such as databases or optimum         friendly soft cardboard packing
+routes through or around traffic                                    in fiscal 2005 we worked to reduce packaging waste and
+                                                                   improve efficiency in product transport by using soft
+                                                                   cardboard instead of conventional material for packaging
+                                                                   relatively heavy products while at the same time reducing
+                                                                   container size
+
+
+
+
+                                             car navigation                                                                                                                                                                 soft cardboard
+                                             systems                                                                                                                                                                        packaging
+
+
+
+
+                                                                                                                                                                                                                                         sustainability report 2006   6
+
+                                                                                  successfully achieved
+                                 product downsizing                               compactness and light weight
+                                                                                  are top in the industry
+                   alpine produces equipment to be used in automobiles and        attained by pursuing
+                  other vehicles and weight is a critical component of fuel      uncompromising tone quality
+                  consumption by developing smaller lighterweight products    and environmental
+                  alpine believes it helps customers improve fuel consumption
+                                                                                  performance
+
+                                                                                   in developing amplifiers we stud
+                                                                                  ied design from such viewpoints as sound system product
+                                                                                  environmental awareness tone development department
+                   speaker products
+                                                                                  quality and design environmental kiyoshi nakamura
+                   we are especially proud of our dd linear series speakers      awareness requires high parts integration in downsiz
+                  which are highly evaluated for their superb sound quality and   ing amplifiers and making them weigh less problems
+                  environmental friendliness thanks to their lighter weight and   we faced mainly involved heat from circuits and inter
+                  the unique technology we incorporate into their magnetic        ference with tone quality due to high integration to
+                  circuits                                                       solve them we introduced new circuit design technolo
+                                                                                  gies and parts successfully downsizing amplifiers by
+                                                                                  38 while retaining performance equivalent to or bet
+                                                                                  ter than conventional models we pride ourselves on
+                                                                                  achieving this rare combination
+
+
+
+                                               dd linear series speakers
+                                                                                  compact lightweight body
+                                                                                  solid with radiating function
+                                                                                  design enjoying popularity
+                   amplifiers                                                     i worked on designing the amplifi
+                   for pdx11000 we reduced cubic volume by 38 and weight      er exterior in circuit design heat
+                  by 32 compared to conventional models having equivalent        control is the main point in exter
+                  functions its tone quality enjoys a high reputation           ior design effectively releasing
+                                                                                  heat takes precedence i carefully
+                                                                                  reexamined amplifier material and
+                                                                                  shape to see how best to release structural product
+                                                                                  heat the structure is robust development department
+                                                                                  enough to survive use in the car       makoto sato
+                                                                                  environment including vibration and temperature
+                                                                                  change our customers evaluate our amplifiers as ex
+                                                                                  cellent in compactness light weight tone quality and
+                                                                                  design
+
+
+
+
+                                                                                  comprehensive weight saving
+                                                                                  use in a variety of models
+
+                  amplifier  conventional                    amplifier  new      components are the crucial core
+                                                                                  for precision replay software for
+                                                                                  dvds and cds components sig
+                                                                                  nificantly influence the weight and
+                        product downsizing has                                    size of products since common
+                        reduced the size and                                      components are used in a variety
+                        amount of packaging                                       of models in developing com
+                        material right                                         pact lightweight components i mechanism product
+                                                                                  worked to create digital manufac development department
+                                                                                  turing dm fully using simulation   keisuke abe
+                                                                                  so that developed components ensure function at least
+                                                                                  equivalent to that of conventional components regard
+                   dvds                                                          less of downsizing and weightsaving we thus devel
+                                                                                  oped components that replay dvds and cds ensuring
+                  product parts help determine size and weight
+                                                                                  high sound quality whatever the car environment in
+                  our newest dvds are smaller and weigh 15 less than their
+                                                                                  2006 we expect many of our products will be released
+                  predecessors downsizing techniques are vital to models         using such components
+                  produced by alpine
+
+
+
+
+7 sustainability report 2006
+
+               green procurement                                                use of waterbased paint
+ alpine issued its green procurement standard 1st edition in          we began using waterbased paint for coating to prevent the
+2002 and has worked in partnership with suppliers to optimize          evolution of volatile organic compounds vocs believed to
+environmental preservation activities                                 cause sickhouse syndrome before using waterbased paint
+ in fiscal 2005 we published a green procurement standard             we introduced new coating equipment and worked with paint
+4th edition and again asked suppliers for their cooperation in      manufacturers to jointly develop optimum paint and coating
+managing chemical substances contained in parts materials             techniques
+ since 2002 we have de                                                we are implementing waterbased paint while carefully moni
+veloped products free of                                               toring color tone and durability for models that do not use
+specific toxic substances                                              waterbased paint we dramatically reduce paint consumption
+thanks to the ongoing co                                              by improving yield through comprehensively improved quality
+operation of our suppli
+ers
+
+
+
+
+           alpine green procurement standard 4th edition
+
+                      green procurement
+                     evaluation of material suppliers
+                    obtaining iso 14001 certification
+                    detailed environmental
+                     conservation measures
+
+     suppliers     environmentally friendly materials        alpine
+
+                    no use of prohibited materials
+                    information on component
+                     substances
+                         evaluation of materials
+                                                                       coating equipment for waterbased paint
+
+
+
+
+   control of chemical substances
+
+              control of chemical product materials
+
+
+
+
+          information
+          on product                                                  substances contained in a      fluorescence xray analyzers
+            makeup                               check of                 product are examined     harmful substances such as lead and
+                                                 product                            immediately                cadmium are analyzed
+              parts                              materials
+           information                                                   regulations on chemical product materials such as the
+       component materials                                            european end of life vehicle directiveelv directiveand
+       component substances
+                                                                       the restriction of hazardous substances rohs directive
+                                                                       have been strengthened
+          information                                                   the toxicity of heavy metals such as lead considered vital to
+         on substance                                                  product manufacture raises the issues of environmental
+           regulations
+                                                                       pollution and human health alpine has built a database to
+                                                                       strictly control toxic substances in procured components and in
+                                                                       products under development to reduce the use of toxic
+                                                                       chemicals paying due consideration to substances contained
+                                                                       starting from the design stage we also introduced analyzers to
+            environmental design process                               measure substances in materials to prevent the unlikely
+                                                                       occurrence of harmful chemical substances being included and
+                                                                       are now implementing suitable inspection systems in 2005 we
+                                                                       introduced 2 analyzers
+
+
+
+
+                                                                                                                            sustainability report 2006   8
+
+                      environmental conservation in the workplace
+                        zero emissions measures began in april 2001 at the iwaki main office and plant
+                       and have been extended to alpine manufacturing and alpine precision
+                       the entire alpine group is working to reduce waste in all activities
+
+
+
+
+                                                                                                                        zero emissions attained
+                                        zero emissions                                                                    in 2001 alpine launched efforts working toward zero
+                                                                                                                        emissions and established the eco station facility to collect
+                                                                                                                        classified waste since then we have been recycling resources
+                   waste status
+                                                                                                                        by having individuals thoroughly classify waste
+                   t      waste disposal amount      recycling amount       recycling rate
+                                                                                                             
+                                                                                                              120
+                                                                                                                         in march 2005 we achieved zero emission for that month and
+                  1800
+                  1600                                                                                                 in 2005 we achieved recycling of 995 for the full year
+                                                                                                             100
+                  1400
+                                                                                    total waste generation
+
+
+
+
+                  1200                                                                                      80
+                  1000                                                                                      60
+                    800
+                    600                                                                                      40
+                    400
+                                                                                                             20
+                    200
+                      0                                                                                      0
+                            2001        2002        2003        2004       2005
+                                            2001        2002    2003    2004    2005
+                   waste disposal amountt 2896      11451 12973 14887 14874
+                   recycling amountt 673             5376   1833   261     68
+                   recycling rate        811        681    876    983    995
+                  data for 2001 is for the iwaki main office and plant only
+                   data for 2002 2003 2004 and 2005 includes that for alpine manufacturing and
+                   alpine precision
+
+                   details of waste generation in 2005
+                                                                           others 17249
+                     wood chips 343
+                                                                          papers 41612                                                                                eco station
+                     metals 13201
+                                                      total
+                                                      1494
+                                                                                                                            we introduced rawgarbage recycling equipment to
+                     plastics 26389                                                                                     recycle garbage discharged from inhouse dining
+                                                                    t
+                                                                                                                           rooms producing fertilizer neighboring farmers now
+                                                                                                                           cultivate organic vegetables using this fertilizer
+
+                                                              recycling equipment
+                                                              used paper is reused as
+                                                              cushioning material
+
+
+
+
+                                                                                                                            rawgarbage       after treatment        farmers
+                                                                                                                          recycling equipment
+                                   cushioning material
+
+
+
+                                                                                                                 waste management wg
+                       zero emissions attained now reduce                                                      production engineering department   fumio suzuki
+
+                       after we achieved zero emission for march 2005 we kept the recycling ratio high for all of 2005 i think
+                      this zero emission awareness is being ingrained in individual employees we are proud that our business
+                      department received an outstanding award for our achievements in the fukushima prefecture zero
+                      emission activity contest in january 2006 we are continuing to work on our approaches focusing on
+                      reducing the amount of waste itself
+
+
+
+
+9 sustainability report 2006
+
+linkage with waste disposal services                             outstanding award in zero emission contest
+ we are recycling discharged waste by working with waste dis     our zero emission achievements were recognized and our
+posal services recycling regularly checking recycling job     business department received an outstanding award in the
+sites to make sure that                                          zero emission activity con
+waste material dis                                              test sponsored by fukush
+charged from our own                                             ima prefecture
+company is recycled
+appropriately
+
+
+
+
+                                                                                                                   award ceremony
+
+                         inspection of waste disposal sites                                         winner s trophy
+
+
+                            paperless                              recycling of
+                            meeting hall                           polystyrene foam                         zero emissions defined
+                             since data in the                       we are recycling polystyr             by alpine
+                            form of hard cop                      ene foam as the raw materi
+                            ies need not be                        al for plastics improving            reducing the amount dis
+                            distributed paper                     transfer efficiency after          charged to the final waste dis
+                            consumption is                         melting and solidifying poly       posal plant to zero by promoting
+                            dramatically re                       styrene foam inhouse to           recycling over 997 of the re
+                            duced                                 minimize the cubic volume          cycling ratio
+
+
+
+
+                                                                  water quality status at each base
+soil and water contamination prevention                                               independent   iwaki yoshima onomachi alpine
+                                                                                       standard     office plant   plant precision
+
+ alpine has carefully implemented comprehensive risk control     hydrogenion         6182       71      72      73        69
+                                     to prevent soil and wa     concentration ph
+
+                                     ter contamination          bod mgl           60 or less    151     96     110        54
+                         contingency
+                                        oilretention walls
+                         training                                ss mgl            70 or less    203    120      20       260
+                                     around heavy oil tanks
+                                     prevent the outflow of      minimize risk
+                                     oil onto the ground         to prevent water contamination we have installed large water
+                                      yearly employee train     purification tanks to boost purification capabilities and also in
+oilretention                        ing programs provide        troduced systems so that water quality in each waterpurifica
+        walls                        for contingencies to        tion tank is monitored continuously
+
+
+
+
+               noise prevention
+
+  we installed noisy air compressors in soundproof rooms
+keeping noise from leaking by using optimal acoustical insula
+tion
+
+
+
+                                                                                                                   noise control
+                                                                                                                   construction
+
+
+
+
+                                                                                                                             sustainability report 2006   10
+
+                   among the environmental burdens that directly affect the workplace
+                  the greatest is energy consumption and waste disposal
+                   alpine is constantly implementing new activities to reduce these burdens
+
+                                                                                                                                                         boiler installation
+                                                                                                                                                         we changed air
+                             global warming prevention                                                                                                   conditioners to
+                                                                                                                                                         energysaving
+                                                                                                                                                         models
+                    to reduce greenhouse gases mainly co2 alpine is working to
+                   reduce electricity consumption in 2005 we improve electricity
+                   consumption nearly 7 although absolute consumption
+                   increased due to business upscaling and introducing new
+                   equipment
+
+
+                    trends in power consumption
+                 mwh          iwaki office     onomachi plant   yoshima plant   alpine precision
+                  20000                                                            18749                                               underroof insulation work
+                                               17268       17041      17778
+                                14909
+                   15000
+
+                   10000
+
+                    5000
+
+                         0
+                                2001            2002         2003        2004         2005
+
+                                                                                                     applying insulation film to
+                                                                                                     glass windows
+                                                                                                     by improving building insulation
+                                                                                                     we also improved airconditioning
+                                                                                                     efficiency
+
+
+
+                                                                                                                                          ventilation fans with sensors
+                                                                                                                                          we managed power supply
+                                                                                                                                          sources using sensors to
+                                                                                                                                          ensure switches were turned
+                                                                                                                                          off
+                   centralized equipment control
+                   energy is used effectively thanks to real time monitoring of power
+                   consumption and room temperature and controlling air
+                   conditioning water quality in waterpurification tank is also
+                   monitored continuously
+
+                   water saving                                                                                                           automating vending machine
+                   we installed watersaving equipment                                                                                    stoppage for night use
+                   to reduce water consumption in
+                   restroom facilities                                                                                                   automatic vending machines in
+                                                                                                                                          offices are all designed to go
+                                                                                                                                          off automatically at night when
+                                                                                                                                          they are least used
+
+
+
+
+                                                                                                                                                         firefighting
+                                                                                                                                                         training
+                                               risk control
+                                                                                                                                                            emergency
+                    to prevent or minimize damage and injury by fire alpine
+                                                                                                                                                         rescue training
+                   organized a selfdefense firefighting team that regularly takes
+                   part in practical training we also conduct training in
+                   emergency rescue several times a year under the direction of
+                   the fire department
+
+
+
+
+11 sustainability report 2006
+
+   environmental audits and accounting
+
+                                                                                                          14001 certification by a thirdparty organization certifying iso
+                 environmental audits                                                                     14001 registration once a year to conduct more objective
+                                                                                                          audits in fiscal 2005 each depot took screening tests to prove
+                                                                                                          their qualification for the iso 14001 2004
+  alpine implements internal audits twice a year to monitor
+environmental preservation activities
+ in internal audits we confirm compliance status regardless of
+whether we receive complaints from residents in addition to
+monitoring the application of environment management as of
+2005 no deviations from laws or regulations had been found
+and we had not received any complaints from residents
+ in addition to such internal audits we are assessed for iso
+
+                                                                                                                           iso 14001 audit by a thirdparty organization
+ iso 14001 certification
+           alpine manufacturing of europedate of registration april 5 2002
+                                                                                            hungary
+
+
+
+
+  alcom electronics de                                dalian alpine electronics co ltddate of registration may 5 2005
+   mexico sa de cv                                 alpine china dalian rd centerdate of registration jan 27 2005
+    date of registration dec 6 2001
+                                                       taicang alpine co ltddate of registration jan 21 2005
+                           mexico
+                                                                                                                                        china
+                                 iwaki main office and plant alpine electronics incdate of registration dec 4 1998
+                                 alpine precision incdate of registration dec 20 2002
+                                 head office and iwaki plant alpine manufacturing incdate of registration nov 22 2001
+                                 onomachi plant alpine manufacturing incdate of registration dec 4 1998
+
+                                                                                                                                                    japan
+
+
+
+                                                                                                               in 2003 alpine revised the environmental accounting
+           environmental accounting                                                                           guideline to apply it more effectively expanding the range to
+                                                                                                              cover affiliates alpine manufacturing inc and alpine
+                                                                                                              precision inc we have implemented environmental
+ in 2001 alpine prepared the environmental accounting                                                        management ensuring enterprise management and
+guideline and the iwaki main office and plant introduced                                                     environmental preservation
+environmental accounting
+
+ environmental preservation cost                                                           unit thousand yen          effects of environmental preservation efforts
+
+                                                                                                              related                                                                        related
+                                                                                                                           effects of environmental preservation measures                     page
+     classification                              major activity                      investment    cost        page
+                                                                                                                           improvement of                                   995 finished
+               pollution                                                                                                                                                                       6
+                                                                                                                           leadfree soldered parts                          improvement
+                         cost for pollution prevention                                80070      104735       10
+              prevention                                                                                                  polystyrenefoamfree packaging
+ business    global                                                                                                       excluding packaging specially                       100            6
+ area     environmental cost for global environmental conservation                                                        designated by customers
+                                                                                      39260      36431        11
+ cost      conservation                                                                                                    lowvoc compact lightweight
+                                                                                                                           development of components for leadfree solder     4 models         7
+              resource       cost for waste reduction treatment
+              recycling      and recycling                                                   0    17268         9
+                                                                                                                           development of other ecoproducts                    many           7
+ upstream                   recycling collection reproduction and
+ downstream cost             appropriate product disposal                                    0     2343         9
+                                                                                                                           improvement of parts information for             10161items
+                                                                                                                                                                             registered        8
+                                                                                                                           chemical substance management database
+                             cost required for obtaining and maintaining iso
+ administration cost         14001 certification and education and improvement               0    26767       1216
+                                                                                                                                                                              unit thousand yen
+                             rd cost for products related to
+ rd cost                                                                             12020      82937       679       economic effects derived from environmental                       related
+                             environmental preservation                                                                    preservation measures practical effects                           page
+                             cost required for environmental improvement such as                                           cost reduction derived from
+ social activity cost        preservation of natureafforestation beautification           0     8964        16         energy saving                                          800          11
+                             improvement of ambience and information disclosure
+                                                                                                                           cost reduction for
+ environmental               cost for restoration of polluted soil and                                                     cushioning materials                                 6440          9
+ remediation cost            other destruction of nature                                     0            0     
+                                                                                                                           sales of recycled materials                            116          10
+
+ total                                                                               131350      279445                 total                                                 7356
+
+
+
+
+                                                                                                                                                                                         sustainability report 2006   12
+
+                      efforts at each site outside japan
+                       below we introduce examples of environmental preservation in each country where alpine operates
+
+
+
+
+                                                                                     prevention of water pollution                  dalian alpine
+                                            china                                     we are implementing effluent treatment facilities with suffi
+                                                                                     cient capacity to respond to the increase in drainage volume
+                                                                                     with the scaling up of production facilities we are thus meet
+                   emission control                               dalian alpine     ing drainage standards more than adequately
+                    exhaust generated from the coating process could potentially
+                   pollute the environment or adversely affect employee health
+                   dalian alpine has improved exhaust treatment equipment
+                   such as exhaust ducts to prevent pollution and protect health
+
+
+
+
+                                                                                                                    wastewater treatment facility
+
+
+
+                                                                                     communication with local communities              dalian alpine
+                                                                                      dalian alpine took part in the world environment day spon
+                                                                                     sored by dalian city china
+                                                                                      the dalian government selected our office as an environmen
+                                                                                     tal model and honored our office for improvements in our of
+                                                                                     ficewide approach to environmental preservation
+
+                                                        exhaust treatment duct
+
+
+
+
+                   noise control                                  dalian alpine
+                    in fiscal 2005 we introduced sound insulation measures to
+                   reduce the impact on employees and the environment of noise
+                   produced by large press machines
+
+
+                                                                                                                          world environment day
+
+
+
+                                                                                     education and promoting awareness                dalian alpine
+                                                                                      we held a contest on calligraphy painting and photography
+                                                                                     on the environment open to all employees
+                                                                                      many employees contributed unique works and we selected
+                                                                                     winners and runnersup from among them
+
+
+
+
+                        measures against noise produced by press machines                                              painting winning first prize
+
+
+
+
+13 sustainability report 2006
+
+response to iso 14001 2004                    taicang alpine      greenery in the workplace                    taicang alpine
+ as one of the major productive bases in southern china tai       in fiscal 2005 we planted
+cang alpine is manufacturing products marketed domestically        nearly 60 of the premises
+and exported worldwide in fiscal 2005 we acquired certifica     of our office including
+tion for the 2005 revised edition of iso 14001 we are working     grass
+on productive activities giving sufficient consideration to the
+environment in the production process for example we cre
+ated facilities implementing leadfree solder
+                                                                                    greenery
+
+                                                                   environmentoriented design      alpine china dalian rd center
+                                                                    as a design development base in china the alpine china dal
+                                                                   ian rd center designs products delivered to customers
+                                                                   worldwide and is developing products with builtin environ
+                                                                   mental awareness
+                                                                    in 2005 we are commer
+                                                                   cializing many environ
+                                                                   mentoriented models
+                                                                   such as products using
+                                                                   leadfree solder
+
+
+                      acquisition of iso 14001 certification       environmental education
+
+
+
+                                                                   cooperation with local firms
+                                                                     alpine manufacturing thailand
+                       thailand
+                                                                    environmental issues are not only corporate issues
+                                                                    alpine manufacturing thailand is dealing with environmen
+prevention of air pollution considering health                    tal issues while sharing information with local firms
+  alpine manufacturing thailand
+
+  we installed a collector
+booth to prevent isopropyl al
+cohol used on the production
+line from being discharged
+into the air
+
+             collector booth                                          visiting local firms
+
+
+
+
+                        mexico
+reuse of surplus forming material for formed components
+  alcom mexico
+                                                                        surplus material         formingmaterial crusher
+ alcom electronics de mexico sa de cv is recycling surplus
+forming material in working toward zero emissions
+ we substantially reduce the amount of discarded materials by
+reusing surplus material for inhouse manufacturing jigs and
+tools even though surplus materials inevitably generated a
+surplus in forming components treated as waste
+
+                                                                   jigs and tools produced       mold after being crushed
+
+
+
+                                                                                                                        sustainability report 2006   14
+
+                                          europe
+
+                   development of environmentoriented coating process            zero emissions
+                                               alpine manufacturing of europe                                     alpine manufacturing of europe
+                     most paints use volatile organic compounds so emissions       since 2000 we have been working to recycle waste material
+                   from such compounds adversely affect the atmosphere and         targeting zero emission in 2005 the recycling ratio dropped
+                   health alpine manufacturing of europe is purifying emissions   compared to the previous year due to a sharp increase in the
+                   before they are discharged the equipment we have been          amount and type of waste material with expanded and
+                   using to purify emissions requires much water so we            increased production in 2006 we plan to cut waste material
+                   introduced centrifugal equipment that minimizes water           generation and create a route for recycling waste that will
+                   consumption to save water and prevent water contamination      improve the recycling ratio
+
+                                                                                    waste generation
+                                                                                     waste disposal amount   recycling amount     recycling rate
+                                                                                   t                                                                                   
+                                                                                   650                                                                                    100
+                                                                                   600                                                                                    90
+                                                                                   550
+                                                                                   500                                                                                    80
+                                                                                                                                                                          70
+
+
+
+
+                                                                                                                                               total waste generation
+                                                                                   450
+                                                                                   400                                                                                    60
+                                                                                   350
+                                                                                                                                                                          50
+                                                                                   300
+                                                                                   250                                                                                    40
+                                                                                   200                                                                                    30
+                                                                                   150
+                                                                                                                                                                          20
+                                                                                   100
+                                                                                    50                                                                                    10
+                                                                                     0                                                                                    0
+                                                                                          2001      2002      2003        2004     2005
+
+                                                        centrifugal equipment                                     2001    2002    2003     2004                         2005
+
+                                                                                    waste disposal amountt      1259   1120   1398    1236                        2415
+
+                                                                                    recycling amountt           805    1851   2582    2836                        3668
+                   harmonious coexistence with local communities                   recycling rate             390     623    649     696                        603
+                                               alpine manufacturing of europe
+                    as a corporate member of the local community we clean up
+                   neighborhood forests our employees and their families join
+                   local residents in helping to preserve beautiful forests
+                   collecting huge amounts of waste material such as pet bottles
+                   and pieces of glass and plastic
+                                                                                       as a production base in europe
+                                                                                       we are working to preserve the
+                                                                                       environment and contribute to
+                                                                                       the local community
+
+
+                                                                                       as a european production base
+                                                                                      alpine manufacturing of europe
+                                                                                      conducts business focusing on
+                                                                                      products to be marketed through         environmental
+                                                                                      out europe to reduce the environ         specialist
+                                                                                      mental load of waste and energy         jozsef bodos
+                                                                                      use in business we acquired iso
+                                                                                      14001 certification in 2002 since then we have been
+                                                                                      promoting environmental preservation
+                                                                                       to comply with increasingly stringent europeans regu
+                                                                                      lations we are implementing new technologies on pro
+                                                                                      duction lines and in waste material recycling we plan
+                                                                                      to increase our contribution to the local community in
+                                                                                      cluding cultural activities as a responsible corporate
+                                                                                      member of this community
+                                                       helping beautify forests
+
+
+
+
+15 sustainability report 2006
+
+     environmental communication
+       we provide inhouse education and promote awareness to continuously improve environmental
+      preservation we believe it is important that every employee deal with environmental preservation
+      as a member of the local community
+       we publicize alpine s environmental preservation efforts in clear ways disclosing to the public
+      the efforts we are making and the actions we are taking
+
+
+
+
+  environmental education and promoting awareness
+
+  we conduct specialized education for environmental staffers in
+ each department and training of internal environmental
+ auditors in addition to general environmental education given                         internal
+ to all employees                                                               environmental
+   employees in charge of                                                        auditor training
+                                                                              twoday course
+ jobs requiring advanced
+ knowledge are encouraged
+                                                                                employees obtaining public environmental qualifications
+ to obtain certification from
+ external organizations                                                                                                                                             number of       number of obtaining
+                                                                                                                             qualification
+                                                                                                                                                                   qualified persons qualification in 2005
+                                                                                                        person in charge of organic solvent work                                19                     2
+                                                                                                        person in charge of leadhandling work                                  11                     0
+                                                                               external qualification
+
+
+
+
+                                                          environmental                                 boiler engineer                                                           4                    1
+                                                           education for                                person in charge of dangerous substance handling                          9                    1
+                                                              employees                                 person in charge of controlling special industrial waste                12                     0
+                                                            representing                                sanitary manager                                                          6                    0
+                                                        each department
+                                                                                                        energy manager                                                            2                    0
+                                                                                                        fire prevention manager                                                   8                    1
+                                                      environmental
+                                                                                                        deputy auditor of environmental management                                5                    1
+                                                      training for incoming
+                                                      employees                                         internal environmental auditor                                          80                   15
+
+
+
+
+                                                                               alpine environmental report url
+                                                                               httpwwwalpinecomecorporateenvironmentindexhtml
+               information disclosure
+
+  alpine regards information disclosure as one of its most
+ important corporate activities we have made our
+ environmental reports available on our website since 2002 in
+ 2004 we issued an environmental report disclosing more
+ specific information so that more people could view our
+ environmental preservation activities you can also read our
+ environmental reports on past and present issues on our
+ website
+
+
+  number of hits received on alpine environmental reports
+number of visitors   japanese version   english version
+ 9000
+ 8000                                                                         previous alpine environmental reports
+ 7000
+ 6000
+ 5000
+ 4000
+ 3000
+ 2000
+ 1000
+     0
+             2002            2003             2004              2005
+
+          version             2002        2003       2004        2005
+          english             2531       2033      2970       2404
+         japanese             2360       3973      4720       5333
+
+
+
+
+                                                                                                                                                                                          sustainability report 2006   16
+
+ s o c i a l report
+
+
+
+                      contribution to local communities
+                    alpine encourages its employees to participate in activities such as cleaning up areas around the
+                   workplace and making blood donations in addition to supporting events in the local community and
+                   holding inhouse events open to local residents
+                    alpine has also set up a multipurpose vacation system that enables its employees to volunteer in
+                   environmental preservation activities
+
+
+
+
+                   blood donations at iwaki main office                             cleaning up beaches in iwaki city in fukushima prefecture
+                    alpine employees regularly take part in blood donations at the    alpine employees annually clean up local beaches with more
+                   office                                                           than 100 persons including employees and their families
+                    in 2005 we conducted blood donation three times with some      taking part in 2005 such activities help people better
+                   200 employees voluntarily donating blood                         understand the importance of the natural environment
+
+
+
+
+                   supporting local events                                          alpine summer festival
+                    in 2005 we supported a wind band contest in which many           employees and their families join district residents for the
+                   local students took part                                         alpine summer festival each august in 2005 we received over
+                                                                                     10000 visitors
+
+
+
+
+                  other activities for contributing to society
+                  cosponsoring district volleyball games
+                  donating a solar clock tower to iwaki city
+                  cleaning up within the industrial complex
+                  donating relief money to disaster areas
+
+
+17 sustainability report 2006
+
+   communication with customers
+ alpine provides a variety of services enabling customers to use our products for many years to come
+we continuously work to enhance customer satisfaction by developing quality products providing
+useful information and support and prioritizing customer satisfaction
+
+
+
+information center                                               customer satisfaction surveys
+ our information center responds daily to customer inquiries to    to provide better products and services to customers we
+ensure easy accessibility to callers we have improved            regularly conduct customer satisfaction surveys on the analysis
+computer technology integration cti the core of smooth         of how incoming calls are handled on aftersales support and
+customer communication to be ever ready to respond to            on operator response at the call center we are working to
+increasing inquiries we are receiving favorable comments         comprehensively improve services based on survey results
+from many customers who have found it easier to reach the        covering products support and services
+center for example cti is the telephone line managed by
+computer
+  we maintain a strict policy of protecting the personal
+information of our customers
+
+
+
+
+                                                                                      report on customer satisfaction surveys
+
+
+
+information center
+                                                                  return to manufacturing
+                                                                   we reflect the results of customer satisfaction surveys in a vari
+online support                                                   ety of ways handling problems immediately and implementing
+ our website provides information including instruction          improvement in response to general requests for example we
+manuals and wiring diagrams online for customers to view        regularly summarize findings and post them on a message
+ using it technology our website also provides information       board by theme we promote interdepartmental discussions to
+and data customers find useful such as acoustic field setting    help diversify and improve product manufacturing
+data by model wallpaper for tv monitors and faqs
+
+
+
+
+                                                                                                   customers voice database
+
+                                                   hp image
+
+
+                                                                  results of customer satisfaction activities
+                                                                   as a result of our sincere efforts to improve products and
+                                                                  services in response to customers voices alpine has received
+                                                                  a variety of awards for products or services we are
+                                                                  continuously promoting customer satisfaction efforts to meet
+                                                                  customers expectations
+                                                                   please feel free to click the following url to learn more about
+                                                                  our awardwinning record
+                                                                  httpwwwalpinecomecorporateawardindexhtml
+
+
+
+
+                                                                                                                          sustainability report 2006   18
+
+                      relationship with employees
+                    alpine works hard to maintain an open and sincere relationship with its employees
+
+
+
+
+                   employee fringe benefits                                           respect for diversified cultures
+                    as part of its welfare program alpine provides a counseling        because we do business on a global basis our employees
+                   room and training gym available to employees around the             come from different countries enjoying a variety of cultures and
+                   clock we also conduct regular medical examinations                ways of thinking
+                   seminars on health and lifestyle and other activities promoting     we believe that the most important way a company can realize
+                   the mental and physical health of our employees                    such diversity is to create a job environment and corporate
+                                                                                       climate in which the personalities of individual employees are
+                                                                                       respected understood and encouraged
+
+
+
+
+                                                                     training gym
+                                            available to employees 24 hours a day
+                                some 7000 employees used the gym in 2005 alone
+
+
+
+
+                   surveys on employee satisfaction
+                    alpine conducts annual surveys on employee satisfaction to
+                   create a job site that encourages employees in their work
+                   after analyzing and feeding back survey results we take
+                   appropriate measures and review progress each year
+
+
+
+
+                   inhouse events
+                    we conduct different inhouse events which employees can
+                   join freely and enjoy with coworkers on and off the company         communication between management and employees
+                   premises                                                            we hold monthly morning assemblies to give employees an
+                    in 2005 we held largescale sports events that attracted many     opportunity to communicate with management and vice versa
+                   employees who enjoyed recreation and exchange with                 worldwide at the same time we have introduced a system in
+                   coworkers                                                          which the president answers questions from individual
+                                                                                       employees directly every month we receive questions and
+                                                                                       comments from employees and use these to conduct
+                                                                                       constructive
+                                                                                       exchanges of
+                                                                                       opinions
+
+
+
+
+                                                                   sports events
+                                some 1300 employees and their families took part in                                     communication between
+                                                      events and enjoyed games                                       management and employees
+
+
+
+19 sustainability report 2006
+
+   approach to compliance
+ we believe that the most basic commitment to our stakeholders customers and local communities
+must be compliance with laws and regulations wherever we do business alpine implemented a
+compliance system to meet such commitments and plans to improve compliance based on daily work
+
+
+                                                                 flowchart of compliance
+             compliance system                                                         supervision
+                                                                                                        supervision
+
+                                                                      auditing officer             director and president         board of directors
+  in june 2002 we established a risk management and
+compliance committeercto comprehensively promote risk                                  instruction                  report
+management and compliance since 2003 we regularly hold                               cooperation                             report
+                                                                     internal auditing room             rc committee                instruction
+global rc meetings each september all directors and
+responsible personnel from group companies gather to share         auditing of            auditing of                 development of policy and
+specific risk and compliance                                     jobguidance            compliance                   compliance programeducation
+
+themes in their everyday work                                                                job execution department
+
+
+
+
+                                                                                              ethics hotline
+                                               rc committee
+                                                                  we have an ethics hotline over which auditors provide
+                                                                 consultation on ethical problems for employees and
+                                                                 subcontractors
+                                                                  the hotline functions as a point of
+              compliance audits                                  open contact so that those using it
+                                                                 can feel free to consult company
+  alpine conducts regular compliance audits to check             regulations guarantee the privacy
+compliance of corporate policy to business activities           and propriety of those seeking
+ in 2005 we conducted compliance audits at overseas bases       consultation
+and among domestic affiliates reporting results to the rc
+committee and top management quickly solving problems and
+improving conditions
+
+
+
+
+       ethicscompliance training
+ to help employees become more aware of compliance and ethics it is
+vital to conduct ongoing education and training alpine conducts
+compliance seminars as part of employee education in each department
+
+                                                                                                         seminar for incoming employees
+
+ compliance seminar
+  alpine conducts regular seminars for affiliates on business        legal compliance as a
+ related laws and regulations such as information protection          minimum obligation
+ laws antimonopoly regulations and subcontract law
+                                                                      compliance with the law in con
+                                                                     ducting business is the minimum
+                                                                     obligation a corporation faces we
+ incoming employee seminar                                           sell products in many countries
+  we conduct compliance training as a part of incoming               worldwide so we must deal with
+ employee training programs using case studies on engineer          compliance respecting the laws          rc committee
+                                                                     customs and cultures in each legal  intellectual
+ ethics for example trainees discuss ideal organized action
+                                                                     country our compliance activities property department
+ for solving problems for example in cases where engineers
+                                                                     are steadily bearing fruit within and     jun tanaka
+ face crucial decisions                                             outside japan and we cannot af
+                                                                     ford to lose our keenness in taking the lead in respond
+ administration and division chief seminar                           ing to changes over time
+  we hold annual lecture inviting field experts in compliance        we will step up the internal control function creating a
+ from the outside as speakers                                       system that minimizes mistakes in the future
+
+
+
+
+                                                                                                                                           sustainability report 2006   20
+
+                                                                               views from readers
+
+
+                     below are summarized opinions and statements collected                            understandability
+                    through questionnaires we have conducted among customers
+                                                                                                                       unsatisfactory 2     excellent 20
+                    who read alpine environmental report 2005                                              poor 5
+                     we will continue to reflect such opinions and advice in our                                                                    satisfactory 41
+                    environmental preservation activities as we prepare future
+                    sustainability reports
+
+                                                                                                            average 71
+                     result of questionnaire n139
+
+                    degree of overall satisfaction
+
+                                      unsatisfactory 3          excellent 29
+                                                                                                       contents
+                            poor 3
+                                                                                                                     unsatisfactory 1
+                                                                                                                                             excellent 39
+                                                                          satisfactory 53                   poor 6
+
+
+                                                                                                                                                     satisfactory 45
+                         average 51
+                                                                                                            average 48
+
+
+
+                                                  ① development of leadfree products
+
+                                                  ② zero emissions
+                                                                                                       length
+                         interesting items        ③ efforts at each site outside japan
+                                                                                                                         too short 2        too long 7
+                                                  ④ contribution to local communities
+                                                                                                            short 11                                        long 29
+                                                  ⑤ environmental activity program and results
+
+
+
+
+                                                                                                            sufficient 90
+                   representative comments and alpines response
+                   comment recycling efforts can be evaluated
+                            id like to make environmental efforts starting with what i can do now
+                                                                                                       design
+                   response thank you we will work to continue zero emission activities
+                             while working to reduce the generation of waste material itself
+                                                                                                                       unsatisfactory 1      excellent 37
+                   comment i feel the text is rather too long                                             poor 2
+                   response we will work to provide an easiertoread structure using simpler
+                             expressions and increasing the number of photographs and illustrations
+
+                   comment i feel that the report does not carry sufficient information on                                                          satisfactory 51
+                            environmentfriendly products
+                                                                                                            average 48
+                   response we have increased pages on environmentfriendly products and
+                             improved the content of articles
+
+
+
+
+                                                             publication of this sustainability report
+                                                              before publishing our third edition of the             preservation activities to fulfill our social
+                                                             environmental report this year we changed              obligations we will extend the range of our
+                                                             the title to    sustainability report  and              activities and improve the content of this
+                                                             worked to improve content adopting social              report to enable as many people as possible
+                                                             obligation in addition to conventional                  to understand the information it contains
+                       managing director                     environmental concerns the social                      your honest frank opinions and comments
+                       quality assurance and                 obligation of a corporation involves many               are invaluable in enabling us to do this
+                       environmental conservation
+                                                             concerns      including      environmental
+                       hirokuni tanabe
+
+
+
+
+21 sustainability report 2006
+
+site datajanuary 1 to december 31 each year
+
+head office alpine electronics inc                                                  dalian alpine electronics co ltd
+   118 nishigotanda shinagawaku tokyo                                                 no2 yingbin road jinzhou economical development district
+                                                                                            dalian city liaoning province china
+                                                2003         2004        2005                                                             2003         2004         2005
+electricity consumptionkwh                               278455     306650          electricity consumptionkwh                  9429243    11066920   10689040
+gas consumptionm3                                                                   gas consumptionm3                              23400        27798       20743
+heavy oil consumptionkr                              0          0           0          heavy oil consumptionkr                             0             0            0
+water consumptionm3                                                                 water consumptionm3                           102189       124424      118375
+amount of generated waste materialkg                                                amount of generated waste materialkg                                     
+amount of discharged waste materialkg                                               amount of discharged waste materialkg                                    
+final amount of disposed waste materialkg                                           final amount of disposed waste materialkg                                
+
+
+
+ iwaki main office plant alpine electronics inc                                     taicang alpine electronics co ltd
+   201 yoshima kogyodanchi iwakishi fukushima pref japan                             no200 shanghai east road taichang economic development zone
+                                                                                            taichang city jiangsu province china
+                                                2003         2004        2005                                                             2003         2004         2005
+electricity consumptionkwh                  8024690    8093330   8237970         electricity consumptionkwh                              1823428    4976924
+gas consumptionm3                              12868       13387      17134         gas consumptionm3                                                        
+heavy oil consumptionkr                            94           90          76         heavy oil consumptionkr                                                       4
+water consumptionm3                            61653       60508      60443         water consumptionm3                                                      
+amount of generated waste materialkg          429937      435082     472908         amount of generated waste materialkg                      352458      739786
+amount of discharged waste materialkg         398164      394385     447505         amount of discharged waste materialkg                     352458      739786
+final amount of disposed waste materialkg      41556       11131       3543         final amount of disposed waste materialkg                   1870        7502
+
+
+
+head office and yoshima plant alpine manufacturing inc                              alpine chinadalian rd center
+   310 yoshima kogyodanchi iwakishi fukushima pref japan                             86 ruanjianyuan road software park dalian city
+                                                                                            liaoning provincechina
+                                                2003         2004        2005                                                             2003         2004         2005
+electricity consumptionkwh                  2711121    3207512   3468227         electricity consumptionkwh                               841669     1411029
+gas consumptionm3                               1405        1296       1190         gas consumptionm3                                                       
+heavy oil consumptionkr                             0            0           0         heavy oil consumptionkr                             0           0             0
+water consumptionm3                             7511        9443       9329         water consumptionm3                                                   642864
+amount of generated waste materialkg          445347      537718     651441         amount of generated waste materialkg                                    
+amount of discharged waste materialkg         441957      534518     648291         amount of discharged waste materialkg                                   
+final amount of disposed waste materialkg      58312       11148         828         final amount of disposed waste materialkg                               
+
+
+
+onomachi plant alpine manufacturing inc                                              alpine manufacturing of europe
+   42 azaguchu minamitawarai oaza onomachi tamuragun                                h2051 biatorbagy vendel park budai utca 1 hungary
+   fukushima pref japan
+                                                2003         2004        2005                                                             2003         2004         2005
+electricity consumptionkwh                  3918800    4120010   4320430         electricity consumptionkwh                  4895880    5460312    7239548
+gas consumptionm3                               2831        2526       2515         gas consumptionm3                                                     346417
+heavy oil consumptionkr                           131          115          75         heavy oil consumptionkr                                                 
+water consumptionm3                            16510       14448      17815         water consumptionm3                                                    12335
+amount of generated waste materialkg          443393      344450     304908         amount of generated waste materialkg                                  537343
+amount of discharged waste materialkg         439043      341950     302908         amount of discharged waste materialkg                                 537343
+final amount of disposed waste materialkg      88256       18119       2603         final amount of disposed waste materialkg                             219809
+
+
+
+alpine precision inc                                                                 alcom electronics de mexico sa de cv
+   481 azasorimachi tairaakai iwakishi fukushima pref japan                        avenda industrial parque industrial del norte ciudad reynosa
+                                                                                            tamaulipas mexico
+                                                2003         2004        2005                                                             2003         2004         2005
+electricity consumptionkwh                  2324600    2266740   2479600         electricity consumptionkwh                  13792686   15197488   17880724
+gas consumptionm3                               4919        2766       2885         gas consumptionm3                                                        
+heavy oil consumptionkr                             0            0           0         heavy oil consumptionkr                              0            0            0
+water consumptionm3                             6359        5631       5436         water consumptionm3                                                      
+amount of generated waste materialkg          257435      183096     251198         amount of generated waste materialkg                                     
+amount of discharged waste materialkg         257435      183096     251198         amount of discharged waste materialkg                                    
+final amount of disposed waste materialkg       8197        1525         241         final amount of disposed waste materialkg                                
+
+
+
+alpine giken inc                                                                     alpine manufacturingthailandco ltd
+   158 yoshima kogyodanchi iwakishi fukushima pref japan                             210 moo 13 suwansorn road tambol dongkheelek
+                                                                                            amphur muang prachinburi province 25000 thailand
+                                                2003         2004        2005                                                             2003         2004         2005
+electricity consumptionkwh                  682227       650162     615237          electricity consumptionkwh                  3757850    4689879     5184430
+gas consumptionm3                                                                   gas consumptionm3                                 463          419           467
+heavy oil consumptionkr                           0             0           0          heavy oil consumptionkr                        80946       92244        79103
+water consumptionm3                                                                 water consumptionm3                            21471       30362        30838
+amount of generated waste materialkg                                                amount of generated waste materialkg           76440      183977       214754
+amount of discharged waste materialkg                                               amount of discharged waste materialkg          76440      183977       214754
+final amount of disposed waste materialkg                                           final amount of disposed waste materialkg      76440      183977       214754
+
+  in the table denotes nonapplicable items or where specific data is omitted because the item does not have data comparable to other sites
+
+
+
+
+                                                                                                                                                                  sustainability report 2006   22
+
+ issued by environmental office quality engineering department
+ 201 yoshimakogyodanchi iwakishi fukushima 9701192 japan
+
+
+ this report can also be viewed on alpine s homepage on the internet
+    u r l          httpwwwalpinecom
+
+
+
+100 recycled paper 70 whiteness was used for this report
+vegetable oil ink used for this report contains no petroleum solvent or volatile organic compounds vocs
+this report was printed using waterless printing that does not discharge any harmful waste in printing
+                                                                                                             published in august 2006
+
+                              let us know what you think
+thank you for reading alpine sustainability report 2006 to improve future activities and report
+content we would deeply appreciate your filling out the questionnaire below and returning it to the
+environmental office quality engineering department our website also accepts your reply to the
+questionnaire
+                                     url    httpwwwalpinecomecorporateenvironmentindexhtml
+
+1 what standpoint do you take in reading this report indicate below
+
+    customer        supplier       investor  institutional investor     resident in the vicinity of our office
+    press      person with responsibilities for csr in enterprise or organization
+    administration        student       ngo  npo          alpine employees
+    otherplease detail                                                                              
+
+2 were you aware of alpines environmental conservationsocial activities
+
+    yes       somewhat         no
+
+3 do you find the report satisfactory
+
+   content                      excellent       satisfactory  average           poor       unsatisfactory
+   length                       too long        long             sufficient  short  too short
+   understandability            excellent       satisfactory  average           poor       unsatisfactory
+   design                       excellent       satisfactory  average           poor       unsatisfactory
+   degree of overall satisfaction  excellent    satisfactory  average           poor       unsatisfactory
+
+4 what pages were you especially interested in
+
+            page
+  article                                                                       
+
+    reason
+
+
+
+
+5 how do you evaluate alpines environmental conservation  social activities
+
+    very good        good        average        somewhat insufficient            requires improvement
+
+6 what are your opinions or impressions of this report and alpines
+   environmental conservationsocial activities
+
+
+
+
+your cooperation is deeply appreciated please fill out the following if possible
+
+   area where you live
+    japan        asia other than japan          north america           south america          europe
+    oceania  africa           other areas
+
+fax 81246368274 alpine electronics inc quality engineering department section environmental office

@@ -1,0 +1,2010 @@
+
+contents
+
+01   editorial policy                                              editorial policy
+02   message from the top                                          hirose electric and its group companies are
+     company profile                                               undertaking csr activities to implement their
+                                                                   policy of upholding environmental protection
+03     company profile
+                                                                   and compliance this report has been compiled
+03     business summary                                            to present information about these activities
+     basic environmental policy                                    in a way that is easy for our stakeholders to
+04     basic environmental policy                                  understand it is also posted on our website to
+                                                                   make it accessible to many people
+     promotion of csr activities
+05     csr of the hirose electric group                            period covered by this report
+07     results of fiscal year 2013 and targets for fiscal          from april 1 2013 to march 31 2014
+       year 2014
+                                                                   companies covered by this report
+     development of ecofriendly products
+                                                                   hirose electric co ltd
+09     introduction to ecofriendly products
+                                                                   tohoku hirose electric co ltd miyako factory
+09     design and development                                      koriyama hirose electric co ltd koriyama
+     environmental management                                      factory
+11     environmental management structure                          ichinoseki hirose electric co ltd ichinoseki
+                                                                   factory
+11     iso14001 certifications
+                                                                   the activities of some of our overseas production
+12     environmental audit                                         sites are also covered in this report
+12     environmental education
+14     compliance with laws and regulations                        date of publication
+
+15     environmental impacts due to business activities            july 2014
+
+16     environmental objectives and targets and level of
+                                                                   this report refers to the following guidelines
+       achievement
+                                                                   ministry of the environment
+     activities to reduce environmental impacts                    environmental reporting guidelines fiscal year
+17     reduction of hazardous substances in our products           2012 version
+                                                                   gri sustainability reporting guidelines version 4
+18     reduction of energy consumption
+19     reduction of greenhouse gas emissions                       notations
+19     reduction of greenhouse gas emissions from                  for simplicity the following names have
+       transportation                                              sometimes been abbreviated as follows tohoku
+20     reduction of water usage                                    hirose electric co ltd is referred to as the
+                                                                  miyako factorykoriyama hirose electric co
+21     reduction of waste and recycling
+                                                                   ltd as thekoriyama factoryand ichinoseki
+22     reduction of paper usage                                    hirose electric co ltd as theichinoseki
+22     biodiversity conservation                                   factory
+23     reduction of environmental impacts on living environment
+                                                                   disclaimer
+23     preparedness for emergencies
+                                                                   this report includes not only past factual
+     communication
+                                                                   information but also plans and forecasts that were
+24     social action programs                                      formulated at the time of publication these data
+25     communication with stakeholders                             or statements were considered reasonable at the
+                                                                   time of writing based on the currently available
+     activities of the group companies to reduce
+                                                                   information and thus the outcomes of our future
+     environmental impacts                                         activities may differ from what is described in this
+26     activities of domestic factories to reduce                  report
+       environmental impacts
+28     activities of overseas sites to reduce environmental
+       impacts
+     history of social and environmental activities
+29     history of social and environmental activities
+
+
+
+
+                                          sustainability report   01
+
+                                                                                     message from the top
+
+
+
+
+as the guardian of a global brand
+we are undertaking csr and
+environmental activities by
+bringing together the knowledge
+and wisdom of many people
+
+
+
+
+                                                        tatsuro nakamura                kazunori ishii
+                                                        c hai r man                     p r esi dent
+
+
+
+   ever since they began to develop industryleading connectors with their own technologies hirose electric and
+its group companies have established a position that has earned them trust and recognition as a specialized
+manufacturer of connectors today we are stepping up our efforts to further expand our global business on a
+personal note and on behalf of the entire company we would like to express our deep gratitude to our customers
+and business partners without their unfailing support we would not be where we are today
+    looking forward we believe that the electronics field will see the ongoing creation of new functions and
+services they will arise not only from the technical progress being made in traditional lines of research but also
+from the emergence of new domains or the integration of different technical fields it is our firm conviction that
+as a part of the hardware that supports this development innovative connectors based on new concepts and
+technologies will be required more than ever before
+    by applying their marketing and innovative prowess hirose electric and its group companies will continue to
+develop and supply products that meet the evolving needs of the market
+
+
+corporate social responsibility csr and environmental activities
+    hirose electric and its group companies adhere to a guiding philosophy of being a small company that brings
+together the knowledge and wisdom of many people iea small company connecting wisdomthis concept
+encapsulates our wish to create innovative products by openmindedly garnering advice from the outside world
+and linking the wealth of information offered by external sources with the knowledge and insight we have nurtured
+internally
+    hirose electric applies this entrenched philosophy to implementation of its environmental activities we have
+been investigating and assessing the environmental impacts of all our activities related to our products and each
+of our manufacturing sites has sought to improve their business practice
+    our basic environmental policy includes promotion of corporate activities that take the preservation of
+biodiversity fully into consideration we are providing all employees with ongoing education on biodiversity
+preservation through elearning and a variety of events such as ecotours in addition we have stablished a csr
+committee which consists of fulltime directors and operating officers to ensure that the objectives of csr are
+integrated into all activities
+    we participated in global compact a un initiative in 2012 as a company involved in international business we
+will continue to strengthen our csr activities
+
+
+publication of sustainability report 2014
+    hirose electric and its group companies have produced the sustainability report 2014 in order to present our
+csr and environmental activities to stakeholders and the general public in a clear and straightforward manner we
+would appreciate it if you would read this report and give us your frank opinions so that we can continue to improve
+our activities in these areas
+
+
+
+
+                                            sustainability report     02
+
+company profile
+
+ company profile
+ name hirose electric co ltd                                         number of employees 3966
+ founded august 15 1937                                                               consolidated for the year ended march
+ paidin capital 9404000000 yen                                      address of head office
+ sales 124987000000 yen                                              523 osaki 5chome shinagawaku tokyo 1418587 japan
+        consolidated for the year ended march                         number of subsidiaries
+ pretax recurring profit 34747000000 yen                             four in japan and 13 outside japan
+        consolidated for the year ended march
+
+
+ changes in sales and profit                                             breakdown of sales by application area
+     billion yen                                        
+
+                          rate of return                                                           others 20
+     150                                                    50
+                                                                                                                                                    smartphones and
+                          pretax recurring proﬁt                                                                                                    cellular phones 37
+
+     120                  sales                             40                               fa control 2
+                                                                                      oﬃce machines 2
+                                                                                     wireline devices 2
+       90                                                   30                     applied electronics 3
+                                                                                                       2
+                                                                                      wireless devices 3
+       60                                                   20             computers and related products 4
+                                                                                                            1
+
+
+                                                                                     digital home appliances 5
+
+       30                                                   10                                                   tablets and           vehicles
+                                                                                                                 laptops 7            15
+
+
+         0                                                  0                        1 computers and related products laptops are excluded
+               2009    2010   2011         2012    2013                              2 wireless devices wireless communication devices excluding mobile phones
+
+
+
+
+ business summary
+                                       s first oneofakind connectors in japan in 1959 hirose electric and its
+     from the time they developed japan
+ group companies hereinafter referred to as the hirose electric group have been leading the industry in technology
+ as a developmentoriented enterprise our great strength has been industrial connectors which are more difficult
+ to develop than connectors for household use building on the technical knowhow we had accumulated in this
+ area we entered the consumer products market in the recent past and have been expanding the range of market
+ segments in which we do business we have received high recognition both within and outside japan the hirose
+ name is evolving into a global brand for connectors based on their capacity to meet a diverse range of international
+ requirements
+
+
+
+
+                      industrial electronics field                                              consumer electronics field
+
+
+
+
+                              vehicle field                                                     medical electronics devices
+
+
+                                                           sustainability report       03
+
+basic environmental policy
+
+ basic environmental policy
+     having been incorporated into a myriad of electronics devices connectors from hirose have become an
+                        s lives domestically and overseas as we consider preservation of the global environment to
+ integral part of people
+ be one of the primary responsibilities of a corporation that manufactures products that are distributed worldwide
+ the hirose electric group formulated its basic environmental policy in 2001 a revised version was released on
+ april 1 2011 adding our commitment to the preservation of biodiversity as we also hold this to be an important
+ facet of corporate responsibility our current environmental activities are based on this policy
+
+
+
+
+                                 basic environmental policy
+                                                                                       april 1 2011
+                                                                                       president
+                                                                                       hirose electric co ltd
+
+           as is fitting for a company whose slogan is creative links to world electronics the hirose electric
+       group recognize the importance of preserving the global environment as one of the basic business
+       challenges associated with its global ambitions we will therefore promote corporate activities that give
+       full consideration to conservation of the environment and biodiversity
+
+
+       1 we will investigate and assess the environmental impacts of development production marketing
+          and service activities in connection with our products and will establish and implement environmental
+          objectives environmental targets and environmental management promotion programs at each
+          office thereby promoting continuous improvement and prevention of pollution to the greatest extent
+          possible through the strategic deployment of technology and finance
+
+
+       2 we will comply with environmentrelated laws regulations and ordinances laws and regulations
+          concerning chemical substances contained in products and external requirements that we subscribe
+          to and define our voluntary control regulations in an attempt to maintain and improve environmental
+          preservation
+
+
+       3 we will promote the following activities as priorities in our business activities
+         design production and marketing of products that are environmentally friendly
+         control of the use of substances that impose a load on the environment and the prevention of
+           pollution
+         promotion of energy conservation through effective utilization of resources streamlining of
+           operations and reduction of waste
+         promotion of reduction of industrial waste such as metal chips and waste plastic and promotion of
+           recycling and reuse through segregation
+
+
+       4 we will provide incompany training on conservation of the environment and biodiversity and raise
+          the awareness of support and ask for cooperation from our business partners and clients
+
+
+
+
+                                               sustainability report     04
+
+promotion of csr activities
+
+ csr of the hirose electric group
+     the hirose electric group has incorporated its existing activities related to environmental preservation and
+ compliance into its corporate social responsibility csr and will promote csr as its main policy
+
+
+ participation in the un global compact
+     on february 9 2012 hirose electric and its group companies expressed their support for the global compact
+ advocated by the united nations and were registered as participating companies the global compact is a
+ voluntary initiative in which each company provides creative and responsible leadership acts as a good corporate
+ citizen and participates in the development of a global framework for realizing sustainable growth companies
+ participating in the global compact consent to support and abide by the ten essential principles of csr that cover
+ the protection of human rights the elimination of all forms of unfair and unjust labor practices the protection of
+ the environment anticorruption measures and are pledged to carry out activities to realize the above with the
+ commitment of their chief executive
+     participation in the un global compact prompted the hirose electric group as a good global citizen to
+ strengthen its ongoing csr activities in order to contribute to the development of a sustainable society
+
+
+
+ csr management                                                              hirose electric groups csr management
+
+     the csr management of the hirose electric group is founded
+ on three principles corporate governance compliance and risk                               corporate
+ management                                                                                   governance
+
+
+
+ corporate governance
+     we place the highest priority on strengthening our corporate
+ governance in order to maintain and enhance our longterm                                                     risk
+                                                                                  compliance
+                                                                                                            management
+ competitiveness in the global market we are also working to
+ increase our corporate value by streamlining our business
+ management and augmenting our profitability while discharging
+ our social responsibilities to stakeholders
+     as part of our commitment to ensuring the integrity of our business decisions hirose electric has invited
+ four independent people from outside the company to serve on the board of directors or as auditors from an
+ objective standpoint they oversee our business management practices and provide useful advice from a range of
+ perspectives
+
+
+ compliance
+     the hirose electric group fully recognizes the importance of fulfilling its social mission and corporate
+ responsibilities in the course of its business activities this is achieved by implementing management policy that is
+                     s core principles to meet these responsibilities in all situations in the constantly evolving
+ based on the company
+ management environment we have carefully formulated our guiding principles and criteria for action these are
+ contained in the hirose electric group code of conduct issued in march 2004 and every employee is expected to
+ follow it
+     being a global enterprise we revised this code of conduct in 2007 to make it applicable to those working at
+ our overseas sites at the same time to ensure that the code was understood and observed at these sites it was
+ translated into english chinese and the other languages spoken in all the areas in which we operate the code of
+ conduct was revised again in 2012
+     based on the code we have been providing ongoing compliance education to ensure that every employee
+ conducts themselves honestly and meets the highest ethical standards
+     we introduced a whistleblowing system in 2008
+
+
+
+
+                                                sustainability report   05
+
+risk management
+    to address a variety of risks that may affect the hirose electric group we established a risk management
+committee which consists of fulltime directors and operating officers and relevant organizations that report to it
+we share information about risks associated with our business activities and implement risk management
+    as a risk management measure we formulated our business continuity plan bcp in 2009 the types of risk
+assumed in the bcp include new strains of influenza in addition to major earthquakes and fires the bcp describes
+in detail the measures to be taken to prevent or mitigate operational risks so that our business can continue to
+operate or quickly resume operations in the event of an emergency or a disaster this plan is distributed to all
+employees
+    we also established our information security policy in 2008 we have provided elearning opportunities to our
+employees and others who handle information about the
+hirose electric group so that everyone concerned will                                     １ responsibilities to our customers
+                                                                                             guaranteeing product quality
+observe this policy in their business activities
+                                                                                          ２ responsibilities to our suppliers and contractors
+                                                                     social
+social responsibilities                                          responsibilities
+                                                                                          ３ responsibilities to our employees
+                                                                    assumed
+    the hirose electric group considers it important to          by the hirose electric
+                                                                        group
+assume the five social responsibilities shown in the figure                               ４    responsibilities to our stockholders and investors
+
+on the right
+    the responsibility of the company and its employees                                   ５ responsibilities to the general public
+is to provide highquality and highly valueadded products
+that meet the needs of our customers to deliver only the best products to our customers we have built a quality
+management system that covers all stages of business activities from product planning to design manufacture
+and saleservice and are working on quality improvement on a daily basis
+    to meet our responsibilities to our suppliers and contractors we have formulated the green procurement
+guidelines and the purchase management rules to ensure that we procure raw materials and equipment that are
+free from harmful substances and build a strong partnership with our suppliers so that we work with them closely
+in our business operations we also request our suppliers to establish their own csr systems
+    so that the company fulfils its responsibilities to its employees we are providing education and training on an
+                                                                                   s management principles
+ongoing and scheduled basis so that staff have a clear understanding of the company
+                                             s goals and develop the ability to work effectively in the global
+make concerted efforts to achieve the company
+arena in addition we are working to create a safe workplace environment that is conducive to both the mental and
+physical health of employees and taking measures to prevent accidents and deal effectively with emergencies
+                                                                                              s accountability
+    we meet our responsibilities to stockholders and investors by making sure that the company
+requirements are satisfied and disclosing required information accurately and in a fair manner such that a high
+level of management transparency is maintained in addition we are providing appropriate information at financial
+results briefing sessions and through our website in accordance with our information disclosure policy
+    our approach to meeting our responsibilities to the general public and local communities is defined in the hirose
+electric group code of conduct which requires us to interact with local communities and in the international
+sphere respect the culture and customers of the countries in which we operate and contribute to the development
+of these countries all our employees are working in accordance with this code of conduct in addition we are
+providing extensive support for art and cultural activities hirose international scholarship foundation in which
+the chairman of the board of hirose electric serves as director provides
+scholarships to students from other asian countries
+
+
+social responsibilities
+    the hirose electric group has established a csr committee consisting
+of fulltime directors and operating officers the committee makes decisions
+on important matters concerning csr furthermore we have appointed a
+person to be responsible for csr this individual is in charge of promoting
+csr activities a csr secretariat is responsible for administrative matters
+                                                                                              csr promotion meeting
+
+
+
+                                              sustainability report        06
+
+results of fiscal year 2013 and targets for fiscal year 2014
+     the following table shows the results of fiscal year 2013 and the csr targets of the hirose electric
+group for fiscal year 2014 the results are evaluated using a threegrade scale  targets achieved 
+relevant activities in progress and  targets not yet achieved we will continue these activities in order
+to fulfil our social responsibilities
+
+
+                                         targets for fiscal                results of fiscal                            targets for fiscal
+       item              issue                                                                            evaluation
+                                            year 2013                        year 2013                                     year 2014
+
+                                      b u i l d m e c h a n i s m s a n d we have rebuilt the csr                    build mechanisms and
+                     strengthen the organizational structure specific mechanisms in                                    organizational structure
+                     organizational to reflect the results of our intranet                                           to reflect the results
+                     structure for csr questionnaire surveys                                                          of csr questi o n n a i r e
+                     the promotion administered to customers                                                           surveys administered
+                         of csr     and of the csr audit                                                              to customers and of the
+                                                                                                                       csr audit
+
+                                      collect information about we have made it possible                               establish and disclose
+                                      laws and regulations on t o s h a r e i n f o r m a t i o n                      our policy on conflict
+                       deal with      conflict minerals and meet c o l l e c t e d b y r e l e v a n t                minerals
+                        conflict                                                                              
+1responsibilities     minerals
+                                      requests from customers    departments and quickly
+  to customers                                                    meet requests from
+                                                                  customers
+
+                                      e n h a n c e o u r a b i l i t y t o we have enhanced our                       enhance our ability to
+                                      respond to complaints ability to respond to                                      respond to complaints
+                                      o v e r s e a s  a n d c r e a t e complaints overseas and                     overseas and step up
+                       enhance        a m o d e l o r g a n i z a t i o n a l we are creating a model                  the activity level of the
+                       customer       structure in the customer organizational structure                              customer service section
+                      satisfaction    service section established in the customer service                              in shanghai
+                                      in shanghai                            section established in
+                                                                              shanghai progressing as
+                                                                              planned
+
+                               ask our suppliers to gain we have requested all                                         ask our contractors to
+                               a clear understanding of our major suppliers to                                         gain a clear understanding
+                               the hrs supplier code of implement the code of                                          of the hrs supplier
+                   promote csr
+                   procurement conduct and implement the conduct and received                                       code of conduct and
+                               code which conforms to positive replies from all                                       implement the code
+                               jeitas supply chain csr these suppliers
+2responsibilities             guidebook
+   to suppliers
+                                      build a business continuity w e h a v e a s k e d m a j o r                      build a business continuity
+                       request    structure throughout the suppliers to adopt bcr                                      structure throughout the
+                       partner    entire supply chain and a n d c h e c k e d t h e i r                               entire supply chain and
+                     companies to ask suppliers to promote current status using a                                     ask suppliers to promote
+                      adopt bcp business continuity       questionnaire survey                                       business continuity
+
+
+
+                                      p r o m o t e a n d s h a r e we have ensured that                               continuously promote
+                                      t h e u n d e r s t a n d i n g a n d employees understand                       the understanding and
+                       share our      i m p l e m e n t a t i o n o f o u r our core values by having                  implementation of our
+                      core values                                                                             
+                                      core values based on our e a c h d e p a r t m e n t h o l d                     core values based on
+                                      philosophy                           study sessions                            our philosophy
+3responsibilities
+                                     foster globally adaptable w e h a v e c o n d u c t e d                           continuously foster
+  to employees                       h u m a n r e s o u r c e s b y training to foster globally                       globally adaptable human
+                     foster globally continuing personnel and a d a p t a b l e h u m a n                              resources through
+                       adaptable
+                         human
+                                     language training              resources and language                           personnel and language
+                        resources                                    training in accordance                            training in accordance
+                                                                     with our annual training                          with an established
+                                                                     schedule                                         schedule
+
+
+
+
+                                                sustainability report            07
+
+                                         targets for fiscal                results of fiscal                               targets for fiscal
+       item             issue                                                                               evaluation
+                                            year 2013                        year 2013                                        year 2014
+
+                                     c o n t i n u o u s l y p r o m o t e we have provided overall
+                                     compliance training compliance training
+                                     provide elearning                  including information
+                                     promote understanding s e c u r i t y a n d t h e c o d e                 
+                                                                                                                         periodically send information
+                                     of information security               of conduct by offering
+                                                                                                                         to strengthen knowledge
+                                     e n s u r e o u r c o d e o f elearning twice a year
+                      promote                                                                                            about compliance
+                                     conduct is observed
+                                                                                                                         strengthen the promotion
+                     compliance
+                                      set guidelines to prevent w e h a v e c o l l e c t e d                            of compliance by executing
+                                      bribes being offered to information about laws                                     selfchecks during corporate
+                                      overseas civil servants and regulations in different                              ethics month
+                                      collect information and countries organized the                          
+                                      hold study sessions for information and held only
+                                      the people concerned     simple study sessions
+3responsibilities
+                                 c o n t i n u o u s l y p r o m o t e each business establishment                       continuously promote
+  to employee
+                                 industrial safety and health has formulated an annual                                   industrial safety and
+                      promote activities and enhance the plan based on the companys                                    health activities and
+                      industrial quality of these activities annual policy and improved                                 enhance the quality
+                                                                                                                
+                     safety and b y c arr y ing out pdc a the plan by periodically                                       of these activities by
+                        health   plan do check and act             checking its execution                           carrying out pdca plan
+                                                                                                                         do check and act
+
+
+
+                                 try to establish bcps in although we have tried                                         complete the establishment
+                                 overseas factories based t o e s t a b l i s h b c p s i n                              of bcps in overseas
+                      adopt bcp on the bcp for domestic o v e r s e a s f a c t o r i e s                               factories
+                     in overseas factories               this initiative was not                               
+                       factories                          completed within this
+                                                          fiscal year
+
+
+                                 c o n t i n u o u s l y p r o m o t e we have striven to provide                        continuously promote
+                                 i r a c t i v i t i e s i n c l u d i n g our investors with information                ir activities including
+                                 providing our investors in a timely manner through                                      providing our investors
+                                 w i t h i n f o r m a t i o n i n a quarterly financial results                         with information in a
+4responsibilities
+                     promote ir timely manner through briefings and our website                                         timely manner through
+  to stockholders                                                                                               
+                      activities quarterly financial results                                                             quarterly financial results
+  and investors                  briefing sessions and our                                                               briefing sessions and our
+                                 website                                                                                website
+
+
+
+
+                                      continuously carry out each business establishment                                 continuously carry out
+                                      social action programs has participated in activities                             social action programs
+                                                              involving local communities
+5responsibilities
+                    promote
+  to the general
+                   social action                                                                                
+  public and local
+                    programs
+  communities
+
+
+
+
+                                                   sustainability report             08
+
+development of ecofriendly products
+
+ introduction to ecofriendly products
+      the hirose electric group provides ecofriendly connectors to our customers who are active in a wide range of
+ fields including mobile devices communication and broadcasting computers automobiles consumer electronics and
+ measurement and control we are committed to complying with both domestic and foreign laws and regulations and
+ meeting customer demands for halogenfree products
+      furthermore we have miniaturized connectors by adopting the latest manufacturing technology in all the above
+ fields and are working to reduce the amount of raw materials used in our products
+
+
+
+ design and development
+      we are incorporating customer requirements and taking
+ into account environmental impacts right from the product
+ development stage we conduct design reviews using 3d graphics
+ to improve efficiency and reduce the use of paper this in turn
+ leads to a reduction of the development period and costs
+
+
+
+
+                                                                                                          design review fmea
+
+
+
+                                                                         design and
+                                                                     development process
+         sales                    customer
+          input                 requirements                                                                                               2
+
+                                                                                                                             design fmea
+                                                          what surface treatment will be
+                                                          used
+    for how many years       to what extent must                                              what will be made
+    will it be used         the product be able to
+                             withstand harsh              what materials will be used
+                             environmental conditions
+                                                                                            design speciﬁcation                 3
+
+                                                                                                                               dr meeting
+    where will it be used                                what pulling mechanism will be
+                             how strong must
+                             the connectors be
+                                                          used                                standards used
+                                                                                                  in design
+                             what connector engagement    how much pressure will be
+    who will use it                                      applied                                                            prototyping and
+                             functions are required
+                                                                                                                             product evaluation
+    what are
+                             what environmental issues
+    the environmental
+                             must be addressed
+                                                          what chemicals are used                       feedback
+     issues                                                                                                                 pdca cycle 
+
+
+
+            process design
+                           jig and tool design                                                                       formulate hypotheses and
+                                                         1
+                                                                                         the production division       verify them through
+                 veriﬁcation using cpk                                                 deﬁnes important              the pdca cycle
+                                                                                         management points             improve precision of fmea
+                                                                                         itemmethodstandard
+
+
+    feedback                                                                                                        transfer process
+                                                                                                    transfer documents and meetings
+
+                                                                    manufacturing process
+
+
+  1 cpk process capability index
+  2 fmea failure mode and effect analysis
+  3 dr design review
+
+
+
+
+                                                                sustainability report             09
+
+     ecofriendly product ①
+
+                   connector for a flexible printed circuit
+                   board fpc or a flexible flat cable ffc
+                   fh series
+                        the fh series connector is compact with a low profile and has a unique locking
+                   structure which makes it capable of withstanding the pulling forces fpcffc are subjected
+                   to it is widely used in smartphones and tablets which are becoming increasingly thinner
+                   and lighter it contributes to reducing power consumption associated with these terminals
+                        in developing products we try to reduce environmental impacts by selecting materials
+                   that are halogenfree and conform to the restriction of hazardous substances rohs
+                   directive
+                        we will continue to contribute to environmental protection by selecting ecofriendly
+yasuhiro kotani
+fh engineering     materials and designing products in such a way that makes it possible to use these
+department         materials
+
+
+
+
+     ecofriendly product ②
+
+                   compact complex connector
+                   bm24 series
+                       the connector of this series has two types of pins signal
+                   pins and power pins is compact with a low profile and is
+                   used to connect one printed circuit board with another in
+                   conventional connectors power is supplied through multiple signal pins by amalgamating
+                   these power lines into a single pin we have reduced the mounting space and the amount
+                   of materials metals resins and boards that need to be used
+                       we have reduced environmental impacts by selecting materials that are halogenfree
+                   and conform to the restriction of hazardous substances rohs directive by selecting mold
+                   resin materials and metal materials that are used in other series we have reduced the
+yohei hasegawa     disposal of leftover materials in addition by standardizing the distribution of connectors we
+ncb engineering    have reduced co2 emissions
+department             we will continue to contribute to the reduction in the amount of raw materials used in
+                   our products by selecting ecofriendly materials and designing products in such a way that
+                   makes it possible to use these materials
+
+
+
+
+     ecofr iendly product ③
+
+                   df14 connector magazine
+                   df14 series
+
+                        we use different packaging methods for different products one packaging method uses
+                   a stickshaped magazine into which connectors are inserted
+                        the material that has customarily been used most often for this magazine is polyvinyl
+                   chloride pvc however since pvc emits dioxin when it is incinerated or when incineration
+                   is incomplete to be exact instead of pvc we switched to polystyrene ps as the material
+                   used for the df14 connector magazine
+                        by reducing dioxin emissions in this way we are helping to protect the environment
+                        with global environmental protection a major priority we will continue to focus our
+takeshi kumazawa
+ncw engineering
+                   attention on effective measures
+department
+
+
+
+
+                                        sustainability report    10
+
+environmental management
+
+ environmental management structure
+     the hirose electric group organized an environmental management committee headed by the chairman of the
+ board of directors of hirose electric and built an environmental management system ems the system spans four
+ organizations the groups within the head office of hirose electric and the three domestic factories ichinoseki hirose
+ electric tohoku hirose electric and koriyama hirose electric
+                                                 s overall targets which conform to our environmental policy individual
+     in accordance with the hirose electric group
+ factories divisions and departments set their own objectives and targets and engage in their own environmental
+ management activities each month individual factories and divisions measure progress toward the achievement of their
+ objectives and targets and share this information with other organizations this information is reported to management
+ each quarter and individual organizations receive instructions from management on how to make improvements where
+ this is deemed to be necessary
+     the environmental management committee which consists of management and division directors is convened
+ monthly to share information and perform a management review
+
+ environmental management system organization
+
+                                                                                                 chairman
+
+
+                                                                                        chief environmental oﬃcer
+
+
+                                                           internal environmental auditor
+                                                                                                                  environment management oﬃce
+
+
+
+
+         head oﬃce            ichinoseki hirose electric     tohoku hirose electric    koriyama hirose electric                                            yokohama center
+     administration group      ichinoseki factory          miyako factory          koriyama factory                           sales  marketing group engineering group production group
+                                                                                                                                      quality assurance department production techniques department
+
+
+                                                                                                                                                          division director
+        division director         division director             division director         division director
+
+                                                                                                                                          division environmental management leader
+     division environmental   division environmental         division environmental    division environmental
+      management leader        management leader              management leader         management leader
+                                                                                                                  sales  marketing     engineering          production        quality assurance   production techniques
+                                                                                                                        group              group               group             department             department
+
+                                                                                                                   environmental       environmental       environmental        environmental            environmental
+                                                                                                                      activity            activity            activity             activity                 activity
+                                                                                                                  promotion leader    promotion leader    promotion leader     promotion leader         promotion leader
+
+                                                                                                                                                                                                         kikuna oﬃce
+                                                                                                                  kansai chubu sales
+                                                                                                                  branch    oﬃce
+                                                                                                                                                                                                   environmental activity
+                                                                                                                                                                                                     promotion leader
+
+
+
+
+ iso14001 certifications
+     ichinoseki hirose electric acquired iso14001 certification in 1999 the certification was extended to cover
+ koriyama hirose electric and tohoku hirose electric in 2000 in 2002 the hirose electric group including the
+ three domestic factories acquired an integrated certification this demonstrates our commitment to environmental
+ protection
+     our overseas group companies are making concerted efforts to acquire iso 14001 certification
+
+
+                                                                                                                                        1999             ichinoseki hirose electric co ltd
+
+                                                                                                                                        2000             koriyama hirose electric co ltd
+                                                                                                                                                         tohoku hirose electric co ltd
+
+                                                                                                                                        2002             the certification was extended to cover
+                                                                                                                                                         hirose electric co ltd including the
+                                                                                                                                                         domestic three factories and it was
+                                                                                                                                                         converted to an integrated certification
+
+                                                                                                                                        2004             hirose electric malaysia
+                                                                                                                                                         pthirose electric indonesia
+                                                                                                                                                         hirose electric dongguan china
+
+                                                                                                                                        2009             hirose electric suzhou china
+
+
+
+
+                                                                                      sustainability report                      11
+
+environmental audit
+    the hirose electric group carries out an internal environmental audit to make sure that its environmental
+management system is working and being properly maintained in accordance with iso14001 in fiscal year 2013
+the audit was conducted from august 1 to 30
+    this internal audit identified six problems but none of these were major such as significant deviations from the
+plan or problems affecting the entire system all the identified problems have since been rectified
+    to maintain and renew iso14001 certification we undergo periodic external reviews in fiscal year 2013
+the periodic review and change review were carried out from december 10 to 12 these reviews did not identify
+any problems the reviewers confirmed that our registered environmental management system is being properly
+maintained
+
+
+
+
+                        internal audit                                      external audit
+
+
+
+
+environmental education
+    the hirose electric group provides environmental education for all staff so that every employee understands
+the importance of environmental protection activities and has a clear understanding of his or her responsibilities
+when engaging in these activities
+    in addition we provide specialized education for those personnel who are involved in any work that could
+potentially have a significant impact on the environment
+    we also raise the awareness of staff regarding the importance of biodiversity by providing elearning on the
+subject and hosting ecotours that bring them into direct contact with nature
+
+
+
+
+                  education for designers                            education for new recruits
+
+
+
+
+                   education at a factory                           elearning about biodiversity
+
+
+
+
+                                            sustainability report   12
+
+      voice s
+
+                      seminar attended seminar on environmental laws and regulations
+                           my knowledge about environmental laws and regulations had been fragmentary
+                      this seminar enabled me to acquire the knowledge i needed in a systematic manner
+                      i had thought that environmental considerations and design were independent of
+                      each other but i have realized that when we verify our design we must be aware
+                      that the environment is one of the functional requirements for the product we
+                      design the seminar drove home the realization that even a small mistake can lead
+                      to a major complaint or compensation for damage as a design draughtsman i will
+                      coach the people in my section on environmental laws and regulations
+                           i realized that companywide activities involving the production sales and
+osamu miyamoto        engineering divisions are essential to sound environmental management however
+optical engineering
+                      verification during the development stage must be led by the engineering division so
+department
+                      that when new products are in the process of being developed the preservation of
+                      the global environmental is taken into consideration
+
+                      seminar attended seminar on environmental laws and regulations
+                           before i attended this seminar i had assumed that effective measures to prevent
+                      failures were to include the ability to withstand harsh environmental conditions
+                      among the design fmea items and to use parts that comply with the green
+                      procurement standard
+                           however as was pointed out during this seminar our process fmea meetings
+                      did not examine possible inclusion or attachment of foreign materials during
+                      production
+masahiro tsuchida          i will endeavor to raise my awareness about the environment at every stage
+r f engineering       of product development and share my recognition of these issues with all the
+department            members concerned
+
+                      seminar attended new recruit training
+                           in the environmental seminar i learned many things about environmental
+                      problems and pollution and thought of how i can contribute to environmental
+                      activities
+                          the environmental management section to which i belong examines chemicals
+                      contained in our products in light of the rohs directive the european union        s
+                      reach regulation regulation concerning the registration evaluation authorization
+                      and restriction of chemicals and individual customer     s requests and provides
+                      information about chemicals used in the form of certificates or reports so that our
+                      customers can use our products with the assurance that they are safe
+risa ishibashi            i realized that my daily work which ensures that our customers are supplied
+environment           with only ecofriendly products contributes to environmental protection this raised
+management office     my awareness about the environment
+                          as a member of hirose electric i will continue to take steps that ensure that the
+                      environment is protected
+
+                      seminar attended new recruit training
+                          by attending the environmental seminar i was able to learn what specific
+                      measures the hirose electric group is taking to protect the environment
+                          i also learned that the hirose electric group companies are working hard to
+                      make sure that their business and manufacturing practices comply with the rohs
+                      directive the reach regulation and other laws and regulations i realized that
+                      not only hirose electric as a corporation but i as an individual must work hard for
+                      environmental preservation
+                          in addition i learned about biodiversity and renewed my understanding that
+                      human actions that destroy the environment have significant impacts on many living
+ayami kon             things including human beings who are all dependent on a healthy ecosystem
+global marketing          this seminar prompted me to think that i must do everything i can to preserve
+department
+                      the environment for example separating trash into categories and taking a reusable
+                      bag with me when i go shopping
+
+
+
+
+                                          sustainability report   13
+
+compliance with laws and regulations
+
+     the hirose electric group is ensuring compliance with the relevant
+laws and regulations through the following activities we have created
+lists of all the environmentrelated laws and regulations that apply
+to hirose electric and individual factories we have also created
+lists database of documents that must be submitted to the relevant
+government offices to prevent any omissions when we submit such
+documents
+     we periodically ascertain compliance with the relevant laws and
+regulations based on the assessment standards we are legally required
+to comply with and also check compliance with any agreements we
+have concluded with municipalities
+     in addition to the above we are reinforcing our supervision through              list of environmental laws and
+a monthly environmental patrol at each factory the patrol team                     regulations and lists of documents to
+checks whether our daily activities comply with the relevant laws and                            be submitted
+regulations                                                                                      database
+     as a result no significant violation of the relevant environmental
+laws and regulations was found during fiscal year 2013
+
+
+
+
+        voice
+
+    environmental patrol
+
+        as part of its ems activities the tohoku hirose electric group conducts patrols in the presence
+    of those concerned to ensure that industrial waste is separated into the specified categories
+    thanks to the meticulous separation of plastic materials used in packaging which are considered
+    to be recyclable valuables there are no complaints from buyers regarding our handling of waste
+    and only valuable resources are brought to the depository
+         thorough separation of waste products to
+    reduce industrial waste is one of the topics in
+    our annual environmental education plan and all
+    employees receive training regarding this issue
+    patrols are carried out on garbage collection days in
+    the company of those responsible for separating the
+    waste correctly
+         while the amount of industrial waste was the
+    same in fiscal years 2011 and 2012 it was reduced
+    by 18 in fiscal year 2013 due the comprehensive
+    separation initiatives implemented this year we will
+    try to further reduce the amount of waste in fiscal
+    year 2014
+
+
+                                                                     patrol in the presence of those concerned
+                                             ｔ
+                                             25
+
+
+                                             20
+
+
+                                             15
+
+
+                                             10
+
+
+                                              5
+                                                                                               kinue sasaki
+                                              0
+                                                   2010   2011   2012        2013              quality assurance department
+                                                                                               tohoku hirose electric
+         list of types of waste              amount of industrial waste
+
+
+
+
+                                             sustainability report      14
+
+  環 境 マネジメント
+
+
+
+environmental impacts due to business activities
+    we are making sure that our business activities are ecofriendly by ascertaining what impacts
+these activities have on the environment
+    activities with the potential to cause environmental impacts during fiscal year 2013 are listed below
+
+
+
+        input                                                                                      output
+
+     energy
+                 electric power                                                                  emissions in the air
+                   15401 million ｋwh                                                                                              2
+                        14411 million ｋwh1                                                           co2       83487ｔco2
+                                                                                                                     68140ｔco2
+
+     gas
+                  city gas           304 
+        gas                          215 
+                                                            production                           water discharge
+                  lpg               247ｋｇ                                                                water discharge
+                                    188 ｋｇ
+                                                                                                                      502 k
+                                                                                                                          485 k
+
+                  fuel oil a      1779 kℓ
+                                   2097 kℓ
+     fuel
+                  kerosene          311 kℓ
+                                    254 kℓ
+                                                                                                 waste specially controlled
+                  light oil         064 kℓ                                                              industrial waste
+                                    126 kℓ
+                                                                                                                        2647ｔ
+                                                  input               output                                               4765 t
+                 gasoline           497 kℓ
+                                    631 kℓ                                                            general industrial waste
+                                                                                                                           6877ｔ
+                                                                                                                           6902 t
+     water resources                                    sales and physical
+                 clean water 417 k                       distribution
+                                    388 k
+                 groundwater 86 k                                                              products
+                                     97 k
+                                                                                                          produced products
+     resources                                                                                          575553 million pieces
+                                                                                                            648876 million pieces
+                  raw materials 6419 t
+                                     4064 t
+
+
+     paper resources
+                                                                                                 emissions from physical
+                 copy paper           383 t                                                     distribution
+                                      364 t
+                                                                                                         co2         2276 tco2
+                                                                                                                      2276ｔco2
+                 cardboard          2441 t
+                                      2057t
+
+
+
+  1   shows data for fiscal year 2012
+  2 the real co2 emission factors of individual power companies were used in the calculation
+
+
+
+
+                                                     sustainability report        15
+
+environmental objectives and targets and level of achievement
+    the hirose electric group undertakes environmental protection activities by setting annual
+environmental objectives and targets
+    the overall objectives of the hirose electric group are to develop products that have a low impact
+on the environment to reduce waste and to operate efficiently based on these objectives individual
+factories and divisions set specific activity objectives to reduce the environmental impacts of their
+operations the objectives and targets for fiscal year 2013 are shown below
+    we will continue to protect the environment as we strive to achieve the targets we set
+
+  hirose groups                                                                                                   achievement in
+                                               targets for fiscal year 2013                                                        evaluation3
+     objectives                                                                                                   fiscal year 2013
+
+                            complete the planned activities for strengthening control over the use
+                                                                                                                   100                              
+                            of prohibited materials
+
+develop products
+    with low                check 97 of our business partners to find out if their green
+                                                                                                                   100                              
+ environmental              procurement guidelines are being kept uptodate
+    impacts
+                            using an fmea sheet make sure during product development that the
+                                                                                                                   100                              
+                            design of a new product has taken the environment into consideration
+
+
+
+                            reduce energy usage by 110 from fiscal year 2012                                     reduced by 19  2                
+
+
+                            reduce water usage by 10 from fiscal year 2012                                       reduced by 21  2                
+
+
+                            reduce co2 emissions  1 by 10 from fiscal year 2012                                 reduced by 6  2                 
+
+
+                            reduce the amount of specially controlled industrial waste by 10
+                                                                                                                   reduced by 57  2                
+                            from fiscal year 2012
+
+
+                            reduce the amount of general industrial waste by 10 from fiscal
+                                                                                                                   reduced by 24  2                
+                            year 2012
+
+  reduce waste
+   and operate              reduce spoilage cost the target upper limit is set                                    reduced by 11                    
+    efficiently
+                            reduce disposal of metal materials by recovering metal scrap
+                                                                                                                   100                              
+                            100 recovery
+
+
+                            build a global management system                                                       completed as planned              
+
+
+                            switch to led lighting in the target buildings                                         completed as planned              
+
+
+                            enhance value efficiency of work by 10                                                enhanced by 11                   
+
+
+                            save energy through local procurement the target value is the
+                                                                                                                   exceeded 12                      
+                            number of instances of local procurement
+
+
+ 1 the real co2 emission factors of individual power companies were used in the calculation
+ 2 this percentage is calculated in reference to the target amount of usage per unit of sales
+3   the achievement is evaluated using a threegrade scale    targets achieved   relevant activities in progress and   targets not yet achieved
+
+
+
+
+                                                           sustainability report            16
+
+activities to reduce environmental impacts
+ reduction of hazardous substances in our products
+     the hirose electric group responds rapidly to revisions of laws governing chemicals contained in products as
+ these laws are becoming increasingly stringent year by year
+     during product design we select ecofriendly parts and materials in accordance with our green procurement
+ guidelines and during design verification we examine whether the environment is being taken into consideration we
+ improve the level of knowledge of new designers by holding an annual seminar on chemicals
+     we started to bring our activities into line with the rohs directive1 in 2005 accordingly we had updated all our
+ major products by 2006 which was earlier than the enforcement of the relevant law we installed xray fluorescence
+ spectrometers at all our production sites and put an organizational structure in place to analyze specified toxic
+ substances by 2007 we had ceased to manufacture any products2 that did not conform to rohs
+     ever since a list of substances of high concern svhc associated with the reach regulation3 was first released
+ in november 2008 we have been meeting the compliance requirements for substances on the list which is updated
+ frequently and making public information about the chemicals used in our products
+     by 2013 we had ceased to use dibutyltin compounds the use of which is prohibited by the reach regulation
+
+ 1 rohs directive this was promulgated on february 13 2003 and enforced on july 1 2006 by the european union eu this directive restricts the use
+    of six specified hazardous substances in electric and electronic products lead mercury cadmium hexavalent chromium polybrominated biphenyl pbb
+    and polybrominated diphenyl ether pbde
+ 2 except for some customized products
+ 3 reach regulation regulation concerning registration evaluation authorization and restriction of chemicals promulgated on december 30 2006 and
+    enforced on june 12 2007
+    this regulation prohibits selling products that contain unregistered chemicals within the european union it also includes regulations governing the
+    conduct of producers and importers and the suppliers obligation to make relevant information public
+
+
+
+ analysis of specified hazardous substances using an xray ﬂuorescence spectrometer
+
+
+
+
+     tohoku hirose electric                                 ichinoseki hirose electric                               koriyama hirose electric
+
+
+
+
+          malaysia factory                                        indonesia factory                                         taiwan factory
+
+
+
+
+                                     dongguan factory                                             suzhou factory
+
+
+
+
+                                                            sustainability report            17
+
+reduction of energy consumption
+    the hirose electric group is working to reduce power
+consumption at its offices and factories the measures taken
+                                                                                                                                 hirose electric group
+                                                                                                                     1000gj                                    gj100 million yen
+routinely include turning lights off during lunchtime encouraging
+staff not to use elevators when they need to go up or down only                                                       300                                                 200
+
+
+
+
+                                                                                                                                                                                energy consumption per unit of sales
+one or two floors reducing power consumption in rest rooms                                                                                    159
+                                                                                                                      250        148
+and putting up energy saving campaign posters in offices and                                                                                                              150
+
+
+
+
+                                                                                                energy consumption
+                                                                                                                                                               128
+factories                                                                                                            200
+    since 2011 ichinoseki hirose electric has been growing bitter                                                                             15212        16008
+                                                                                                                      150       14022                                    100
+gourds so that they will serve as shade green curtains in summer
+tohoku hirose electric began to switch to led lighting in all its plants                                              100
+in 2012 however since it has been reducing outsourcing and                                                                                                              50
+increasing internal production its power consumption has been on                                                      50
+the rise the company is now designated as a specified business
+                                                                                                                        0                                                 0
+operator because the level of its energy use has exceeded the                                                                    2011          2012           2013
+threshold value of 1500 kl crude oil equivalent defined in the law                                                       hirose electric      ichinoseki hirose      tohoku hirose
+concerning the rational use of energy the energy consumption                                                                                    electric               electric
+
+per unit of sales of the hirose electric group in fiscal year 2013                                                          koriyama hirose      energy consumption
+                                                                                                                            electric             per unit of sales
+was 19 lower than that in fiscal year 2012
+
+         1000gj           hirose electric                                            1000gj                        tohoku hirose electric
+         80                                                                             80
+         70                                                                             70                                                         6332
+                                                                                                                                       5861
+         60                                                                             60                       5337
+
+         50                                                                             50
+         40         3410          334                                                 40
+                                                     311
+         30                                                                             30
+         20                                                                             20
+         10                                                                             10
+           0                                                                              0
+                    2011           2012             2013                                                         2011                2012          2013
+
+
+
+       1000gj     ichinoseki hirose electric                                         1000gj                       koriyama hirose electric
+         80                                                                             80
+         70                                                                             70
+         60                                         5674
+                                                                                        60
+                                   5050
+         50         4359                                                               50
+         40                                                                             40
+         30                                                                             30
+         20                                                                             20
+                                                                                                                     916              963           896
+         10                                                                             10
+           0                                                                              0
+                    2011           2012             2013                                                             2011              2012        2013
+
+                      light oil           ｌｐｇ               city gas      kerosene            gasoline
+
+
+                      fuel oil a           power purchased at night      power purchased during daylight hours
+
+
+
+
+      power saving in rest rooms                                        green curtain                                                         led lighting
+          yokohama center                                      ichinoseki hirose electric                                            tohoku hirose electric
+
+
+
+                                                              sustainability report        18
+
+reduction of greenhouse gas emissions
+
+    most greenhouse gas emissions from the hirose electric group                                                         hirose electric group
+                                                                                                               tco2                                    tco2100 million yen
+come from the use of electric power fuel oil a and gasoline the                                             12000                                               8
+                                                                                                                         717
+majority of these are co2 emissions produced by the generation of                                                                       710
+                                                                                                                                                       668
+electric power using fossil fuels                                                                            10000
+
+
+
+
+                                                                                                                                                                      emissions per unit of sales
+                                                                                                                                                       8349      6
+    in fiscal year 2013 the power companies in japan were                                                     8000
+                                                                                                                         6798          6814
+obliged to stop operating their nuclear power stations as a result
+
+
+
+
+                                                                                                  emissions
+                                                                                                               6000                                               4
+their use of thermal power stations increased which raised
+their co2 emission factor   although this pushed up our indirect                                             4000
+emissions of co2 we managed to reduce them by 6 compared to                                                                                                     2
+                                                                                                               2000
+fiscal year 2012
+                                                                                                                  0                                               0
+ we used the real co 2 emission factors provided by individual electric power                                           2011           2012           2013
+companies                                                                                                     hirose electric          ichinoseki hirose        tohoku hirose
+                                                                                                                                        electric                 electric
+                                                                                                               koriyama hirose          energy consumption
+                                                                                                               electric                 per unit of sales
+
+
+              tco2        hirose electric                                               tco2                tohoku hirose electric
+             6000                                                                         6000
+
+             5000                                                                         5000
+
+             4000                                                                         4000                                                 3441
+
+                                                                                                              2667          2701
+             3000                                                                         3000
+
+             2000       1467           1311          1415                              2000
+
+             1000                                                                         1000
+
+                 0                                                                            0
+                        2011            2012           2013                                                    2011          2012              2013
+
+
+             tco2     ichinoseki hirose electric                                        tco2
+                                                                                                                koriyama hirose electric
+             6000                                                                         6000
+
+             5000                                                                         5000
+
+             4000                                                                         4000
+                                                       3051
+             3000                                                                         3000
+                        2229           2349
+
+             2000                                                                         2000
+
+             1000                                                                         1000
+                                                                                                               434               453            442
+                 0                                                                            0
+                        2011            2012           2013                                                    2011          2012              2013
+
+                           light oil            ｌｐｇ             city gas      kerosene              gasoline
+
+
+                           fuel oil a           power purchased at night     power purchased during daylight hours
+
+
+
+
+reduction of greenhouse gas emissions from transportation
+
+    to reduce greenhouse gas emissions from transportation the hirose
+electric group are taking the following measures
+
+use returnable trays for packaging when shipping products
+locally procure trays that are used in overseas factories
+select efficient distribution routes
+change shuttle trucks between hirose factories from 2ton trucks to
+ lightweight trucks
+replace conventional cars used in factories with hybrid cars
+
+                                                                                                                                       lightweight truck
+
+
+                                                                sustainability report        19
+
+reduction of water usage
+    the hirose electric group is striving to reduce domestic use of water our factories are also working to reduce
+the amount of water used in production for example ichinoseki hirose electric recycles water that has been used in
+the plating process
+    the water usage per unit of sales of the hirose electric group in fiscal 2013 was 21 lower than that in the
+previous year
+
+
+
+
+                                hirose electric group
+           1000m        3
+                                                                 m3100 million yen
+
+
+                    100                                            60
+                                            5057
+                                4792
+                                                                   50
+                        80
+                                                                         usage per unit of sales
+
+
+
+
+                                                         4019
+                                                                   40
+                        60
+      water usage
+
+
+
+
+                                           4851         5024
+                                4542                              30
+                        40
+                                                                   20
+
+                        20
+                                                                   10
+
+                         0                                         0
+                                2011       2012          2013
+                                                                                                                             cooling tower
+                        hirose electric     ichinoseki hirose    tohoku hirose
+                                            electric             electric
+                        koriyama hirose     energy consumption
+                        electric            per unit of sales
+
+
+
+
+     1000m3                     hirose electric                                                  1000m3         tohoku hirose electric
+                25                                                                                     25                            2372
+                                                                                                               2186        2190
+                20                                                                                     20
+
+                15                                                                                     15
+                                          1104
+                                                         995
+                10             823                                                                    10
+
+                    5                                                                                   5
+
+                    0                                                                                   0
+                               2011       2012          2013                                                       2011     2012      2013
+
+
+
+
+                                 ichinoseki hirose electric                                                         koriyama hirose electric
+    1000m3                                                                                       1000m3
+
+              25                                                                                       25
+
+
+              20                                                                                       20
+
+
+              15                                       1282                                           15
+                                          1150
+                              1065
+              10                                                                                       10
+
+                                                                                                                   468     407
+                    5                                                                                   5                             374
+
+
+                    0                                                                                   0
+                              2011        2012          2013                                                       2011     2012      2013
+
+
+
+
+                                                                 sustainability report                        20
+
+reduction of waste and recycling
+    the hirose electric group is handling waste produced from its
+                                                                          disposal of specially controlled industrial waste
+business operations responsibly industrial waste is classified into
+                                                                                                                t                               t100 million yen
+specially controlled industrial waste and general industrial waste                                                   048
+                                                                                                                                   050
+
+
+
+
+                                                                                                                                                                  amount of disposed waste per unit of sales
+                                                                                                              800
+we manage each of these waste types separately                                                                                                             05
+
+    specially controlled industrial waste is stored and processed at
+
+
+
+
+                                                                                  amount of disposed waste
+                                                                                                                                                            04
+specified storage facilities under strict conditions ichinoseki hirose                                       600
+                                                                                                                                   476
+electric endeavors to reduce waste disposal by neutralizing acid                                                      457                                   03
+                                                                                                                                                 021
+and alkaline waste                                                                                           400
+    we are making sure that general industrial waste is carefully                                                                               265
+                                                                                                                                                            02
+separated into the proper categories by putting up signs that explain                                         200
+how to separate waste into plastic metal paper etc in addition to                                                                                      01
+
+create value or generate revenue from waste we extract valuable
+                                                                                                                0                                           00
+substances and either recycle them internally or sell them                                                          2011         2012         2013
+
+    thanks to these activities the amount of specially controlled
+industrial waste disposed of in fiscal year 2013 was reduced by
+57 from the previous year and that of general industrial waste by                                          disposal of general industrial waste
+                                                                                                                                                  t100 million yen
+24                                                                                                            t
+                                                                                                                      085
+
+
+
+
+                                                                                                                                                                            amount of disposed waste per unit of sales
+                                                                                                             1400                                           09
+                                                                                                                                   072
+                                                                                                             1200
+                                                                               amount of disposed waste                                          055
+                                                                                                             1000
+                                                                                                                                                            06
+                                                                                                                      810
+                                                                                                              800                  690           688
+                                                                                                              600
+                                                                                                                                                            03
+                                                                                                              400
+
+                                                                                                              200
+
+                                                                                                                0                                           00
+                                                                                                                      2011         2012         2013
+
+
+separation of general industrial           separated cardboard                                                 hirose electric      ichinoseki hirose       tohoku hirose
+                                                                                                                                    electric                electric
+            waste
+                                                                                                               koriyama hirose      energy consumption
+                                                                                                               electric             per unit of sales
+
+
+       voice
+
+  visiting industrial waste disposal contractors to carry out inspections
+                           as there has been a string of reports on illegal
+                    dumping the responsibility of industrial waste generating
+                    companies is gaining in importance such companies have
+                    an obligation to directly inspect contractors that collect or
+                    dispose of waste
+                         each year the hirose electric group dispatches staff to
+                    visit contractors that dispose of the waste produced by its
+                    factories to conduct a thorough inspection in fiscal year                                                    reception canopy
+  hidenori anzai    2013 i visited a waste processing plant in kitagami iwate                                                 discharge vent for
+  ichinoseki hirose and inspected it with regard to four factors 1 waste                                                          recycled oil
+  electric          processing flow 2 whether its facilities are tidy and well
+                    organized 3 the operational state of its facilities and 4
+  its environmental activities
+       this plant recycles waste oil its processing flow is disclosed on its
+  website the iwate prefectural government upgraded its ranking as an
+  industrial waste disposal company from two stars to three stars i was able
+  to confirm that their operation was clean and sound and felt reassured as
+  a result
+       i will continue to visit and inspect contractors periodically to prevent                                                  tank for waste oil
+  occurrences of illegal operations                                                                                                separation
+
+
+
+
+                                               sustainability report      21
+
+reduction of paper usage
+    as part of its commitment to saving resources the hirose electric group is working to reduce paper usage
+    we are reducing paper use by printing on both sides of a sheet condensing two or more pages into a single page
+printing on the back of previously used paper and using electronic documents we also preferentially purchase paper
+that has an environmental label
+    in fiscal year 2013 we endeavored to cut down on paper use by replacing paper documents with files on laptop
+pcs in meetings and substituting electronic files for internally circulated paper documents however since the
+volume of production increased our paper usage was 5 higher than that in fiscal year 2012
+    we will continue our efforts to reduce paper consumption
+                                                                                    t
+                                                                                             hirose electric group
+                                                                                   50
+
+
+                                                                                   40      383                              383
+                                                                                                            364
+
+
+
+
+                                                                     paper usage
+                                                                                   30
+
+
+                                                                                   20
+
+
+                                                                                   10
+
+                  stacks of used copy paper                                         0
+                                                                                          2011              2012            2013
+                                                                                                                   ichinoseki hirose
+                                                                                          hirose electric
+                                                                                                                   electric
+                                                                                          tohoku hirose            koriyama hirose
+                                                                                          electric                 electric
+
+biodiversity conservation
+      the hirose electric group is preserving
+biodiversity by developing producing and selling
+environmentally friendly products
+      one of the measures we take to raise staff
+awareness about biodiversity is to provide them with
+elearning opportunities on the subject and afterwards
+ask them if they will make pledge about specific
+actions they will take to preserve biodiversity in
+everyday life
+     as the first step toward biodiversity preservation
+we incorporated ecotour programs into staff social
+gatherings in fiscal year 2013 these programs
+enabled employees to have contact with marine
+life one program involved a lesson on how dolphins
+live and gave participants the chance to swim with
+and have direct contact with real dolphins another
+program enabled the participants to go snorkeling in
+the sea and observe fish this provided an enjoyable
+environment for the participants to share experiences
+and deepen their understanding of marine life
+                                                                                           scenes of ecotours
+       voice
+                      planning ecotours
+                          rather than worrying about how to approach different aspects of biodiversity i
+                      decided that the participants should enjoy having contact with nature so i planned
+                      ecotours there were four field tours that enabled participants to come into direct
+                      contact with marine creatures the tours involved learning about the life of dolphins
+                      and observing fish
+ maki nakada              a participant saidi was thrilled to pieces to touch a dolphini believe that
+ it general           everyone on the tours had good experiences looking forward i would like to plan
+ administration       activities that are more strongly associated with biodiversity preservation
+ office
+
+
+
+
+                                             sustainability report                 22
+
+reduction of environmental impacts on living environment
+    the hirose electric group is making sure that their operations comply with the relevant laws and regulations
+of the national and regional governments with regard to prevention of air pollution water contamination noise and
+vibration
+    we ensure that exhaust from boilers in our factories does not pollute the air by periodically checking potential
+air pollutants in the exhaust we also endeavor to reduce noise and vibration by regularly inspecting the pressing
+machines installed in our factories and the kikuna office and assessing the levels of noise and vibration
+
+
+
+
+preparedness for emergencies
+
+    the hirose electric group has compiled response manuals for a wide range of possible emergencies that could
+potentially have impacts on the environment we conduct regular drills to confirm that the manuals are effective and
+to raise the awareness of those concerned
+    we also carry out regular fire drills to maintain workplace safety
+
+
+
+
+          examples of emergencies
+
+         gas leakage         lead contamination in discharged water             chemical leakage
+         gas leakage due to defective ventilation
+         broken plating machine           broken vessel containing discharged plating solution
+         leakage from a container used to store plating materials
+
+
+
+
+                 training exercise for accidental                   measure to prevent theft
+                           leakage from                                of toxic materials
+                     a waste liquid container
+
+
+
+
+                                                     fire drills
+
+
+
+
+                                            sustainability report   23
+
+communication
+
+ social action programs
+ cleanup activities in local communities
+ tohoku hirose electric and ichinoseki hirose electric
+     since their establishment tohoku hirose electric and ichinoseki hirose electric have been cleaning up their
+ respective neighborhoods on a regular basis and will continue to do so
+
+
+
+
+                 picking up litter around the company                           picking up litter around the company
+                       tohoku hirose electric                                       tohoku hirose electric
+
+
+
+
+ blood donation made at each business site
+     all the business sites of the hirose electric group annually participate in a blood donation drive organized by the
+ japan red cross society
+
+
+
+
+                           participation in a blood donation drive yokohama center
+
+
+ collection of pet bottle caps
+     we are collecting pet bottle caps and donating them to local elementary schools which make money by selling
+ them to recycling companies because the caps are not incinerated but recycled co 2 emissions are reduced we
+ also participate in a donation initiative that helps children around the world receive vaccinations
+
+
+
+
+                      collected pet bottle caps                       pet bottle caps being dried
+
+
+
+
+                                              sustainability report    24
+
+communication with stakeholders
+hirose technology exhibitions
+    every three years the hirose electric group holds a technology exhibition in 2013 hirose technology
+exhibition connextion 2013 was held in tokyo and osaka the exhibition in 2013 presented the entire range of
+new products and technologies that have been designed to meet the needs of the future including prototypes the
+products and technologies were arranged by purpose and application field large numbers of visitors congregated
+around the exhibits including visitors from overseas
+
+
+
+
+                                   scene of the hirose technology exhibition
+
+
+
+communication with suppliers
+    the hirose electric group holds a regular top training workshop workshop on quality and a meeting to
+exchange new years greetings with its suppliers in order to forge a closer partnership
+    in addition with a view to incentivizing suppliers to implement environmentally friendly practices we make a list
+that ranks suppliers based on a range of evidence submitted by the suppliers themselves and make the list public
+
+
+
+
+                      top training workshop                                                  s
+                                                                 meeting to exchange new year
+                                                                             greetings
+
+
+
+formulation of green procurement guidelines
+                                                                                                                                                   116
+
+
+
+                                                                                                                   creative links to world electronics
+
+
+
+
+    as part of its activities to preserve the environment and protect biodiversity the
+hirose electric group has formulated the hirose electric group green procurement
+                                                                                                     hirose electric group
+guidelines in order to preferentially procure parts and materials that have a low
+impact on the environment the guidelines apply to components that make up                  green procurement
+products materials used during the manufacturing process and the packaging                    guidelines
+materials used in the shipping of products they also apply to the machinery and                          fifth edition
+
+
+tools used at manufacturing sites we are making concerted efforts to implement
+green procurement we have distributed the guidelines to our suppliers and asked
+them to create their own environmental management and chemical control systems
+and submit information about chemicals contained in the products we purchase
+
+
+                                                                                                   established on june 26 2013
+
+
+
+
+                                                                                               hirose electric co ltd
+
+
+
+
+                                             sustainability report    25
+
+activities of group companies to reduce
+environmental impacts
+ activities of domestic factories to reduce environmental impacts
+
+ tohoku hirose electric miyako factory
+ address 212 2nd chiwari akamae miyako iwate 0270202japan
+ business production of nylon connectors
+          primary processing and assembly
+          and development and production of advanced metal molds
+          and automated machinery
+
+      because the miyako factory located in miyako city iwate is surrounded
+ by the sanriku fukko national park it is an area endowed with a rich natural
+ landscape located at the easternmost point of mainland japan miyako is
+ the first city in the main island to see the sunrise some communities in miyako   tohoku hirose electric
+ have agreed not to use synthetic detergents this indicates their high level of
+ interest in preserving their natural environment
+      to protect this outstanding natural environment we at miyako factory
+ have been undertaking activities to reduce the use of materials that have
+ an adverse effect on the environment and to recycle and reuse various
+ resources
+      in addition to reduce power consumption we have reduced the number of
+ fluorescent lamps and turn illumination off whenever it is not required since
+ 2012 we have been replacing fluorescent lamps with led lamps about 2300
+ lamps were replaced over a twoyear period which has resulted in monthly
+ power consumption being cut by 41504 kwh company cars have been                  yoshihiro gunji
+ replaced with hybrid vehicles by the end of fiscal year 2014 about 45 of        nc production department
+ all cars will be hybrids
+
+
+
+
+ ichinoseki hirose electric ichinoseki factory
+ address  1436 todai ichinoseki iwate 0210822 japan
+ business production of coaxial connectors highfrequency
+           optical devices optical connectors interface connectors
+           and processed components
+
+     ichinoseki factory is located in a beautiful natural area with a view of mt
+ kurikoma a central symbol of the kurikoma quasinational park far to the
+ east and abuts the kitagami river surrounded by this exceptional natural
+ environment we take into consideration how our business activities affect the
+ everyday life of those living in the local community
+     to reduce impacts on the environment we have been improving business          ichinoseki hirose electric
+ efficiency cutting down on waste by reducing the number of defective
+ products reusing paper and packaging materials thoroughly separating
+ valuable materials 11 materials and reducing the amount of specially
+ controlled industrial waste as a result in fiscal year 2013 we were able to
+ reduce the amount of specially controlled industrial waste by 71 compared
+ with fiscal year 2012
+     in addition as we had done in previous years we grew bitter gourds to
+ serve as green curtains in fiscal year 2013 to reduce summertime power
+ consumption
+     we are reducing impacts on the global environment and preserving
+ biodiversity by continuing with the abovementioned activities and making          hidenori anzai
+ sure that our business activities do not involve the use of materials that         component department
+ adversely affect the environment
+
+
+
+
+                                              sustainability report    26
+
+koriyama hirose electric koriyama factory
+address 873 ogawara koriyama fukushima 9638828 japan
+business production of ribboncable connectors
+          interface connectors
+          nylon connectors and connectors for automobiles
+
+
+     koriyama factory has started a new initiative to reduce impacts on the
+environment we are promoting a green earth policy that involves converting
+idle land within the factory into gardens and growing eggplants cucumbers
+and other vegetables
+      in fiscal year 2013 all the employees were divided into 11 groups                   koriyama hirose electric
+each group bought seedlings and worked together to grow vegetables
+we will implement measures designed to strengthen teamwork and
+provide opportunities whereby everyone can perceive the importance of
+environmental management and of producing things in a manner friendly to
+the environment in autumn the harvest will be shared by all in this way we
+will both cultivate teamwork and promote agreen earththis is just one
+initiative in our ongoing efforts to reduce impacts on the environment
+
+
+
+
+                                                                                            masahiko ofuji
+                                                                                            pqw production department
+
+
+ locations of the head office and factories
+
+
+
+
+                                                                               tohoku hirose electric
+                                     ichinoseki hirose electric
+
+
+
+                                                                          koriyama hirose electric
+
+
+
+
+                                                                      hirose electric head office
+
+
+
+
+                                              sustainability report       27
+
+activities of overseas sites to reduce environmental impacts
+    since the first signing of an overseas agency agreement in 1967 the hirose electric group has steadily
+expanded its overseas agency network our sales network now covers 23 countries we have also promoted
+globalization of our production sites our first foothold overseas was a material procurement office in taiwan
+currently hirose electric taiwan founded in 1987 since the 1990s we have founded a string of factories in
+malaysia indonesia and china we have been expanding our massproduction facilities to meet the increasing
+demand from around the world and are aiming to globalize our production capabilities
+    the hirose electric group has put in place a reliable infrastructure for checking harmful materials by installing
+xray fluorescence spectrometers capable of detecting substances subject to the rohs directive at all our
+production sites
+
+
+
+
+                         uk branch
+                                                       hirose electric europe                                   hirose electric suzhou co ltd
+                         hirose electric europe
+                                                                                   beijing branch
+                                                                                   hirose electric shanghai
+                                                                                   coltd                                                 hirose electric shanhai co ltd
+
+
+
+
+ delhi liaison office
+                                                      german branch
+ hirose electric                                                                                                                               hirose korea co ltd
+                                                      hirose electric europe
+ singapore pteltd
+
+
+
+
+                                                                                                                                                    hirose electric usa inc
+
+
+
+
+bangalore liaison office
+hirose electric
+singapore pteltd                                                                                                                           hirose electric
+                                           hirose electric                                                                                   hong kong co ltd
+                                           malaysia sdn bhd
+                                                                                hirose electric echnologies
+                                                                                shenzhen co ltd
+
+
+
+
+                   penang liaison office            hirose electric              pt hirose electric             hirose electric            hirose electric dongguan
+                   hirose electric                   singapore pteltd           indonesia                        taiwan co ltd           co ltd
+                   singapore pteltd
+
+
+
+
+                                                            sustainability report                28
+
+history of social and environmental activities
+
+ history of social and environmental activities
+                                                                        certifications and participation
+                           activities                                     in relevant organizations
+
+ 1970s ceases cadmium plating
+ 1980s stops the use of asbestos and specified
+       bromine fire retardants
+ 1990s eliminates chlorofluorocarbons
+
+ 1999                                                    ichinoseki hirose electric co ltd acquires iso14001 certification
+ 2000                                                    koriyama hirose electric co ltd acquires iso14001 certification
+                                                         tohoku hirose electric co ltd acquires iso14001 certification
+ 2002                                                    hirose electric including the above domestic factories
+                                                         expands the certification area and switches to an integrated
+                                                         iso14001 certification
+ 2003   promotes leadfree products
+ 2004   stops the use of chlorine organic solvents hirose electric malaysia acquires iso14001 certification
+        dichloromethane                                 pthirose electric indonesia acquires iso14001 certification
+        formulates the hirose electric group code of hirose electric dongguan china acquires iso14001 certification
+        conduct                                           participates in japan green procurement survey standardization
+                                                          initiative jgpssi
+ 2005   complies with the rohs directive begins to
+        supply substitute products not containing
+        rohs prohibited substances
+        installs xray fluorescence spectrometers in
+        all production sites both in japan and abroad
+ 2006   complies with the rohs directive all major
+        products no longer contain rohs prohibited
+        substances
+ 2007   stops the manufacture of products that do not joins the joint article management promotion consortium
+        comply with the rohs directive except for jamp
+        some customized products
+        increases the number of xray fluorescence
+        spectrometers at koriyama and ichinoseki
+        factories
+        begins preparations to comply with the
+        reach directive
+        complies with the eup directive directive on
+        ecodesign of energyusing products
+        pfos survey compliance with the stockholm
+        convention on persistent organic pollutants
+        pops convention
+        revises the hirose electric group code of conduct
+ 2008   formulates the information security policy
+ 2009   formulates the business continuity plan bcp hirose electric suzhou china acquires iso14001 certification
+ 2010   begins to increase halogenfree products
+        establishes the csr committee
+ 2011   promotes reduction in use of resources and
+        co2 emissions
+        begins preparations to comply with the
+        revised rohs
+ 2012   begins activities to preserve biodiversity        participates in the un global compact
+        revises the hirose electric group code of participates in domestic subcommittee vt62474 of iec
+        conduct                                           tc111
+ 2013   ceases manufacture of products that contain
+        dibutyltin compounds
+
+
+
+
+                                          sustainability report   29
+
+contact information
+
+
+environment management office
+hirose electric co ltd
+
+63 nakagawachuo 2chome tsuzukiku yokohama kanagawa 2248540 japan
+tel 81456203563 fax 81455913727

@@ -1,0 +1,2055 @@
+1
+
+2
+
+                                    table of contents
+       message from chairman  managing director          3
+       message from director hr                         4
+       about the report                                   5
+       materiality analysis                               6
+bhel at a glance                                         7
+       vision                                            7
+       mission                                           7
+       bhel                                              7
+corporate profile                                        8
+       power generation                                   9
+       industries                                        10
+       transportation                                    10
+       renewable energy                                  11
+       oil and gas                                       11
+       transmission                                      12
+       international business                            12
+       technology upgradation research  development   13
+       human resource development institute              14
+major highlights during the year 201112 in pictures     16
+bhel performance at a glance                             18
+awards and accolades                                     19
+governance commitment  engagement                      21
+       our philosophy on corporate governance            21
+       corporate organisational structure                22
+sustainability at bhel                                   24
+       stakeholder engagement                            25
+
+
+
+
+                                                  3
+
+      participation in the uns global compact programme      27
+      key sustainability issues opportunities and concerns   27
+      health safety and environment management               28
+social performance                                            32
+      management approach towards csr                         32
+      corporate social responsibility  bhel                  34
+environment performance                                       38
+      management approach                                     38
+      material consumption                                    38
+      energy consumption  conservation                       39
+      water management                                        41
+      biodiversity                                            42
+      emissions                                               44
+      waste management                                        44
+      significant spills                                      45
+      environmental impacts of products  services            45
+      initiatives taken with respect to                      46
+              materials used                                  46
+              water used                                      46
+              emissions                                       47
+              noise                                           47
+              waste                                           47
+      compliance                                              47
+      environmental protection expenditures                   47
+gri content index                                             48
+
+
+
+
+                                                  4
+
+                                                 message from
+                                          chairman  managing director
+
+
+dear stakeholders
+it gives me immense pleasure to place before you the first sustainability report on environment for
+period 201112 sustainable development presupposes a revolution in our values and in the way we
+confront the challenges of tomorrow
+sustainability is central to our mission of providing sustainable business solutions in the fields of en
+ergy industry and infrastructure leading to customer success
+the concept of sustainable development is to fully integrate the needs for economic and social devel
+opment with that of conserving the environment as it is at a tipping point the awareness of sustain
+able development issues has never been so great especially in relation to energy and climate change
+visàvis growth of economy we must manage our rich natural resource base to ensure that future
+generations can draw the same benefits from them as we are able to get today in this regard our
+strategic plan 201217 lays emphasis on sustainable development and a sustainability strategy has
+been formulated
+there is a need for breakthrough technologies for electricity generation clean use of coal efficient use
+of natural resources low carbon transport systems more efficient transmission systems and energy
+efficient buildings to live up to the cause of sustainable development
+our company always endeavours to serve the community by contributing to various socioeconomic
+and community development programmes in and around our area of operation further structured
+csr initiatives are also being undertaken through specialized agencies to promote inclusive growth
+across entire length  breadth of the country and thereby contributing towards achievement of sus
+tainable development
+as a part of sustainable development we contribute to environment improvement by pursuing pro
+grams that include greening initiatives wastewater recycle  reuse waste minimization promotion of
+renewable energy usages and energy saving initiatives
+i am sure that the detailed exercise carried out in identifying and capturing our performance data on
+environment sustainability would help us to move towards sustainable development as a part of
+our commitment to all stakeholders
+
+
+new delhi                                                                             b prasada rao
+15th march 2013                                                          chairman  managing director
+
+                                                     3
+
+                                     message from director hr
+
+
+dear stakeholders
+the first sustainability report on environment for the year 201112 is here this is a result of many
+concentric and dedicated efforts of corporate hse  csr team  unit level nodal officers to address
+the long term goal of sustainable development we have created two tier frame work within bhel
+a steering committee at the corporate level mentors the journey in term of transforming and
+translating vision of the organisation in line of the mission and policy whereas nodal officer at each
+manufacturing unit level conforms with the vision in shaping the manufacturing unit towards a
+common future
+bhel units are already having management systems approach to deal and address initiatives our
+existing management systems have helped us reach this stage of information disclosure
+in line with the various environmental needs we have carved our csr  sustainability initiatives
+penetrating deep down into the society these csr initiatives strengthen our bonding with our
+very own employees and community initiatives such as water harvesting projects green belt
+development mass awareness about water conservation energy efficiency and conservation
+usage of renewable energy employees community involvement in various awareness programmes
+on environmental protection etc are to name a few
+the journey has just begun and with the support and feedback of all the relevant stakeholders we
+shall strive to enhance the stakeholder participation especially our highly committed employees to
+attain the objective of sustainable development
+
+
+new delhi 						                                                                         r krishnan
+15th march 2013 			                                                      director human resources
+
+
+
+
+                                                  4
+
+                                            about the report
+
+sustainability has always been a part of business strategy of bhel in its endeavour to ensure renewed com
+mitment towards sustainable development and inform the stakeholders about the efforts being made in
+sustainability bhel started to track the environmental performance of the organization based in a struc
+tured way based on grig3 guidelines since 200910 after compilation of baseline data for 3 years 2009
+10 201011 and 201112 it was decided to bring out the first environment sustainability report in public
+domain this report covers the environmental performance of its 14 manufacturing units for the period
+201112 however to bring more clarity for the stakeholders about the progress being made in the organi
+zations environment performance the data for 200910 and 201011 have also provided at many places for
+comparison purpose in the report
+bhel recognizes the importance of sustainability therefore it first constituted sustainability team compris
+ing senior management followed by the positioning of nodal officer at each identified unit appreciation
+capacity building programs were held at corporate office as well as epd bangalore hep bhopal hpep hyder
+abad and hpbp trichy units of bhel in collaboration with leading expert in the field of sustainable business
+materiality analysis was carried out to find the applicability of the environmental parameters to each of the
+units below given criteria for materiality check was followed
+       1      internal consultation with nodal officers
+       2      relevance to bhel core business
+       3      commitment made to ministry of heavy industry in terms of environment performance
+       4      environment improvement projects undertaken
+on the basis of such comprehensive exercise for all manufacturing units it was decided to report on envi
+ronmental parameters as per grig3 guidelines covering core indicators 16  additional indicators 4
+prioritization of indicators in the environment section was carried out considering the nature of operations
+the report covers the manufacturing facilities of bhel all across india the reporting principles and method
+ology of this report are in accordance with grig3 guidelines as the information given in the report complies
+with the principles of comparability reliability  accuracy clarity timeliness and balance overall picture
+of organisations strengths  improvement areas the relevant technical protocols have been followed for
+reporting the core indicators as well as the additional indicators the other requirements of the guidelines
+like organisational profile and description of reporting parameters have been followed bhel shows high ac
+countability towards stakeholders through regular stakeholder engagement activities
+ as a company with global reach bhel is committed to being accountable to those on whom the organisa
+tion has an impact and those who have an impact on bhel and continuously maps its stakeholders and has
+regular processes in place to ensure inclusion of stakeholder concerns and expectations
+key issues are identified through ongoing stakeholder engagement and addressed by programmes or action
+plans with clear and measurable targets
+the focus of the report is on environmental issues  challenges facing the country today and measures taken
+by bhel to face these issues and challenges wherever practicable the measurement techniques adopted
+were based on actual measurement through bhels specific systems like sapfilesrecords etc available with
+the units however in the absence of continuous monitoring system for some indicators data has been
+calculated on the basis of estimations considering internationally recognized guidelines  standards such as
+ipcc data available centrally at corporate office has also been incorporated wherever required
+for any information or query related to this report you may please write to chsebhelin
+
+                                                      5
+
+materiality analysis
+reference                                                                                    identified
+no as per   aspects      impacts                                                            as material
+grig3                                                                                       issue
+en1          materials    materials used by weight or volume                                 
+en2                       percentage of materials used that are recycled input materials     
+en3          energy       direct energy consumption by primary energy source                 
+en4                       indirect energy consumption by primary source                      
+en5                       energy saved due to conservation and efficiency improvements       
+en8          water        total water withdrawal by source                                   
+en10                      percentage and total volume of water recycled and reused           
+                          location and size of land owned leased managed in or adja
+en11         biodiversity cent to protected areas and areas of high biodiversity value      
+                          outside protected areas
+                          description of significant impacts of activities products and
+en12                      services on biodiversity in protected areas and areas of high      
+                          biodiversity value outside protected areas
+             emissions
+en 16        effluents   total direct and indirect greenhouse gas emissions by weight       
+             and waste
+                          initiatives to reduce greenhouse gas emissions and reductions
+en 18                                                                                        
+                          achieved
+en19                      emissions of ozonedepleting substances by weight                  
+en20                      nox sox and other significant air emissions by type and weight   
+en21                      total water discharge by quality and destination                   
+en22                      total weight of waste by type and disposal method                  
+en23                      total number and volume of significant spills                      
+en26         products     initiatives to mitigate environmental impacts of products and      
+             and ser     services and extent of impact mitigation
+             vices
+en27                      percentage of products sold and their packaging materials that     
+                          are reclaimed by category
+en28         compli      monetary value of significant fines and total number of non       
+             ance         monetary sanctions for noncompliance with environmental
+                          laws and regulations
+en30         overall      total environmental protection expenditures and investments by 
+                          type
+
+
+        additional indicator                                                            core indicator
+
+
+                                                    6
+
+                                bhel at a glance
+
+                     vision                                             mission
+         a global engineering enterprise                      providing sustainable business
+         providing solutions for a better                    solutions in the fields of energy
+                    tomorrow                                     industry  infrastructure
+
+
+bhel 
+v   has capability to manufacture wide range of power plant equipments
+v   has consistent track record of growth and increased its turnover by three times  net profit by four
+    times in the last five years
+v   recorded all time high turnover of rs 49510 crore during 201112
+v   has installed utility sets of 106202 mw across the globe till 201112
+v   is a 20000 mw per year power plant equipment manufacturing company
+v   has proven turnkey capabilities for executing power projects from concepttocommissioning of unit
+    sizes up to 1000 mw
+v   has 15 manufacturing divisions  a wide network of service centers
+v   manufactures 180 products in 30 major product groups
+
+     bhel is a single source with multiple solutions for infrastructure 
+                              industrial sector
+
+
+
+
+         power                                  industry                              oil  gas
+
+
+
+
+    transmission                            transportation                          nces solar
+
+
+                                                      7
+
+                                          corporate profile
+
+bhel is an integrated power plant equipment manufacturer and one of the largest engineering and
+manufacturing companies in india in terms of turnover
+established in 1964 bhel ushered in the indigenous heavy electrical equipment industry in india  a dream
+that has been more than realized with a wellrecognized track record of performance the company has
+been earning profits continuously since 197172 and paying dividends since 197677 bhel is engaged in
+the design engineering manufacture construction testing commissioning and servicing of a wide range of
+products and services for the core sectors of the economy viz power transmission industry transportation
+renewable energy oil  gas and defence the company has 15 manufacturing divisions two repair units
+four regional offices eight service centres eight overseas offices and 15 regional centres and currently
+operates at more than 100 project sites across india and abroad
+
+
+
+
+the company places strong emphasis on innovation and creative development of new technologies the
+company has realized the capability to deliver 20000 mw pa of power equipment enabling to address
+growing demand for power generation equipment our research and development rd efforts are aimed
+not only at improving the performance and efficiency of our existing products but also at using stateof
+theart technologies and processes to develop new products this enables us to have a strong customer
+orientation to be sensitive to their needs and respond quickly to the changes in the market
+the high level of quality  reliability of our products is due to adherence to international standards by
+acquiring and adapting some of the best technologies from leading companies in the world including general
+
+
+                                                      8
+
+                                                                electric company alstom sa siemens
+                                                                ag and mitsubishi heavy industries ltd
+                                                                together with technologies developed in our
+                                                                own rd centres
+                                                               most of our manufacturing units and other
+                                                               entities have been accredited to quality
+                                                               management systems iso 90012008
+                                                               environmental management systems iso
+                                                               140012004 and occupational health
+                                                                safety management systems ohsas
+                                                               180012007 bhel where quality systems
+                                                               as per iso9000 have taken deep roots has
+                                                               made significant achievements in the cii
+    600 mw turbogenerator being dispatched for north          exim award scheme for business excellence
+                        chennai tps                            by securing commendation for significant
+                                                               achievements in tqm for three of its
+manufacturing units and one power sectorregion during 201112 haridwar  trichy units and power sector
+eastern region have recorded an improvement of 526 519  714  respectively in customer satisfaction
+index as per customer satisfaction survey conducted in 201112 over previous survey establishing companys
+sustained commitment towards quality as a part of its thrust to ensure cost competitiveness the company
+has successfully completed 32 case studies in respect of process improvement  cost reduction
+
+power generation
+in power generation segment bhel is the largest manufacturer in india supplying wide range of products 
+systems for thermal nuclear gas and hydrobased utility and captive power plants bhel has the capability to
+execute power projects on turnkeyepc basis from concepttocommissioning bhel supplies steam turbines
+generators boilers and matching auxiliaries up to 800 mw ratings including sets of 660700800 mw based
+on supercritical technology
+bhel has facilities to go up to 1000 mw unit size to make efficient use of high ash content coal available
+in india bhel also supplies circulating fluidised bed combustion cfbc boilers for thermal plants bhel
+is the only indian company capable of
+manufacturing largesize gasbased power
+plant equipment comprising of advanced
+class gas turbines up to 289 mw iso rating
+for open and combinedcycle operations
+bhel engineers and manufactures custom
+built hydro power equipments its range
+covers turbines of francis pelton and kaplan
+runners pump turbines bulb turbines and
+minimicro hydro plants with matching
+generators for different headdischarge
+combinations with realization of enhanced
+capability the company is well positioned
+to capitalise on growing demand for power
+plant equipment in the country                     2x600 mw for barh supercritical powe project under
+                                                                   execution by bhel
+
+                                                      9
+
+bhel is one of the few companies worldwide involved in the development of integrated gasification
+combined cycle igcc technology which would usher in clean coal technology
+bhel manufactured sets account for 59 of installed capacity of around 180000 mw in utility sector across
+the country as of 31032012 and these sets accounted for 69 of electricity generated during 201112 during
+the xi plan period bhel has commissioned 25385 mw of utility sets nearly double of that contributed
+during x plan period significantly the landmark achievement during 201112 has been commissioning
+within a span of just 24 hours of a cumulative capacity of 1625 mw comprising of thermal and hydro units
+at various power stations across the country another significant achievement was the commissioning of 13
+sets of 500 mw during the year against previous high of 8 sets
+
+industries
+bhel is a leading manufacturer of a variety
+of industrial systems  products to meet
+the demand of a number of industries
+like metallurgical mining cement paper
+fertilizers refineries  petrochemicals
+etc besides captive  industrial utilities
+bhel has supplied systems and individual
+products including a large number of
+cogeneration captive power plants
+centrifugal compressors drive turbines
+industrial boilers and auxiliaries waste heat
+recovery boilers gas turbines pumps heat
+exchangers electrical machines valves heavy castings and forgings electrostatic precipitators idfd fans
+seamless steel tubes etc to a number of industries other than power utilities bhel has also emerged as a
+major supplier of controls and instrumentation systems especially distributed digital control systems for
+various power plants and industries
+the industry business sector of the company is fully geared to execute epc contracts for captive power plants
+from concept to commissioning
+
+transportation
+most of the trains of indian railways whether electric
+or diesel powered are equipped with bhels traction
+propulsion system and controls the range includes
+traction motors traction generators alternators
+transformers substation equipment vacuum circuit
+breakers locomotive bogies smoothening reactors
+exciters converters inverters choppers and associated
+control equipment viz master controllers chopper
+controllers brake and door equipment electronic
+controls including software based controls extending
+to rolling stock and other transport applications thet     electric locomotive 25 kv ac type wag 7
+systems supplied are both with the conventional dc and stateoftheart ac drives indias first underground
+metro at kolkata runs on drives and controls supplied by bhel almost all the emus in service are equipped
+with electrics manufactured and supplied by bhel bhel has proved once again its capabilities and
+
+                                                     10
+
+technological excellence by successfully establishing itself as an indigenous manufacturer of energy efficient
+igbt based propulsion system for ac drives a landmark achievement in transportation sector bhel has
+also diversified into the area of track maintenance machines and coach building for indian railways and
+undertakes retrofitting and overhauling of rolling stock
+
+loco manufacturing capacity at jhansi unit is under augmentation to meet increased requirements of indian
+railways
+
+renewable energy
+in conformity with its concern for the
+environment bhel has been contributing
+to the national effort for developing and
+promoting renewable energy based
+products on a sustained basis starting
+from small applications like solar
+powered street lighting rural water
+pumping systems railway signalling
+offshore drilling platforms etc
+bhel has supplied and commissioned
+large size standalone as well as grid
+interactive solar power plants with
+an aim to perform a significant role in
+national solar missions proposed target
+of 20000 mw of grid connected solar country largest diesel gridinteractive solar power plant of 760
+power bhel signed an agreement with             kwp capacity commissioned by bhel at lakshadweep
+abengoa spain a leader in solar projects to provide epc solutions in concentrated solar thermal power
+csp areas the company is working jointly with iocl and iitrajasthan for development work of product
+and systems in the concentrated solar power csp area a new record has been set by installing 15mwp grid
+interactive solar photo voltaic spv plants across the country in the context of jawaharlal nehru national
+solar mission bhel is executing the orders for renovation and operation  maintenance of spv plants
+aggregate 215mwp at various islands of lakshadweep
+
+oil and gas
+bhel possesses expertise to design manufacture and service various types of onshore rigs to suit the indian
+service conditions the range of equipment covers onshore deep drilling rigs superdeep drilling rigs helirigs
+workover rigs mobile rigs and desert rigs with matching draw works and hoisting equipment bhel now has
+the capability to manufacture conventional on shore deep drilling rigs up to a depth of 9000 meters mobile
+rigs to a depth of 3000 meters and well servicing rigs to a well depth of 6100 meters the company is in the
+process of manufacturing environment friendly ac technology based oil rings for on shore application
+
+bhel is supplying onshore drilling rig equipment viz draw works rotarytable travelling block swivel mast
+and sub structure mud systems and rig electrics well heads  xmas tree valves upto 10000 psi rating for
+onshore as well as offshore application to ongc oil india ltd and private drilling companies
+
+
+
+                                                       11
+
+transmission
+                                                      bhel has significant presence in the field of power
+                                                      transmission in india with a wide range of transmission
+                                                      systems and products the products manufactured
+                                                      by bhel include power transformers instrument
+                                                      transformers dry type transformers shunt reactors
+                                                      vacuum and sf6 switchgear gas insulated switchgears
+                                                      ceramic insulators etc major critical hardware such
+                                                      as capacitor banks circuit breakers control and
+                                                      protection equipment and thyristor valves are in its
+                                                      manufacturing range
+                                                      bhel has successfully designed manufactured
+400 kv substation set up by bhel on turnkey basis     and commissioned indias highest voltage power
+                   at durgapur                        transformer of 1200 kv 333 mva rating at the 1200
+kv national experimental substation of pgcil the single phase interconnecting transformer has been
+developed and manufactured with inhouse engineering and manufacturing technology bhel is executing
+the worlds first  800kv 6000 mw ultra high voltage multiterminal dc transmission link between north
+east and agra the company has developed first 765 kv 80 mvar single phase shunt reactor and emerged
+as manufacturer of largest natural air cooled dry type cast resin 3phase 50hz transformer of 15 mva
+3369 kv rating besides commissioning indigenously developed 36 kv and 145 kv gas insulated substations
+gisbhel has the expertise and extensive onthe job exposure for design and applications relating to power
+system studies and feasibility studies etc the company accepts full project responsibility for feasibility
+ system studies execution and commissioning of fixed series compensationcontrolled shunt reactor
+schemes
+
+international business
+bhel has over the years established its references in 75 countries across all inhabited continents of the
+world these references encompass almost the entire range of bhel products and services covering
+thermal hydro and gasbased turnkey power projects substation projects rehabilitation projects besides
+a wide variety of products like transformers
+compressors valves oil field equipment
+electrostatic precipitators photovoltaic
+equipment insulators heat exchangers
+switchgears castings and forgings etc
+the company has been successful in meeting
+the requirements of international markets
+in terms of complexity of work as well as
+technology quality and other requirements
+bhel has proved its capability to undertake
+projects on fasttrack basis continued focus
+on aftersalesservices led to orders for
+spares  services from indonesia bhutan
+oman malaysia bangladesh vietnam
+srilanka saudi arabia and uae during 2011     hrsg drum supplied by bhel for grodno power project
+12 besides undertaking turnkey projects                              belarus
+
+                                                     12
+
+on its own bhel also possesses the requisite flexibility to interface and complement other international
+companies for large projects and has also exhibited adaptability by manufacturing and supplying intermediate
+products the company is firmly perched to expand its vista by taking a number of strategic business initiatives
+to fuel further growth in international business which includes exploration of opportunities in solar energy
+related projects equipments and projects in transmission  distribution arena
+in international arena in recent times the prevailing environment of heightened uncertainties especially
+in the euro zone has also impacted the business prospects of bhel the widespread financial instability in
+europe and political turmoil in middle east  north africa mena region has caused delays in financial closure
+ project financing resulting in postponement of finalization of new projects in spite of such situation
+bhel was able to strengthen its foot print in 21 countries across the globe during 201112 the company is
+poised to maintain its references in the overseas market encompassing almost the entire range of products
+and services covering thermal hydro and gasbased turnkey power projects substation projects and
+rehabilitation projects besides a wide variety of products like transformers motors compressors valves
+electrostatic precipitators photovoltaic equipments insulators heat exchangers and switchgear etc
+
+technology upgradation research  development
+bhels products and systems are technology intensive and the
+company emphasizes on rd  technology development in
+its endeavour to realize its strategic aspiration of becoming
+engineering conglomerate
+
+accordingly bhel pursued the strategy of inhouse product
+development by encouraging innovation in line with the decade
+of innovations 20102020 declared by govt of india as a
+major step towards this the company has updated its rd policy
+                                               significantly
+                                                                   hrsg training simulator developed by
+                                               during 2011
+                                                                                corporate rd
+                                               12        bhel
+                                               invested rs 119882 crore on rd efforts  22 higher than
+                                               the previous year bhels efforts for encouraging innovation
+                                               have resulted in raising bhels ipr capital tally to 1786 with
+                                               highest ever iprs 351 no filed during 201112 a growth of
+                                               26 over last year has been recorded in turnover of rs 9832
+                                               crore from
+                                               in house
+        uhv test laboratory set up at
+                                               developed
+              corporate rd
+                                               products
+and services bhel has been ranked the ninth most
+innovative company in the world by the renowned us
+business magazine forbes significantly bhel is the only
+indian engineering company on the list and is ranked
+much higher than similar multinational companies in the
+power equipment field
+                                                                   plasma nitriding system at corporate
+                                                                               rd hyderabad
+                                                      13
+
+in conformity with engineering and technology objective
+the corporate rd division at hyderabad leads bhels
+research efforts using emerging technologies to offer state
+oftheart total engineering solutions research and product
+development centres at each of the manufacturing divisions
+play a complementary role in order to facilitate advanced
+rd activities in focused areas with stateoftheart facilities
+and specialized manpower bhel has established 13 centres
+of excellence which include eight centres of excellence at
+corporate rd hyderabad in addition to the existing centres
+                                                                   centre for nano technology established
+of excellence for simulators computational fluid dynamics
+                                                                                   by bhel
+permanent magnet machines and robotics and machine
+dynamics bhel has established four new centres of excellence during the year in the areas of advance
+fabrication technology coal research centre nano technology application and uhv lab for gis development
+an mou has been signed with indian institute of science iisc bangalore covering a broad area of joint
+research opportunities to facilitate bhel to engage in collaborative research this aims at accelerating the
+pace of development and demonstration of new products systems and concepts
+rd advisory council has been formed of eminent scientists and dignitaries from govt of india to advise
+bhel on rd strategies for growth and to enable it face the new challenges in the market
+in addition to corporate rd division bhel has four specialized institutes viz welding research institute
+at trichy ceramic technological institute at bangalore hydro lab at bhopal and pollution control research
+institute at haridwar
+
+human resource development institute
+                                                           guided by the hrd mission statement to
+                                                           promote and inculcate a valuebased culture
+                                                           utilizing the fullest potential of human resources
+                                                           for achieving the bhel mission the hrdi through
+                                                           a step by step strategic long term training process
+                                                           and several short term need based programmes
+                                                           based on comprehensive organisational research
+                                                           enables the human resources to unearth and
+                                                           hone their potential
+                                                        in line with changing market requirements the
+                                                        knowledge and skills of bhel employees are
+                                                        continuously upgraded in a major advancement
+                                                        an integrated human resource management
+system was implemented which aims at reaching out to the internal stakeholders on real time basis and
+redefining the role of hr functions as a strategic partner in business through process standardization
+optimization and seamless enterprise integration as a part of this process competency mapping and
+assessment of behavioural competencies for select level has been completed in edn bangalore  jhansi
+and power sector western region  power sector eastern region during 201112
+during 201112 hrdi has prepared and implemented learning modules for boiler and turbine for new
+entrants and trained 2000 workmen some of the core programs conducted include strategic need based
+
+
+                                                     14
+
+programmes competency based programmes and functional programmes like advanced management
+programmes general management programmes strategic management programmes senior management
+programmes middle management programmes young managers programmes and self starter programs for
+budding managers in a bid to enhance participation of minorities 242 of minorities were nominated for
+skill and competency development programs during the year
+in addition the hrdi provides professional support to corporate hr and hrdcs at unitsdivisions hrdi is
+also accepting consulting assignments from other organisations in a selective manner
+
+
+
+
+                                                   15
+
+      major highlights during the year 201112 in pictures
+
+
+
+
+             2xframe 9e gtg units commissioned by bhel at pdo amal in oman
+
+
+
+
+       153 mw captive power plant commissioned by bhel at ggs refinery bhatinda
+
+
+
+
+351 mw ccpp commissioned by                  6000 hp electric locomotive of clw equipped with bhels
+    bhel for gsegl hazira                          igbtbased traction  auxiliary convertors
+
+
+                                           16
+
+           2x500 mw tps commissioned by                            2x100 mw units 34 hydro sets for thdc
+               bhel for dvc durgapur                                            koleshwar
+
+
+
+
+          1500 mw pragati combined cycle                     490 mw unit 5 of nctpp dadri commissioned by bhel
+               power project bawana                           winner of gois national award frro early completion
+
+
+
+
+karnatakas single largest gridconnected solar power        commercilization of indigeneously developed 400 kv
+   plant of 5 mw capacity commissioned by bhel                 315 mva 3 phase phase shifing transformer
+
+
+
+
+1x600 mw avantha tpp set up by bhel appreciated by          vindhyachal stps equipped with bhel stes  winner of
+ kwpcl for maintaining high quality standards during           gold mentorious award 201011 for performance
+                   construction
+
+                                                        17
+
+                                                                      bhel performance at a glance
+                                                                     st
+ shareholding pattern as on 31 march 2012                                                                                            turnover  in crore
+                                                                                                        50000                                                                                 49510
+                                       595
+               1140                                                                                                                                                       43337
+
+                                                                                                        40000                                                               41299
+   144                                                                                                                                                   34154
+
+1349                                                                                                  30000                         28033
+
+                                                                                                                     21401
+                                                                                                        20000
+                                                                                       6772
+         president of india poi                 mutual funds and uti                                  10000
+         foreign institutional                    banks financial institutions
+         investors                                insurance companies                                         0
+                                                  others                                                            200708            200809            200910           201011           201112
+
+
+   profit before tax  profit after tax  in crore                                                        orders receivedorders outstanding  in crore
+12000                                                                                                   180000
+                                                                                                                     orders received          orders outstanding                   164145
+                                   pbt     pat                                    10302                 160000
+10000                                                                                                                                                            144300
+                                                             9005
+                                                                                                        140000                                                                                    135300
+
+ 8000                                                        8487                                      120000                              117000
+                                           6591                                           7040
+                                                                          6011                          100000           85200
+ 6000
+                            4849                                                                         80000
+             4430                                     4311                5665                                                                                            60507
+ 4000                                                                                                    60000                       59678              59037
+                                    3138                                                                           50270
+                    2859
+                                                                                                         40000
+ 2000                                                                                                                                                                                       22096
+                                                                                                         20000
+    0                                                                                                         0
+              200708         200809          200910         201011              201112                         200708            200809             200910           201011           201112
+
+
+                              manpower in nos                                                                    turnover per employee  in crore
+50000                                                                                                     110
+                                                                                    49390                                                                                                       100
+                                                                                                           100
+                                                                                                                                                                             093
+48000                                                                                                     090
+                                                               46748                                       080
+                                               46274                                                                                                        074
+46000                                                                                                     070
+                               45666                                                                                                     061
+                                                                                                           060
+44000                                                                                                     050       049
+              43636
+                                                                                                           040
+42000                                                                                                     030
+                                                                                                           020
+40000                                                                                                     010
+             200708         200809        200910           201011              201112                          200708            200809            200910           201011           201112
+
+
+consolidated financial statements  pbtpat  in crore                                                  consolidated financial performance  in crore
+                                                                                                         55000
+ 12000                                                                                                                49898
+                                                                                                                                                                           201112       201011
+                    10302                      bhel      subsidiary cos          joint ventures
+                                                                                                         45000                 43636
+ 10000
+
+                                                                                                         35000
+  8000
+                                                             7040
+                                                                                                         25000
+  6000
+
+                                                                                                         15000
+  4000                                                                                                                                                  10367 9065
+                                                                                                                                                                                       7087 6053
+                                                                                                           5000
+  2000
+                             10     55                                     10     37
+                                                                                                               0
+     0
+                                                                                                                           turnover                    profit before tax              profit after tax
+                          201112                                 201011
+                      profit before tax                        profit after tax
+
+                      excluding one time impact of change in policy of warranty obligation for earlier years
+
+
+                                                                                                   18
+
+                                   awards and accolades
+
+continuing its tradition of winning prestigious national international awards the organisation and its
+employees won several awards during the year 201112 notable among these included
+      scope meritorious award for rd technology development and innovation the award was
+       presented by the honble president of india smt pratibha devisingh patil to cmd bhel
+      mou excellence award 200910 as the top performing cpse in industrial sector the award was
+       presented by the honble prime minister of india dr manmohan singh to cmd bhel
+      bhel became the only psu to be unanimously selected for the ndtv profit business leadership
+       award for the second year in succession the award for 2011 was conferred to bhel in the industry
+       vertical of engineering
+      bhel was conferred the maximum number of 4 icwai national awards for excellence in cost
+       management among public and private sector companies for 201011 bhel was awarded the
+       recognition for the seventh successive year
+      essar steel infrastructure excellence award 2011 was awarded to bhel by cnbc tv18
+      3 national safety award to bhels hyderabad and trichy units for outstanding achievements in terms
+       of longest accident free period and lowest accident frequency rate at their works
+      under the rolta corporate awards 2010 of dun  bradstreet bhel was selected as the top indian
+       company under the engineering  capital goods sector
+      the intellectual property award 2011 was conferred on bhel by cii
+      bhel also won the golden peacock award for occupational health  safety 2011 and the golden
+       peacock award for innovation management 2011 in the manufacturing sector category
+      bhel was awarded the exim achievement award in the import category by the tamil chamber of
+       commerce
+      other awards include dainik bhaskar india pride gold award 2011 for excellence in central and state
+       public sector enterprises in the category of heavy industries gentle giant award from the dalal
+       street investment journal and enertia award 2011 under the category technology  innovation for
+       conventional energy thermal nuclear etc
+      for its outstanding export performance bhel has won the engineering export promotion council
+       eepcs top export award for the twenty second year in succession
+      bhel has been ranked the ninth most innovative company in the world by the renowned us business
+       magazine forbes significantly bhel is the only indian engineering company on the list and is ranked
+       much higher than similar multinational companies in the power equipment field
+      bhel was recognised as the best engineering company to work for in the engineering  automotive
+       category by business today magazine
+      continuing its winning streak in the cii exim award scheme for business excellence as per the globally
+       tgnised model of european foundation for quality management three units of bhel namely hpep
+       hyderabad edn bangalore and power sector eastern region won the commendation for significant
+       achievements in tqm in addition its bap ranipet unit was awarded commendation for strong
+       commitment to excel
+
+                                                     19
+
+         3 quality circles won gold medals for their case studies at the international quality circle conference
+          icqcc  2011 held in yokohama japan
+         8 prime ministers shram awards including 2 shram bhushan and 5 vishwakarma rashtriya
+          puraskars
+         the following awards in individual category conferred on cmd bhel
+          o     scope excellence award 200910 in individual leadership category maharatna  navratnapses
+                by the honble prime minister of indiadr manmohan singh
+          o     eminent engineering personality of india award from the institution of engineers india at the
+                indian engineering congress
+          o     forbes india leadership award 2011 in the best ceo public sector category
+          o     sivananda eminent citizen award 2011 of the sanatana dharma charitable trust by he sh
+                esl narasimhan honble governor of andhra pradesh
+          o     9th wärtsilä mantosh sondhi award by mr björn rosengren president and ceo wärtsilä
+                corporation for outstanding contribution to the energy sector in india
+
+
+
+
+       the then president of india presenting the scope           cmd bhel receiving scope mou award for excellence 
+    meritorius award for best practices in hrm to cmd bhel        outstanding contribution to public sector management
+                                                                     200910 from the honble prime minister of india
+
+
+
+
+       honble union minister for commerce  industry              cmd bhel receiving the ndtv profit business leadership
+    presenting the intellectual propery award 2011 to cmd          award 2011 in the engineering category from the then
+                   bhel  director e rd                                     unioun minister of finence
+
+
+                                                              20
+
+                      governance commitment  engagement
+
+our philosophy on corporate governance
+bhel has established a sound framework of corporate governance which underlines commitment to quality
+of governance transparency disclosures consistent stakeholders value enhancement and corporate social
+responsibility
+bhel endeavours to transcend much beyond the regulatory framework and basic requirements of corporate
+governance focusing consistently towards building confidence of its various stakeholders including
+shareholders customers employees suppliers and the society at large the company has developed a
+framework for ensuring transparency disclosure and fairness to all especially minority shareholders
+the vision of bhel envisages being a global engineering enterprise providing solutions for a better
+tomorrow and its mission is providing sustainable business solutions in the fields of energy industry 
+infrastructure
+the corporate governance policy of bhel rests upon the four pillars of transparency full disclosure
+independent monitoring and fairness to all to strengthen this bhel has signed a mou with transparency
+international to adopt integrity pact our corporate structure business procedures and disclosure practices
+have attained a sound equilibrium with our corporate governance policy resulting in achievement of goals
+as well as high level of business ethics bhels corporate governance policy is based on the following
+principles
+
+     1 independence and verfsatility fo the board
+
+
+     2 integrity and ethical behaviour of all personal
+
+     3 recognition o fobligations towards all stakeholders  shareholders customers employees
+        suppliers and the society
+
+     4 high degree of disclosure and transparency levels
+
+
+     5 total compliance with laws in all areas in which the company operates
+
+
+     6 achievement of above goals with comassion for people and environmentt
+
+
+the company believes that conducting business in a manner that complies with the corporate governance
+procedures and code of conduct exemplifies each of our core values and positions us to deliver long
+term returns to our shareholders favourable outcomes to our customers attractive opportunities to our
+employees and making the suppliers our partners in progress  enriching the society
+corporate hse  csr department is responsible for initiating sustainability in its core business processes
+the corporate structure is mentioned below
+for further information on corporate governance please check our annual report posted at our website
+wwwbhelcom
+
+                                                     21
+
+22
+
+23
+
+                                     sustainability at bhel
+
+the concept of sustainability has been ingrained in the dna of bhel which is evident from the mission
+statement  providing sustainable business solutions in the ﬁelds of energy industry  infrastructure
+sustainability is an integral part of the companys strategy bhel is committed to be an environment friendly
+company in all its areas of activities products and service providing safe and healthy working environment
+in line with the companys strategy environment improvement
+projects and community development programmes are given
+special thrust some of the major eips executed in the past at
+bhel plants and townships included tree plantation drives
+installation of rain harvesting plants efficient water and
+energy management reduction in noise level improvement in
+chemical storage and handling systems etc
+in line with dpe guidelines on corporate social responsibility
+for cpses the board constituted the board level apex
+committee for csr on 25th november 2010 for proper  periodic monitoring of csr activities further in
+terms of dpe guidelines on sustainable development the board of directors mandated that the committee
+will also oversee sustainable development activities accordingly the said committee was redesignated
+as board level committee for corporate social responsibility csr  sustainable development sd
+in year 2011 it is having independent and functional directors of bhel as its members and is headed by
+independent director bhel has defined its sd policy keeping in view the scale  nature of organizations
+activities products  services
+the sd projects are having thrust on the projects in the fields of rain water harvesting afforestation captive
+power generation based on solar energy use of renewable energy energy efficiency  conservation and
+waste disposal the sd policy of bhel is produced below
+
+
+
+                                      sustainable development policy for bhel
+
+                            we at bhel oﬀer products systems and services designed to
+                             beneﬁt the sociey
+                            we are commited to undertaking practices that meet the
+                             economic ecological and social responsibility tenets of
+                             sustainable development
+                            we will work with all our shareholders to ensure
+                             contineous improvement in the sustainable development
+                             of our operations within the ambit of the guidline issued by
+                             government of india
+
+
+
+
+in order to initiate environment sustainability the corporate health safety  environment hse group in
+bhel is vested with the responsibility to align the global reporting initiative grig3 guidelines with existing
+
+                                                       24
+
+management system framework with compliance to principles of inclusivity materiality and responsiveness
+two tier corporate  manufacturing units organization structure has been developed under corporate hse
+ csr department to establish implement monitor measure  improve the environment performance
+towards sustainable development
+     establishing waste water recycling plants in all major manufacturing plants                   introduction
+     rain water harvesting implementation                                                           of energy
+     become a supplier of waste water recycling equipment for utilities urban applications       management
+      municipalities adopting reuse of waste water etc                                            system ems in
+                                                                                                     units by installation
+                                                                                                     of suitable
+                                                                                                     appliances
+                                                        water
+                                                                                                     automation 
+    development of                                   management
+                                                                                                     controls
+     higher efficiency
+     esps                                                                                           supplier of
+    develop                                                                                        energy efficient
+     commercialize
+     applications in the
+                                carbon              ensuring                     energy
+                                                                                                     equipment viz
+                                                                                                     variable frequency
+                              management                                       management
+     area of emerging                              sustainable                                       drives static
+     technologies                                                                                    synchronous
+     carbon capture                              development                                        compensator
+     co2 sequestration                                                                               statcom
+                                                                                                     controlled shunt
+                                                                                                     reactor csr ect
+                                      biodiversity               material  natural
+                                      management                resource management                 enhance use of
+                                                                                                     renewable power
+                                                                                                     at own units
+                                                                                                     sitesuse pv based
+                                                                                                     street lights
+    plantation of trees in               incorporate changes in packing philosophies using
+                                                                                                     emergency power
+     manufactureing plants                biodegradable materials and avoiding using natural
+                                                                                                     solar heating
+     townships  catchment areas           wood etc
+                                                                                                     systems etc
+                                          work towards designs of thermal plants with
+                                           reduced footprint
+
+at unit level nodal officers has been designated to coordinate the sd activities at unit supported by team of
+officials capacity building  appreciation programme for these nodal officers are organized periodically
+further to address the product sustainability issue under the aegis of the national mission on clean coal
+technology bhel in association with igcar ntpc and other organizations is developing advanced ultra
+supercritical technology in conformity with green energy initiative an energy efficient largest single cylinder
+nonreheat steam turbine for 100140mw application has already been developed to harness waste heat
+bhel supplied space grade solar panels totalling to 221 sq mtrs in area are in use for various satellites of
+isro
+
+stakeholder engagement
+the organization has a well developed framework for
+identification of stakeholders bhel is committed to being
+accountable to those on whom the organisation has an impact
+and those who have an impact on bhel
+
+
+
+                                                           25
+
+                                         government
+
+
+                                                                       shareholders
+
+
+
+
+                       vendors
+
+
+                                                  bhels key
+                                                 stakeholders
+
+                                                                                  customers
+
+
+
+
+                            society at
+                              large
+
+                                                           employees
+
+
+
+
+bhel continuously maps its stakeholders and has regular
+processes in place to ensure inclusion of stakeholder
+concerns and expectations key issues are identified
+through ongoing stakeholder engagement and addressed
+by programmes or action plans with clear and measurable
+targets to educate our internal stakeholders and
+disseminate the concepts of sustainable development
+focused training programmes were organised at bangalore
+hyderabad and bhopal and trichy unit
+bhel also endeavors to educate its stakeholders on
+
+                                                                various social issues as well save girl child
+                                                                eradicate corneal blindness through vision to
+                                                                all  bhels call was taken in big way
+                                                                the table 1 shows modes of engagement with
+                                                                the key stakeholder group and particulars of
+                                                                activities done in the year 201112
+
+
+                                                      26
+
+                                table 1 stakeholder engagement
+stakeholder group          level of              mode of             particulars of activities conducted in
+201112                  engagement            engagement                           201112
+                      corporate     unit
+
+customer                                  customers meet       customers meet customer survey
+vendor                                    vendors meet          vendors meet survey
+government                               mou reports          mou environmental statement
+statutory bodies                                                  parliamentary committee meetings
+corporate bodies                           meetings              meetings with members of scope ficci
+                                                                  cii
+society at large                          csr programme        csr projects interaction with people
+                                            baseline survey      through site visits for csr
+                                            need identification
+employees                                 inhouse              pratibimb arunima csr meet for nodal
+                                            magazine             officers sd meet for nodal officers
+                                            message from          employee engagement survey plant
+                                            cmd employee         council  shop council meetings
+                                            engagement
+                                            survey
+shareholder                                annual report         annual general meeting press release
+                                            press releases        conference call with minority shareholders
+
+participation in the uns global compact programme
+as the worlds largest global corporate citizenship initiative the global compact program is the first and the
+foremost concern which is exhibiting and building the social legitimacy of business and markets bhel has
+continued to play a prominent part in the united nations global compact programme on csr by promoting
+the core values on human rights labour standards environment and anticorruption and intends to advance
+these principles forming part of its strategy  culture within its sphere of influence bhel demonstrated
+its commitment through regular pooling of communication of progress cop on the ungc website bhel
+periodically submits annual communication of progress on the relevant principle of global compact in respect
+of environmental issues it gives an excellent platform to engage with its stakeholders worldwide through un
+global network bhel has now become a life member of global compact network india
+company publicly advocates with its employees and other stakeholders and regularly incorporates its
+commitments towards global compact programme through its annual report press conferences and other
+public documents this is considered to be an important tool by bhel for engaging with our stakeholder on
+a worldwide platform
+key sustainability issues opportunities and concerns
+based on stakeholder engagement framework materiality analysis and market study key sustainability
+issues opportunities and concerns have been identified the same has been depicted in the diagram shown
+below as it is clear from the diagram environmental degradation  resource depletion pollution and
+accident prevention climate change and energy security talent management and stakeholder engagement
+have been identified as major sustainability issues
+
+                                                       27
+
+          key sustainability issues opportunities and concerns
+
+                                                   risk  concerns
+                                                    dependency of growth prospects on policy intervention
+                                                    uncertaininty about domestic conditions
+                       risk                        lack of clarity on availability of coal land issues and
+                      concerns                       environmental clearances
+                                                    bleak market condition due to high interest rate 
+                                                     uncertainty in finalization of projects
+
+                                                   oppotunities
+                                                    energy efficiency
+                                                    tremendus demad for electricity
+      opportunities
+                                                    development  deployment of low carbon tech
+       and threat                                   diversification into new segments
+                                                    enhancing brand image through csr
+                                                   threats
+                                                    increased competition from foreign players
+                                                    shortage of vendors for bop packages
+                           key sustainability       policy uncertainty
+                                issues
+                                                   key sustainability issues
+                                                    enviromental degradation  resource depletion
+                                                    talent management
+                                                    pollution  accident prevention
+                                                    climate change and energy security
+                                                    stakeholder engagement
+
+
+
+
+health safety and environment management
+bhel gives utmost importance to health and safety of its employees going far beyond the statutory provisions
+and requirements of various legislations bhel ensures free medical services for the employees and their
+families through effective use of bhel hospitalsdispensaries and other world class infrastructure available
+in the country not only this even retired employees are also covered in the bhel health scheme
+bhel launched the occupational health  safety ohs programme on its own on 3rd may 1976 the ohs
+program is a multidisciplinary total health symphony comprising of protective occupational hygiene and
+ergonomics monitoring of workplaces and workpractices detective toxicological studies to identify and
+eliminate dangerous chemicals from work processes periodic man maintenance programs for riskgroups
+effective well person screening programs health education and psychological guidance for employees
+either individually or in groups altogether making up an effective and comprehensive health promotive
+curative and rehabilitative service
+in 1982 national model centre for ohs was inaugurated at bhel trichi by the govt of india funded by the
+undp and executed in technical collaboration with the ilo the ohs centre comprises of various functional
+units which facilitate high quality technical expertise these include occupational medicine occupational
+hygiene audiology health information systems and health education and training etc
+
+
+
+
+                                                     28
+
+bhel is committed towards providing safe working environment to all its stakeholders plant safety
+committees consisting of equal number of union representatives of workers and management have been
+constituted to promote cooperation between the workers and the
+management in maintaining proper safety and health at work and to
+review periodically the measures taken in that behalf
+safety awareness campaigns are organized by each bhels unitsregions
+regularly on the date set by them on safety day 4th march every year
+unitregion heads address the gathering comprising of hods safety
+committee members hse coordinators representatives of unions
+associations  cross section of employees safety banners posters 
+stickers are displayed at prominent places inside the factory premises
+the suppliers  transporters are informed through normal communication channels laminated boards of
+hse policy are displayed in prominent places
+                        safety is an everyday activity in bhel safety officers supervisors safety stewards
+                        play a key role in promoting safety the safety week was observed at all the units
+                        of bhel and objectives at units in 201112 were as follows
+                           involvement of maximum number of employees propagate the message of
+                            safety to one and all
+                           reduction in incidents and accidents
+                           safety drills at construction sites
+                           creating safety awareness amongst workers
+     involving all cross section of workers in safety commitment
+     creating roadmap for safe work environment
+     safety calendar distribution and putting up safety related posters at strategic locations
+     creating more awareness among all employees regarding health safety  environment
+     providing information to the employees regarding hazards involved in their work area
+     training  awareness programs for slingers crane operators welders machinists etc for creating
+      accountability amongst employees in accepting responsibility to prevent physical injuries risk to
+      health and damage to environment
+
+
+                                                    29
+
+      promotion of activities for conservation of resources by environmental management with focus on
+       oil electrical energy and chemicals
+      providing information to eliminate  control  minimize risks and hazards arising out of internal and
+       external sources
+      providing technical guidance on hse issues to production and service and for new projects
+      providing technical guidance on ppes lifting equipment
+to create mass awareness among employees workers cisf persons house wives and school children
+following initiatives have been taken in 201112 
+        poster competition
+        hse slogan competition
+        hse quiz
+        safety talk  shop floor demonstration
+        safety banners
+        distribution of safety posters  stickers  badges  caps  wallets  leather belts etc
+        equiz
+        safety intranet web page
+        safety lectures for ets  mts  sts  artisans
+        training programs for slingers  crane operators  welders  machinists etc
+        conducting mock drills
+        fire fighting training
+        major safety week initiatives are enumerated below
+bhels commitment towards environment is reflected in
+all its activities products and services providing safe and
+healthy working environment to all stakeholders
+all manufacturing units of the company are accredited
+to international standards viz iso14001 certification for
+environmental management and ohsas18001 certification
+for occupational health and safety management systems
+in conformity with its commitment towards environment
+conservation the company has taken up a number of
+environment improvement projects eips these projects
+                                          helped      in
+                                          enriching the environment conservation of precious resources
+                                          like energy water fuel oil coolant lubricant mitigating
+                                          environmental pollution as a part of major eip projects
+                                          during 201112 the company has planted 27545 trees and
+                                          successfully completed the water harvesting project in epd
+                                          bangalore unit for slip house ball mill building
+                                                further in keeping with the commitment to use renewable
+                                                power in units the company has installed solar street lighting
+                                                in and around isg building in bangalore pv panel module on
+                                                rooftop of pcb building in edn bangalore and emergency
+
+                                                        30
+
+solar lighting at the main receiving stations at hpep hyderabad during 201112 in bid to ensure green supply
+chain study of supply chain management was completed at hyderabad unit energy audit was completed in
+insulator plant jagdishpur epd bangalore and hpep hyderabad units a 250 kwp spv power plant has been
+commissioned at our rd hyderabad centre
+bhel has been actively developing and acquiring clean technologies for power generation enabling its
+customers to minimize the impact of power generation on the environment reinforcing its commitment
+to optimum utilization of natural resources as well as its concern for the environment bhel has developed
+dynamic classifier system to improve combustion efficiency of boiler and reduction of nox emission
+the company won the prestigious golden peacock award for occupational health  safety 2011 for
+significant achievements in the field of occupational health  safety
+
+
+
+
+                                 corporate health safety  environment policy
+
+          bhel is committed to being an environment friendly company in all its activities products and services and to
+          provide safe and healthy working environment to all employees as an intergral part of business performance
+          through
+
+                v       compliance with applicable legislation and regulations
+
+                v       continual improvement in the occupational health safety and environmental management
+
+                v       systems performance
+
+                v       promotion of activites for conservation of resources by environmental management
+
+                v       enhancement of environmental safety and occupational health awareness amongst employees
+
+                v       customers and suppliers by proactive communication and training
+
+                v       periodical review of occupational health safety  environmental management systems to
+
+                v       ensure its continuing suitablility adequacy and effectiveness
+
+                v       communication of this policy to all employees and interested parties
+
+                v       coordination with concerned government agenciesregulatory bodies engaged in occupational
+                        health safety  environmental activities
+
+          this policy shall be made available to all employees and interested parties
+
+
+
+
+                                                             31
+
+                                   social performance
+
+management approach towards csr
+in the 427th meeting of the board of directors of bhel held on 23rd july 2010 bhel adopted dpe guidelines
+on csr as its csr policy with annual nonlapsable csr fund  05 of profit after tax pat of previous year
+from 201011 onwards for implementation of csr activities eight 08 priority areas have been identified
+there exists a three tier committee structure in the company consisting of subcommittee level 1 committee
+and board level committee blc for csr  sd the blc consists of three independent and two functional
+directors
+
+
+
+
+                                                     32
+
+           flow chart for screening of project proposal received as per 3  tier committee structure
+
+              put up for                         put up for                         put up for
+            consideration                      consideration                      consideration
+ project                          csr                                 sub                         level 1
+proposal                       department                           committee                     commitee
+
+
+
+
+                            a communication regarding rejection of proposal is sent to project proponent
+
+
+
+                                                                                not approved       board level
+                                                                                                  commitee for
+                                                                                                    csr  sd
+
+
+
+
+                                                                                   approved
+
+
+
+                               a communication regarding approval of the project and further course of
+                                                action is sent to project proponent
+
+
+                                                               33
+
+after the approval from board the projects are aligned to different units  divisions  regions for coordination
+and monitoring their implementation is being carried out by ngos specialized agencies and reports at
+regular intervals submitted to aligned units the unit head is the nodal officer for csr and a csr committee
+exists at unit  division region level which is involved in the monitoring supervising and coordination of csr
+projectsinitiatives
+corporate social responsibility  bhel
+towards addressing the second pillar of triple bottom
+line approach for sustainability bhel has developed
+a csr scheme and its mission statement on csr is be a
+committed corporate citizen alive towards its corporate
+social responsibility bhel has adopted a csr policy in line
+with the csr guidelines issued by department of public
+enterprises
+fostering the tradition of repaying the society at large by
+actively participating in the welfare of local communities
+through numerous corporate social responsibility
+initiatives bhel undertakes socioeconomic and community
+  before renovation         after renovation
+                                                 development programmes to promote education
+                                                 improvement of living conditions and hygiene in villages
+                                                 and communities located in the vicinity of its manufacturing
+                                                 plants and project sites spread across the country thrust
+                                                 is being given in eight areas self employment generation
+                                                 environment protection community development
+                                                 education health management  medical aid orphanages
+                                                  oldage homes infrastructural development and disaster
+                                                  calamity management in addition bhel provides
+                                                 financial assistance to various ngostrustssocial welfare
+                                                 societies that are engaged in social activities throughout
+submersible sewerage pump house haridwar the country reaching out to the distressed victims in the
+                                                 earthquakeravaged areas of sikkim bhel has made a
+humble contribution to help alleviate their suffering during 201112
+during 201112 as part of social commitment 7941 act apprentices were trained in the company in
+addition 8419 studentstrainees from various professional institutions underwent vocational training
+bhel has been supporting socioeconomic and community development programmes to promote education
+improvement of living conditions and hygiene in villages and communities located in the vicinity of its
+manufacturing plants and project sites spread across the
+country through various projects both at unit level and by
+specialized agencies bhels endeavour has been to bring a
+change in the lives of the communities existing around us so
+that people living in these communities can exercise control
+over the conditions that impact their lives
+understanding the responsibility towards protection of
+environment bhel initiated a project in karnataka which
+comprises of afforestation in a barren land at ramadurga in
+koppal district the project involves planting of fruitbearing       aforestation at koppal district karnataka
+
+                                                        34
+
+                                                    trees in a complete patch of barren land and preserving
+                                                    these trees for birds and animals thereby promoting
+                                                    species protection
+                                                     in this area another project was started for rain water
+                                                     harvesting at shivalik hills roots in haridwar by building
+                                                     specially designed tanks and check dams for the purpose
+                                                     of collecting the flowing rain water which otherwise might
+                                                     have been wasted or caused flooding the tanks have a
+                                                     capacity to store more than 45000 cubic metre water
+                                                     thereby ensuring that the level of underground water table
+    earthen pond for storm water retention under     in the area has increased the check dams will obstruct the
+              construction haridwar                fast flow of gushing water from the hills the project has
+                                                    been successfully completed
+in our country the basic needs of human beings like clean and hygienic living conditions pure and safe
+drinking water and access to basic medical facilities etc are
+not getting fulfilled realizing the importance of providing
+these basic facilities and being alive towards the social
+needs of communities bhel successfully improved the
+sewage system at haridwar to supplement the requirement
+of ganga pollution control unit uttarakhand peyjal nigam
+haridwar the company believes in the dictum of cleanliness
+is godliness and hence taking a number of initiatives in the
+field of sanitation and hygiene so that people can live in neat
+and clean surroundings free of squalor and diseases
+to supplement our health and hygiene programs we have
+initiated a program called community friendly movement
+in 25 villages of munger district in bihar through the
+                                                                     community friendly movement at munger bihar
+program we will achieve four different objectives of i dairy
+development ii bio mass fuel iii women health  hygiene and iv food processing  preservation for
+the holistic improvement in existing living conditions of people in these villages under the program a milk
+chilling unit will be installed for preservation of milk and supplying it to communities further briquettes
+                                                      made through biomass fuel will be provided to villagers
+                                                      for convenient preparation of food without causing
+                                                      pollution that arises out of traditional chulhas the
+                                                      third initiative in this line is the installation of sanitary
+                                                      napkin making unit to provide low cost sanitary napkins
+                                                      to village women and provide the basic hygiene a food
+                                                      processing and preservation unit will also be installed
+                                                      for the convenience of villagers
+                                                     going beyond the basic needs of the community and
+                                                     working in entirety for the communities by supporting
+                                                     the education programs the company has successfully
+                                                     installed six reverse osmosis plant units at bellary
+                                                     hubli puri vrindavan gandhinagar and vadodra to
+provide safe and pure water for school children in the base kitchens for midday meal programs managed by
+akshaya patra foundation
+
+
+                                                        35
+
+in addition we have also provided five food delivery vans in
+the guwahati region in assam to supplement the midday
+meal programme under the sarva shiksha abhiyaan by
+the government of india in order to provide hygienic and
+hot food to school children
+recognizing the importance of involving various
+communities for inclusive and participatory growth we
+have launched a program at hatia ranchi in our endeavor
+to provide care and support to senior citizens by building a
+selfsustainable old age home for them under the program
+                                                construction of cow shed shed for making vermin compost
+                                                installation of bio gas plant has been taken up
+                                                    adopting a multidisciplinary approach towards csr in which
+                                                    health and medical care hygiene sanitation provision of
+                                                    pure drinking water and education take the top most priority
+                                                    bhel initiated projects titled vision to all in i guntur district
+                                                    of andhra pradesh to carry out cataract operations for five
+                                                    hundred patients and ii another unique project for carrying
+                                                    out 300 otsurgeries for eyepatients from andhra pradesh
+                                                    orissa and chattisgarh commenced at sankar foundation
+    project with viskasan a free home old helpless eye hospital in vishakhapatnam ap in addition to this
+               people  ranchi jharkhand           the company
+                                                    has        been
+organizing free health checkup camps for workers at its different
+sites regions as preventive measures for various ailments
+realizing the extent of the spread of cancer in the country with
+thousands of patients suffering from the horrible disease the
+company in its efforts to eradicate cancer from society has
+joined hands with shradha cancer care trust for construction
+of a 30bed hospice in rishikesh to provide free of charge in
+                                                 patient medical
+                                                 care           for
+                                                 terminally ill cancer patients
+                                                     in addition we have also partnered with global cancer
+                                                     concern india gcci for detection of cancer amongst poor
+                                                     and helpless people in this line a series of cancer detection
+                                                     camps at noida delhi and gurgaon have been conducted
+                                                     for detection of
+                                                     cancer in patients
+                                                     and providing them
+                                                     medical assistance
+for its treatment
+at our unit level we have been undertaking several initiatives
+in nearby villages and areas for the development of community
+infrastructure promotion of livelihoods improving access to health
+care and education under this we have taken renovation of one
+
+                                                           36
+
+                                               triveni girls hostel near our bhopal unit we have provided
+                                               furniture to old age homes near our edn unit bangalore
+                                               to provide hygienic sanitation facilities construction of
+                                               toilets for women at aurangabad haridwar was successfully
+                                               accomplished
+                                               in this way bhel is trying to make a difference in the lives of
+                                               the communities not only in the vicinity of our units but across
+                                               whole country through in frastructure creation and providing
+                                               services for public benefit
+                                             ta ki n g
+the focus on community development beyond the
+basic needs of health and education bhel organizes
+various programmes for talent upgradation of
+social and economically backward students for their
+empowerment in order to make them selfreliant it
+supported one such program for apparel training of
+students belonging to below poverty line families in
+chhindwara district maharashtra organized a cutting
+and tailoring training programme through ngos for
+ladies in jhansi to provide livelihood opportunities and
+empowerment of women                                    toilets in zila parishad high school madhavaram hyderabad
+
+                                         the company is promoting various scholarship programmes for
+                                         students to enable them pursue higher education under these
+                                         programmes financial assistance is provided to wards of widows
+                                         in adopted schools and villages by units supporting need based
+                                         construction of hostels classrooms toilets etc in educational
+                                         institutes
+                                            to     meet     nations
+                                            requirement of skilled
+                                            manpower bhel has
+ 6 class rooms constructed for govt middle adopted   various itis
+  school malaikovil thiruverumbur north   under the government
+                                            of india ppp scheme
+government iti latur by hyderabad unit government iti
+bajpur by rudrapur unit government women iti khandwa  iti
+khaknar by bhopal unit government iti peramvalur by tiruchy
+unit  under approval by state technical board government
+iti sidcul haridwar by haridwar unit  under approval by state          cutting and tailoring training programme
+technical board                                                                    for ladies in jhansi
+
+as part of its csr initiative regarding talent up gradationskill development bhel in association with cil
+                                           dvc  ssda has set up kabiguru industrial
+                                           training centre kgitc at bolpur santiniketan west bengal to
+                                           provide high quality technical education and to give a fillip to the
+                                           economic development needs of the area phasei of the institute
+                                           is ready all the four trades ie fitter welder plumber and dress
+                                           making have been affiliated under ncvt the classes for fitter trade
+                                           with 42 students including 02 girls are in progress since aug 2010
+                                           for the remaining 03 trades welder plumber and dressmaking
+                                           admissions are in progress for the sessions to commence shortly
+
+                                                        37
+
+                               environment performance
+management approach
+bhels health safety  environment policy is aligned to international standards on environment management
+systems iso14001 2004 occupational health safety systems ohsas18001 2007 all manufacturing
+unitsregions of the company are accredited to international standards viz iso14001 certification for
+environmental management and ohsas18001 certification for occupational health and safety management
+systems
+in order to initiate environment sustainability the corporate hse is given responsibility to align the grig3
+environment performance indicators with existing management system framework with compliance to
+principles of inclusivity materiality  responsiveness as per accountability aa 1000 aps two tier corporate
+ manufacturing units organization structure have been developed under corporate hse department to
+establish implement monitor measure  improve the environment performance towards sustainable
+development 								
+material consumption
+bhel stresses upon lesser  effective utilization of various natural resources used in the manufacturing of its
+diverse range of products the consumption of major raw materials at bhel categorized by the nature of raw
+materials and specific units of measurement has been given below
+due to large portfolio of products the raw materials are also diverse in nature and their measurement in
+terms of either weight or volume is not possible due to this nonuniformity of measurement units it is very
+difficult to compare raw materials consumption on year to year basis as clear from table 2 shown below
+
+                                table 2 material consumption data
+description           unit of measure    total quantity      total quantity             total quantity
+                      ment                201112           201011                  200910
+ferrous materials     mt                  647585              697453                     633825
+                      meters              16084481            13749271                   9088417
+                      nos                5839126             5184210                    3831321
+                      sq m               50035               958                        12
+non ferrous materials mt                  6101                31797                      26376
+                      meters              3050477             1757921                    2144535
+                      nos                211852              274269                     187313
+                      sq m               96                  242                        194
+                      rl                  26960               27781                      20902
+insulating materials  mt                  33058               76561                      17489
+                      meters              79130216            68635813                   60428160
+                      nos                469400              730866                     427241
+                      sq m               2024396             1766852                    2156714
+                      rl                  135391              216335                     177783
+                      lt                  5268930             7290736                    4592485
+                      st                  509                 411                        397
+
+
+                                                      38
+
+however integration of units provides bhel the opportunity to reduce its environmental footprint through
+optimal material utilization and waste reuserecycling bhel has a good system of recyclingreusing its
+waste scrap generated from all the units is sent to central forge  foundry plant cffp haridwar where it
+is converted into usable material which serves as raw material for the manufacturing of castings  forgings
+required for the manufacturing of power equipment the total ferrous scrap from bhels sister units to
+cffp haridwar and its own recycling of ferrous scrap constitute around 28278 mt realizing this bhel has
+taken some initiatives to reuse the raw material wherever possible bhel recycledreused nearly 35 of its
+materials as recycled input materials therefore reducing impact on natural resources
+energy consumption  conservation
+direct the major primary sources of energy and total energy consumed at identified 14 units has been given
+in table 3 below
+
+                                       table 3 energy consumption data
+description                    energy consumed in tj     energy consumed in tj                energy consumed in tj
+                               201112                 201011                            200910
+direct energy
+primary energy fuels           3167                          2885                             3273
+consumed diesel coal
+lpg kerosene etc
+primary energy pro            011                          021                             019
+duced through solar
+energy generation
+indirect energy
+electricity consumed           1400                          1256                             1234
+total tj                     4567                          4141                             4511
+
+
+
+
+    new electronic shop  a green building at bap ranipet        solar water heating system for et hostel at rd hyderabad
+
+the conversion factors for fuel consumed have been taken as per ipcc guidelines the average direct energy
+consumption for the last three years was 3018 tj whereas the 3 years average of indirect energy consumption
+due to electricity was 1297 tj put together the total average energy consumption for the last there years
+was 4406 tj the figures below show the different energy consumption the fuel mix and other related
+information
+
+
+
+
+                                                            39
+
+consumption for the last there years was 4406 tj the figures below show the different energy consumption
+the fuel mix and other related information
+
+
+
+
+energy management is an important thrust
+area in bhel so energy conservation and energy
+efficiency has always been a very important
+endeavor for bhel as a result of various energy
+efficiency and conservation initiatives in the
+process redesign conversionretrofitting of
+equipment changes in personnel behavior etc
+taken at units total 167 tj of energy has been
+avoided during 201011 during this period
+nearly 11 million unit of electricity usages was
+
+                                                    40
+
+avoided due to such initiatives this year the major contribution
+of energy use avoidance has come from fuel switch 126 tj
+bhel has formed a broad framework for energy conservation
+across the organisation
+major activities undertaken for energy conservation during the
+financial year 201112 were
+1 key personnel were certified as energy manager energy
+auditor at manufacturing units
+2 energy conservation week was celebrated across the
+   company from 14th to 21st december several competitions like painting essay writing in regional
+   language quiz were organized in units offices schools and townships
+3 energy audit was conducted by external agencies like pcra teri etc at hpep hyderabad ip jagdishpur
+   and epd bangalore to find ofi opportunities for improvement
+4 solar street lighting had been installed to tap renewable energy
+5 guidelines for procurement of energy efficient equipment on the basis of lcca life cycle costing
+   analysis were issued
+
+water management
+water management is one of the major environment improvement projects eips at bhel as is evident
+       water consumption in million cu m  year
+                                                         from the graph below the major source of water for bhel is
+ 1800
+                                        1648 1611      ground watersurface water the next in line is municipal water
+ 1600
+                                                         supplies the total water consumption at bhel manufacturing
+                                                         units the year 201112 was 1611 million m3 industrial as well
+ 1400
+ 1200          1190
+
+ 1000
+                       1056                             as domestic consumption it also includes 39724 cu mtr of
+                                                 201011
+  800                                           201112
+                                                         waste water used at epd bangalore unit it may be observed
+  600                                                   from the data that over the period the water consumption
+  400 317 313
+                                    210
+                                                         in bhel has not gone up thereby establishing that there is
+  200                      142
+                                                         decoupling between water usages and increase in turnover
+  000
+         surface
+          water
+                   ground
+                   water
+                            municipal   totalthis has been made possible by bhels concerted efforts in
+                                             developing rainwater harvesting potential within its units in
+our smaller units these are mostly of based on the buildings however in the larger units independent rain
+water harvesting structures have been created resulting in huge quantity of rainwater being recharged to
+the ground
+
+
+                                                          41
+
+                                                    recycling and reuse of water is also a major strategy for
+                                                    reduction in the consumption of fresh water resources water
+                                                    is mostly being recycled in industrial cooling and reused in
+                                                    horticulture  ground water recharging at units
+                                                    units such as bheltrichy  bhel ranipet have taken steps
+                                                    proactively on water conservation by way of ground water
+                                                    recharge through rain water harvesting on one hand and making
+                                                    their unit as zero discharge unit on the other hand at trichy
+                                                    unit 100 treated trade effluent water is used for irrigation
+                                                    within the complex to maintain zero discharge hence avoiding
+                                                    contamination of the water body recycling of hydro test water
+ ceramic membrane based micro filtration  200      cooling tower from sstp treated sewage water from township
+ nm  reuse of waste water at epd  bangalore
+                                                    and factory are the facilities operating in full capacity
+
+
+
+
+             1 million gallon rain water reused after               a stop dam constructed inside factory area
+         treatment in filtration plant inside factory area             for rain water conservation  bhopal
+
+
+
+
+          jawahar baug  rain water harvesting at bhopal          rooftop rainwater harvesting at epd bangalore
+
+also as part of its strategy water discharge from the process and sewage is treated at effluent treatment
+plant  sewage treatment plant and reused for horticulture bhel reflects compliance to the environmental
+norms as the quality parameters for the discharged water are within the limits as specified by the state
+pollution control boards for each of the units out of total quantity of water drawl approximately 27 was
+discharged as waste water during 201112
+biodiversity
+as such none of the bhel units is surrounded by any biodiversity  protected area with respect to its concern
+for environment bhel has undertaken afforestation activities such as tree plantation  development of
+
+                                                             42
+
+green belt resulting in development of approximately 47 lakh sq m of green coverage and plantation of
+around 30 lakh trees in and around units 27545 trees have been planted across various units of bhel in
+201112 bhel trichy unit has a tree density of 3600  hectare and one of the effects of high tree density 
+hectare is that the ambient temperature here is about 20c lesser than that in the city also here the rainfall
+is more as compared to the city
+
+
+
+
+                                                     43
+
+emissions
+                                                            bhel
+ total direct and indirect ghg emission mt of co2  equivalent        units
+1000000                                                     have initiated
+                                                            quantification of
+                                                            relevant gaseous
+                                                    200910
+  500000                                            201011
+                                                            emissions
+                                                    201112 however       the
+                                                            emission       of
+       0
+                                                            nox sox spm 
+      direct emission indirect emission total emission      other significant
+                                                            parameters are    fume extraction system at cffp haridwar
+within the prescribed limits of the state governments control
+ monitoring emissions is undertaken regularly the total direct  indirect ghg emission for past three years
+has shown in the figure it shows that as compared to 201011 the direct emission has gone down whereas
+the indirect emission has gone up
+
+                 total ghg emission avoided mt co2  e
+  25000
+                                                                   20452
+  20000
+
+  15000
+
+  10000
+                   6893                    6277
+   5000
+
+      0
+                  200910                201011                   201112
+
+                                                                                  mobile fume extraction system at hpep hyderabad
+
+due to various initiatives taken up to reduce the direct and indirect ghg emission bhel has avoided ghg
+emission of approx 20452 mt co2  equivalent this is a quantum jump from avoided emission of 6277
+mt co2  e this can be attributed to reduction in kcal of fuel consumption at cffp haridwar resulting in
+significant emission avoidance
+at most the units use of ods in refrigerators and chillers has been stopped and at the remaining units it is
+being phased out the emission of ods was 173 kg of cfc  11 equivalent for the year 201112
+waste management
+the hazardousnonhazardous wastes generated from all the units are categorized as ferrous nonferrous 
+others at all the units disposal of hazardousnonhazardous wastes is done through mstcother authorized
+agencies as shown in table 4
+                                                           table 4 waste generated
+ types of           unit         quantity             quantity     quantity   disposal method
+ wastes                          201112            201011    200910
+ non      mt                    7652208             8372722     7191760 through mstc other authorized agencies
+ hazardous m3                    986319              771021      809045    through mstc other authorized agencies
+           mt                    3426                 258545      332558    through mstc other authorized agencies
+           ltr                  000                 34980        84035
+           nos                  000                 35           855
+
+                                                                             44
+
+the different types of waste reused  recycled at bhel for 201112 is given below in table 5
+
+                                            table 5 waste utilized
+nonhazardous                mt                         2373                        reuserecycle
+                             m3                         640                         reuserecycle
+hazardous                    mt                         40                         reuserecycle
+the above also includes wood reused for manufacturing wooden boxes used for packaging of the product
+this reduces the input material for packaging purposes also nonhazardous waste include ferrous and non
+ferrous scrap also which are recycled and reused at units
+
+significant spills
+no significant spill has occurred during the reporting period
+however minor spillage particularly at the time of preventive
+machine maintenance is taken care of according to environmental
+management practices iso 14001 2007 adopted
+
+environmental impacts of products  services
+being a major player in the arena of power equipments bhel
+understands that it has imperative to help the customer in mitigating
+the environmental impacts of power generation through its               coolant recycling plant at hep bhopal
+equipment with this view bhel has been actively developing and
+acquiring clean technologies for power generation enabling its customers to minimize the impact of power
+generation on the environment product pertaining to power generations has been evolving since inception
+of company based on the current needs these products became efficient in terms of heat rating some
+examples of various initiatives taken by bhel in power plant equipment design to mitigate the environmental
+impacts of its products and services are as below
+   supercritical units these units have a better heat rate than the conventional sub critical units and
+    consume less coal per mw this aids in reduction of co2 emission
+   electrostatic precipitators the fly ash from the flue gases are segregated  collected by the electrostatic
+    precipitators besides they also reduce particulate matter emission
+   boiler burner design for low nox low nox burners and over fire air arrangement help to reduce nitrogen
+    oxides emission
+   circulating fluidised bed boilers it leads to higher absorption of sulphur in the combustor with lime
+    addition and also reduces the emission of sulphur oxides
+   flue gas desulphurising systems fgd it helps in removal of sulphur oxides from the flue gas thereby
+    reducing sulphur oxides emission
+in addition bhel has taken several steps for process improvements to minimize the impact of power
+generation on the environment some of these steps are
+   boiler chemical cleaning change from hcl to edta a comparatively mild acid with a changed procedure
+   pado systems performance analysis diagnostics and optimisation improved efficiency through better
+    operations thereby leading to reduced coal consumption and emission levels during power plant life
+    cycle
+
+                                                       45
+
+bhel also supplies energy efficient products like ac drives igbt based propulsion systems variable speed
+ frequency drives etc to address conservation of energy bhel manufactures products like static var
+compensator phase shifting transformers control shunt reactor facts etc
+
+additionally bhel units have taken many steps to reduce the environmental impacts in its boundary as well
+which are given in the following section
+
+initiatives taken with respect to
+materials used
+   design improvement for material conservation in
+    large industrial machines  bhopal
+
+   optimised design of esp pent houseuse of roof
+    beams instead of angle truss use of optimised
+    esp insulation retainers use of steel boxes instead
+    of wooden boxes for emitting electrode packing
+    modified packing methodology for collecting
+    electrodes emitting suspension frames collecting
+    suspension frames optimised insulation design
+    for esp hoppers optimised collecting drive
+    arrangement for esp leading to reduction in                 effective utilization of day light by using light efficient
+    inter esp gap use of high strength steel for esp          ultraviolet stabilized poly carbonate sheets in north
+    supporting structure leading to reduction in                                lighting at edn bangalore
+    material usages  bap ranipet
+
+   modification of forging  casting drawing or product with optimum machining allowances this helps in
+    conserving raw material as lesser is used due to redesigning  herp varanasi
+
+water used
+   recycling of water coming out of drain and recycling
+    plant for treated industrial effluent resulting in less
+    use of ground water  heep haridwar
+
+   water which is used as coolant is recycled and
+    exhausted within the process leading to zero water
+    discharge  varanasi
+
+   modification in the design of fan leading to
+    reduction in consumption of cooling water by 88
+     bap ranipet
+
+   by optimization process the lube oil system capacity is reduced to 20 lpm whose cooling water requirement
+    is 12m3hr only against 32m³hr per boiler leading to reduction in cooling water consumption by 62 
+    bap ranipet
+
+   treated sewage used in gardening at many of the units
+
+
+
+                                                         46
+
+emissions
+   development of fixture for paint spray gun resulting in voc emission
+    reduction through modification in paint spray gun  heep haridwar
+   installed a fumes extraction system in fabrication shop resulting in
+    reduction in fugitive emission  hyderabad
+   heat treatment process eliminated in shock bars and lifting holders
+    making the fabrication process simpler and thereby eliminating
+    thermal heating  bap ranipet
+   use of scrubber is used to capture acid mist  edn bangalore
+   replacement of coal fired boiler to rlng fired boiler and conversion
+    of oil fired htk to rlng fired leading to reduction in spm to the            new scrubber erected at acid
+    extent of 82  ip jagdishpur                                             texturisation system for washing the
+noise                                                                            exhaust mist at edn bangalore
+
+   silencers are provided to fans whose suction is open to atmosphere and acoustic insulation are provided
+    to all the fans  bap ranipet
+   acoustic enclosure is used in dg room  edn bangalore
+waste
+   scarps produced from cutting of msastm plates  rods is used as virgin material about 22 mt for
+    manufacturing small sized flanges pins keys etc  herp
+    varanasi
+   18 mt vermi compost produced from papers dry leaves
+     canteen kitchen wastes salvaging of scrap wood for
+    manufacturing new packing boxes again used as packaging
+    material 9200 cft which helps in conserving raw wood
+    from being used  herp varanasi
+compliance
+                                                                         vermi composting at herp varanasi
+bhel is iso 14001 certified corporate and hence have created
+a legal framework to proactively identify applicable legal requirements the framework so designed not
+only helps in compliance with the environmental legislation but also provides opportunity to take certain
+proactive measures much before enforcement of any statute
+environmental protection expenditures
+bhel has been taking many environment improvement projects eips to improve the overall environment
+                                                               in and around the units it has been spending more
+       total expenditure on environment protection rs lakhs than 01  of pat every year for such activities
+                                                               total environmental expenditure of bhel for the
+                                                               year 201112 amounts to rs662 lakh which is
+                                                               26 more than the previous year 201011 rs 525
+                                                               lakh in 200910 the expenditure on environment
+  800                                                 662
+                                  525
+  600          443                                             related activity was rs 443 lakh the main cost
+  400                                                          components include maintaining pollution control
+  200                                                          devices green initiatives environmental legal 
+    0
+                                                               certification expenses this expenditure does not
+          200910             201011            201112       include the salary paid to the bhel employees who
+                                                               are fully involved in such activities
+
+                                                       47
+
+                                  gri content index
+reference gri aspect                                                            page  remarks
+no as per
+gri
+           strategy  analysis
+11        statement from the most senior decision maker of the organisation
+12        description of the key risks  opportunities
+           organisational profile
+21        name of the organisation                                             bharat heavy
+                                                                                electricals limited
+22        primary brands products  services
+23        operational structure of the organisation
+24        location of organisations headquarters                              bhel house siri fort
+                                                                                new delhi110049
+                                                                                india phone 011
+                                                                                6633700 15 lines
+                                                                                fax 011 66337533
+                                                                                httpwwwbhelcom
+25        number of countries where the organisation operates and names
+           of countries with either major operations or that are specifically
+           relevant to the sustainability issues covered in the report
+26        nature of ownership and legal form
+27        markets served including geographic breakdown sectors served
+           and types of customersbeneficiaries
+28        scale of the reporting organisation
+29        significant changes during the reporting period regarding size         none
+           structure or ownership
+210       awards received in the reporting period
+           report parameters
+31        reporting period eg fiscalcalendar year for information provided
+32        date of most recent previous report if any
+33        reporting cycle annual biennial etc                                as per managements
+                                                                                   requirement
+34        contact point for questions regarding the report or its contents
+35        report scope and boundary process for designing report content
+36        boundary of the report eg countries divisions subsidiaries
+           leased facilities joint ventures suppliers
+37        state any specific limitations on the scope or boundary of the report none
+38        basis for reporting on joint ventures subsidiaries leased facilities outside reporting
+           outsourced operations and other entities that can significantly        boundary
+           affect comparability from period to period andor between
+           organisations
+
+                                                  48
+
+39         data measurement techniques and the bases of calculations
+            including assumptions and techniques underlying estimations
+            applied to the compilation of the indicators and other information
+            in the report
+310        explanation of the effect of any restatements of information         not applicable
+            provided in earlier reports and the reasons for such restatement
+            eg mergersacquisitions change of base yearsperiods nature of
+            business measurement methods
+311        significant changes from previous reporting periods in the scope     not applicable
+            boundary or measurement methods applied in the report
+312        gri content index
+313        policy and current practice with regard to seeking external assur
+            ance for the report if not included in the assurance report accom
+            panying the sustainability report explain the scope and basis of any
+            external assurance provided also explain the relationship between
+            the reporting organisation and the assurance providers
+41 417   governance commitments  engagements
+            environment performance indicators
+            materials
+en1         materials used by weight or volume
+en2         percentage of materials used that are recycled input materials
+en 3        direct energy consumption by primary energy source
+en 4        indirect energy consumption by primary source
+en 5        energy saved due to conservation and efficiency improvements
+            water
+en 8        total water withdrawal by source
+en 10       percentage and total volume of water recycled  reused
+            biodiversity
+en 11       location and size of land owned leased managed in or adjacent to
+            protected areas and areas of high biodiversity value outside pro
+            tected areas
+en 12       description of significant impacts of activities
+            emissions effluents  wastes
+en 16       total direct and indirect greenhouse gas emission by weight
+en 18       initiatives to reduce greenhouse gas emissions and reductions
+            achieved
+en 19       emissions of ozone depleting substances by weight
+en 20       nox sox and other significant air emissions by type and weight
+en 21       total water discharge by quality and destination
+en 22       total weight of waste by type and disposal method
+en 23       total no and volume of significant spills
+
+                                                     49
+
+        products  services
+en 26   initiatives to mitigate environmental impacts of products and ser
+        vices and extent of impact mitigation
+en 27   percentage of products sold and their packaging materials that are   quantitative informa
+        reclaimed by category                                                tion on total packaging
+                                                                             material reclaimed by
+                                                                             all units is not possible
+                                                                             due to huge product
+                                                                             portfolio and vast na
+                                                                             tional  international
+                                                                             markets
+        compliance
+en 28   monetary value of significant fines and total no of nonmonetary
+        sanctions for noncompliance with environmental laws  regula
+        tions
+        overall
+en 30   total environmental protection expenditures and investment by
+        type
+
+
+
+
+                                               50
+
+51
+
+  chpbzy dk vfhkku 
+feys lhkh dks nfv dk ojnku
+
+
+
+
+      vision to all
+      bhels call
+       donate eyes live twice
+
+
+
+
+     footprints in over 75 countries across 6 continents
+
+
+
+
+              powering progress brightening lives
+                  touching every indian home
+
+  bharat heavy electricals limited
+  regd office  bhel house siri fort new delhi  110 049
+                   website  52
+                             wwwbhelcom
