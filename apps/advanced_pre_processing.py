@@ -1,8 +1,13 @@
 import os
 import re
+import sys
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+
+# get the parent directory of the project
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from apps import BASE_DIRECTORY
 
 # Download necessary NLTK resources (run once)
 nltk.download('stopwords')
@@ -57,4 +62,5 @@ def process_csr_reports(directory):
                 print(f"Error processing {filename}: {e}")
 
 # Example: Process all reports in the "CSR_Reports" folder
-process_csr_reports("/path/to/CSR_Reports")
+directory_name = f"{BASE_DIRECTORY}"
+process_csr_reports(directory_name)

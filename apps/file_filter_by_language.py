@@ -1,7 +1,6 @@
 import os
 import sys
 
-
 # get the parent directory of the project
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from apps import BASE_DIRECTORY
@@ -54,5 +53,3 @@ directory_path = f"{BASE_DIRECTORY}"  # Replace with the actual path
 detect_and_filter_english_txt(directory_path)
 
 print("Finished processing files.")
-
-# Use python -m apps.file_filter_by_language command to run this code

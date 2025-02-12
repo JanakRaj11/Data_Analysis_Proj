@@ -45,5 +45,3 @@ directory_path = f"{BASE_DIRECTORY}"  # Replace with the actual path
 process_directory(directory_path)
 
 print("Finished processing files.")
-
-# Use python -m apps.pre_processing command to run this code

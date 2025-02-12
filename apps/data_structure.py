@@ -1,11 +1,17 @@
+import os
+import sys
 import pandas as pd
+
+# get the parent directory of the project
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from apps import BASE_DIRECTORY
 
 # List to store report details
 report_data = []
 
 def extract_report_info(directory):
     """Extract key information from CSR reports."""
-    keywords = ["carbon emission", "net zero", "carbon neutrality", "scope 1", "scope 2", "scope 3", "2030 target"]
+    keywords = ["carbon emission", "carbon dioxide emissions", "net zero", "carbon neutrality", "scope 1", "scope 2", "scope 3", "2030 target"]
     
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):

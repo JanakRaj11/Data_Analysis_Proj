@@ -5,14 +5,19 @@
 
 import os
 import re
+import sys
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
+# get the parent directory of the project
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from apps import BASE_DIRECTORY
+
 def find_carbon_commitments(directory):
     """Search for carbon emission commitments in CSR reports."""
     
-    keywords = ["carbon emission", "net zero", "carbon neutrality", "scope 1", "scope 2", "scope 3", "2030 target"]
+    keywords = ["carbon emission", "carbon dioxide emissions", "net zero", "carbon neutrality", "scope 1", "scope 2", "scope 3", "2030 target"]
     
     results = {}
 
@@ -32,6 +37,7 @@ def find_carbon_commitments(directory):
     return results
 
 # Example Usage
-carbon_reports = find_carbon_commitments("/path/to/CSR_Reports")
+directory_name = f"{BASE_DIRECTORY}"
+carbon_reports = find_carbon_commitments(directory_name)
 for report, keywords in carbon_reports.items():
     print(f"{report}: Found Keywords -> {keywords}")
