@@ -1,1722 +1,0 @@
-                       softbank group
-                            csr report                                                 2015
-
-
-
-
-the entire cover of this report is a designated image for kazashitebokin please refer to pages 45 for details
-
-    chairman  ceo message
-
-
-
-
-    information revolution
-    happiness for everyone
-    masayoshi son
-    softbank group representative
-
-
-
-
-    softbank group csr principles
-                                                                                                                  rovide information as a
-    the softbank group has an important social responsibility as an operator of highspeed broadband networks to p
-    lifeline to fulfill this mission the group strives to contribute to society by placing priority on customers happiness we also aim to meet our
-    shareholders expectations by challenging ourselves to achieve future growth we work to provide an environment where employees can grow
-    by taking on challenges and feel a sense of fulfillment and pride while ensuring that our business partners can prosper together with us through
-    mutual trust and innovation we will continue to contribute to realizing a society where the dream and vision of a healthy internet society can
-    be sustained for future generations
-
-
-                                           we at the softbank group want to be a company that grows together with our stakeholders through
-                                           our business activities based on the corporate philosophy of information revolutionhappiness
-                                           for everyone in order to achieve our goals we continue to ask ourselves
-
-                 do we create             excitement and surprises user friendliness and reliability and joy for everyone
-                                           the softbank group stays customerfocused
-
-                 do we maintain a relentless pursuit of growth a robust and transparent management and fair and timely disclosure
-                                           the softbank group strives to meet its shareholders expectations
-
-                 do we provide opportunities for new challenges and personal growth an environment that stimulates diversity
-                                           and fair recognition of efforts and results
-                                           the softbank group nurtures its employees motivation and pride
-
-                 do we build              mutual trust fair relationships and partnerships leading to innovation
-                                           the softbank group evolves together with business partners
-
-                 do we promote a healthy internet society the dreams and ambitions of the next generation and the future of
-                                           our planet
-                                           the softbank group contributes to a brighter society
-
-    the softbank group is moving ahead in business with high aspirations for the future internet society
-
-
-2   softbank group   csr report 2015
-
-guided by our corporate philosophy information revolution                                                    lives they are able to relax and expand their horizons to
-happiness for everyone the softbank group is continuing                                                     consider a wider range of social issues we believe that
-to take on challenges in an age of rapid change brought on                                                     contributing to society in this way is part of our responsi
-by the information revolution at the same time we aim to                                                     bility as a company
-continue to contribute to all individuals and society as a
-corporate group through our business activities                                                                   we will continue our efforts to make people around the
-    the information revolution is expected to usher in a new                                                   world happy to encourage this we have been taking
-era in the near future where the cognitive abilities of com                                                  action according to the softbank group csr principles
-puters will surpass those of humans this will enable com                                                     following the key themes of building a healthy internet
-puters to interact even more closely with people in daily life                                                society cultivating the next generation with dreams and
-understanding our thoughts and emotions we believe these                                                      aspirations safeguarding the planets future through envi
-advances will offer new ways to enrich human emotions and                                                      ronmental protection and supporting the reconstruction of
-feelings as well as bring happiness to humanity                                                              areas affected by the great east japan earthquake over
-    as a pioneer of the information revolution the softbank                                                   the years we have created a strong foundation of trust
-group is looking to this future as it works to enhance and                                                     with our stakeholders including customers shareholders
-enliven peoples lifestyles and continues to develop in step                                                   business partners and employees we are committed to
-with people around the world when people lead fuller                                                          solving social issues through our business activities
-
-
-
-
-about the softbank group                                                                                                          contents
-the softbank group will drive the information revolution with cuttingedge technology                                               2    chairman  ceo message
-                                                                                                                                         softbank group csr principles
-and a superior business model that meet the needs of todays information industry
-                                                                                                                                    3    about the softbank group
-which is the groups business domain
-                                                                                                                                    4    creating a cooperative community
-                                                                                                                                           kazashitebokin
-corporate name                      softbank corp1                                                    as of march 31 2015                we introduced a range of initiatives using
-founded                             september 3 1981                                                                                        kazashitebokin to widen the circle of donation support
-                                                                                                                                             by providing a new way to give by using smartphones
-corporate headquarters 191 higashishimbashi
-                                                                                                                                           pepper satofull
-                        minatoku tokyo 1057303
-                                                                                                                                    7    lifeline
-representative                      masayoshi son chairman  ceo                             breakdown of
-capital                             238772 million yen                                   consolidated net sales                    8    support for reconstruction of areas affected by
-                                                                                                                                         the great east japan earthquake
-subsidiaries                        769 including 621 overseas subsidiaries
-                                                                                                                                           charity white
-number of associates                120 including 70 overseas associates                                                                 tomodachi softbank leadership program
-number of employees                 202 consolidated base 66154                                                                          students who have returned to japan from this
-                                                                                                                                             overseas study program are using the leadership skills
-                                                                                                       total                                 they have acquired to help their communities in
-business segments and main group companies
-                                                                                           86702 billion
-                                                                                                                                             various situations
-fy2014                                                                                                                                   yahoo japans continuing support for
- mobile communications segment
-                     softbank mobile corp2                fy2014                                                                       reconstruction of tohoku
-                                                                                                                                             yahoo japan continues to provide support for areas
-   41895 billion ymobile corporation
-                                           2
-                                                                                                                                             affected by the great east japan earthquake by
-                     wireless city planning inc                                                                                             organizing cycling events and other activities using
-                     brightstar corp                                                                                                        the internet
-                     gungho online entertainment inc3  supercell oy                                                            14 cultivating the next generation with dreams and
- sprint segment                                                                                                                      aspirations
-                                                    sprint corporation
-   38000 billion                                                                                                               16 environment
- fixedline telecommunications                                                                                                  18 diverse needs
-    segment                                         softbank telecom corp2  softbank bb corp2
-                                                    ymobile corporation2  yahoo japan corporation                                20 always striving for safety and security
-   5411 billion                                                                                                                 21 others
- internet segment
-                                                    yahoo japan corporation                                                        22 global
-   4191 billion
-                                                                                                                                   24 softbank group csr activities
- others           fukuoka softbank hawks corp  sb energy corp                                                                     results of fy2014 and plan for fy2015
-   1112 billion bloom energy japan ltd
-1 on july 1 2015 softbank corp a pure holding company changed its company name to softbank group corp                    reporting period april 2014march 2015
-2 on april 1 2015 softbank bb softbank telecom and ymobile merged into softbank mobile on july 1 2015 softbank          reporting scope softbank group
-   mobile changed its company name to softbank corp                                                                                                consolidated subsidiaries inside japan
-3 as a result of the completion of a tender offer by gungho for its shares on june 1 2015 and other factors gungho became
-   an equity method associate of softbank corp currently softbank group corp                                                  more details can be found
-                                                                                                                                          link to                  view            go to
- company names                                                                                                                         external website         video           related page
-    company names used in this report are current as of july 1 2015 unless otherwise stated
-
-
-
-
-                                                                                                                                                             softbank group     csr report 2015       3
-
-    kazashitebokin japans first1 donation platform for
-    making donations through mobile phone service charges
-    for a new world where everyone is helping others
-                                                                                                                                                        
-                                                                                                                                                        more  details can
-                                                                                                                                                        be found here
-                                                                                                                                                                   japanese only
-
-
-           a new way to donate using smartphones                                              kazashitebokin app smartphone users who have installed the
-                                                                                              app can also simply scan certain posters or flyers of participating
-    softbank corp is contributing to society by providing kazashite                         organizations with their smartphone cameras to make donations
-    bokin a new platform that enables people to easily make                                  kazashitebokin is drawing attention as a new way of donating
-    monthly donations through their softbank mobile phone service                             that provides an easy way for the many smartphone users among
-    charges after the great east japan earthquake we looked for                             the general public to contribute to society
-    ways to enable more people to contribute to society and we                                   we will continue to help create an environment so that more
-    came up with the idea of providing a platform that connects                               people can use this donation service to provide ongoing support
-    people who want to donate with nonprofit organizations npos                            for npos we will also examine effective ways of using the plat
-    that need funding for sustainable activities                                             form to solve social problems and strive to build channels of
-       we launched kazashitebokin in march 2014 and today it is                              communication between npos and donors to create opportuni
-    used by over 240 npos working in a wide variety of fields
-                                   2
-                                                                                              ties for new activities
-    donors can make ongoing contributions by paying for them                                  1 surveyed by the japan fundraising association
-    together with their mobile phone service charges visiting the                            2 as of june 1 2015
-
-    websites of npos registered under kazashitebokin or using the
-
-
-
-
-                                           creating a cooperative
-                                       if you download the kazashitebokin app and scan the area inside the brackets   on this
-    kazashitebokin
-                                       page or the cover of this csr report the whole cover with your smartphone camera you
-                                       can make ongoing donations to various npos active in and outside of japan
-
-
-             make ongoing monthly donations                                 pay together with mobile                                     no need for entering
-            just by selecting an optional amount                              phone service charges                                    long credit card numbers
-
-                                                                                                      pay together
-                                                                                                                                                   個人情報登録
-
-
-
-
-     donations can be limited to one time only by removing the check from monthly donation in the case of nonsoftbank smartphones donations are limited to onetime
-      donations and can only be paid by credit card
-
-
-
-
-4   softbank group    csr report 2015
-
-            kazashitebokin gains momentum                                        certain organizations dedicated to helping children in tohoku
-                                                                                 for those making ongoing donations we expressed our heartfelt
-   softbank corp conducted the heart wrapping project from june               gratitude by sending gifts such as special smartphone wallpapers
-   9 to september 30 2014 making additional donations of its own               featuring softbanks iconic canine father figure otousan visiting
-   in response to the number of donations made by kazashitebokin                 three prefectures of the tohoku region
-   users to support npos engaged in social contribution activities or                the total amount of donations collected through the platform
-   charity programs during this approximate threemonth period                 until may 31 2015 was 9245800 with around 80 of users
-   kazashitebokin collected 4015900 from users with softbank                 providing monthly support softbank corp plans to promote
-   corp adding an additional 1130000 donation                               wider use of the kazashitebokin platform to solve all manner of
-      softbank corp also cooperated with kenjaya a company                     social issues
-   managing free study spaces for students in operating the social
-   good academy which aims to help foster a donation culture and
-   promote social contribution activities by students participating
-   students attended seminars on social contribution and fundrais
-   ing and executed their own planned fundraising activities by
-   using kazashitebokin
-      we hope to ensure a future of hope and happiness for chil
-   dren living in the tohoku region which was devastated by the
-   great east japan earthquake in march 2015 we ran a support
-   project in which we used kazashitebokin to gather support for
-
-
-
-
-                                                           the app can be downloaded here
-
-
-
-
-community                                                 view video here
-                                                             japanese only
-
-
-
-
-     interview with an organization participating in kazashitebokin
-
-  npo lifeboat for abandoned dogs and cats chiba prefecture
-
-       lifeboat for abandoned dogs and cats works to save the lives of dogs and cats that are
-       brought into public health centers by providing them with temporary care at our own facility
-       until a new owner can be found since our start in 2001
-       we have rescued over 13000 animals kazashitebokin
-       has enabled us to respond to people who would like to
-       make casual donations and the collected funds have
-       been of immense assistance to our activities
-           in the future we think it would be great if messages
-       from recipient organizations could be delivered to the
-       contributors                                  yuji inaba
-
-
-
-
-                                                                                                                        softbank group   csr report 2015   5
-
-                      creating a cooperative community
-
-
-
-
-    pioneering a new society with pepper
-    the worlds first robot with emotions
-
-    the softbank group believes that robots have an important role         autonomously make judgments and act peppers functions and
-    to play in enriching peoples lives and is striving for a future in    interface are designed specifically for communicating with
-    which robots are seamlessly integrated into society                   humans including advanced voice recognition technology highly
-       in june 2015 the softbank group launched sales of pepper        precise joint articulation that enables smooth motion and emo
-    a personal robot with a variety of functions and the first in the      tion recognition technology that generates emotions artificially
-    world to have emotions pepper is equipped with proprietary            this allows people to engage with pepper in natural conversation
-    algorithms that allow him to perceive his surroundings                as they would with their close friends or families pepper also has
-                                                                           an array of entertainment functions including joketelling and
-                                                                           dancing while his various capabilities can be further augmented
-                                                                           by installing additional apps allowing him to be customized
-                                                                           based on a persons individual preferences
-                                                                              peppers various features have garnered significant attention
-                                                                           and he is also expected to play a role in the field of nursing care
-                                                                           pepper has already visited nursing homes and been introduced
-                                                                           on a trial basis for recreation and conversation with residents
-                                                                              in the future we intend to explore new potential ways of using
-                                                                           pepper to help solve social issues for example some possibilities
-                                                                           include having pepper provide assistance to caregivers or installing
-                                                                           special apps to help limit the progression of dementia
-
-
-
-
-    promoting local revitalization through satofull
-    satofull is a portal site that promotes the revitalization of local    inquiries a website has also been created to make it easy to
-    regions through a hometown tax donation called the furusato           quickly find towns to support and information on local products
-    tax in which taxpayers can choose to divert part of their resi      making the process even more convenient for donors in this
-    dential tax to a specified local government to support a locality     way we are using the internet to help raise awareness of the
-    the site is designed to serve as a furusato tax portal site support   furusato tax program and to familiarize people with the system
-    ing small regional municipalities through the full maximization      and the local communities supported by it
-    of hometown vitality and full promotion of hometown charms              satofull intends to continue conducting a variety of initiatives
-    and attractions it handles all procedures for the furusato tax        while increasing the number of covered municipalities in order to
-    program from accepting applications to collecting payments           help revitalize communities throughout japan
-    managing deposits sending thankyou gifts and responding to
-
-
-
-
-6   softbank group   csr report 2015
-
-                               lifeline
-
-
-
-
-ensuring quick action in emergencies
-conducted a national joint disaster drill
-in the second half of fiscal 2014
-in february 2015 the softbank group conducted a liveaction drill          in fiscal 2014 we concluded a disaster response agreement
-that simulated a major earthquake occurring in the nankai trough        with the japan ground selfdefense force that covers the entire
-to verify the series of actions that are needed to quickly restore      country agreeing to lend out mobile phones and satellite phones
-emergency communications during a major disaster scenario              free of charge for use in communicating with npos and other
-softbank corp has mobile base station vehicles and mobile power        organizations involved in disaster recovery and to conduct nation
-supply vehicles at the ready throughout japan as well as a             wide joint preparedness drills in coordination with central and
-balloonmoored radio relay system compatible with lte that can          local government bodies a disaster response agreement was also
-serve as a base station for areas where disaster damage is extensive   established with the japan coast guard and we will conduct drills
-   in addition the group has positioned portable base stations         with them in fiscal 2015
-nationwide that are capable of providing satellite communica
-tions they are intended to cover spot areas such as evacuation
-sites and areas that are not completely covered by mobile base
-stations the time required to set up a base station varies
-depending on the location and other external factors in this
-drill mobile base station vehicles were set up in approximately 30
-minutes and even with the portable base stations which are
-more difficult to set up we confirmed that the process could be        left satellite phone 201th
-completed in approximately one hour                                    right phs home phone
-
-
-
- disaster drill held in west
- japan kansai region in
- february 2015
-
-
-
-
-                                                                                                               softbank group   csr report 2015   7
-
-                 support for reconstruction of areas affected
-                     by the great east japan earthquake
-
-
-
-
-    continuous support for children in tohoku
-    through charity white                                                                                               facebook
-                                                                                                                                                            
-                                                                                                                                                            more  details can
-                                                                                                                                                            be found here
-                                                                                                                                                                       japanese only
-
-
-
-
-    the softbank group established charity white in august 2011 to help
-    ensure that continuous support is provided for children affected by the
-    great east japan earthquake the program allows customers to make
-    donations when paying their monthly service charges
-       charity white was recognized for creating an effective cycle that links                                       charity white
-    donors organizations receiving donations and beneficiaries receiving the
-    special award at the 5th fundraising japan awards and an award at the
-    9th kids design award supported by the consumer affairs agency within
-    the ministry of economy trade and industry
-     awards given by the japan fundraising association to honor organizations that conduct fundraising that inspires people and fosters happiness
-
-
-
-        through the charity white program softbank corp works together with customers to provide continuing support for children
-
-        in the tohoku region customers have the option to donate an additional 10 on top of their monthly service charges which is
-
-        then matched by softbank corp so that a total of 20 is donated each month
-
-
-                                                    from
-                 from you                                                            total                                 for
-                                                  softbank
-                                                                                                                      support and
-                                                                                                                     reconstruction
-                                                                                                                       in affected
-                                                                                         month                           areas
-
-
-
-
-             the collected money is donated each month to support organizations to fund                                                                         kizuna
-                                                                                                                                                                project
-             activities for children in areas affected
-             by the great east japan earthquake        mobile
-                                                       childcare
-             sample activities                               program
-                                                                project
-              counseling activities for children
-                 affected by the disaster
-              social interaction opportunities for
-                 children affected by the disaster
-              activities in support of childrens education
-
-                                                                                             ミ ン ナ             ト
-
-
-                                                                                       3710
-                                                                                                                     qr code for
-                                                                                                                     downloading the
-                                                               from a                                                charity white app
-                                                               softbank
-                                                               mobile phone               search toll free  ivr   search softbank mobile phones only
-
-
-
-
-                                    thanks to the generous support of everyone involved
-                                    over      50 million donations have been made thus far
-                                                                          1
-
-
-
-
-                                                                980536278
-                                                                                                                                                   2
-
-                                               totaling
-                                                                                                                      1 as of may 31 2015             2 as of july 5 2015
-
-
-
-
-8   softbank group   csr report 2015
-
-supporting organizations active in the
-red feather charity white project
-                                                                                                 a program in partnership with the
-                                                                                                  central community chest of japan
-
-                                                                                                                                                     minamisoma
-                                                                                                                                                      fukushima
-                                                                                                                                                      prefecture
-                                                                                the minamisoma learning centerstepping into the
-                                                                                future classroomis a facility that seeks to provide
-                                                                                educational support and counseling services for children with
-                                                                                developmental disabilities or those requiring mental health
-                                                                                support in difficult conditions in areas affected by the great
-                                                                                east japan earthquake
-                                                                                   we have been certified to receive funds through the red
-                                                                                feather charity white project which we have used to create a
-                                                                                facility for elementary school students as well as a new center
-                                                                                that accepts a broader range of ages from infants to middle
-                                                                                school students
-                                                                                   there are still challenges involved in continuing the stable
-                                                                                operation of such facilities but the ongoing support received
-                                                                                through charity white is extremely reassuring and we are very
-                                                                                grateful for it the children and their parents absolutely depend
-                                                                                on the facilities so we are constantly aware of the need to make
-                                                                                careful use of the
-                                                                                support we
-                                                                                receive from
-                                                                                everyone and to
-                                                                                continue conduct
-                                                                                ing activities for
-                                                                                the children
-                         tomoko shirai 
-                         representative director npo toybox
-                         principal smile factory
-
-
-
-
- utilizing tablets to restore community bonds
- in namie as part of the ministry of economy trade and industrys                                                                                    namie
-                                                                                                                                                     fukushima
- kizuna bond reconstruction  reinforcement project we distrib                                                                                 prefecture
-
- uted 6000 tablets to residents who were dispersed throughout
- japan after the earthquake to help them recover their connections
- with others the tablets feature video phone functions and an origi
- nal namie town app that has served to promote communication
- between townspeople as an information dissemination point for both
- the local government and residents
-     in distributing the tablets to the residents softbank corp built
- and operated a dedicated call center and held seminars throughout
- japan for the people of namie to teach them how to use the tablets
- softbank corp will continue to make every effort to support this
- activity in the hope of relieving the families and friends who have
- been forced to live apart we also hope to support those suffering
- from the effects of the earthquake as well as the namie local govern
- ment which is still struggling to restore the town to its former state
-
-                                                        as of july 21 2015
-
-
-
-
-                                                                                                                              softbank group   csr report 2015     9
-
-                 support for reconstruction of areas affected
-                     by the great east japan earthquake
-
-
-
-
-     tomodachi softbank leadership                                                                                                       
-                                                                                                                                         more  details can
-                                                                                                                                         be found here
-                                                                                                                                               japanese only
-
-     programdreams revitalization
-     and change for the tohoku region
-
-      become someone who serves others
-                               masayoshi son
-         this program brings high school students from iwate miyagi and fukushima prefec
-         tures the regions affected by the great east japan earthquake that occurred on
-         march 11 2011 to the university of california berkeley ucberkeley the alma mater
-         of softbank group representative masayoshi son for a threeweek program that
-         provides them with an opportunity to learn about leadership and community service
-             through the program participants take part in ucberkeleys yplan youthplan
-         learn act now program to explore ways to improve local communities conduct
-         volunteer activities with local residents meet with entrepreneurs participate in
-         homestays and interact with us high school students participants acquire leader
-         ship and community service skills
-             in 2012 the initial year of the program 300 students participated and since
-         2013 approximately 100 students have taken part each year so a total of about 600
-         high school students have made the journey to the us so far
-             after returning to japan many of the students have demonstrated leadership in
-         a variety of ways and have actively taken part in community service activities seek
-         ing to make use of what they learned through the program for the benefit of their
-         own communities
-                                                                  iwaki                                                                           ishinomaki
-                                                                fukushima                                                                             miyagi
-                                                                prefecture                                                                          prefecture
-
-      planning tours to revive tourism                                         conveying the beauty of ones true self
-     with a desire to restore flagging tourism in their local area            this program was started by haruhi yamada an aspiring fashion
-     haruna shiraiwa and six local high school students planned the            designer who wants to turn ishinomaki which has lost much of
-     tomotra bus tour with the help of his a major japanese                its vitality into a fun and exciting fashion hub the program
-     travel agency tour participants are given the opportunity to             promotes the natural beauty of ishinomaki women in magazines
-     experience local industries firsthand including making bamboo            and on websites and in july 2014 it held a fashion show called
-     chikuwa fish sausages and taking hula dance lessons as well as         the ishinomaki collection this was followed by the sendai and
-     meeting people who are making an impact in the community                 kobe collections as the program continued to expand its scope
-     the tour has been held 10 times so far and a total of approxi
-     mately 320 people have participated
-
-
-
-
-                                                                               winning first prize at kibow sanriku in ishinomaki sponsored
-                                                                               by the kibow foundation
-
-
-
-10   softbank group   csr report 2015
-
-         students are demonstrating leadership skills in a variety of ways
-              after returning to japan and making use of lessons learned
-                 through the program for the benefit of the community
-
-                                                             iwaki                                                                 soso region
-                                                           fukushima                                                                 fukushima
-                                                           prefecture                                                                prefecture
-
- conveying the safety and great taste                                 conveying the appeal of the soso region
-    of agricultural products                                            kazusa monma hiroaki akutsu naho shigihara and hana
-out of a desire to help farmers and let people know the truth        fukaya started an internet shopping service called somauma
-kenya okada together with local friends started a handson            teikibin to publicize the activities of people working for the
-agricultural tour called tomodachi farm focusing on the plight         regions reconstruction and to create links between the region
-of fukushima vegetables whose reputation has been damaged              and people outside it for an annual fee of 20000 local prod
-by the accident at the fukushima daiichi nuclear power station         ucts recommended by high school students are delivered four
-participants learn from local farmers about agricultural produc        times a year along with a message from the producers local
-tion while also participating in experiential events like vegetable     information and a letter of appreciation from the students this
-harvesting and workshops the program started in august 2014            program began in october 2014 and currently has approximately
-and so far around 150 people have participated                         100 customers
-
-
-
-
-won an award at from project 2014
-
-
-                                                            sendai                                                                 throughout
-                                                             miyagi                                                                    iwate
-                                                           prefecture                                                                prefecture
-
- conveying the current state of                                       uniting prefectural high school students
-    disasteraffected areas                                             in order to eliminate an information gap perceived to exist
-                                                                        between the inland and coastal regions of iwate prefecture since
-high school students living near sendai travel to disasteraffected
-                                                                        the earthquake high school students inside and outside the
-areas in miyagi prefecture to learn about actual conditions there       prefecture have created a newspaper for public high schools in
-and then convey that information to others through a program            the prefecture and distributed it through a project called
-called tomodachi raw voice at the 3rd un world confer                 tomorrow project the goal is to eliminate the awareness gap
-                                                                        among young people the thoughts and feelings of high school
-ence on disaster risk reduction held in sendai in march 2015 a
-                                                                        students in various parts of the prefecture are featured in the
-talk entitled from tomodachi to miyagi from miyagi to the             newspaper along with activities initiated to further improve the
-world was held reporting the postearthquake activities of high       community the project is succeeding in deepening interaction
-school students                                                        between high school students
-
-
-
-
-                                                                        received the best encourage award at my project award 2014
-                                                                        sponsored by the npo katariba
-
-
-
-                                                                                                                softbank group   csr report 2015   11
-
-                 support for reconstruction of areas affected
-                     by the great east japan earthquake
-
-
-
-
-     yahoo japans
-     continuing support for
-     reconstruction of tohoku
-
-     we talked with manabu miyasaka president and                                 search for 311encouraging people to make
-     representative director of yahoo japan corporation                            the disaster a personal        more details can
-     yahoo japan who is working to solve problems                             concern once again             be found here
-                                                                                                                                            japanese only
-     facing society through use of the internet
-                                                                                   search for 311 is a program that donates 10 for each person
-     change in awareness after                                                     that searches with the keyword 311 on yahoo search on
-     the great east japan earthquake                                               march 11 to organizations involved in reconstruction support
-                                                                                      as time has passed since the earthquake yahoo search data
-     yahoo japan corporation yahoo japan conducted a variety of                also clearly shows that less attention is being given to the situa
-     activities immediately after the great east japan earthquake that             tion and this program was started in response we want people
-     included using the internet to provide accurate information and               to turn their attention
-     conduct fundraising activities through this the internet was                to tohoku as if it were
-     widely praised as a highly useful medium for gathering informa               their own immediate
-     tion on the earthquake and as a trustworthy media source at the              concern through the
-     same time internet accessibility in areas affected directly by the           proactive act of search
-     earthquake where conditions were chaotic declined drastically              ing in march 2015
-     and even if information could be conveyed to people in areas                  donations totaling close
-     outside that region and support solicited from them there was                to 300 million were
-     still the major issue of not being able to provide support for the            given to support
-     region directly the great east japan earthquake also caused us to            organizations
-     reconsider the nature of the solutions we are capable of offering
-     as an internet services provider                                             traveling to tohoku talking about the disaster
-                                                                                   yahoo ishinomaki fukko base and
-     reconstruction support as an internet service                                 tour de tohoku
-     provider born of ideas from employees
-                                                      more
-                                                          details can            we have also taken up the challenge of traveling to tohoku
-                                                      be found here
-     fukko department                                                              working with local residents to create something together and
-                                                                 japanese only
-                                                                                   conveying it from tohoku to the rest of the country in july 2012
-     fukko department is a program that was started by employees                   the yahoo ishinomaki fukko base was established with five full
-     who volunteered in tohoku in response to local residents express             time employees to serve as a hub for reconstruction support
-     ing a desire to do business again on their own land through                  activities in ishinomaki miyagi prefecture
-     the internet fukko                                                              as we continued to engage in activities locally we came to
-     department delivers                                                           realize that many of the issues facing tohoku are also faced by
-     quality products found                                                        japans rural cities in general while tackling these issues and
-     only in tohoku together                                                       generating results together with local community members
-     with a message from the                                                       centering on ishinomaki we now want to apply those activities
-     producers to people all                                                       as a model case and expand our efforts to regional cities
-     throughout japan                                                             throughout japan
-
-
-
-
-12   softbank group   csr report 2015
-
-                                                                             manabu miyasaka
-                                                                             president and representative director
-                                                                             yahoo japan corporation
-
-                                                                             photography by shunsuke mizukami
-
-
-
-
-                                                                                     yahoo net bokinonline fundraising
-
-                                                                                     providing an environment for easy
-                                                                                     secure donations
-                                                                                     yahoo japan has established a fundraising portal site and pro
-                                                                                     vides systems that allow donations to be made securely start
-                                                                                     ing with donations made to the region affected by the 2004
-                                                                                     niigatachuetsu earthquake the site has been used by many
-                                                                                     people and through it a total of 22 billion has been donated
-                                                                                     as of may 2015 donations received to date have been utilized
-                                                more
-                                                    details can
-                                                be found here                        in a wide variety
-                                                           japanese only
-                                                                                     of areas including
-   in 2013 we considered
-                                                                                     welfare the envi
-ways to encourage people
-                                                                                     ronment medi
-to visit tohoku and started
-                                                                                     cine and
-a cycling event called                                                               international
-tour de tohoku                                                                      cooperation and
-around 1500 people                                                                  we have plans to
-participated in the first                                                            increase donation
-year and participation has                                                          recipients even
-continued to increase in                                                            further
-2015 3500 people took part the tour is set to continue for ten
-years and we hope that this will help bring many people into                        links for good
-tohoku we want the event to become a multigenerational
-affair in which parents talk to their children about the earth
-                                                                                     support for npo activities
-quake so they can learn about it and pass on the memory of it to                     yahoo japan provides use of the yahoo japan display ad
-
-future generations                                                                  network ydn a technology for distributing advertisements
-                                                                                     based on the preferences and interests of site viewers to
-maintaining support through commercialization                                        npos free of charge by using ydn organizations are able to
-                                                                                     efficiently convey information on social contribution activities
-we believe in the importance of maintaining these activities and                     such as volunteering and charity events to people that have
-producing results we treat support for the tohoku reconstruc                       an interest in them
-tion as a type of business endeavor as a business it should gen
-erate enough revenue to be selfsustaining at minimum so that
-reconstruction support can be maintained regardless of the com
-panys financial performance in the future we firmly pursue
-success in this sense not to satisfy ourselves but to bring happi
-ness to as many people as possible moreover as a result the
-project will grow and be able to continue i believe this to be the
-meaning of csr as practiced by yahoo japan
-
-
-
-
-                                                                                                                         softbank group   csr report 2015   13
-
-                             cultivating the next generation
-                              with dreams and aspirations
-
-
-
-
-     empowering life and learning for children
-     with special needs by using mobile devices
-         more
-             details can
-         be found here
-                                   japanese only
-
-
-             the magic projects
-
-     softbank corp and the softbank group company eduas corp
-     which is engaged in the education business have been working
-     with the research center for advanced science and technology at
-     the university of tokyo since 2009 on research into the potential
-                                                                                            the magic projects received an award at the 9th kids design award supported by the
-     of mobile devices as a means for communication and cognition                          ministry of economy trade and industry and the consumer affairs agency
-     the goal is to assist children with special needs in living and learn
-     ing through the use of mobile devices such as mobile phones and                            previous projects
-     tablets mobile devices are lent free of charge for a certain period
-                                                                                               fy2009 akichans magic pocket project
-     to cooperating special support education schools and case stud
-                                                                                               case studies gathered from research on learning and daily
-     ies regarding how they are used in daily life are conducted and                           life assistance using mobile phones
-     published reporting on their use for learning in school and for
-                                                                                               fy2011 akichans magic pen case project
-     communicating with family members outside of school
-                                                                                               case studies gathered primarily from research on classroom
-        over 300 schools have participated in the project to date the
-                                                                                               learning using tablets
-     accumulated case studies are reported at results reporting seminars
-     and published in a collection as part of efforts to remove barriers                       fy2012 magic carpet project
-                                                                                               case studies gathered from research on learning and daily
-     from learning and promote participation in the community
-                                                                                               life assistance using tablets and smartphones
-
-            fy2014                                                                             fy2013 magic lamp project
-            magic project 2014 magic wand                                                    case studies of children using mobile devices not only for
-                                                                                               classroom learning but in any place needed to promote
-            the project name magic wand expresses the hope that
-                                                                                               participation in the community
-            children with special needs will use mobile devices as a power
-            ful tool in their daily lives for a year from april 2014 to the
-            end of march 2015 a total of 164 smartphones and tablets
-            were loaned for free to 79 pairs of preschoolers or students
-            and a teacher at 76 schools for use in educational settings as                    examples of mobile device use
-            well as everyday life the project is now being extended to                       a firstyear elementary school student who lives at a
-            include children in ordinary schools who encounter learning
-                                                                                              facility next to his school due to quadriplegia caused by
-            difficulties due to developmental disabilities this is part of an
-                                                                                              cerebral palsy felt lonely and anxious about living away
-            initiative led by the ministry of education culture sports
-            science and technology to create a society where all can coex                    from his family however using messaging and video
-            ist together by developing an inclusive education system                        chats with a tablet to communicate with his family eased
-                 in a firsttime initiative during this project two teachers                 his loneliness and he began to make fewer negative
-            were accredited as magic teachers the project also focuses                     comments and became motivated in his studies
-            on the development of teachers abilities to understand and
-            effectively use the functions and apps of mobile devices to
-            individually support learning and the lives of children with a
-            wide variety of special needs in order to emphasize these
-            efforts the project accredited two outstanding teachers for the
-            first time as magic teachers and plans to continue to
-            accredit teachers with excellence in teaching
-
-             a system where people with special needs and people without special needs
-              are able to learn together
-
-
-
-
-14   softbank group    csr report 2015
-
-a program for nurturing leaders among young people with special needs
-                                                                           looking ahead we aim to improve the communication abilities of
-            doit japan
-                                                                        participants with special needs or illnesses to remove the barriers that
-since 2007 softbank corp has supported the doit diversity          exist in society and support efforts to realize a diverse society
-opportunities internetworking and technology japan program
-administered by the research center for advanced science and
-technology at the university of tokyo the program is aimed at
-training future leaders for society using computers it devices and
-other aids to help young people with special needs to attend college
-and find employment participants are selected from candidates
-throughout japan
-   since fiscal 2011 as a part of the doit japan program softbank
-corp has run a program using tablets for elementary school children
-with softbank group company eduas corp
-
-
-
-
-children enjoy a dream encounter with professional baseball players
-                softbank hawks baseball kids 2014 in kyushu
-                                                                                                  the fukuoka softbank hawks and the
-                                                                        fukuoka softbank hawks players association held the softbank
-                                                                        hawks baseball kids 2014 in kyushu coaching events with profes
-                                                                        sional players in november 2014 the workshop was held at eight
-                                                                        baseball fields in kyushu for a total of 2000 participants
-                                                                           these coaching events provide children with an opportunity to
-                                                                        meet active fukuoka softbank hawks players and experience the
-                                                                        fun of baseball firsthand they are intended to contribute to sound
-                                                                        education and development of children and to support interest in
-                                                                        local sports at the events participants received baseball instruction
-                                                                        and memorial photographs and lotteries with prizes were held the
-                                                                        events provide children with an opportunity to learn how to enjoy
-                                                                        exercising with their friends through baseball
-
-
-
-
-a publicprivate collaboration project to develop the next generation of global talent
-                                                                                 tobitate japan scholarship program
-softbank group representative masayoshi son went to the us
-when he was 16 years old and felt that experiencing a new culture
-and lifestyle dramatically changed his life the softbank group seeks
-to offer the same experience to students who have dreams and
-aspirations by supporting tobitate japan scholarship program which
-was launched in 2014 as a publicprivate partnership initiative the
-program aims to send around 10000 high school and university
-students abroad as overseas student over seven years through 2020     to act globally and with a global perspective after they return to
-these students will work with sponsoring companies to form a com       japan they are expected to communicate the appeal of their over
-munity of global talent aiming to become human resources who          seas experience to help foster greater interest in overseas study
-can contribute to society and industry and human resources able       throughout japan
-
-
-
-
-                                                                                                                   softbank group   csr report 2015   15
-
-                                                            environment
-
-
-
-
-     aiming to expand renewable
-     energy adoption                                                                        
-                                                                                            more  details can
-                                                                                            be found here
-                                                                                                           japanese only
-
-
-
-
-     sb energy corp aims to promote and drive the adoption of
-     renewable energy such as largescale solar power generation
-     mega solar and wind power generation by using land owned
-     by public bodies and private owners throughout japan to build
-     and operate renewable energy power plants
-          at softbank tottori yonago solar park we carried out a trial
-     using sheep and goats to remove weeds as part of our activities
-     that show consideration for the environment the trial took
-     place in autumn of 2014 and proved effective in removing
-     weeds and attracting visitors there was also a therapeutic effect
-     for local residents and people working at the site in 2015 we                                                                           conducts an environmental education program for elementary
-     started a second trial from april when the weeds began to grow                                                                          schools located near mega solar power plants called the
-     throughout the growing period we will compare against                                                                                    future  energy project the project is designed to provide chil
-     mechanical weed removal in terms of efficacy quality and safety                                                                          dren who will lead in the future with a chance to proactively
-     of the weed removal on target areas as well as the therapeutic                                                                           and creatively think about energy issues sb energy is actively
-     effect and other factors                                                                                                                 promoting renewable energy to realize a society that we can
-          in cooperation with educa  quest inc sb energy                                                                                    proudly pass on to our children
-
-
-
-
-     renewable energy                                               constructing mega solar power plants and wind farms nationwide
-                                                                          starting with the mega solar power plants in kyoto                                                                           operational     softbank mombetsu solar park
-                                                                          and shinto gunma prefecture which went online on                                                                                           output approx 24 mw
-                                                                          july 1 2012 sb energy operates mega solar power
-                                                                          plants in 16 locations throughout japan 19 power                                              scheduled to start operation in fiscal 2015   abira yuhutsu district hokkaido
-                                                                          plants as of july 3 2015 and is taking steps to start                                                                                     output approx 1110 mw
-                                                                          up more moreover the company has installed 29                                                                              operational     softbank shiraoi solar park
-                                                                          wind turbines at its first wind farm wind farm                                                                                              output approx 26 mw
-                                                                          hamada which is scheduled to go online during fiscal
-                                                                          2015 when operational the facility is expected to
-                                                                          have an output of around 480 mw and generate                                                     softbank yaita solar park  operational
-                                                                          around 85 million kwh annually sb energy will                                                    output approx 30 mw unit 1
-                                                                          continue to promote the construction of mega solar                                             		 output approx 16 mw unit 2
-            image of the completed wind farm hamada
-                                                                          power plants and wind farms throughout japan
-                                                                                                                                                                         scheduled to start operation in fiscal 2015   nikko tochigi pref
-                                                                                                                                                                                                                       output approx 24 mw
-                                    operational     softbank toyama fuchu solar park output approx 28 mw
-                                                                                                                                                                                                       operational     softbank shinto solar park
-                                    operational     softbank tottori yonago solar park output approx 429 mw
-                                                                                                                                                                                                                       output approx 24 mw
-      scheduled to start operation in fiscal 2015   hamada shimane pref output approx 480 mw wind farm                                                                           scheduled for construction       kamisu ibaraki pref
-      scheduled to start operation in fiscal 2017   sera sera district hiroshima pref                                                                                                                               output approx 1000 mw
-                                                    output approx 58 mw                                                                                                                              operational     softbank shizuoka aoi solar park
-      scheduled to start operation in fiscal 2015   ube yamaguchi pref                                                                                                                                               output approx 19 mw
-                                                    output approx 24 mw
-                                                                                                                                                                         scheduled to start operation in fiscal 2017   hamamatsu shizuoka pref
-                                    operational     softbank ureshino yoshida solar park                                                                                                                               output approx 434 mw
-                                                    output approx 20 mw
-                                                                                                                                                                            softbank kyoto solar park  operational
-                                    operational     softbank nagasaki koyagi solar park                                                                                     output approx 21 mw unit 1
-                                                    output approx 26 mw                                                                                                		 output approx 21 mw unit 2
-                                    operational     softbank omuta miike port solar park                                                                                                               operational     softbank izumiotsu solar park
-                                                    output approx 196 mw                                                                                                                                             output approx 196 mw
-                                    operational     softbank kumamoto arao solar park                                                                                                 operational softbank takasago solar park
-                                                                                                                               operational softbank tokushima rinku solar park
-                                                    output approx 224 mw                                                                                                                        output approx 29 mw unit 1
-                                                                                                                                           output approx 28 mw
-        scheduled to start operation in 2015        ebino miyazaki pref                                                                                            		 output approx 05 mw unit 2
-                                                    output approx 14 mw
-                                                                                                                               operational softbank tokushima komatsushima solar park
-                                                                                                                                           output approx 28 mw
-      scheduled to start operation in fiscal 2017   yusui aira district kagoshima pref
-                                                    output approx 323 mw                       scheduled to start operation in fiscal 2015   imabari ehime pref output approx 27 mw
-
-
-
-
-16   softbank group                 csr report 2015
-
-   bloom energy servers
-
- fuel cell with the largest output in japan
-    starts operations
-bloom energy japan limited installed japans first bloom energy
-server at mtower in fukuoka fukuoka prefecture where it has                about bloom energy servers
-                                                                              bloom energy servers use solid oxide fuel cell technology to convert fuels
-been operating since november 25 2013 bloom energy servers are              such as city gas or lpg to electricity through a chemical reaction rather than
-clean highly efficient fuel cell power generators for commercial and         combustion they create a clean form of energy with generating efficiencies
-                                                                              of over 60 as a breakthrough distributed energy source that is clean
-industrial applications they use solid oxide fuel cell technology            highly efficient and noncombustion the servers are being progressively
-patented by bloom energy corporation there are four servers                  installed in the us at facilities that require sustained power supply such as
-                                                                              data centers largescale commercial complexes and government offices
-installed in japan as of march 31 2015                                         each bloom energy server provides 200 kw of power they can be
-   on march 9 2015 a bloom energy server was installed at the               installed in varying numbers depending on capacity requirements thanks to
-                                                                              a modular technology that is both flexible and scalable
-osaka prefectural central wholesale market the first installation in          ac net thermal efficiency lhv
-japans kansai region the unit has an output of around 12 mw and
-is the first solid oxide fuel cell in japan to have an output greater      what happens with a focus on refrigeration facilities the highly
-than 10 mw bloom energy japan will contribute to osaka prefec            efficient bloom energy server also helps to reduce the co2 emissions
-tures policy of creating a city that is both disasterready and sustain   of the wholesale market the effects of the current installation will
-able by supplying aroundtheclock power throughout the year to             therefore be publicized as an advanced model case by bloom energy
-critical facilities that require an uninterrupted power supply no matter    japan and osaka prefecture going forward
-                                                                             according to research by bloom energy japan in march 2015
-
- sustainable data centers
-                                                                            significantly increased energy efficiency for air conditioning which
- kitakyushu data center  shirakawa data center                          comprises a major portion of its overall power consumption and
-idc frontier inc builds nextgeneration sustainable data centers          is aiming to achieve a pue of 12 or lower in addition the data
-as well as works on a range of environmental preservation                   center also introduced an energy management system to analyze
-activities such as saving electricity reducing co2 emissions and         energy consumption and verify energy efficiency benefits to
-undertaking new environmental conservation activities                      encourage the continued pursuit of energy savings
-    at the kitakyushu data center asian frontier in kitakyushu            power usage effectiveness
-                                                                              an indicator of data center energy efficiency the pue is calculated by dividing the
-kyushu prefecture idc frontier has adopted greenmall technol               overall power consumption of the data center by the power consumption of its it
- ogies which seek to improve heat circulation efficiency and opti           equipment data centers in japan are typically said to have a pue value of 20 or less
-
- mize air conditioning as a result the center has successfully
- reduced power consumption and co2 emissions
-    in addition at the shirakawa data center in shirakawa
- fukushima prefecture idc frontier has applied the highlevel
- expertise acquired from its experience in operating the kitakyushu
- data center to install a free cooling system that is built into the
- building structure to take in cooler external air to assist with tem
- perature control this system fulfills over 90 of the data centers
-                                                                                                                                            shirakawa data center
- annual air conditioning needs as a result the data center has
-
-
-  mobile phone recycling
-                                                                            devices and other products in fiscal 2014 we were able to recycle
- promoting mobile phone recycling collection activities                  approximately 105 million used mobile phones moreover in addition
-as a part of the mobile recycle network that works to recycle mobile        to recycling mobile phones softbank corp is also offering buybacks
-and phs phones softbank shops at some 2600 locations nationwide           and tradeins customers can learn more at their local softbank shop
-promote the recycling of used mobile and phs phones battery packs
-battery chargers usim cards and other accessories regardless of the        daredemo risaikuji
-                                                                              softbank corp seeks to encourage more people to recycle their mobile and
-original provider or manufacturer the shops work very hard to                phs phones one of its initiatives was daredemo risaikuji a monthly
-protect the personal information of customers who bring in their              drawing of 100 people from among customers who have recycled their
-                                                                              mobile phones at softbank shops with winners receiving a 10000 gift
-phones and accessories so that they can feel confident about recy            card furthermore in october 2014 for a limitedtime daredemo risaikuji
-                                                                              was extended to buybacks of broken devices and tradeins
-cling them the mobile phones themselves are physically destroyed                each time someone enters the drawing softbank corp provides a
-with a punching tool before being recycled                                   donation of 5 to the governmentcertified npo terra renaissance the
-                                                                              donations are used to help support the selfreliance of victims in the ongo
-   disassembly pulverization dissolution and other processes are            ing struggle over conflict minerals in the democratic republic of the congo
-conducted at a recycling facility and precious metals extracted through       a governmentcertified international npo that is actively dealing with issues
-                                                                                such as land mines small arms child soldiers and peace education
-this process are reused as raw materials for components in electronic
-
-
-
-
-                                                                                                                               softbank group     csr report 2015       17
-
-                                   diverse needs
-
-
-
-
-     toward a connected
-     society for all                                                         
-                                                                             more  details can
-                                                                             be found here
-                                                                                        japanese only
-
-
-
-
-     the softbank group is working to bring about an internet society
-     in which anyone can connect anytime and anywherea society
-     that makes individuals lives more convenient fun and enriched
-        the needs of our customers are highly diverse some for
-     example have physical disabilities while others have difficulty
-     using devices due to their advanced age to accommodate such
-     diverse needs the softbank group provides services that address
-     these various challenges to help make mobile phones more
-     convenient for everyone we provide easytounderstand informa
-     tion organized into different categories on our softbank heartful
-     assist portal site
-
-
-
-
-           difficulty                                                                                                                       difficulty in
-                                           difficulty               difficulty with                       physical
-        comprehending                                                                                                                     operating due to
-                                            seeing                  everyday tasks                       disabilities
-        words or sounds                                                                                                                    advancing age
-
-
-
-                                                          game de manaberu shuwa jiten
-
-
-     softbank corp offers an app for learning sign language called           degrees detailed hand movements can be viewed and studied
-     game de manaberu shuwa jiten a sign language dictionary                from various angles there is also a game that allows users to
-     for learning sign language through a game that was devel              enjoy learning sign language while fighting monsters with
-     oped out of a desire to foster a kinder social environment that          magic spells
-     enables barrierfree communication between people with hear                this application became the first sign language app to be
-     ing impairments and people who can hear the app includes                recommended by the tokyo federation of deaf in addition it
-     roughly 3000 signs all presented in 3d animation to show               received the silver award at the iaud awards 2014 sponsored
-     actual signing movements that can also be rotated 360                    by the international association for universal design
-                                                                                                  awarded to groups and individuals that have conducted or
-                                                                                                   proposed particularly noteworthy activities aimed at realizing a
-                                                                                                   universal design society in which everyone can live comfortably
-                                                                                                   without feeling any undue inconvenience
-
-
-
-
-                                                                                                     view video here
-                                                                                                       japanese only              the app can be downloaded here
-
-
-
-
-18   softbank group   csr report 2015
-
-                      simple smartphone  simple smartphone 2                         simple convenient mobile phone usage techniques
-
-
- seniorfriendly smartphones                                         solutions to everyday problems using ideas from everyone
-softbank corp offers simple smartphone and simple smart            softbank corp has created the website simple convenient
-phone 2 for senior customers the phones are designed to be          mobile usage techniques for solutions to everyday problems to
-easily viewed and operated they have largesized screens that       provide support for people with special needs by showing how
-display large buttons and text as well as functionality that makes   mobile devices can be used to solve problems that occur in daily
-it easy to directly call or email frequently used contacts          life the site presents ideas for simple ways of using smartphones
-   simple smartphone 2 released in november 2014 comes             and tablets to solve problems generally encountered by many
-preloaded with popular applications like communications apps         people in their daytoday living
-not supported by the original simple smartphone the new
-phone also has a larger screen highcapacity battery and high
-resolution camera plus it offers better easeofuse
-   the smartphone also has features for travel a beloved pastime
-of many seniors with functions such as travel memories which
-allows the location weather paces walked and other data to be
-imprinted on pictures that are taken with the
-camera while traveling in this way the phone
-offers the kind of
-support that makes
-the lives of active
-seniors richer and
-more convenient
-
-
-
-
-                                          softbank sign language class  sign language counter
-
-
- communication via sign language                                    language counter the counter is attended fulltime by staff
-the softbank group holds the softbank sign language class to         fluent in sign language who can sign with customers about
-promote communication using japanese sign language partici         everything from selecting a mobile phone to how to use it price
-pants learn japanese sign language which is a unique linguistic     plans and signup procedures counter staff can also communi
-system that differs from standard sign language from instructors    cate through writing with customers who do not use sign lan
-whose native language is japanese sign language and who have         guage in addition the sign language support service started
-been trained in the theory and practice of language education       in december 2012 at 17 softbank shops around the country
-over 6600 people have attended the softbank sign language          allows customers to interact with sign language counter staff
-class to date                                                       via a video conferencing system and to receive information in
-   customers with hearing impairments who visit the softbank         sign language
-shop in shibuya can consult with staff with confidence about          total number of participants from april 2004 to march 31 2015
-their mobile phones or signup procedures at the shops sign
-
-
-
-
-                                                                                                                    softbank group      csr report 2015   19
-
-                       always striving for safety and security
-
-
-
-
-     yahoo anshinnet for softbank                                                                                             
-                                                                                                                                more  details can
-                                                                                                                                be found here
-                                                                                                                                           japanese only
-
-
-
-
-     recently it has become increasingly common for children and
-     young people to own smartphones creating a need for systems
-     that allow children to use the internet safely and securely
-        softbank corp and yahoo japan have teamed up to develop
-     yahoo anshinnet for softbank a filtering app for smartphones
-     and tablets this filtering app makes it possible to block access to
-     inappropriate sites and sites that charge usage fees
-        the app has settings that can be adjusted to the childs stage
-     of maturity from elementary school to high school age to help
-     ensure that the internet is being used safely and securely
-        a new feature called internet safety quiz developed by soft
-     bank corp was added to the app starting february 14 2014
-     children respond to quizlike questions to deepen their knowl
-     edge of safe internet use and related risks parents guardians
-     and instructors can then implement measures in line with the
-     childs experience and knowledge based on advice generated by
-     the quiz results
-
-
-
-
-      view video here                                                                                                     the name of the app for
-        japanese only                                                                                                       ipad is yahoo anshinnet
-                                                                                                                              hd for softbank
-      the app can be                                                                                                       the name of the app for
-        downloaded here                                                                                                      android is yahoo
-                                                                                                                              anshinnet
-
-
-
-
-                                                                     in fiscal 2014 the kobe board of education began conducting inter
-      program at kobe public elementary schools
-                                                                     net safety classes to teach proper use of the internet and information
-                                                                     ethics to uppergrade elementary school students in cooperation with
-                                                                     the university of hyogo and the npo association of corporation and
-                                                                     education the softbank group is making use of its internet safety
-                                                                     quiz to measure the effectiveness of the program for raising aware
-                                                                     ness as well as increasing the level of internet comprehension of chil
-                                                                     dren in order to make the programs progress visible and facilitate
-                                                                     further improvement
-                                                                            the test results showed relatively low scores for appropriate secu
-                                                                     rity measures handling of ecommerce and privacy protection
-                                                                     these results were presented as feedback to the board of education
-                                                                     schools and families the results are now being used in school curric
-                                                                     ulums for creating rules at home and in initiatives to further raise the
-                                                                     information literacy of each child
-
-
-
-
-20   softbank group    csr report 2015
-
-                               others
-
-
-
-
-using police information to prevent unwanted calls
-   unwanted call checker
-
-unwanted call checker wx07a automatically alerts the user with
-lights and sounds when an incoming call is likely to be an
-unwanted or nuisance call such as a call made to perpetrate
-banking fraud or to solicit sales with undue persistence the
-product is easy to install and operate on fixedline home phones
-and is expected to function as an effective measure against the                   if a call comes in from a number
-                                                                                  registered on the unwanted call list
-                                                                                                                                                                  management server
-                                                                                                                                                                  provided by tobila systems inc
-increasing trend of unwanted calls                                                                       notice of unwanted                                      list of unwanted phone
-                                                                                   the call               or nuisance call via a                                  numbers automatically
-    information on phone numbers from which unwanted or                            never                     warning light or                                     updated
-                                                                                   connects                  announcement
-nuisance calls originate is shared with all users and information
-on such numbers is provided by 30 prefectural police departments
-                                                                                                call placed
-that have partnered with us the product is therefore able to                                                              blocked                          information on calls turned down
-                                                                                                                                                            by other users is also shared
-determine whether a call is an unwanted call even if the user is
-receiving the call for the first time over 26000 phone numbers                                                                                                     potentially
-                                                                                    blue                             yellow                                red      unwanted call
-associated with unwanted and nuisance calls have been registered
-as of december 2014 in testing over the course of a month
-over 800 calls were blocked from numbers potentially used for                         number labeled as                 number labeled as flagged         number registered on the
-                                                                                      permitted incoming call         though not registered on the        unwanted call list as an
-criminal purposes mobile unwanted call checker has also been                                                           unwanted call list for example    unwanted call for example
-
-made available since november 2014 for ymobile phones
-
-
-
-
-social contribution business idea contest
-                                                                                                      the softbank group has been holding an inhouse
- examples of services originating from employee ideas
-                                                                                                      contest to solicit employees business ideas for
-                       softbank simple donation
-    a service that allows donations to be made from a mobile phone in an
-      september 2012                                                                                  solving social issues since 2012 aiming to identify
-      amount designated by the user the first service of its kind in japans                        pioneering ideas that meet societys needs and to
-      mobile phone industry
-                                                                                                      provide employees with opportunities to build
-    amarch 2013 tabibari furatto iseshima                                                           awareness and exchange opinions on societal
-       service added on to the furatto annai gpsenabled information distribu
-      tion app to provide barrierfree tourism information to make sightseeing                        needs outstanding ideas are selected for future
-      more enjoyable for people with special needs
-                                                                                                      implementation
-                   organization of elderly staffs senior crew
-    smartphone classes for seniors taught by the senior crews
-      may 2013                                                                                                held for the fourth time in april 2015 a total of
-                                                                                                      approximately 1700 ideas have been received to
-                                                      source japan fundraising association
-                                                                                                      date with eight ideas commercialized to help solve
-                                                                                                      social issues
-
-
-
-
-charity mobile phones free mobile device rentals for reconstruction events
-four years have passed since the great east japan earthquake                    and devices can be used at events that are spread out geographi
-and many organizations involved in the reconstruction face the                  cally such as marathons and bicycle races
-problem of decreasing donations softbank corp has started a                        by increasing the number of charity events that utilize the
-program called charity mobile phones for tohokuwiden the                      program we hope to provide continuing support for the region
-circle of support for the reconstruction which provides free                  and its support organizations and to help solve some of the
-mobile device rentals to organizers of events that contribute                   issues they face
-donations to reconstruction support organizations these phones
-
-
-
-
-                                                                                                                                                   softbank group         csr report 2015              21
-
-                                        global
-
-
-
-
-     a leader in accessibility
-     sprint launched a mobile phone in 2013 that is highly accessible
-     for customers with visual impairments the first such phone made
-     available everywhere in the us the phone is a compact easyto
-     use flip phone with texttospeech functionality a highcontrast
-     display and a tactile keypad
-         sprint also began sales of smartphones preloaded with
-     accessible now the companys proprietary startup wizard
-     accessible now enables blind or visually impaired users to con
-     duct initial settings immediately after purchase using google
-     talkback a support application from google for people with
-     visual disabilities so even with a visual impairment users can
-     begin operating their mobile phones themselves immediately
-     after purchase making them much easier to use
-         sprint intends to continue supplying functional mobile devices
-     through close coordination with its partner manufacturers
-
-                google talkback is a trademark or registered trademark of google inc
-
-
-
-
-     a forerunner in mobile phone recycling
-     in 2001 sprint launched a buyback program for wireless devices                      also been able to reduce
-     ahead of its competitors in the us and in 2010 it began offer                   costs by over us10
-     ing to buyback the wireless devices of other companies as well                      billion
-     sprint has been selected by compass intelligence a market intel
-     ligence and consulting firm as the most ecofocused carrier
-     for four years running thanks to its proactive wireless device
-     recycling initiatives and the simplicity of the recycling application
-     process which can be conducted online or at stores
-         in 2014 sprint bought back over 30 million wireless devices
-     the amount returned to customers through the program totaled
-     over 250 million over 90 of the devices collected were
-     reused and the remaining 10 or so were disassembled and
-     melted down to be recycled into materials that are then used in
-     jewelry batteries automobile parts and other products the
-     buyback program is not only a plus for customers as sprint has
-
-
-
-
-22   softbank group   csr report 2015
-
-contest for repurposing old smartphones
-according to estimates from the united states environmental
-protection agency 135 million mobile phones are disposed of
-each year and only 11 of them are recycled electronic waste
-has become a serious environmental issue
-   sprint teamed up with brightstar corp and hobi interna
-tional inc to conduct the smartphone encore challenge a con
-test that challenges college and graduate students to propose
-ideas for repurposing smartphones and their components used
-devices in good condition are still capable of importing process
-ing saving and transferring data and parts like acceleration
-sensors gyroscopes gps cameras and screen displays can also
-be reused the contest had students formulate product concepts
-and sales strategies and also produce a short video using refur
-bished smartphones and accessories provided by sprint and
-brightstar corp
-   through the contest sprint is considering potential new ways
-to address the problem of electronic waste
-
-
-
-
-foundation created to support young entrepreneurs in hong kong
-                                                                     alibaba has established the npo alibaba hong kong young
-                                                                     entrepreneurs foundation to support young peoples career
-                                                                     development and entrepreneurship in hong kong the founda
-                                                                     tion will provide young entrepreneurs in hong kong with equity
-                                                                     technologies and specialized knowledge to allow them to use
-                                                                     marketplaces and platforms within alibabas system to start busi
-                                                                     nesses and provide products and services to mainland china from
-                                                                     hong kong the foundation will maintain funding by investing in
-                                                                     businesses started by young entrepreneurs and reinvesting the
-                                                                     proceeds from them this venture investment program is sched
-                                                                     uled to be launched in the second half of 2015
-
-
-
-
-                                                                                                           softbank group   csr report 2015   23
-
-     softbank group csr activities                                                                                              rating
-                                                                                                                                a  achieved an effect that exceeded the target
-     results of fy2014 and plan for fy2015                                                                                     a  achieved the intended effect of the initiative
-                                                                                                                                b  initiative was carried out but the targeted effect was
-                                                                                                                                     not achieved
-         gri guidelines comparison table                                                                                      c  initiative achieved no effect or was not carried out
-
-
-
-           items                                         fy2014 results                                       rating                                 plan for fy2015
-
-     general management
-     csr principles       disclosed the softbank group csr principles as the csr policy for the group                further entrench the softbank group csr principles as the csr policy for
-                                                                                                                a      the group
-     process and      appointed a softbank corp director as the softbank group chief csr officer                    continue csr officer system
-     structure of the   and directors of key companies within the group as csr officers                                share and exchange information in the semiannual softbank group csr
-     decisionmaking shared and exchanged information in the semiannual softbank group csr
-                                                                                                                a        working group
-     system             working group
-     identifying key      released achievements and targets for the following key areas of csr iso                    release achievements and targets for the following key areas of csr iso
-     areas of csr         26000 ratified                                                                              26000 ratified
-                          1 building a healthy internet society                                                      1 building a healthy internet society
-                          2 cultivating a next generation that has dreams and aspirations                     a      2 cultivating a next generation that has dreams and aspirations
-                          3 protecting the planets future through environmental protection                          3 protecting the planets future through environmental protection
-                          4 supporting the reconstruction of areas affected by the great east japan                4 supporting the reconstruction of areas affected by the great east japan
-                              earthquake                                                                                   earthquake
-     corporate            conducted verification and assessment of the internal control system by                      conduct verification and assessment of the internal control system by
-     governance           internal and external audit divisions
-                                                                                                                a      internal and external audit divisions
-
-     relations with employees
-     employment           conducted fair evaluations of personnel according to role results and ability            conduct fair evaluations of personnel according to role results and ability
-                          hired and promoted talented personnel based on ability regardless of                      hire and promote talented personnel based on ability regardless of
-                            gender age educational background nationality etc                                       gender age educational background nationality etc
-                          implemented annual es survey and promoted subsequent improvements                          implement annual es survey and promote subsequent improvements
-                          implemented a robust childcare program                                              a      implement a robust childcare program
-                          promoted hiring of personnel with special needs                                            promote hiring of personnel with special needs
-                                                                                                                       take measures for the tokyo metropolitan area working conditions improve
-                           yahoo japan
-                                                                                                                         ment project
-                          implemented the job challenge internal transfer system twice a year
-     working              continued various programs to encourage a favorable worklife balance                      continue various programs to encourage a favorable worklife balance
-     conditions and         promoted noovertime days for each division each company                                  promote noovertime days for each division each company
-     social security        used flextime working hours                                                                use flextime working hours
-                            encouraged employees to take various vacation programs                                     encourage employees to take various vacation programs
-                          took measures to prevent overwork                                                          take measures to prevent overwork
-                          maintained a system for safety confirmation in times of disaster                    a      maintain a system for safety confirmation in times of disaster
-                          held fy14 family dayfamily ties                                                         hold fy15 family dayfamily ties
-                          yahoo japan                                                                                   yahoo japan
-                          implemented a sabbatical system                                                            implement sabbatical system
-                          held family day                                                                            hold family day
-                          established base6 staff cafeteria linked to business performance                           operate base6 staff cafeteria linked to business performance
-
-     compliance           maintained the compliance hotline internal reporting system                              maintain the compliance hotline internal reporting system
-                          conducted compliance training including elearning                                       conduct compliance training including elearning
-                          implemented groupwide selfchecking for compliance                                 a      implement groupwide selfchecking for compliance
-                          held compliancemonth to promote the awareness of compliance in the                        hold compliancemonth to promote the awareness of compliance in the
-                            autumn period                                                                                autumn period
-     safety and           created a sound work environment and continued management of safety                          maintain a sound work environment and continue management of safety
-     health               and health                                                                                   and health
-                          maintained a wellness center to provide support for emotional and physical                 maintain a wellness center to provide support for emotional and physical
-                            wellbeing                                                                                   wellbeing
-                          developed a new stress check system available on mobile devices and                        use the stress check system available on mobile devices and implement it for
-                            implemented it for group employees                                                           group employees
-                          maintained a safety and health hotline                                                     maintain a safety and health hotline
-                          maintained a communication flow for times of emergency                              a      maintain a communication flow for times of emergency
-                          continued measures for mental illness prevention and care for mental health                continue measures for mental illness prevention and care for mental health
-                          set up a massage room                                                                      maintain a massage room
-                          established a peer supporter system to provide counseling in the workplace                 maintain a peer supporter system to provide counseling in the workplace
-                           sb atwork                                                                                    sb atwork
-                          raised awareness of the need to quit smoking lungage check in the staff                  raise awareness of the need to quit smoking lungage check in the staff
-                            cafeteria                                                                                   cafeteria
-                          held an emergency firstaid course                                                         hold an emergency firstaid course
-
-     hr                   held ceos own program for training a successor softbank academia                        hold ceos own program for training a successor softbank academia
-     development          offered a rich variety of training programs that employees can choose from                 offer a rich variety of training programs that employees can choose from
-     and education          softbank university                                                                        softbank university
-                          maintained systems for widely soliciting ideas from employees softbank                    maintain systems for widely soliciting ideas from employees softbank
-                            innoventure business ideas that contribute to society contest                              innoventure business ideas that contribute to society contest
-                          promoted action to enhance english skills across the group                                 promote action to enhance english skills across the group
-                          conducted an incentive program according to toeic scores                            a      conduct an incentive program according to toeic scores
-                          conducted a program to support employees acquiring qualifications                          conduct a program to support employees acquiring qualifications
-                          conducted a wisdom and knowledgesharing program between employees                        conduct a wisdom and knowledgesharing program between employees
-                            knowledge market                                                                           knowledge market
-                          maintained a system for providing training where employees serve as                        maintain a system for providing training where employees serve as
-                            internally certified instructors                                                             internally certified instructors
-
-
-
-
-24   softbank group    csr report 2015
-
-      items                                            fy2014 results                                             rating                                  plan for fy2015
-
-environment
-environmental         maintained iso 14001 standard certification headquarters sapporo                                  maintain iso 14001 standard certification headquarters sapporo
-management
-                                                                                                                    a
-
-amount of             set environmental goals at offices                                                                   set environmental goals at offices
-resources used        achieved lower power consumption compared to 2010 283 headquar                               achieve lower power consumption compared to 2010 25 headquarters
-                        ters 284 sapporo                                                                              25 sapporo
-                       itmedia                                                                                              itmedia
-                      operated smart japan problemsolving site for companies engaged in                         a      operate smart japan problemsolving site for companies engaged in
-                        powersaving powerstorage powergeneration initiatives                                           powersaving powerstorage powergeneration initiatives
-                       softbank technology                                                                                  softbank technology
-                      introduced a facility management system to enable visualization and centralized manage              implement a facility management system to enable visualization and centralized manage
-                      ment of electricity usage and implemented measures to reduce energy consumption                     ment of electricity usage and implement measures to reduce energy consumption
-environmental         continued to conduct environmental conservation activities                                           continue to conduct environmental conservation activities
-protection            ensured thorough compliance with paperless operations                                              ensure thorough compliance with paperless operations
-                      installed bloom energy server tokyo shiodome building                                            ensure thorough compliance with green procurement guidelines
-                      ensured thorough compliance with green procurement guidelines                                      implement all lightsoff system
-                      implemented all lightsoff system
-                                                                                                                   a       sb energy
-                       sb energy                                                                                           promote renewable energy
-                      promoted renewable energy                                                                            implement weed control using sheep and goats at softbank tottori yonago solar park
-                       valuecommerce                                                                                        valuecommerce
-                      carried out support activities as a sponsor of akagi nature park                                     carry out support activities as a sponsor of akagi nature park
-recycling of          collected roughly 1050000 used mobile phones for recycling                                       collect used mobile phones for recycling
-resources             separated trash                                                                             a      separate trash
-                      used dedicated recycling boxes for used documents                                                  use dedicated recycling boxes for used documents
-
-educating and          implemented elearning about the appropriate processing of industrial waste and                    implement elearning about the appropriate processing of industrial waste and
-awareness               electronic manifest system to increase knowledge of relevant laws and processes            a         electronic manifest system to increase knowledge of relevant laws and processes
-raising                raised awareness and increased knowledge about disposal of used mobile phones                     raise awareness and increase knowledge about disposal of used mobile phones
-
-                       itmedia                                                                                              itmedia
-                      offered powersaving information on smart japan website                                            offer powersaving information on smart japan website
-                       sb energy                                                                                            sb energy
-                      conducted renewable energy and environmental education                                      a      conduct renewable energy and environmental education
-                      implemented future energy project at three schools and opened the tottori                         implement future energy project at three schools and continue operation of
-                        nature and environment center                                                                        the tottori nature and environment center
-                      opened educational website mirumiru wakaru energy                                                 continue operation of educational website mirumiru wakaru energy
-                        httpwwwsbenergyjp japanese only                                                            httpwwwsbenergyjp japanese only
-
-relations with business partners
-fair competition held reverse auctions electronic auctions                                                             hold reverse auctions electronic auctions
-                 ensured thorough adherence to code of ethical purchasing                                         a      ensure thorough adherence to code of ethical purchasing
-                 maintained fair and cordial trading relationships with business partners                                maintain fair and cordial trading relationships with business partners
-
-relations with customers
-protection of         promoted the series of information literacy education programs lets think                       promote the series of information literacy education programs lets think
-consumers               about mobile phones                                                                                about mobile phones
-safety                provided filtering service applicable to smartphones                                               provide filtering service applicable to smartphones
-                       increased awareness of mobile phone etiquette including smartphone operation                     increase awareness of mobile phone etiquette including smartphone operation
-                         while walking and points to consider when using mobile phone in public places                       while walking and points to consider when using mobile phone in public places
-                      provided an app to prevent smartphone operation while walking stop                                provide an app to prevent smartphone operation while walking stop
-                         texting while walking                                                                      a        texting while walking
-                       yahoo japan                                                                                          yahoo japan
-                      provided phishing alert and security measures                                                      provide phishing alert and security measures
-                      implemented antifraud measures at yahuoku                                                         implement antifraud measures on yakuoku
-                      participated and offered advice in public meetings pertaining to the internet                      participate and offer advice in public meetings pertaining to the internet
-                        and advocacy activity                                                                                and advocacy activity
-consumer               softbank mobile currently softbank corp                                                           softbank corp
-support and           continued to implement various measures to increase customer satisfaction                          continue to implement various measures to increase customer satisfaction
-complaint               conducted questionnaire surveys for call center users and customers                                conduct questionnaire surveys for call center users and customers
-settlement                 visiting stores and utilized the results                                                             visiting stores and utilize the results
-                        maintained professional staff certification program                                                maintain professional staff certification program
-                        enhanced my softbank                                                                               improve my softbank
-                      promoted it support for people with special needs                                                  promote it support for people with special needs
-                        conducted a study on it support for life and learning for children with special needs              conduct a study on it support for life and learning for children with special
-                      strengthened and promoted support for people with special needs                                         needs
-                      provided ict support for senior customers                                                          strengthen and promote support for the people with special needs
-                        provided simple smartphone lectures                                                              provide ict support for senior customers
-                      provided softbank sign language class                                                       a
-                                                                                                                             provide simple smartphone lectures
-                                                                                                                           provide softbank sign language class
-                       ymobile currently softbank corp
-                                                                                                                           provide unwanted call checker
-                      provided unwanted call checker
-                                                                                                                            yahoo japan
-                       yahoo japan
-                                                                                                                           provide disaster information
-                      provided disaster information
-                                                                                                                           enhance chatbased support
-                      brought customer support functions inhouse and established a system for
-                                                                                                                           strengthen service safety and security
-                        reflecting customer needs in services                                                              enhance help page content
-                      commenced chatbased support
-                                                                                                                           conduct patrolling for all webbased services
-                      enhanced help page content
-                      conducted patrolling for all webbased services
-
-
-
-
-                                                                                                                                                                      softbank group        csr report 2015         25
-
-           items                                       fy2014 results                                      rating                                plan for fy2015
-
-     relations with customers
-     consumer data       acquired and maintained information security standard certification                      acquire and maintain information security standard certification
-     protection and        continuous maintenance of acquired iso 27001 certification                                continuous maintenance of acquired iso 27001 certification
-     privacy              sb atwork                                                                                  sb atwork
-                         acquired and maintained information security standard certification iso                 acquire and maintain information security standard certification iso 90001
-                           90001 privacymark                                                                        privacymark
-                                                                                                                    acquire additional certification iso 27001 iso 20000
-                          realize mobile communications sb human capital
-                         managed privacymark jisq 150012006                                                     realize mobile communications sb human capital
-                                                                                                             a      manage privacymark jisq 150012006
-                          valuecommerce
-                         managed information security standard certification privacymark truste                 valuecommerce
-                                                                                                                    manage information security standard certification privacymark truste
-                         yahoo japan
-                         acquired isms certification                                                               yahoo japan
-                         acquired iso 15408 certification                                                         acquire isms certification
-                         acquired pdicss certification                                                            acquire iso 15408 certification
-                                                                                                                    acquire pdicss certification
-
-     educating and       provided all employees with information security education and elearning                provide all employees with information security education and elearning
-     awareness            periodically released security newsletters                                      a        periodically release security newsletters
-     raising
-     risk                conducted disaster readiness drills                                                      conduct disaster readiness drills
-     management          conducted disaster readiness elearning                                                  conduct disaster readiness elearning
-                         expanded and promoted the groupwide risk management system                      a      expand and promote the groupwide risk management system
-                         verified disaster readiness measures and reinforced operations                           verify disaster readiness measures and reinforce operations
-
-     access to           reinforced network centers ensured 24hour operation of base stations                   reinforce network centers ensure 24hour operation of base stations
-     essential             in a disaster through batteries and generators disaster countermeasures                  in a disaster through batteries and generators disaster countermeasures
-     services            implemented bcp measures                                                                 implement bcp measures
-                           carried out nationwide deployment of mobile base stations portable                      carry out nationwide deployment of mobile base stations portable
-                              wireless base stations power supply vehicles portable generators and                    wireless base stations power supply vehicles portable generators and
-                              mobile phonessatellite phones for lending and so forth                                    mobile phonessatellite phones for lending and so forth
-                           increased satellite mobile phones                                               a
-                                                                                                                     yahoo japan
-                          yahoo japan                                                                               reestablish systems for use during disasters
-                         established systems for use during disasters                                             revise emergency disaster response guidelines
-                         established emergency disaster response guidelines in 2009                               revise service priorities during disasters
-                                                                                                                    conduct disaster preparedness drills
-                                                                                                                    introduce incident command system ics
-
-     involvement in the community
-     involvement in       softbank mobile currently softbank corp                                                 softbank corp
-     community           expanded use of the donation platform available for many npos                              expand use of the donation platform available for many npos
-     activities          kazashitebokin                                                                           kazashitebokin
-                          yahoo japan                                                                                yahoo japan
-                         accepted students for company tours as part of their social studies                      accept students for company tours as part of their social studies
-                         held study group activities in collaboration with parents and guardians                  hold study group activities in collaboration with parents and guardians
-                           and schools                                                                                and schools
-                         held special lessons for elementary junior high school and high school                 hold special lessons for elementary junior high school and high school
-                           students                                                                                   students
-                         softbank payment service                                                                    softbank payment service
-                         donated philanthropy seats to the fukuoka and saga prefectural councils of               donate philanthropy seats to the fukuoka and saga prefectural councils of
-                           social welfare                                                                             social welfare
-                          cyber university                                                                           sb human capital
-                         established corporate scholarship program                                                provide support for second careers for professional athletes
-                          sb creative                                                                                cyber university
-                         donated books to the japan science society approximately 6000 books in                 continue corporate scholarship program
-                           september 2014 and march 2015                                                           hold free cyber university it and business seminars in fukuoka
-                         sb human capital                                                                            fukuoka softbank hawks
-                         provided support for second careers for professional athletes                     a      visit fukuoka childrens hospital
-                                                                                                                    invite elementary school children to watch baseball games and offer
-                          fukuoka softbank hawks
-                         visited fukuoka childrens hospital                                                        special programs for parents and guardians facilitated parentchild commu
-                         invited elementary school children to watch baseball games and offered                     nication through baseball
-                                                                                                                    participate in fukuoka city tokimeki project supporting sales of artwork by
-                           special programs for parents and guardians facilitated parentchild commu
-                                                                                                                      people with special needs
-                           nication through baseball
-                         participated in fukuoka city tokimeki project supporting sales of artwork by
-                           people with special needs
-     involvement in       ymobile currently softbank corp                                                         softbank corp
-     the community       sponsored special olympics nippon                                                        sponsor special olympics nippon
-                          sb energy                                                                                  sb energy
-                         held explanation meetings with local residents regarding construction of                   hold explanation meetings with local residents regarding construction of
-                         power plant                                                                                power plant
-                          yahoo japan                                                                                yahoo japan
-                         participated in localgovernment organized events and meetings                           participate in localgovernment organized events and meetings
-                         opened up the yahoo ishinomaki fukko base to local communities                           open up the yahoo ishinomaki fukko base to local communities
-                         participated in governmentoffice and localgovernment organized events                  participate governmentoffice and localgovernment organized events
-                           and meetings                                                                               and meetings
-                         sponsored special olympics nippon                                                        sponsor special olympics nippon
-
-
-
-
-26   softbank group   csr report 2015
-
-       items                                          fy2014 results                                   rating                                 plan for fy2015
-
- support for reconstruction efforts in disaster affected areas
- great east japan softbank mobile softbank bb currently softbank corp                                        softbank corp
- earthquake       increased subscribers for charity white a circle of support that takes monthly             increase subscribers in charity white a circle of support that takes monthly
-                    donations from mobile charges                                                                 donations from mobile charges
-                                                                                                                continue to support the economic revitalization of the affected areas
-                       softbank mobile currently softbank corp
-                       supported the economic revitalization of the affected areas                              continue to provide gift tickets for reconstruction
-                         offered support for smartphone apps skills development and employment                 yahoo japan
-                           creation                                                                             hold the tour de tohoku cycling event to support reconstruction after the
-                         provided gift tickets for reconstruction                                               great east japan earthquake and preserve the memory of the disaster for
-                       yahoo japan                                                                                the future
-                                                                                                                operate fukko department selling specialties from the tohoku region
-                       held the tour de tohoku cycling event to support reconstruction after the
-                                                                                                                  online
-                         great east japan earthquake and preserve the memory of the disaster for                provide ongoing internetbased support for the affected areas
-                         the future
-                       operated fukko department selling specialties from the tohoku region                    vector
-                         online                                                                                 continue fund raising through the alpaca leaf project
-                       provided ongoing internetbased support for the affected areas
-                                                                                                                 odds park
-                       conducted the search for 311 project
-                                                                                                                make a donation to the great east japan earthquake recovery initiatives
-                        vector                                                                                    foundation
-                       continued fund raising through the alpaca leaf project
-                                                                                                                 valuecommerce
-                        odds park                                                                               support the activities of web bellmark by providing it with an affiliate
-                       made a donation to the great east japan earthquake recovery initiatives                  program
-                         foundation                                                                              sb atwork
-                        valuecommerce                                                                           extend the scope for providing a framework and system for employees to
-                       supported the activities of web bellmark by providing it with an affiliate     a        donate directly from their salaries
-                         program
-                        sb atwork
-                       extended the scope for providing a framework and system for donations by
-                         deduction from employees salaries
-                       used the services of bookoff corporation limited to donate sales
-                         payments for unwanted books to the red feather campaign
-                        sb creative
-                       made a donation to the great east japan earthquake recovery initiatives
-                       foundation april 2014 1 million
-                        softbank corp currently softbank group corp                                          softbank group corp
-                       conducted the 3rd tomodachi softbank leadership program inviting 100                   conduct the 4th tomodachi softbank leadership program
-                         high school students from areas affected by the great east japan earthquake             sb human capital
-                       sb human capital                                                                         provide a job information website
-                       provided a job information website
-                                                                                                                 fukuoka softbank hawks
-                        fukuoka softbank hawks                                                                  carry a banner on the official fukuoka softbank hawks website linking to
-                       carried a banner on the official fukuoka softbank hawks website linking to               the special website ganbaro nippon for supporting reconstruction of
-                         the special website ganbaro nippon for supporting reconstruction of                   areas affected by the great east japan earthquake
-                         areas affected by the great east japan earthquake                                      maintain donation boxes in every baseball stadium
-                       set up donation boxes in every baseball stadium                                        display the ganbaro nippon slogan for supporting reconstruction on
-                       displayed the ganbaro nippon slogan for supporting reconstruction on                  team helmets
-                         team helmets
-
- unless a company name is provided the activities have been or will be conducted by softbank group corp and other group companies
- on april 1 2015 softbank bb softbank telecom and ymobile merged into softbank mobile on july 1 2015 softbank mobile changed its company name to softbank corp
-  and softbank corp changed its company name to softbank group corp
-
-
-
-
-                                                                                                                                                         softbank group       csr report 2015     27
-
-softbank group corp
-191 higashishimbashi minatoku tokyo 1057303
-tel 81368892000
-httpwwwsoftbankjpen
-
-
-copyright  2015 softbank group corp all rights reserved                                                                                                                                                                              october 2015
-
- tm and  2015 apple inc all rights reserved apple iphone and ipad are trademarks of apple inc registered in the us and other countries the trademark iphone is used with a license from aiphone kk app store is a service mark of apple inc
- google google apps for business google play the google play logo and android are trademarks or registered trademarks of google inc

@@ -1,1 +1,4 @@
-BASE_DIRECTORY = "csr_data"
+ASSET_ROOT = "assets"
+CSR_REPORT_DIRECTORY = f"{ASSET_ROOT}/csr_data"
+CSR_REPORT_ATTRIBUTE_DIRECTORY = f"{ASSET_ROOT}/csr_report_attribue"
+REPORT_OUTPUT_DIRECTORY = f"{ASSET_ROOT}/report_outputs"
